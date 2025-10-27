@@ -1663,3 +1663,590 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.27-18.24.46:287][229]AssetCheck: /Game/Levels/StartMenuLevel Validating asset
 [2025.10.27-18.24.46:287][229]AssetCheck: /Game/Levels/GameModes/GM_StartMenuLevel Validating asset
 [2025.10.27-18.24.46:299][230]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.27-18.25.50:106][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.27-18.26.10:368][  1]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.26.10:391][  1]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.27-18.26.10:392][  1]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.27-18.26.10:392][  1]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.27-18.26.10:392][  1]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.27-18.26.10:393][  1]LogWorldPartition: Display: WorldPartition initialize took 1.452 ms (total: 97.461 ms)
+[2025.10.27-18.26.10:396][  1]LogContentBrowser: Deferred new asset file creation: Lvl_ThirdPerson1
+[2025.10.27-18.26.10:465][  1]LogContentBrowser: Creating deferred item: Lvl_ThirdPerson1
+[2025.10.27-18.26.10:476][  2]LogContentBrowser: Renaming the item being created (Deferred Item: Lvl_ThirdPerson1).
+[2025.10.27-18.26.13:881][406]LogContentBrowser: Attempting asset rename: Lvl_ThirdPerson1 -> L_LevelOne
+[2025.10.27-18.26.13:892][406]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.10.27-18.26.13:893][406]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.27-18.26.13:893][406]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.27-18.26.13:893][406]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/L_LevelOne.L_LevelOne, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.27-18.26.13:893][406]LogWorldPartition: Display: WorldPartition initialize took 192 us (total: 97.653 ms)
+[2025.10.27-18.26.13:896][406]LogContentBrowser: End creating deferred item Lvl_ThirdPerson1
+[2025.10.27-18.26.18:798][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.26.19:878][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.27-18.26.19:903][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.27-18.26.19:926][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.27-18.26.19:929][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_LevelOne" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/L_LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-18.26.19:954][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.27-18.26.19:965][895]LogSavePackage: Moving output files for package: /Game/L_LevelOne
+[2025.10.27-18.26.19:965][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/L_LevelOne200376194482246671EF97B3231D27D8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/L_LevelOne.umap'
+[2025.10.27-18.26.19:970][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.26.19:977][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/A/VY/H0TYJY8JBMV4XC0BNBGV6J
+[2025.10.27-18.26.19:977][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/H0TYJY8JBMV4XC0BNBGV6J89BAEA6E4AE8E721631B1DB54A2BA429.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/A/VY/H0TYJY8JBMV4XC0BNBGV6J.uasset'
+[2025.10.27-18.26.19:984][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/E/GE/0QLJAZHXHLLGHF5TCGWL2J
+[2025.10.27-18.26.19:984][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/0QLJAZHXHLLGHF5TCGWL2J22AC8AA744629C85D6F116943BA64676.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/E/GE/0QLJAZHXHLLGHF5TCGWL2J.uasset'
+[2025.10.27-18.26.19:991][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/1/0L/V6I0SHAVRLLHOCNE76ZT23
+[2025.10.27-18.26.19:991][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/V6I0SHAVRLLHOCNE76ZT2302269A8646D1A5F7FBA3A68F49AF088D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/1/0L/V6I0SHAVRLLHOCNE76ZT23.uasset'
+[2025.10.27-18.26.19:999][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/8/D7/EI8QSK1B8IDSMAFRIZ6JIL
+[2025.10.27-18.26.19:999][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/EI8QSK1B8IDSMAFRIZ6JIL4BE6222841E125AB1F07EF86907DED10.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/8/D7/EI8QSK1B8IDSMAFRIZ6JIL.uasset'
+[2025.10.27-18.26.20:006][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/E/T2/WE5PLVNFM90IQGYIFYRGBI
+[2025.10.27-18.26.20:006][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WE5PLVNFM90IQGYIFYRGBI6A1C7DB642206251AC2B54888308DB8F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/E/T2/WE5PLVNFM90IQGYIFYRGBI.uasset'
+[2025.10.27-18.26.20:014][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/2/MI/T3QZMB72TJ8YK2NELUJ6K2
+[2025.10.27-18.26.20:014][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/T3QZMB72TJ8YK2NELUJ6K2007F47EE4FC71FB6F7BA1BA63023676E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/2/MI/T3QZMB72TJ8YK2NELUJ6K2.uasset'
+[2025.10.27-18.26.20:021][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/3/CT/56JIOGNZNFEKMGXTQGN0XN
+[2025.10.27-18.26.20:021][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/56JIOGNZNFEKMGXTQGN0XNBE9045034FE603D3C4530FACBDC858B7.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/3/CT/56JIOGNZNFEKMGXTQGN0XN.uasset'
+[2025.10.27-18.26.20:027][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/1/24/KBAZEGPFZ5BABJQY5YCCVV
+[2025.10.27-18.26.20:027][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/KBAZEGPFZ5BABJQY5YCCVV21077C5040D1B5D81EC695813D18C00B.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/1/24/KBAZEGPFZ5BABJQY5YCCVV.uasset'
+[2025.10.27-18.26.20:034][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/C/5L/J1HGGOK3M6X1YPQ9V7ORHT
+[2025.10.27-18.26.20:034][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/J1HGGOK3M6X1YPQ9V7ORHT536F2818454976F0CA5CD3AACACFCF1B.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/C/5L/J1HGGOK3M6X1YPQ9V7ORHT.uasset'
+[2025.10.27-18.26.20:040][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/6/1M/HVNF4E9BOS8NGT5SQCV0GB
+[2025.10.27-18.26.20:040][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/HVNF4E9BOS8NGT5SQCV0GB7D27D1D34D2483ABBC807BA06268446C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/6/1M/HVNF4E9BOS8NGT5SQCV0GB.uasset'
+[2025.10.27-18.26.20:047][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/1/AY/HLU7DDJ251HABIWMBA4VK2
+[2025.10.27-18.26.20:047][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/HLU7DDJ251HABIWMBA4VK2FBECD0AC4758215B5DBC12AAF0547EC2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/1/AY/HLU7DDJ251HABIWMBA4VK2.uasset'
+[2025.10.27-18.26.20:054][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/8/DT/QD1IL7G654PN21RP73DO5E
+[2025.10.27-18.26.20:054][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/QD1IL7G654PN21RP73DO5E4ED2A7CA41CAB0A72B1D389D1CD3EADF.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/8/DT/QD1IL7G654PN21RP73DO5E.uasset'
+[2025.10.27-18.26.20:059][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/5/7O/3TLG68IVFSD4JAOHOZU95Q
+[2025.10.27-18.26.20:059][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/3TLG68IVFSD4JAOHOZU95Q61543C9F4489755EEB0523919A7C9A98.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/5/7O/3TLG68IVFSD4JAOHOZU95Q.uasset'
+[2025.10.27-18.26.20:066][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/2/KG/166Q1CGL3L5NTDP0AIVBVH
+[2025.10.27-18.26.20:066][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/166Q1CGL3L5NTDP0AIVBVH55C12ED0442095FD6ED55E962B4FD250.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/2/KG/166Q1CGL3L5NTDP0AIVBVH.uasset'
+[2025.10.27-18.26.20:072][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/B/VR/9PCI1V28PC533STX3X2MDH
+[2025.10.27-18.26.20:072][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/9PCI1V28PC533STX3X2MDH05E6B3AE44E5350EB5E04C9371E46E8F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/B/VR/9PCI1V28PC533STX3X2MDH.uasset'
+[2025.10.27-18.26.20:079][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/9/7O/7ETXK49094IBWG9919FUED
+[2025.10.27-18.26.20:079][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/7ETXK49094IBWG9919FUED82FB18044F70A0CA9ABADE84820577D1.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/9/7O/7ETXK49094IBWG9919FUED.uasset'
+[2025.10.27-18.26.20:085][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/E/W8/3R50Y39W81JJ5D6T8PPCU0
+[2025.10.27-18.26.20:085][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/3R50Y39W81JJ5D6T8PPCU07C74F06B4A102A7EB444E4A95B81DA86.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/E/W8/3R50Y39W81JJ5D6T8PPCU0.uasset'
+[2025.10.27-18.26.20:091][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/2/UV/K413FJPDJTWSH0SS2LOWEP
+[2025.10.27-18.26.20:091][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/K413FJPDJTWSH0SS2LOWEP2F65F98741C4D0C65203BCAAD2941F9E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/2/UV/K413FJPDJTWSH0SS2LOWEP.uasset'
+[2025.10.27-18.26.20:097][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/9/L6/TU81GMMNYHIGVA0PAPKIBY
+[2025.10.27-18.26.20:097][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/TU81GMMNYHIGVA0PAPKIBYE3E998A54753BDC596BAB1B6CC6208FE.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/9/L6/TU81GMMNYHIGVA0PAPKIBY.uasset'
+[2025.10.27-18.26.20:103][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/9/EM/V39EHMDVETQ3KE9M834SOL
+[2025.10.27-18.26.20:103][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/V39EHMDVETQ3KE9M834SOL9E38CD964584E2388D827A92036C2E92.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/9/EM/V39EHMDVETQ3KE9M834SOL.uasset'
+[2025.10.27-18.26.20:110][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/8/DU/XHIO13H3DV496I9JJ5RX58
+[2025.10.27-18.26.20:110][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/XHIO13H3DV496I9JJ5RX58207CD992447662BD57E2FC813F2601F0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/8/DU/XHIO13H3DV496I9JJ5RX58.uasset'
+[2025.10.27-18.26.20:115][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/D/8D/Z3KSEEY9TT0N8EIEY6EX2N
+[2025.10.27-18.26.20:115][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Z3KSEEY9TT0N8EIEY6EX2NF449928F46415647F2AE07A1FFAAE4F0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/D/8D/Z3KSEEY9TT0N8EIEY6EX2N.uasset'
+[2025.10.27-18.26.20:122][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/3/PC/TESSE6XQNUFDAAHTZWII7H
+[2025.10.27-18.26.20:122][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/TESSE6XQNUFDAAHTZWII7HC79BC88743A586D8014A768D70966F9C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/3/PC/TESSE6XQNUFDAAHTZWII7H.uasset'
+[2025.10.27-18.26.20:128][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/E/OV/0P1PI9CSDYDHTLH8894DNR
+[2025.10.27-18.26.20:128][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/0P1PI9CSDYDHTLH8894DNR2F9BBEEB4C1264EB01F11A8A0020BDC1.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/E/OV/0P1PI9CSDYDHTLH8894DNR.uasset'
+[2025.10.27-18.26.20:134][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/7/EV/ZPVSMBRAOGSXNXGJ4YPOHF
+[2025.10.27-18.26.20:134][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ZPVSMBRAOGSXNXGJ4YPOHFFB8E26024C7973BB73E4BE9809C28AC4.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/7/EV/ZPVSMBRAOGSXNXGJ4YPOHF.uasset'
+[2025.10.27-18.26.20:141][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/0/0D/0CTGQIRKA9FH9B5CZ41G5I
+[2025.10.27-18.26.20:141][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/0CTGQIRKA9FH9B5CZ41G5I8F7A2C814D57491D4869558317AACCD5.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/0/0D/0CTGQIRKA9FH9B5CZ41G5I.uasset'
+[2025.10.27-18.26.20:147][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/A/XL/CSUX05LBDLNO7F6TFVCO9F
+[2025.10.27-18.26.20:147][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/CSUX05LBDLNO7F6TFVCO9FD6FB514C48891B1646A2F188A74EBC4F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/A/XL/CSUX05LBDLNO7F6TFVCO9F.uasset'
+[2025.10.27-18.26.20:153][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/2/U0/804PNBYHYEYVRZOFXDJJ1P
+[2025.10.27-18.26.20:153][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/804PNBYHYEYVRZOFXDJJ1PB5C4E39C4369FC83F90E44A3F5B91EEF.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/2/U0/804PNBYHYEYVRZOFXDJJ1P.uasset'
+[2025.10.27-18.26.20:159][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/4/8E/BTACUXI2AM3A4LSE355EZC
+[2025.10.27-18.26.20:159][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/BTACUXI2AM3A4LSE355EZC818FC96A44E1462128D653BCA33DDD82.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/4/8E/BTACUXI2AM3A4LSE355EZC.uasset'
+[2025.10.27-18.26.20:166][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/0/ON/OITQA3718U9QQPEY0QDGT2
+[2025.10.27-18.26.20:166][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/OITQA3718U9QQPEY0QDGT23D4973BD4335F559E64C73A220112A1F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/0/ON/OITQA3718U9QQPEY0QDGT2.uasset'
+[2025.10.27-18.26.20:172][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/4/VH/QY0MARUWHL8PCN6HHB8X73
+[2025.10.27-18.26.20:172][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/QY0MARUWHL8PCN6HHB8X73F27F03DD4E5A354CA48D9890109B5DEC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/4/VH/QY0MARUWHL8PCN6HHB8X73.uasset'
+[2025.10.27-18.26.20:177][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/5/CM/GINXA1BY0USPLUBXH7NNNW
+[2025.10.27-18.26.20:177][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/GINXA1BY0USPLUBXH7NNNW5AB011254EAE4A700AB78DA95E5A8912.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/5/CM/GINXA1BY0USPLUBXH7NNNW.uasset'
+[2025.10.27-18.26.20:183][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/2/36/WF94ARH81XEFG298RZA590
+[2025.10.27-18.26.20:183][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WF94ARH81XEFG298RZA59044BA80DC455E3AA99A6373A758438FCC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/2/36/WF94ARH81XEFG298RZA590.uasset'
+[2025.10.27-18.26.20:190][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/0/JS/AV1IS5J3CUXTSBTWWLUX97
+[2025.10.27-18.26.20:190][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/AV1IS5J3CUXTSBTWWLUX970C82496544AE50F9A09A91BD195B405D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/0/JS/AV1IS5J3CUXTSBTWWLUX97.uasset'
+[2025.10.27-18.26.20:196][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/4/GW/S50WCOBE293M0LE5X7PDYV
+[2025.10.27-18.26.20:196][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/S50WCOBE293M0LE5X7PDYVE24FDDF847CF0508B34EDA9386B9957D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/4/GW/S50WCOBE293M0LE5X7PDYV.uasset'
+[2025.10.27-18.26.20:202][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/9/C3/Q9HYQQO1BGK4PBGQFEVT4P
+[2025.10.27-18.26.20:202][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Q9HYQQO1BGK4PBGQFEVT4PB4805B334E4BA7781F9EB3B2BF201DF2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/9/C3/Q9HYQQO1BGK4PBGQFEVT4P.uasset'
+[2025.10.27-18.26.20:208][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/4/SQ/IA3DEE6X1XSQMFA60Q0YK2
+[2025.10.27-18.26.20:208][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/IA3DEE6X1XSQMFA60Q0YK22A0C9F284DD767E6007E0A81A01FF8DF.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/4/SQ/IA3DEE6X1XSQMFA60Q0YK2.uasset'
+[2025.10.27-18.26.20:215][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/E/CK/W0XVMFII8MLQ7ZFSWOYLR9
+[2025.10.27-18.26.20:216][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/W0XVMFII8MLQ7ZFSWOYLR95D678EB74DB14425B6F914902A4F2BAC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/E/CK/W0XVMFII8MLQ7ZFSWOYLR9.uasset'
+[2025.10.27-18.26.20:222][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/C/52/CDQI6W0ZFEQ0I7KTWBNYK6
+[2025.10.27-18.26.20:222][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/CDQI6W0ZFEQ0I7KTWBNYK6BFC7D5724B561B1FC85228B22B722B8E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/C/52/CDQI6W0ZFEQ0I7KTWBNYK6.uasset'
+[2025.10.27-18.26.20:227][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/3/GZ/EN59FN7H3HM13HH7AOO3ZE
+[2025.10.27-18.26.20:227][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/EN59FN7H3HM13HH7AOO3ZE26A5751E4B22492120A3E0801CC5C712.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/3/GZ/EN59FN7H3HM13HH7AOO3ZE.uasset'
+[2025.10.27-18.26.20:233][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/0/A1/WBAJWVYN65M6JJ8SG7ICRM
+[2025.10.27-18.26.20:233][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBAJWVYN65M6JJ8SG7ICRM97B25DE74633EE57DD397FB62F304093.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/0/A1/WBAJWVYN65M6JJ8SG7ICRM.uasset'
+[2025.10.27-18.26.20:239][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/9/TI/UW3A71CJY4X3QO2DMNR4A7
+[2025.10.27-18.26.20:239][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/UW3A71CJY4X3QO2DMNR4A7E9425A8E4378DBDB90D2DD9DC3C07245.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/9/TI/UW3A71CJY4X3QO2DMNR4A7.uasset'
+[2025.10.27-18.26.20:246][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/1/0E/58R78Y2MMKXETKEZXPYXDD
+[2025.10.27-18.26.20:246][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/58R78Y2MMKXETKEZXPYXDDACA7128B4940DBD5D704FDA0032F8158.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/1/0E/58R78Y2MMKXETKEZXPYXDD.uasset'
+[2025.10.27-18.26.20:252][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/7/6N/LGO7WEZD4K9X2HFCFZURH1
+[2025.10.27-18.26.20:252][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/LGO7WEZD4K9X2HFCFZURH1DBFB276B472D4923F37727A6391D0D9D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/7/6N/LGO7WEZD4K9X2HFCFZURH1.uasset'
+[2025.10.27-18.26.20:258][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/C/T4/H55OZKCTRNS1HF98EQ23C0
+[2025.10.27-18.26.20:258][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/H55OZKCTRNS1HF98EQ23C06734252B47C31055BC5934BC9028D389.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/C/T4/H55OZKCTRNS1HF98EQ23C0.uasset'
+[2025.10.27-18.26.20:264][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/C/ZL/EA2XD5CQLMK1UMGQ9SNUBA
+[2025.10.27-18.26.20:264][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/EA2XD5CQLMK1UMGQ9SNUBA2DC1A3CF4C8438BEBCCD0CA1D87A35D5.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/C/ZL/EA2XD5CQLMK1UMGQ9SNUBA.uasset'
+[2025.10.27-18.26.20:270][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/6/E5/OCSFE7G13WL6JSKLUDOCY3
+[2025.10.27-18.26.20:270][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/OCSFE7G13WL6JSKLUDOCY3C652F0B5450F544B0DE35180684B0D39.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/6/E5/OCSFE7G13WL6JSKLUDOCY3.uasset'
+[2025.10.27-18.26.20:276][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/B/8P/5FJ0FOP0QLNAMUJLU59IMK
+[2025.10.27-18.26.20:277][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/5FJ0FOP0QLNAMUJLU59IMK44DB74C24959494D15B86CB34F7637FE.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/B/8P/5FJ0FOP0QLNAMUJLU59IMK.uasset'
+[2025.10.27-18.26.20:283][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/8/C7/R4BI3MQ6Z69Z00H3XWFMTF
+[2025.10.27-18.26.20:283][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/R4BI3MQ6Z69Z00H3XWFMTFF2D7290E47F55AF79DE69FA763887FC8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/8/C7/R4BI3MQ6Z69Z00H3XWFMTF.uasset'
+[2025.10.27-18.26.20:289][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/1/JQ/XPDIR9OG7U6YAM60FPO3SQ
+[2025.10.27-18.26.20:289][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/XPDIR9OG7U6YAM60FPO3SQEDAAB4B94B933216C17C299F10BBC4E1.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/1/JQ/XPDIR9OG7U6YAM60FPO3SQ.uasset'
+[2025.10.27-18.26.20:295][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/B/PU/3IA7W7BFYNSU5UK494FWU6
+[2025.10.27-18.26.20:295][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/3IA7W7BFYNSU5UK494FWU66DBF3C1A43A99E5B80A80091A9074668.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/B/PU/3IA7W7BFYNSU5UK494FWU6.uasset'
+[2025.10.27-18.26.20:301][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/B/J7/LGUNFLZTV51VKCLIJ5IYW6
+[2025.10.27-18.26.20:301][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/LGUNFLZTV51VKCLIJ5IYW63039C3D54C782987BEDAD48EB5523AD0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/B/J7/LGUNFLZTV51VKCLIJ5IYW6.uasset'
+[2025.10.27-18.26.20:308][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/6/PD/WXSZJ259EDTGCCR1YKRYNH
+[2025.10.27-18.26.20:308][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WXSZJ259EDTGCCR1YKRYNH769557EE423DCA38E545C5B195275E52.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/6/PD/WXSZJ259EDTGCCR1YKRYNH.uasset'
+[2025.10.27-18.26.20:314][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/E/RA/FEFKSRKR87R9L401OFH09A
+[2025.10.27-18.26.20:314][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/FEFKSRKR87R9L401OFH09A2322F43746866CF5EB81B6B29D3EEE2C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/E/RA/FEFKSRKR87R9L401OFH09A.uasset'
+[2025.10.27-18.26.20:320][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/B/FU/3PVIZ2B9XTB9LXSL8P8OL4
+[2025.10.27-18.26.20:320][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/3PVIZ2B9XTB9LXSL8P8OL41600706849A15084806B90A1CB44DCC0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/B/FU/3PVIZ2B9XTB9LXSL8P8OL4.uasset'
+[2025.10.27-18.26.20:327][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/C/16/PE7LIC79RWSYALKVTZ858H
+[2025.10.27-18.26.20:327][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/PE7LIC79RWSYALKVTZ858HA6A895EC4FFA94D4CC215E929E074780.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/C/16/PE7LIC79RWSYALKVTZ858H.uasset'
+[2025.10.27-18.26.20:333][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/5/XQ/QUOKQDG5SFV9NS8SUQ235G
+[2025.10.27-18.26.20:333][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/QUOKQDG5SFV9NS8SUQ235GFE94A91E423769BA0CE0E2B0888A5F2D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/5/XQ/QUOKQDG5SFV9NS8SUQ235G.uasset'
+[2025.10.27-18.26.20:338][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/2/6Q/YSOOQJP6LZBRX1OF8JZGTD
+[2025.10.27-18.26.20:338][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/YSOOQJP6LZBRX1OF8JZGTD4C63D6DC41F3AACD18F193983C2E184B.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/2/6Q/YSOOQJP6LZBRX1OF8JZGTD.uasset'
+[2025.10.27-18.26.20:344][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/2/E5/3TYES5ES2CWJYDB442BY47
+[2025.10.27-18.26.20:344][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/3TYES5ES2CWJYDB442BY471F6FFF9D41564F45F321058B73128A80.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/2/E5/3TYES5ES2CWJYDB442BY47.uasset'
+[2025.10.27-18.26.20:351][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/6/BW/TBK48NMW1637APREAXS1WE
+[2025.10.27-18.26.20:351][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/TBK48NMW1637APREAXS1WEDCDED5854C0E5BC5FCBE4CB105E03B13.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/6/BW/TBK48NMW1637APREAXS1WE.uasset'
+[2025.10.27-18.26.20:356][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/E/2D/15PZGIAFU8C2M0MFR7DF3A
+[2025.10.27-18.26.20:356][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/15PZGIAFU8C2M0MFR7DF3AFEC7928A4DB874F536F3C48B7EBC9E3E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/E/2D/15PZGIAFU8C2M0MFR7DF3A.uasset'
+[2025.10.27-18.26.20:362][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/C/6F/K8RJRQMR29SW0YTPHPYH7Z
+[2025.10.27-18.26.20:363][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/K8RJRQMR29SW0YTPHPYH7Z34F99F2A4559DFB6FFAD5F9D400C29DC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/C/6F/K8RJRQMR29SW0YTPHPYH7Z.uasset'
+[2025.10.27-18.26.20:369][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/D/K1/76UU4CNZRZ9H38YAXZO9UN
+[2025.10.27-18.26.20:369][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/76UU4CNZRZ9H38YAXZO9UNA5E4BDBE45A838AE43A8309FC5EABDFC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/D/K1/76UU4CNZRZ9H38YAXZO9UN.uasset'
+[2025.10.27-18.26.20:375][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/3/F6/2ZLDFSBJO3OA4M4DK9DL8A
+[2025.10.27-18.26.20:375][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/2ZLDFSBJO3OA4M4DK9DL8AE75EE4EA4D223A60BE3B1C9572B4351D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/3/F6/2ZLDFSBJO3OA4M4DK9DL8A.uasset'
+[2025.10.27-18.26.20:381][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/B/YG/ZJ5Z59I5MB1Y69HZ1F2A5W
+[2025.10.27-18.26.20:381][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ZJ5Z59I5MB1Y69HZ1F2A5W10D8FC3E46D2F93475ABDEB6197C5391.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/B/YG/ZJ5Z59I5MB1Y69HZ1F2A5W.uasset'
+[2025.10.27-18.26.20:388][895]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/L_LevelOne/A/9F/ZS7RH16K1FT743K5HYAJTB
+[2025.10.27-18.26.20:388][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ZS7RH16K1FT743K5HYAJTBA10AF66D462F60491A955A9BA12A6AF8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/L_LevelOne/A/9F/ZS7RH16K1FT743K5HYAJTB.uasset'
+[2025.10.27-18.26.20:394][895]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/L_LevelOne/9/9T/AU3ZDWVAC0AHHOUJUZPL8D
+[2025.10.27-18.26.20:394][895]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/AU3ZDWVAC0AHHOUJUZPL8D44957CB54AF0DA51E86289AC6B76B955.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/L_LevelOne/9/9T/AU3ZDWVAC0AHHOUJUZPL8D.uasset'
+[2025.10.27-18.26.20:395][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 424.603 ms (total: 833.089 ms)
+[2025.10.27-18.26.20:401][895]LogFileHelpers: Saving map 'L_LevelOne' took 0.473
+[2025.10.27-18.26.20:401][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.60 sec (total: 2.43 sec)
+[2025.10.27-18.26.20:430][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.27-18.26.20:453][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.27-18.26.20:474][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.10.27-18.26.20:500][895]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.27-18.26.20:500][895]LogContentValidation: Display: Starting to validate 68 assets
+[2025.10.27-18.26.20:500][895]LogContentValidation: Enabled validators:
+[2025.10.27-18.26.20:500][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.26.20:500][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.26.20:500][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.26.20:500][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.26.20:500][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.26.20:500][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.26.20:500][895]AssetCheck: /Game/L_LevelOne Validating asset
+[2025.10.27-18.26.20:511][895]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.27-18.26.24:888][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.26.24:939][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.27-18.26.24:960][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.27-18.26.24:982][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.27-18.26.24:984][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_LevelOne" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/L_LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-18.26.25:005][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.27-18.26.25:015][323]LogSavePackage: Moving output files for package: /Game/Levels/L_LevelOne
+[2025.10.27-18.26.25:015][323]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/L_LevelOneC199F90E4846095E3C269CB22E329109.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/L_LevelOne.umap'
+[2025.10.27-18.26.25:017][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.26.25:023][323]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/L_LevelOne/6/YG/VKYFF6RMVDR208Q21J2P7X
+[2025.10.27-18.26.25:023][323]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/VKYFF6RMVDR208Q21J2P7X12D1A6744870927F802FD2A2A06B206F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/6/YG/VKYFF6RMVDR208Q21J2P7X.uasset'
+[2025.10.27-18.26.25:030][323]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/L_LevelOne/E/SI/ZZ6BXKJ63I8CZ9JPL1B3TV
+[2025.10.27-18.26.25:030][323]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ZZ6BXKJ63I8CZ9JPL1B3TV5443732542979103C1CC5F9E343E88E1.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/E/SI/ZZ6BXKJ63I8CZ9JPL1B3TV.uasset'
+[2025.10.27-18.26.25:030][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.740 ms (total: 2.44 sec)
+[2025.10.27-18.26.25:035][323]LogFileHelpers: Saving map 'L_LevelOne' took 0.051
+[2025.10.27-18.26.25:040][323]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/L_LevelOne/A/VY/H0TYJY8JBMV4XC0BNBGV6J
+[2025.10.27-18.26.25:040][323]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/H0TYJY8JBMV4XC0BNBGV6J327BB69A46BE9DA8FF75E6B7DEDDF5E9.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/A/VY/H0TYJY8JBMV4XC0BNBGV6J.uasset'
+[2025.10.27-18.26.30:411][323]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2025.10.27-18.26.30:418][323]Message dialog closed, result: Cancel, title: Packages Failed To Save, text: The following assets failed to save correctly:
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+[2025.10.27-18.26.30:418][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.53 sec (total: 7.97 sec)
+[2025.10.27-18.26.30:460][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.27-18.26.30:483][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.27-18.26.30:506][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.27-18.26.30:526][323]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.27-18.26.30:526][323]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.27-18.26.30:526][323]LogContentValidation: Enabled validators:
+[2025.10.27-18.26.30:526][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.26.30:526][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.26.30:526][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.26.30:526][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.26.30:526][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.26.30:526][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.26.30:526][323]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.10.27-18.26.30:567][323]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.27-18.26.40:405][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.27-18.26.40:408][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.26.40:462][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/GameModes/GM_StartMenuLevel] ([2] browsable assets)...
+[2025.10.27-18.26.40:462][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/GameModes/GM_StartMenuLevel]
+[2025.10.27-18.26.40:472][406]LogSavePackage: Moving output files for package: /Game/Levels/GameModes/GM_StartMenuLevel
+[2025.10.27-18.26.40:472][406]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/GM_StartMenuLevelAF5F0A4E47AC0E1F081A96B9995FE925.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/GameModes/GM_StartMenuLevel.uasset'
+[2025.10.27-18.26.40:479][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.859 ms (total: 8.05 sec)
+[2025.10.27-18.26.40:525][406]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-18.26.40:525][406]LogContentValidation: Enabled validators:
+[2025.10.27-18.26.40:525][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.26.40:525][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.26.40:525][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.26.40:525][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.26.40:525][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.26.40:525][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.26.40:527][406]AssetCheck: /Game/Levels/GameModes/GM_StartMenuLevel Validating asset
+[2025.10.27-18.26.41:611][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.27-18.26.41:612][498]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.27-18.26.41:612][498]Cmd: MAP LOAD FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/L_LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.27-18.26.41:647][498]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.26.41:647][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.26.41:665][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.27-18.26.41:667][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.27-18.26.41:669][498]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.26.41:669][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.26.41:669][498]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.27-18.26.41:670][498]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.26.41:670][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.26.41:670][498]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.27-18.26.41:696][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.27-18.26.41:770][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.27-18.26.41:771][498]LogStreaming: Display: FlushAsyncLoading(663): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.26.41:774][498]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelOne'.
+[2025.10.27-18.26.41:774][498]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.10.27-18.26.41:776][498]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.27-18.26.41:776][498]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.27-18.26.41:776][498]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.27-18.26.41:776][498]LogWorldPartition: Display: WorldPartition initialize took 189 us (total: 97.843 ms)
+[2025.10.27-18.26.41:802][498]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.27-18.26.41:827][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.27-18.26.41:830][498]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.27-18.26.41:831][498]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.297ms to complete.
+[2025.10.27-18.26.41:918][499]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.27-18.26.50:691][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1679.121582
+[2025.10.27-18.26.50:776][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-18.26.50:776][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1679.198364, Update Interval: 335.547363
+[2025.10.27-18.27.06:230][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.27-18.27.06:232][344]LogStreaming: Display: FlushAsyncLoading(666): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.27.06:234][344]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.27-18.27.06:234][344]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.27-18.27.06:234][344]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.27-18.27.06:234][344]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.27-18.27.06:251][344]LogWorldPartition: Display: WorldPartition initialize took 16.163 ms (total: 114.007 ms)
+[2025.10.27-18.27.06:253][344]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.27-18.27.06:253][344]Cmd: MAP LOAD FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/ThirdPerson/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.27-18.27.06:261][344]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.27.06:261][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.27.06:261][344]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.27-18.27.06:283][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.27-18.27.06:284][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.27-18.27.06:287][344]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.27.06:287][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.27.06:287][344]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.27-18.27.06:309][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.27-18.27.06:381][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.27-18.27.06:384][344]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2025.10.27-18.27.06:384][344]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.27-18.27.06:386][344]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.27-18.27.06:386][344]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.27-18.27.06:386][344]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.27-18.27.06:403][344]LogWorldPartition: Display: WorldPartition initialize took 16.764 ms (total: 130.771 ms)
+[2025.10.27-18.27.06:429][344]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.27-18.27.06:450][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.10.27-18.27.06:453][344]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.27-18.27.06:454][344]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.475ms to complete.
+[2025.10.27-18.27.06:574][345]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.27-18.27.27:312][778]LogStreaming: Display: FlushAsyncLoading(800): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.27.27:314][778]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.10.27-18.27.27:315][778]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.27-18.27.27:315][778]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.27-18.27.27:315][778]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.27-18.27.27:315][778]LogWorldPartition: Display: WorldPartition initialize took 163 us (total: 130.934 ms)
+[2025.10.27-18.27.27:316][778]LogObjectTools: Deleting 1 worlds: /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.27-18.27.27:316][778]LogObjectTools: Currently 7 active worlds: /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_12
+[2025.10.27-18.27.27:343][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.27-18.27.28:678][778]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.27-18.27.28:684][778]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.27.28:684][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.27.28:684][778]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.27-18.27.28:713][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.27-18.27.28:737][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.27-18.27.28:760][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.27-18.27.30:019][894]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.27-18.27.30:020][894]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.27-18.27.30:020][894]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.27-18.27.30:020][894]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.27-18.27.30:020][894]LogWorldPartition: Display: WorldPartition initialize took 187 us (total: 131.122 ms)
+[2025.10.27-18.27.35:255][374]LogContentBrowser: Attempting asset rename: Lvl_ThirdPerson -> L_LevelOne
+[2025.10.27-18.27.35:353][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.27.36:410][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.27-18.27.36:433][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.27-18.27.36:457][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.27-18.27.36:460][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/L_LevelOne" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/L_LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.10.27-18.27.36:482][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.27-18.27.36:492][374]LogSavePackage: Moving output files for package: /Game/Levels/L_LevelOne
+[2025.10.27-18.27.36:492][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/L_LevelOne33F0DAA84C8C37410CE8DB948CF71AF4.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/L_LevelOne.umap'
+[2025.10.27-18.27.36:496][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.27.36:502][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/AY/5IJF15PP39218ES9O644MU
+[2025.10.27-18.27.36:502][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/5IJF15PP39218ES9O644MUEE9825DF495E58483649A9A2F90F7CD9.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/AY/5IJF15PP39218ES9O644MU.uasset'
+[2025.10.27-18.27.36:508][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/7Q/R02KSBX3BYZK7SSCSA434Q
+[2025.10.27-18.27.36:508][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/R02KSBX3BYZK7SSCSA434QA1C1079D450E250F0FA57C910D89EDB2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/7Q/R02KSBX3BYZK7SSCSA434Q.uasset'
+[2025.10.27-18.27.36:514][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/SV/WL0KSV35ADIFSHJ98S6WND
+[2025.10.27-18.27.36:515][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WL0KSV35ADIFSHJ98S6WNDD95861A3446E8F266E9F4CB0311FC80C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/SV/WL0KSV35ADIFSHJ98S6WND.uasset'
+[2025.10.27-18.27.36:522][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/3X/AQ5IIFOHW7B50GFJCNBIOA
+[2025.10.27-18.27.36:522][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/AQ5IIFOHW7B50GFJCNBIOAD3D201C0467F1106FB4D6C8EDD035C84.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/3X/AQ5IIFOHW7B50GFJCNBIOA.uasset'
+[2025.10.27-18.27.36:527][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/17/YTS17F145E9I9XICH9XY89
+[2025.10.27-18.27.36:528][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/YTS17F145E9I9XICH9XY898A6D94954EC2E53A046A42A46F4B70AA.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/17/YTS17F145E9I9XICH9XY89.uasset'
+[2025.10.27-18.27.36:533][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/OU/YZ7VVNK43G3Z7KZT0H0ZUW
+[2025.10.27-18.27.36:533][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/YZ7VVNK43G3Z7KZT0H0ZUWB6C171244FB59E534C99CDBB656D8613.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/OU/YZ7VVNK43G3Z7KZT0H0ZUW.uasset'
+[2025.10.27-18.27.36:539][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/02/91DYYUGF0KZ037IPNPHM1F
+[2025.10.27-18.27.36:539][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/91DYYUGF0KZ037IPNPHM1FC9071C60462B6DE72F96CB9EA1317D2E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/02/91DYYUGF0KZ037IPNPHM1F.uasset'
+[2025.10.27-18.27.36:546][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/EW/FLOQP89RGAQ2EQL78KFKWI
+[2025.10.27-18.27.36:546][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/FLOQP89RGAQ2EQL78KFKWI70D06AAC432AB6B0453F7ABD883F6DA1.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/EW/FLOQP89RGAQ2EQL78KFKWI.uasset'
+[2025.10.27-18.27.36:554][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/2V/HOGQW8QYHOEXNZDQKX32D1
+[2025.10.27-18.27.36:554][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/HOGQW8QYHOEXNZDQKX32D11F0161D64C30B46AAF71AEAB316EA342.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/2V/HOGQW8QYHOEXNZDQKX32D1.uasset'
+[2025.10.27-18.27.36:562][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/EN/E9626TKGDESAEN5QYKNVDV
+[2025.10.27-18.27.36:562][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/E9626TKGDESAEN5QYKNVDV6D85190F4133383F773293A813206C66.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/EN/E9626TKGDESAEN5QYKNVDV.uasset'
+[2025.10.27-18.27.36:567][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/FZ/3X1IEZJYS41NK6UNYOPT2M
+[2025.10.27-18.27.36:567][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/3X1IEZJYS41NK6UNYOPT2M5AD351A54075E394AA96259E0A39E7CF.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/FZ/3X1IEZJYS41NK6UNYOPT2M.uasset'
+[2025.10.27-18.27.36:573][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/YI/GL15PD7UHPDMXTYOD7LDXP
+[2025.10.27-18.27.36:573][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/GL15PD7UHPDMXTYOD7LDXPD3BFE7C44E12E865EC9D2A80B8DC4E6D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/YI/GL15PD7UHPDMXTYOD7LDXP.uasset'
+[2025.10.27-18.27.36:580][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/IF/GTH7L7PX78AIM4200RRBL8
+[2025.10.27-18.27.36:580][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/GTH7L7PX78AIM4200RRBL8C064905F4685EB7CE47C48BBAE7BE9AB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/IF/GTH7L7PX78AIM4200RRBL8.uasset'
+[2025.10.27-18.27.36:586][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/L6/PCLGSJC2058IROGMPNNQ1I
+[2025.10.27-18.27.36:586][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/PCLGSJC2058IROGMPNNQ1I96B91801430E1C236167F8B039D8D3BC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/L6/PCLGSJC2058IROGMPNNQ1I.uasset'
+[2025.10.27-18.27.36:592][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/AD/GXZO2GW5GS4IVMNU0WKJG7
+[2025.10.27-18.27.36:592][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/GXZO2GW5GS4IVMNU0WKJG7A3F8FA85479DF61E1BE30DA062040AE2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/AD/GXZO2GW5GS4IVMNU0WKJG7.uasset'
+[2025.10.27-18.27.36:599][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/3M/ZYCMLBOASGF6R94SOOO6C2
+[2025.10.27-18.27.36:599][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ZYCMLBOASGF6R94SOOO6C278CB079347EE7D6DD8FCAC900A2B4FFD.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/3M/ZYCMLBOASGF6R94SOOO6C2.uasset'
+[2025.10.27-18.27.36:605][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/53/NQ2J4RUHCHWF544V1H8GEI
+[2025.10.27-18.27.36:605][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/NQ2J4RUHCHWF544V1H8GEIF103130C4B33EF3FFA22F296BD9DF9D0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/53/NQ2J4RUHCHWF544V1H8GEI.uasset'
+[2025.10.27-18.27.36:611][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/TU/KGB5LGGR5FR1ZA5AMMFFY1
+[2025.10.27-18.27.36:611][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/KGB5LGGR5FR1ZA5AMMFFY1ADD3307B409174CD72FA55AD5A2EF929.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/TU/KGB5LGGR5FR1ZA5AMMFFY1.uasset'
+[2025.10.27-18.27.36:617][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/ZL/81BDU4119NAUMBFB7XSJGP
+[2025.10.27-18.27.36:617][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/81BDU4119NAUMBFB7XSJGP17ED2176457AE06FD7CD6E9561AFD57F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/ZL/81BDU4119NAUMBFB7XSJGP.uasset'
+[2025.10.27-18.27.36:623][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/Q5/M5VG15BA1Z5YHH1BMXQ0HN
+[2025.10.27-18.27.36:623][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/M5VG15BA1Z5YHH1BMXQ0HN8B1ADD384477C7964C1D5B873972675B.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/Q5/M5VG15BA1Z5YHH1BMXQ0HN.uasset'
+[2025.10.27-18.27.36:629][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/55/ZTSJ9MAT3CMRV2LAXYE700
+[2025.10.27-18.27.36:629][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ZTSJ9MAT3CMRV2LAXYE700790C51BF44D4A9409F7A77A5983C91B1.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/55/ZTSJ9MAT3CMRV2LAXYE700.uasset'
+[2025.10.27-18.27.36:634][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/UM/O1T8LAGKA609M83330K3H3
+[2025.10.27-18.27.36:634][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/O1T8LAGKA609M83330K3H3DB99C17A45C7F9B65860489388F584FD.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/UM/O1T8LAGKA609M83330K3H3.uasset'
+[2025.10.27-18.27.36:641][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/QF/MHZ4PJNPA0BCTQSKRAGCZ3
+[2025.10.27-18.27.36:641][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/MHZ4PJNPA0BCTQSKRAGCZ3B6F4DE6C406752C1BD57D0B830FF90FB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/QF/MHZ4PJNPA0BCTQSKRAGCZ3.uasset'
+[2025.10.27-18.27.36:647][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/BF/7VBDZK8OY0K6XKH30YRWWX
+[2025.10.27-18.27.36:647][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/7VBDZK8OY0K6XKH30YRWWXD23EB62849327EDDDFD173AC213A6D49.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/BF/7VBDZK8OY0K6XKH30YRWWX.uasset'
+[2025.10.27-18.27.36:653][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/P3/VF2B6A0AB7Z3EQCF5O3CCL
+[2025.10.27-18.27.36:653][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/VF2B6A0AB7Z3EQCF5O3CCL6D314F8D413D1465F0C5529B8B8A7611.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/P3/VF2B6A0AB7Z3EQCF5O3CCL.uasset'
+[2025.10.27-18.27.36:660][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/7K/QLRSRCMKF9WDX5RLUUQR7J
+[2025.10.27-18.27.36:660][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/QLRSRCMKF9WDX5RLUUQR7JDAACE0294029C1A1D82BEB928E0C38AD.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/7K/QLRSRCMKF9WDX5RLUUQR7J.uasset'
+[2025.10.27-18.27.36:665][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/UK/59I5Y09OIPU26RCVIZBPVB
+[2025.10.27-18.27.36:665][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/59I5Y09OIPU26RCVIZBPVBBA040BAE4902971A88A58ABD776B4C0B.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/UK/59I5Y09OIPU26RCVIZBPVB.uasset'
+[2025.10.27-18.27.36:671][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/IS/ZHWL2JIZEZ42OQCUXVHN38
+[2025.10.27-18.27.36:671][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ZHWL2JIZEZ42OQCUXVHN380919530740E07628F8CEEF8FECD73B69.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/IS/ZHWL2JIZEZ42OQCUXVHN38.uasset'
+[2025.10.27-18.27.36:678][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/ND/6YH4G4A9MIAEXSV9QFV2C8
+[2025.10.27-18.27.36:678][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/6YH4G4A9MIAEXSV9QFV2C8E88171B1459C0AF2D7D61CBBA1338D60.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/ND/6YH4G4A9MIAEXSV9QFV2C8.uasset'
+[2025.10.27-18.27.36:684][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/GM/8ACWCWVMY9GKZ9Q26HSNMR
+[2025.10.27-18.27.36:684][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/8ACWCWVMY9GKZ9Q26HSNMRB42347CB4A7C549D71BC3BA72AAB83BE.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/GM/8ACWCWVMY9GKZ9Q26HSNMR.uasset'
+[2025.10.27-18.27.36:690][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/KM/662W90XZWCFTZZROQ5A4YM
+[2025.10.27-18.27.36:690][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/662W90XZWCFTZZROQ5A4YM9D8BB938400824DD909896B58653787B.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/KM/662W90XZWCFTZZROQ5A4YM.uasset'
+[2025.10.27-18.27.36:696][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/DU/9KNB4L1SZJ0R04JE4URHS9
+[2025.10.27-18.27.36:696][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/9KNB4L1SZJ0R04JE4URHS9483B8FF3495362327AE7228242284063.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/DU/9KNB4L1SZJ0R04JE4URHS9.uasset'
+[2025.10.27-18.27.36:702][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/6V/1K5KP4WOWWBTJOIS2JAAA5
+[2025.10.27-18.27.36:702][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/1K5KP4WOWWBTJOIS2JAAA5B757156145CD2BD32AF4BF946FF1D0B4.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/6V/1K5KP4WOWWBTJOIS2JAAA5.uasset'
+[2025.10.27-18.27.36:709][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/19/1CHG6MYO9TIXV1PFS154OZ
+[2025.10.27-18.27.36:709][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/1CHG6MYO9TIXV1PFS154OZ5F55E4CB4F28B5639655CCAEB6ABF896.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/19/1CHG6MYO9TIXV1PFS154OZ.uasset'
+[2025.10.27-18.27.36:715][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/NF/XAU9ZMEK1NPNSXC39KNQUT
+[2025.10.27-18.27.36:715][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/XAU9ZMEK1NPNSXC39KNQUT139A743D4A9AFAD942FC57BE3B30A1C7.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/NF/XAU9ZMEK1NPNSXC39KNQUT.uasset'
+[2025.10.27-18.27.36:720][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/UJ/W2N6GAKU1G4OSSFDNIBM6L
+[2025.10.27-18.27.36:720][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/W2N6GAKU1G4OSSFDNIBM6LFE4BB01442EB0EFF0F2A8CABE610EDEB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/UJ/W2N6GAKU1G4OSSFDNIBM6L.uasset'
+[2025.10.27-18.27.36:746][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/OU/ATH0YFP9W8RJHRLDZ4RMNZ
+[2025.10.27-18.27.36:746][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ATH0YFP9W8RJHRLDZ4RMNZC5E2DB664EFC56B9F7AF10A0F18EE5A7.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/OU/ATH0YFP9W8RJHRLDZ4RMNZ.uasset'
+[2025.10.27-18.27.36:755][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/E4/JU0FN9KT8Z9MDKWVDXL43Y
+[2025.10.27-18.27.36:755][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/JU0FN9KT8Z9MDKWVDXL43YEA15CCCB462B138CEBC5B6858BE762C8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/E4/JU0FN9KT8Z9MDKWVDXL43Y.uasset'
+[2025.10.27-18.27.36:760][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/7W/JMUDV74R20IVN7HFGT91K1
+[2025.10.27-18.27.36:760][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/JMUDV74R20IVN7HFGT91K160D1AA774B010FB40FF3FD83F94F3AF0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/7W/JMUDV74R20IVN7HFGT91K1.uasset'
+[2025.10.27-18.27.36:766][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/ZX/4SD6TYW44YPH8WAGDCRK84
+[2025.10.27-18.27.36:766][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/4SD6TYW44YPH8WAGDCRK84DDFD14D8421AAE22D14301B9767A95F6.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/ZX/4SD6TYW44YPH8WAGDCRK84.uasset'
+[2025.10.27-18.27.36:772][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/50/3YTTAT5P5W0CUHG5IDUJQ9
+[2025.10.27-18.27.36:772][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/3YTTAT5P5W0CUHG5IDUJQ93A5E0B6E4073D86CB8E2F7A94B65AFF5.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/50/3YTTAT5P5W0CUHG5IDUJQ9.uasset'
+[2025.10.27-18.27.36:779][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/KR/STYGTN3ENP7X24RWJKI9MP
+[2025.10.27-18.27.36:779][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/STYGTN3ENP7X24RWJKI9MP7974C74C43B158CF87544F973B427BC0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/KR/STYGTN3ENP7X24RWJKI9MP.uasset'
+[2025.10.27-18.27.36:784][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/KR/V5HVO1R7B8KZ6O6LWVLCDR
+[2025.10.27-18.27.36:784][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/V5HVO1R7B8KZ6O6LWVLCDR9786A8D14ED74C77DF43DF9672334138.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/KR/V5HVO1R7B8KZ6O6LWVLCDR.uasset'
+[2025.10.27-18.27.36:790][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/LO/PTNLOJO9FPTDCQO5UO3W7Y
+[2025.10.27-18.27.36:790][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/PTNLOJO9FPTDCQO5UO3W7Y3C47966340EC06C07AC7BB92EB0A1B5C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/LO/PTNLOJO9FPTDCQO5UO3W7Y.uasset'
+[2025.10.27-18.27.36:797][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/6T/CYJHL1MD5VB02CE66OGPDB
+[2025.10.27-18.27.36:797][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/CYJHL1MD5VB02CE66OGPDB0DF6BE914C78E27E408415BD8B4375A2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/6T/CYJHL1MD5VB02CE66OGPDB.uasset'
+[2025.10.27-18.27.36:803][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/DR/RJUNZUUUV533DF4FUL9QY6
+[2025.10.27-18.27.36:803][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/RJUNZUUUV533DF4FUL9QY674CB74A04CE0E9BD15C65EAAC72359DD.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/DR/RJUNZUUUV533DF4FUL9QY6.uasset'
+[2025.10.27-18.27.36:809][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/GJ/A3JGHZ9FH4416H60NXF5BP
+[2025.10.27-18.27.36:809][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/A3JGHZ9FH4416H60NXF5BP1820761F4D8796F86C169AA6C15F55B0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/GJ/A3JGHZ9FH4416H60NXF5BP.uasset'
+[2025.10.27-18.27.36:814][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/60/DLXV10EXB1IYRIGU7QEEC5
+[2025.10.27-18.27.36:816][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/DLXV10EXB1IYRIGU7QEEC5CE3354574B35545618316DBC4DF8ABD1.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/60/DLXV10EXB1IYRIGU7QEEC5.uasset'
+[2025.10.27-18.27.36:822][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/C9/FTNHE77B8IJAHH45DKTSLC
+[2025.10.27-18.27.36:822][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/FTNHE77B8IJAHH45DKTSLCCF95DCA04CBBFEE75C62D39EF058E845.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/C9/FTNHE77B8IJAHH45DKTSLC.uasset'
+[2025.10.27-18.27.36:827][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/2L/Q2B2T4TILFH9GRL9RKWF4L
+[2025.10.27-18.27.36:827][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Q2B2T4TILFH9GRL9RKWF4LB0C0C25B40E01E2C0F737A8C8E689A00.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/2L/Q2B2T4TILFH9GRL9RKWF4L.uasset'
+[2025.10.27-18.27.36:834][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/7U/TM3TGAKUWHXE3DMLL4FXRI
+[2025.10.27-18.27.36:834][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/TM3TGAKUWHXE3DMLL4FXRI8A2CB146476817A5138E08ADB9E36B81.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/7U/TM3TGAKUWHXE3DMLL4FXRI.uasset'
+[2025.10.27-18.27.36:840][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/S8/9BC7R8LK853C1BL2XL6VUD
+[2025.10.27-18.27.36:840][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/9BC7R8LK853C1BL2XL6VUD04CEDEBF49B331811B4040B7A2D24F17.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/S8/9BC7R8LK853C1BL2XL6VUD.uasset'
+[2025.10.27-18.27.36:845][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/F8/ES81HP2N8HXG8TQOD6BHFD
+[2025.10.27-18.27.36:845][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ES81HP2N8HXG8TQOD6BHFD317FF0714CEAAB392CF4A4962952B9E2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/F8/ES81HP2N8HXG8TQOD6BHFD.uasset'
+[2025.10.27-18.27.36:852][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/B7/J8F1E4VPHN7YFJDZXGGJJQ
+[2025.10.27-18.27.36:852][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/J8F1E4VPHN7YFJDZXGGJJQ7B8759BC471ADC7952B6669C27082DBC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/B7/J8F1E4VPHN7YFJDZXGGJJQ.uasset'
+[2025.10.27-18.27.36:858][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/LF/Y7T40HRY04NES2QVDEKWPB
+[2025.10.27-18.27.36:858][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Y7T40HRY04NES2QVDEKWPBEB7CAD0248DA0A90566BB29806B13364.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/LF/Y7T40HRY04NES2QVDEKWPB.uasset'
+[2025.10.27-18.27.36:864][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/V7/44KZBWA67U5RDWK9A5HLKL
+[2025.10.27-18.27.36:864][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/44KZBWA67U5RDWK9A5HLKLF748F1294FCF020B2FEDCC9CE3728B07.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/V7/44KZBWA67U5RDWK9A5HLKL.uasset'
+[2025.10.27-18.27.36:871][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/TU/TV5XVRM76XXI6F9K0TYK8O
+[2025.10.27-18.27.36:871][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/TV5XVRM76XXI6F9K0TYK8OA7728839428F576BD45B83B612E7CA15.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/TU/TV5XVRM76XXI6F9K0TYK8O.uasset'
+[2025.10.27-18.27.36:877][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/F6/H4NSJNWV7M5FOBZHHJXHY7
+[2025.10.27-18.27.36:877][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/H4NSJNWV7M5FOBZHHJXHY7B5EE277047D7B73C031860A64D43D242.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/F6/H4NSJNWV7M5FOBZHHJXHY7.uasset'
+[2025.10.27-18.27.36:882][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/CG/FEPPRI6KTEU895XT4DFLP9
+[2025.10.27-18.27.36:882][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/FEPPRI6KTEU895XT4DFLP95914AAFB40822E6B4979EE899ABC0D5F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/CG/FEPPRI6KTEU895XT4DFLP9.uasset'
+[2025.10.27-18.27.36:889][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/8Q/R80DT6904TQ4XYAMB0YNM1
+[2025.10.27-18.27.36:889][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/R80DT6904TQ4XYAMB0YNM16806FC5E41EA03B47B95669337C812CA.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/8Q/R80DT6904TQ4XYAMB0YNM1.uasset'
+[2025.10.27-18.27.36:895][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/LG/GJ5VG71809TY5OEHXQNVJX
+[2025.10.27-18.27.36:895][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/GJ5VG71809TY5OEHXQNVJX4D0E566F4ABA900DB418929415CDC9FB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/LG/GJ5VG71809TY5OEHXQNVJX.uasset'
+[2025.10.27-18.27.36:901][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/HW/DEKLLKPZ0UWSJC24UC1P8H
+[2025.10.27-18.27.36:901][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/DEKLLKPZ0UWSJC24UC1P8H3FBA7D7F4045346791427EB2E4E8AE4D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/HW/DEKLLKPZ0UWSJC24UC1P8H.uasset'
+[2025.10.27-18.27.36:908][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/HK/FA931MZMDXIGLKMXQWBTXQ
+[2025.10.27-18.27.36:908][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/FA931MZMDXIGLKMXQWBTXQ9CC0811B4249F0BC3B9C8EAA5B8399DF.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/HK/FA931MZMDXIGLKMXQWBTXQ.uasset'
+[2025.10.27-18.27.36:914][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/WF/B9D0H7T2VH0FUHH6BTF6OZ
+[2025.10.27-18.27.36:914][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/B9D0H7T2VH0FUHH6BTF6OZ297C5AF446EC49EEEE4BADADE3DC011E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/WF/B9D0H7T2VH0FUHH6BTF6OZ.uasset'
+[2025.10.27-18.27.36:920][374]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/42/YG3LBXZQI3HCO6ZALI80GX
+[2025.10.27-18.27.36:920][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/YG3LBXZQI3HCO6ZALI80GXABD1E11841C40F7808C7D1895AECB3A3.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/42/YG3LBXZQI3HCO6ZALI80GX.uasset'
+[2025.10.27-18.27.36:927][374]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/L_LevelOne/6/YG/VKYFF6RMVDR208Q21J2P7X
+[2025.10.27-18.27.36:927][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/VKYFF6RMVDR208Q21J2P7XCBDADE1D4B0172DB30FD90AAB14007AE.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/6/YG/VKYFF6RMVDR208Q21J2P7X.uasset'
+[2025.10.27-18.27.36:933][374]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/L_LevelOne/E/SI/ZZ6BXKJ63I8CZ9JPL1B3TV
+[2025.10.27-18.27.36:933][374]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/ZZ6BXKJ63I8CZ9JPL1B3TVE0007C9B468027AC313564B72E180F49.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/E/SI/ZZ6BXKJ63I8CZ9JPL1B3TV.uasset'
+[2025.10.27-18.27.36:934][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 438.488 ms (total: 8.48 sec)
+[2025.10.27-18.27.36:941][374]LogFileHelpers: Saving map 'L_LevelOne' took 0.483
+[2025.10.27-18.27.36:941][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.58 sec (total: 10.0 sec)
+[2025.10.27-18.27.36:969][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.27-18.27.36:992][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.27-18.27.37:015][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.27-18.27.37:081][374]LogContentValidation: Display: Starting to validate 68 assets
+[2025.10.27-18.27.37:081][374]LogContentValidation: Enabled validators:
+[2025.10.27-18.27.37:081][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.27.37:081][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.27.37:082][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.27.37:082][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.27.37:082][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.27.37:082][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.27.37:082][374]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.10.27-18.27.37:114][374]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.27-18.27.38:948][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.27-18.27.38:950][517]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.27-18.27.38:950][517]Cmd: MAP LOAD FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/L_LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.27-18.27.38:960][517]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.27.38:960][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.27.38:960][517]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.27-18.27.38:982][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.27-18.27.38:985][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.27-18.27.38:987][517]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.27.38:987][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.27.38:987][517]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.27-18.27.39:008][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.27-18.27.39:032][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.27-18.27.39:083][517]LogStreaming: Display: FlushAsyncLoading(803): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.27.39:084][517]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelOne'.
+[2025.10.27-18.27.39:084][517]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.10.27-18.27.39:086][517]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.27-18.27.39:086][517]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.27-18.27.39:086][517]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.27-18.27.39:102][517]LogWorldPartition: Display: WorldPartition initialize took 15.866 ms (total: 146.988 ms)
+[2025.10.27-18.27.39:127][517]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.27-18.27.39:151][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.27-18.27.39:154][517]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.27-18.27.39:154][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.428ms to complete.
+[2025.10.27-18.27.39:202][517]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.27-18.27.44:099][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.27-18.28.07:335][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.27-18.28.07:776][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.27-18.28.07:961][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.27-18.28.08:198][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.27-18.28.10:074][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.27-18.28.10:078][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.28.10:133][ 51]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.27-18.28.10:135][ 51]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.27-18.28.10:135][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.27-18.28.10:135][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.10.27-18.28.10:146][ 51]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.10.27-18.28.10:146][ 51]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu812EED7E4FB9FAF63236DABB4337B296.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.10.27-18.28.10:152][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.838 ms (total: 10.1 sec)
+[2025.10.27-18.28.10:182][ 51]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-18.28.10:182][ 51]LogContentValidation: Enabled validators:
+[2025.10.27-18.28.10:182][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.28.10:182][ 51]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.28.10:182][ 51]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.28.10:182][ 51]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.28.10:182][ 51]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.28.10:182][ 51]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.28.10:182][ 51]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.10.27-18.28.20:060][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
