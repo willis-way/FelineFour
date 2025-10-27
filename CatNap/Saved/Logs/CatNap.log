@@ -2941,3 +2941,116 @@ None
 [2025.10.27-18.39.26:169][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.27-18.39.26:169][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.27-18.39.26:169][987]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.10.27-18.39.58:432][447]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.27-18.40.29:285][125]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.27-18.44.03:419][736]LogEditorTransaction: Undo Edit Background Color
+[2025.10.27-18.44.05:164][880]LogEditorTransaction: Redo Edit Background Color
+[2025.10.27-18.44.07:942][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.27-18.44.09:086][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.10.27-18.44.09:090][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.44.09:151][329]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.27-18.44.09:153][329]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.27-18.44.09:153][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.27-18.44.09:153][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.10.27-18.44.09:165][329]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.10.27-18.44.09:165][329]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu8D473F1D4739C9BC06739CAC9201B04F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.10.27-18.44.09:171][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.495 ms (total: 10.5 sec)
+[2025.10.27-18.44.09:199][329]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-18.44.09:199][329]LogContentValidation: Enabled validators:
+[2025.10.27-18.44.09:199][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.44.09:199][329]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.44.09:199][329]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.44.09:199][329]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.44.09:199][329]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.44.09:199][329]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.44.09:200][329]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.10.27-18.44.40:102][966]LogStreaming: Display: FlushAsyncLoading(1275): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.45.53:340][635]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2821.770020
+[2025.10.27-18.45.54:341][637]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-18.45.54:341][637]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2822.436768, Update Interval: 327.521606
+[2025.10.27-18.47.13:674][993]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\sbehr\Desktop\LuckiestGuy-Regular.ttf)
+[2025.10.27-18.51.31:862][993]LogSlate: Window 'Font Face Import Options' being destroyed
+[2025.10.27-18.51.31:870][993]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2025.10.27-18.51.31:875][993]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2025.10.27-18.51.31:895][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.51.31:909][994]LogSlate: Took 0.008524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.27-18.51.31:918][994]LogSlate: Took 0.006043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.27-18.51.31:929][994]LogSlate: Took 0.005454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.27-18.51.34:559][241]LogSlate: Took 0.007210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.27-18.51.34:583][241]LogSlate: Took 0.006044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.27-18.51.35:496][337]LogSlate: Took 0.006479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.27-18.51.45:619][498]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 145498
+[2025.10.27-18.51.45:619][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.51.45:624][499]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.27-18.51.45:625][499]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.27-18.51.45:626][499]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.27-18.51.45:626][499]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.27-18.51.45:631][499]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.27-18.51.45:682][504]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 6
+[2025.10.27-18.51.45:682][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.51.45:686][505]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.27-18.51.45:687][505]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.27-18.51.45:688][505]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.27-18.51.45:688][505]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.27-18.51.45:693][505]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.27-18.52.03:943][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3192.376709
+[2025.10.27-18.52.04:026][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-18.52.04:026][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3192.452148, Update Interval: 345.241241
+[2025.10.27-18.52.14:456][906]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 3402
+[2025.10.27-18.52.14:459][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.52.14:464][907]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.27-18.52.14:465][907]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.27-18.52.14:466][907]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.27-18.52.14:466][907]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.27-18.52.14:470][907]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.27-18.53.04:951][926]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.27-18.54.06:941][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.27-18.54.06:945][240]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.027
+[2025.10.27-18.54.06:946][240]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.27-18.54.06:951][240]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.27-18.54.06:951][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.27-18.54.06:965][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WBP/WBP_StartMenu_Auto1
+[2025.10.27-18.54.06:965][240]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu_Auto1E4E66D0C4C61EA7C56027BBDE7F03A65.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Blueprints/WBP/WBP_StartMenu_Auto1.uasset'
+[2025.10.27-18.54.06:965][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LuckiestGuy-Regular] ([1] browsable assets)...
+[2025.10.27-18.54.06:965][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/LuckiestGuy-Regular]
+[2025.10.27-18.54.06:971][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LuckiestGuy-Regular_Auto1
+[2025.10.27-18.54.06:971][240]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/LuckiestGuy-Regular_Auto131B117CA45692404F5CEC2BB6A414BEF.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/LuckiestGuy-Regular_Auto1.uasset'
+[2025.10.27-18.54.06:971][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LuckiestGuy-Regular_Font] ([1] browsable assets)...
+[2025.10.27-18.54.06:974][240]OBJ SavePackage:     Rendered thumbnail for [Font /Game/LuckiestGuy-Regular_Font.LuckiestGuy-Regular_Font]
+[2025.10.27-18.54.06:974][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/LuckiestGuy-Regular_Font]
+[2025.10.27-18.54.06:980][240]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LuckiestGuy-Regular_Font_Auto1
+[2025.10.27-18.54.06:980][240]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/LuckiestGuy-Regular_Font_Auto108C4F1DB49C452E7A1F2F98F15152683.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/LuckiestGuy-Regular_Font_Auto1.uasset'
+[2025.10.27-18.54.06:981][240]LogFileHelpers: Auto-saving content packages took 0.036
+[2025.10.27-18.54.29:467][928]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.27-18.54.32:148][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.27-18.54.33:500][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.27-18.54.33:505][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.54.33:553][367]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.27-18.54.33:555][367]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.27-18.54.33:555][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.27-18.54.33:555][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.10.27-18.54.33:566][367]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.10.27-18.54.33:567][367]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenuC43A8A444812058511F35B924FCF1FFE.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.10.27-18.54.33:567][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LuckiestGuy-Regular] ([1] browsable assets)...
+[2025.10.27-18.54.33:567][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/LuckiestGuy-Regular]
+[2025.10.27-18.54.33:567][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LuckiestGuy-Regular" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/LuckiestGuy-Regular.uasset" SILENT=true
+[2025.10.27-18.54.33:572][367]LogSavePackage: Moving output files for package: /Game/LuckiestGuy-Regular
+[2025.10.27-18.54.33:573][367]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/LuckiestGuy-Regular5688BD7D45EFD2E77947829B282B78BB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/LuckiestGuy-Regular.uasset'
+[2025.10.27-18.54.33:575][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LuckiestGuy-Regular_Font] ([1] browsable assets)...
+[2025.10.27-18.54.33:575][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/LuckiestGuy-Regular_Font]
+[2025.10.27-18.54.33:575][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LuckiestGuy-Regular_Font" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/LuckiestGuy-Regular_Font.uasset" SILENT=true
+[2025.10.27-18.54.33:581][367]LogSavePackage: Moving output files for package: /Game/LuckiestGuy-Regular_Font
+[2025.10.27-18.54.33:581][367]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/LuckiestGuy-Regular_FontE7A4D096463468D3C79A759A6452CD6E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/LuckiestGuy-Regular_Font.uasset'
+[2025.10.27-18.54.33:588][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.336 ms (total: 10.6 sec)
+[2025.10.27-18.54.33:637][367]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.27-18.54.33:637][367]LogContentValidation: Enabled validators:
+[2025.10.27-18.54.33:637][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.54.33:637][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.54.33:637][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.54.33:637][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.54.33:637][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.54.33:637][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.54.33:637][367]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.10.27-18.54.33:637][367]AssetCheck: /Game/LuckiestGuy-Regular Validating asset
+[2025.10.27-18.54.33:637][367]AssetCheck: /Game/LuckiestGuy-Regular_Font Validating asset
+[2025.10.27-18.54.33:653][367]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
