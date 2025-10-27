@@ -1590,3 +1590,76 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.27-18.14.17:486][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.27-18.14.17:486][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.27-18.14.17:487][640]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.10.27-18.15.31:338][483]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 999.765381
+[2025.10.27-18.15.32:337][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-18.15.32:337][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1000.431824, Update Interval: 319.354828
+[2025.10.27-18.16.57:292][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.27-18.17.00:301][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.27-18.17.00:305][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.17.00:362][257]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.27-18.17.00:366][257]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.27-18.17.00:366][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.27-18.17.00:366][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.10.27-18.17.00:377][257]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.10.27-18.17.00:377][257]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu0B86E3D4400C52680094D285AAC8B669.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.10.27-18.17.00:382][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.603 ms (total: 291.815 ms)
+[2025.10.27-18.17.00:428][257]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-18.17.00:428][257]LogContentValidation: Enabled validators:
+[2025.10.27-18.17.00:428][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.17.00:428][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.17.00:428][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.17.00:428][257]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.17.00:428][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.17.00:428][257]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.17.00:428][257]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.10.27-18.18.20:925][232]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.27-18.18.20:930][232]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.27-18.18.20:935][233]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.27-18.18.24:344][639]LogContentBrowser: Attempting asset rename: NewFolder -> GameModes
+[2025.10.27-18.18.24:344][639]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.27-18.20.10:901][801]LogSlate: Window 'Create New GameMode' being destroyed
+[2025.10.27-18.20.14:437][151]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Levels/GameModes/GM_StartMenuLevel.GM_StartMenuLevel
+[2025.10.27-18.20.14:437][151]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.27-18.20.14:477][151]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.20.14:482][151]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.10.27-18.20.14:483][151]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.10.27-18.20.18:749][588]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.20.18:749][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.20.18:801][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.27-18.20.30:155][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Levels/GameModes/GM_StartMenuLevel.GM_StartMenuLevel
+[2025.10.27-18.20.30:156][100]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.27-18.20.37:695][572]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-18.20.37:695][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-18.20.37:705][572]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Levels/GameModes/GM_StartMenuLevel.GM_StartMenuLevel
+[2025.10.27-18.20.37:705][572]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.27-18.20.38:030][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.27-18.21.06:617][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1335.047485
+[2025.10.27-18.21.07:617][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-18.21.07:617][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1335.714478, Update Interval: 316.782135
+[2025.10.27-18.23.44:935][225]LogBlueprint: Error: [AssetLog] /Game/Levels/GameModes/GM_StartMenuLevel.GM_StartMenuLevel: [Compiler] This blueprint (self) is not a PlayerState, therefore ' Target ' must have a connection.
+[2025.10.27-18.23.44:936][225]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.23.44:974][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.27-18.24.43:641][949]LogBlueprint: Error: [AssetLog] /Game/Levels/GameModes/GM_StartMenuLevel.GM_StartMenuLevel: [Compiler] This blueprint (self) is not a PlayerState, therefore ' Target ' must have a connection.
+[2025.10.27-18.24.43:677][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.27-18.24.46:115][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.27-18.24.46:118][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.24.46:201][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.27-18.24.46:210][229]LogSavePackage: Moving output files for package: /Game/Levels/StartMenuLevel
+[2025.10.27-18.24.46:210][229]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/StartMenuLevel98F461ED49AE0381FEAB89B8A908438C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/StartMenuLevel.umap'
+[2025.10.27-18.24.46:216][229]LogFileHelpers: Saving map 'StartMenuLevel' took 0.045
+[2025.10.27-18.24.46:217][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/GameModes/GM_StartMenuLevel] ([2] browsable assets)...
+[2025.10.27-18.24.46:217][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/GameModes/GM_StartMenuLevel]
+[2025.10.27-18.24.46:226][229]LogSavePackage: Moving output files for package: /Game/Levels/GameModes/GM_StartMenuLevel
+[2025.10.27-18.24.46:226][229]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/GM_StartMenuLevel048373FB465EB1BC18CFFA8D7AC7A381.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/GameModes/GM_StartMenuLevel.uasset'
+[2025.10.27-18.24.46:235][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.671 ms (total: 408.486 ms)
+[2025.10.27-18.24.46:287][229]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.27-18.24.46:287][229]LogContentValidation: Enabled validators:
+[2025.10.27-18.24.46:287][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.24.46:287][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.24.46:287][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.24.46:287][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.24.46:287][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.24.46:287][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.24.46:287][229]AssetCheck: /Game/Levels/StartMenuLevel Validating asset
+[2025.10.27-18.24.46:287][229]AssetCheck: /Game/Levels/GameModes/GM_StartMenuLevel Validating asset
+[2025.10.27-18.24.46:299][230]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json

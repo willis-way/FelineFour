@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/StartMenuLevel.umap",
-				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset"
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset",
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/GameModes/GM_StartMenuLevel.uasset"
 			]
 		}
 	]
