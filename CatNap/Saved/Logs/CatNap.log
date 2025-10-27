@@ -1529,3 +1529,64 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.27-18.01.56:360][570]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2025.10.27-18.01.56:360][570]LogShaderCompilers: Display: ================================================
 [2025.10.27-18.02.32:736][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.27-18.04.04:922][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 313.350250
+[2025.10.27-18.04.05:927][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-18.04.05:927][196]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 314.016571, Update Interval: 344.027222
+[2025.10.27-18.09.51:952][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 660.379944
+[2025.10.27-18.09.52:952][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-18.09.52:952][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 661.046814, Update Interval: 333.073517
+[2025.10.27-18.12.00:998][ 12]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.10.27-18.12.01:006][ 12]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.27-18.12.01:010][ 12]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.27-18.12.01:036][ 14]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.27-18.12.44:728][791]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2025.10.27-18.12.44:738][791]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.27-18.12.51:126][452]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_StartMenu
+[2025.10.27-18.12.51:249][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.12.51:249][452]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.27-18.12.51:256][452]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.27-18.12.51:256][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.27-18.12.51:256][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.10.27-18.12.51:269][452]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.10.27-18.12.51:269][452]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu0C2EA9EF4CBC8146D0650D85D452F1E7.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.10.27-18.12.51:273][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 23.680 ms (total: 159.084 ms)
+[2025.10.27-18.12.51:339][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.27-18.12.51:352][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.27-18.12.51:363][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.27-18.12.51:399][452]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-18.12.51:400][452]LogContentValidation: Enabled validators:
+[2025.10.27-18.12.51:400][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.12.51:400][452]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.12.51:400][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.12.51:400][452]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.12.51:400][452]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.12.51:400][452]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.12.51:400][452]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.10.27-18.12.51:429][452]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.27-18.12.53:396][663]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu
+[2025.10.27-18.12.53:397][663]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.27-18.12.53:402][663]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.27-18.12.53:408][663]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.10.27-18.12.53:483][663]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-18.12.54:566][663]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.27-18.12.54:582][663]LogSlate: Took 0.006569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.27-18.14.09:624][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.27-18.14.12:442][ 80]LogSlate: Window 'WBP_StartMenu' being destroyed
+[2025.10.27-18.14.17:367][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.27-18.14.17:371][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-18.14.17:406][640]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.27-18.14.17:408][640]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.27-18.14.17:408][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.27-18.14.17:408][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.10.27-18.14.17:419][640]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.10.27-18.14.17:419][640]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu9E48C3F846C7DA6AB0A0C68E82BADB51.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.10.27-18.14.17:426][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.127 ms (total: 215.212 ms)
+[2025.10.27-18.14.17:486][640]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-18.14.17:486][640]LogContentValidation: Enabled validators:
+[2025.10.27-18.14.17:486][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-18.14.17:486][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-18.14.17:486][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-18.14.17:486][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-18.14.17:486][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-18.14.17:486][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-18.14.17:487][640]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
