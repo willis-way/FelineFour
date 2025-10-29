@@ -2522,3 +2522,12 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 		NumGeometrySegments changed: current: 0 - new: 512
 [2025.10.29-19.16.04:775][939]LogPSOHitching: Encountered 600 PSO creation hitches so far (159 graphics, 441 compute). 0 of them were precached.
 [2025.10.29-19.16.07:143][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.29-19.16.44:400][581]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.29-19.17.04:024][328]LogStreaming: Display: FlushAsyncLoading(897): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-19.17.04:025][328]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.10.29-19.17.30:879][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2537.218506
+[2025.10.29-19.17.30:940][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-19.17.30:940][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2537.270508, Update Interval: 341.579041
+[2025.10.29-19.17.41:891][828]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.29-19.17.41:898][828]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.29-19.17.43:535][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
