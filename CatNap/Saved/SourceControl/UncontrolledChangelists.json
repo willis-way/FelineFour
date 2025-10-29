@@ -8,7 +8,6 @@
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/StartMenuLevel.umap",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/GameModes/GM_StartMenuLevel.uasset",
-				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/A/VY/H0TYJY8JBMV4XC0BNBGV6J.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/E/GE/0QLJAZHXHLLGHF5TCGWL2J.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/1/0L/V6I0SHAVRLLHOCNE76ZT23.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/8/D7/EI8QSK1B8IDSMAFRIZ6JIL.uasset",
@@ -73,9 +72,6 @@
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/D/K1/76UU4CNZRZ9H38YAXZO9UN.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/3/F6/2ZLDFSBJO3OA4M4DK9DL8A.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/B/YG/ZJ5Z59I5MB1Y69HZ1F2A5W.uasset",
-				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/L_LevelOne/A/9F/ZS7RH16K1FT743K5HYAJTB.uasset",
-				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/L_LevelOne/9/9T/AU3ZDWVAC0AHHOUJUZPL8D.uasset",
-				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/L_LevelOne.umap",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/6/YG/VKYFF6RMVDR208Q21J2P7X.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/E/SI/ZZ6BXKJ63I8CZ9JPL1B3TV.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/L_LevelOne.umap",
@@ -145,7 +141,13 @@
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/WF/B9D0H7T2VH0FUHH6BTF6OZ.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/42/YG3LBXZQI3HCO6ZALI80GX.uasset",
 				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/LuckiestGuy-Regular.uasset",
-				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/LuckiestGuy-Regular_Font.uasset"
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/LuckiestGuy-Regular_Font.uasset",
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/StartScreenImagery.uasset",
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/CatNap_Home_Screen.uasset",
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/L_LevelOne/A/VY/H0TYJY8JBMV4XC0BNBGV6J.uasset",
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/L_LevelOne/A/9F/ZS7RH16K1FT743K5HYAJTB.uasset",
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/L_LevelOne/9/9T/AU3ZDWVAC0AHHOUJUZPL8D.uasset",
+				"C:/Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/L_LevelOne.umap"
 			]
 		}
 	]
