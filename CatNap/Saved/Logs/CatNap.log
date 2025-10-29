@@ -1748,3 +1748,777 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.29-18.52.51:936][174]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
 [2025.10.29-18.52.51:943][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2025.10.29-18.52.51:993][178]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.10.29-18.53.27:899][760]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-18.53.27:904][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.29-18.53.27:904][760]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2025.10.29-18.53.27:906][760]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.10.29-18.53.27:913][761]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-18.53.27:914][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000662s)
+[2025.10.29-18.53.27:914][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.000702s)
+[2025.10.29-18.53.27:989][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.29-18.53.27:990][761]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.10.29-18.53.27:991][761]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2025.10.29-18.53.27:991][761]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.29-18.53.27:992][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-18.53.27:992][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-18.53.27:992][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-18.53.27:992][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-18.53.27:992][761]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.29-18.53.27:992][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-18.53.27:992][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.29-18.53.27:992][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-18.53.27:992][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-18.53.27:992][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-18.53.27:992][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-18.53.27:993][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-18.53.28:003][761]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.10.29-18.53.28:003][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-18.53.28:003][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-18.53.28:003][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-18.53.28:004][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.29-18.53.28:004][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.29-18.53.28:006][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.29-18.53.28:006][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.29-18.53.28:006][761]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.29-18.53.28:006][761]LogAudio: Display: Audio Device (ID: 5) registered with world 'StartMenuLevel'.
+[2025.10.29-18.53.28:006][761]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.29-18.53.28:009][761]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.10.29-18.53.28:009][761]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.10.29-14.53.28
+[2025.10.29-18.53.28:010][761]LogWorld: Bringing up level for play took: 0.000295
+[2025.10.29-18.53.28:011][761]PIE: Server logged in
+[2025.10.29-18.53.28:013][761]PIE: Play in editor total start time 0.109 seconds.
+[2025.10.29-18.53.28:048][762]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.29-18.53.59:284][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-18.53.59:284][498]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-18.53.59:284][498]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-18.53.59:284][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.53.59:285][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-18.53.59:289][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.53.59:304][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-18.53.59:304][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.29-18.53.59:304][498]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.29-18.53.59:306][498]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.29-18.53.59:311][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.29-18.53.59:355][501]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.10.29-18.54.06:919][400]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 44111
+[2025.10.29-18.54.06:920][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.54.06:924][401]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-18.54.06:924][401]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-18.54.06:926][401]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-18.54.06:927][401]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-18.54.06:931][401]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-18.54.35:833][829]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.10.29-18.58.23:236][152]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1389.612061
+[2025.10.29-18.58.24:237][155]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-18.58.24:237][155]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1390.280518, Update Interval: 319.230316
+[2025.10.29-18.59.45:676][137]LogEditorTransaction: Undo Resize Widget
+[2025.10.29-18.59.56:824][384]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 13984
+[2025.10.29-18.59.56:824][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.59.56:829][385]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-18.59.56:829][385]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-18.59.56:830][385]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-18.59.56:831][385]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-18.59.56:834][385]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-18.59.57:009][405]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 21
+[2025.10.29-18.59.57:009][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.59.57:013][406]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-18.59.57:013][406]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-18.59.57:014][406]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-18.59.57:015][406]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-18.59.57:019][406]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-18.59.57:185][425]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 20
+[2025.10.29-18.59.57:185][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.59.57:189][426]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-18.59.57:189][426]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-18.59.57:190][426]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-18.59.57:191][426]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-18.59.57:195][426]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-18.59.57:611][475]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 50
+[2025.10.29-18.59.57:612][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.59.57:615][476]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-18.59.57:616][476]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-18.59.57:616][476]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-18.59.57:617][476]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-18.59.57:621][476]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-18.59.58:170][541]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 66
+[2025.10.29-18.59.58:170][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.59.58:174][542]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-18.59.58:175][542]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-18.59.58:176][542]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-18.59.58:177][542]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-18.59.58:181][542]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-18.59.58:364][563]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 22
+[2025.10.29-18.59.58:364][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.59.58:368][564]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-18.59.58:368][564]LogSlate: Took 0.000066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-18.59.58:369][564]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-18.59.58:370][564]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-18.59.58:375][564]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-18.59.59:291][673]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 110
+[2025.10.29-18.59.59:291][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-18.59.59:295][674]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-18.59.59:295][674]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-18.59.59:297][674]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-18.59.59:298][674]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-18.59.59:302][674]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.00:043][762]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 89
+[2025.10.29-19.00.00:044][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.00:048][763]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.00:048][763]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.00:049][763]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.00:050][763]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.00:054][763]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.00:828][855]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 93
+[2025.10.29-19.00.00:828][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.00:832][856]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.00:832][856]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.00:834][856]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.00:835][856]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.00:839][856]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.01:864][978]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 123
+[2025.10.29-19.00.01:864][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.01:868][979]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.01:869][979]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.01:870][979]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.01:870][979]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.01:875][979]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.02:043][998]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 20
+[2025.10.29-19.00.02:043][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.02:046][999]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.02:047][999]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.02:048][999]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.02:048][999]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.02:053][999]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.02:177][ 13]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 15
+[2025.10.29-19.00.02:177][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.02:181][ 14]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.02:181][ 14]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.02:182][ 14]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.02:182][ 14]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.02:187][ 14]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.07:976][708]LogEditorTransaction: Undo Resize Widget
+[2025.10.29-19.00.10:942][  7]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 994
+[2025.10.29-19.00.10:942][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.10:947][  8]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.10:947][  8]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.10:948][  8]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.10:949][  8]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.10:953][  8]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.11:654][ 91]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 84
+[2025.10.29-19.00.11:654][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.11:657][ 92]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.11:658][ 92]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.11:659][ 92]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.11:660][ 92]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.11:664][ 92]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.11:889][118]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 27
+[2025.10.29-19.00.11:889][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.11:893][119]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.11:894][119]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.11:895][119]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.11:896][119]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.11:900][119]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.12:183][152]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 34
+[2025.10.29-19.00.12:183][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.12:186][153]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.12:187][153]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.12:188][153]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.12:189][153]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.12:193][153]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.12:317][167]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 15
+[2025.10.29-19.00.12:318][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.12:322][168]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.12:323][168]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.12:323][168]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.12:324][168]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.12:328][168]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.12:428][179]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 12
+[2025.10.29-19.00.12:428][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.12:432][180]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.12:432][180]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.12:434][180]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.12:434][180]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.12:439][180]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.13:739][335]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 156
+[2025.10.29-19.00.13:739][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.13:744][336]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.13:744][336]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.13:745][336]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.13:745][336]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.13:750][336]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.13:941][358]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 23
+[2025.10.29-19.00.13:941][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.13:945][359]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.13:945][359]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.13:946][359]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.13:947][359]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.13:952][359]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.00.17:285][758]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 400
+[2025.10.29-19.00.17:285][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.00.17:289][759]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.00.17:289][759]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.00.17:290][759]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.00.17:291][759]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.00.17:296][759]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.01.03:506][192]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.29-19.01.03:540][192]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 5434
+[2025.10.29-19.01.03:541][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.01.03:546][193]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.01.03:546][193]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.01.03:548][193]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.29-19.01.03:549][193]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.01.03:553][193]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.01.06:261][498]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-19.01.06:268][498]LogPlayLevel: [PlayLevel] Compiling WBP_StartMenu before play...
+[2025.10.29-19.01.06:358][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.29-19.01.06:359][498]LogPlayLevel: PlayLevel: Blueprint regeneration took 94 ms (1 blueprints)
+[2025.10.29-19.01.06:360][498]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2025.10.29-19.01.06:362][498]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.10.29-19.01.06:373][499]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.01.06:373][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000750s)
+[2025.10.29-19.01.06:373][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.000798s)
+[2025.10.29-19.01.06:392][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.29-19.01.06:393][499]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.10.29-19.01.06:396][499]LogPlayLevel: PIE: World Init took: (0.001645s)
+[2025.10.29-19.01.06:397][499]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.29-19.01.06:397][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-19.01.06:397][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-19.01.06:397][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-19.01.06:397][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-19.01.06:397][499]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.29-19.01.06:397][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-19.01.06:397][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.29-19.01.06:397][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-19.01.06:397][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-19.01.06:397][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-19.01.06:397][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-19.01.06:398][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-19.01.06:408][499]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.10.29-19.01.06:409][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-19.01.06:409][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-19.01.06:409][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-19.01.06:409][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.29-19.01.06:409][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.29-19.01.06:411][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.29-19.01.06:411][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.29-19.01.06:411][499]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.29-19.01.06:411][499]LogAudio: Display: Audio Device (ID: 6) registered with world 'StartMenuLevel'.
+[2025.10.29-19.01.06:411][499]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.29-19.01.06:415][499]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.10.29-19.01.06:416][499]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.10.29-15.01.06
+[2025.10.29-19.01.06:416][499]LogWorld: Bringing up level for play took: 0.000319
+[2025.10.29-19.01.06:418][499]PIE: Server logged in
+[2025.10.29-19.01.06:420][499]PIE: Play in editor total start time 0.155 seconds.
+[2025.10.29-19.01.06:468][500]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.29-19.01.15:371][557]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/L_LevelOne"
+[2025.10.29-19.01.15:371][557]LogNet: Browse: /Game/Levels/L_LevelOne
+[2025.10.29-19.01.15:371][557]LogLoad: LoadMap: /Game/Levels/L_LevelOne
+[2025.10.29-19.01.15:371][557]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.01.15:371][557]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-19.01.15:371][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.01.15:431][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.29-19.01.15:433][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.29-19.01.15:434][557]LogStreaming: Display: FlushAsyncLoading(697): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-19.01.15:436][557]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_LevelOne'.
+[2025.10.29-19.01.15:436][557]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.10.29-19.01.15:437][557]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.29-19.01.15:437][557]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.29-19.01.15:437][557]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.10.29-19.01.15:437][557]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.29-19.01.15:439][557]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.10.29-19.01.15:447][557]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 8.407 ms (total: 237.531 ms)
+[2025.10.29-19.01.15:448][557]LogWorldPartition: Display: WorldPartition initialize took 10.722 ms (total: 293.901 ms)
+[2025.10.29-19.01.15:448][557]LogPlayLevel: PIE: World Init took: (0.012093s)
+[2025.10.29-19.01.15:448][557]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.29-19.01.15:450][557]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.10.29-15.01.15
+[2025.10.29-19.01.15:451][557]LogWorld: Bringing up level for play took: 0.002241
+[2025.10.29-19.01.15:454][557]LogLoad: Took 0.083049 seconds to LoadMap(/Game/Levels/L_LevelOne)
+[2025.10.29-19.01.15:454][557]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/L_LevelOne
+[2025.10.29-19.01.15:461][557]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.29-19.01.15:498][558]LogPSOHitching: Encountered 450 PSO creation hitches so far (110 graphics, 340 compute). 0 of them were precached.
+[2025.10.29-19.01.15:752][560]LogPSOHitching: Encountered 500 PSO creation hitches so far (124 graphics, 376 compute). 0 of them were precached.
+[2025.10.29-19.01.17:317][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.01.17:317][717]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.10.29-19.01.17:318][717]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-19.01.17:318][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.01.17:318][717]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.10.29-19.01.17:319][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-19.01.17:327][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.01.17:339][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.01.17:339][717]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.29-19.01.17:339][717]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.29-19.01.17:341][717]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.29-19.01.17:348][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.29-19.01.17:375][719]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.10.29-19.01.19:113][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-19.01.19:117][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.29-19.01.19:117][916]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2025.10.29-19.01.19:119][916]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.10.29-19.01.19:127][917]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.01.19:127][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000628s)
+[2025.10.29-19.01.19:127][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.000668s)
+[2025.10.29-19.01.19:144][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.29-19.01.19:146][917]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.10.29-19.01.19:147][917]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2025.10.29-19.01.19:148][917]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.29-19.01.19:148][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-19.01.19:148][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-19.01.19:148][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-19.01.19:148][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-19.01.19:148][917]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.29-19.01.19:148][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-19.01.19:148][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.29-19.01.19:148][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-19.01.19:148][917]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-19.01.19:148][917]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-19.01.19:148][917]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-19.01.19:150][917]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-19.01.19:158][917]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.10.29-19.01.19:159][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-19.01.19:159][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-19.01.19:159][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-19.01.19:159][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.29-19.01.19:159][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.29-19.01.19:161][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.29-19.01.19:161][917]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.29-19.01.19:161][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.29-19.01.19:161][917]LogAudio: Display: Audio Device (ID: 7) registered with world 'StartMenuLevel'.
+[2025.10.29-19.01.19:161][917]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.29-19.01.19:165][917]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.10.29-19.01.19:165][917]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.10.29-15.01.19
+[2025.10.29-19.01.19:165][917]LogWorld: Bringing up level for play took: 0.000290
+[2025.10.29-19.01.19:167][917]PIE: Server logged in
+[2025.10.29-19.01.19:169][917]PIE: Play in editor total start time 0.053 seconds.
+[2025.10.29-19.01.19:205][918]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.29-19.01.23:665][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.01.23:665][435]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.01.23:665][435]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-19.01.23:665][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.01.23:667][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-19.01.23:671][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.01.23:686][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.01.23:686][435]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.29-19.01.23:686][435]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.10.29-19.01.23:688][435]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.10.29-19.01.23:693][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.29-19.01.23:735][438]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.10.29-19.01.24:102][481]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.01.26:427][735]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:427][735]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:429][735]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:487][736]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:492][736]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:550][737]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:607][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:611][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:671][739]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:671][739]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:728][740]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:792][741]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:792][741]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:793][741]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:850][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:854][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:915][743]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:971][744]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.26:976][744]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.27:034][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.27:035][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.27:091][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.27:091][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.10.29-19.01.27:450][776]LogEditorTransaction: Undo Resize Widget
+[2025.10.29-19.01.57:051][220]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-19.01.57:056][220]LogPlayLevel: [PlayLevel] Compiling WBP_StartMenu before play...
+[2025.10.29-19.01.57:143][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.29-19.01.57:145][220]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (1 blueprints)
+[2025.10.29-19.01.57:146][220]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2025.10.29-19.01.57:148][220]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.10.29-19.01.57:160][221]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.01.57:160][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000822s)
+[2025.10.29-19.01.57:161][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.000894s)
+[2025.10.29-19.01.57:177][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.29-19.01.57:179][221]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.10.29-19.01.57:180][221]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2025.10.29-19.01.57:181][221]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.10.29-19.01.57:181][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-19.01.57:181][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-19.01.57:181][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-19.01.57:181][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-19.01.57:181][221]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.29-19.01.57:181][221]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-19.01.57:181][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.29-19.01.57:181][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-19.01.57:181][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-19.01.57:181][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-19.01.57:181][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-19.01.57:183][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-19.01.57:192][221]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.10.29-19.01.57:192][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-19.01.57:192][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-19.01.57:192][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-19.01.57:192][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.10.29-19.01.57:192][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.10.29-19.01.57:195][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.10.29-19.01.57:195][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.10.29-19.01.57:195][221]LogInit: FAudioDevice initialized with ID 8.
+[2025.10.29-19.01.57:195][221]LogAudio: Display: Audio Device (ID: 8) registered with world 'StartMenuLevel'.
+[2025.10.29-19.01.57:195][221]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.29-19.01.57:198][221]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.10.29-19.01.57:198][221]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.10.29-15.01.57
+[2025.10.29-19.01.57:199][221]LogWorld: Bringing up level for play took: 0.000339
+[2025.10.29-19.01.57:201][221]PIE: Server logged in
+[2025.10.29-19.01.57:202][221]PIE: Play in editor total start time 0.148 seconds.
+[2025.10.29-19.01.57:252][222]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.29-19.02.00:906][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.02.00:906][649]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.02.00:906][649]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-19.02.00:906][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.02.00:907][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-19.02.00:910][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.02.00:927][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.02.00:928][649]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.29-19.02.00:928][649]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.10.29-19.02.00:929][649]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.10.29-19.02.00:934][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.29-19.02.00:960][651]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.10.29-19.03.11:608][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.29-19.03.13:503][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-19.03.13:507][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.29-19.03.13:508][211]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2025.10.29-19.03.13:510][211]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.10.29-19.03.13:519][212]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.03.13:520][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000776s)
+[2025.10.29-19.03.13:520][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.000815s)
+[2025.10.29-19.03.13:539][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.29-19.03.13:541][212]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.10.29-19.03.13:542][212]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2025.10.29-19.03.13:543][212]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.10.29-19.03.13:543][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-19.03.13:543][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-19.03.13:543][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-19.03.13:543][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-19.03.13:543][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.29-19.03.13:543][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-19.03.13:543][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.29-19.03.13:543][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-19.03.13:543][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-19.03.13:543][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-19.03.13:543][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-19.03.13:545][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-19.03.13:555][212]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.10.29-19.03.13:555][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-19.03.13:555][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-19.03.13:555][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-19.03.13:555][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.10.29-19.03.13:555][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.10.29-19.03.13:557][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.10.29-19.03.13:557][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.10.29-19.03.13:557][212]LogInit: FAudioDevice initialized with ID 9.
+[2025.10.29-19.03.13:557][212]LogAudio: Display: Audio Device (ID: 9) registered with world 'StartMenuLevel'.
+[2025.10.29-19.03.13:557][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.29-19.03.13:561][212]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.10.29-19.03.13:561][212]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.10.29-15.03.13
+[2025.10.29-19.03.13:561][212]LogWorld: Bringing up level for play took: 0.000293
+[2025.10.29-19.03.13:563][212]PIE: Server logged in
+[2025.10.29-19.03.13:565][212]PIE: Play in editor total start time 0.058 seconds.
+[2025.10.29-19.03.13:602][213]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.29-19.03.59:469][711]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1725.851929
+[2025.10.29-19.03.59:536][719]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-19.03.59:536][719]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1725.910156, Update Interval: 350.633881
+[2025.10.29-19.04.11:457][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.04.11:457][130]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.04.11:457][130]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-19.04.11:457][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.11:458][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-19.04.11:462][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.11:478][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.04.11:478][130]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.29-19.04.11:478][130]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.10.29-19.04.11:479][130]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.10.29-19.04.11:484][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.29-19.04.11:529][133]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.10.29-19.04.30:350][357]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 24165
+[2025.10.29-19.04.30:350][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.30:354][358]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.04.30:354][358]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.04.30:355][358]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.04.30:356][358]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.04.30:360][358]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.04.30:477][371]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 14
+[2025.10.29-19.04.30:477][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.30:481][372]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.04.30:482][372]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.04.30:483][372]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.04.30:484][372]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.04.30:488][372]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.04.30:597][384]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 13
+[2025.10.29-19.04.30:597][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.30:601][385]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.04.30:601][385]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.04.30:602][385]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.04.30:603][385]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.04.30:608][385]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.04.30:716][397]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 13
+[2025.10.29-19.04.30:716][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.30:720][398]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.04.30:721][398]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.04.30:722][398]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.04.30:722][398]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.04.30:726][398]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.04.30:835][410]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 13
+[2025.10.29-19.04.30:836][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.30:840][411]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.04.30:840][411]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.04.30:841][411]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.04.30:842][411]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.04.30:846][411]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.04.30:913][418]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 8
+[2025.10.29-19.04.30:913][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.30:918][419]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.04.30:919][419]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.04.30:919][419]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.04.30:920][419]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.04.30:924][419]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.04.31:242][456]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 38
+[2025.10.29-19.04.31:242][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.31:246][457]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.04.31:247][457]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.04.31:248][457]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.04.31:249][457]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.04.31:253][457]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.04.39:424][427]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.29-19.04.39:429][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.29-19.04.39:429][427]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2025.10.29-19.04.39:431][427]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.10.29-19.04.39:441][428]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.04.39:442][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000820s)
+[2025.10.29-19.04.39:442][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.000861s)
+[2025.10.29-19.04.39:463][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.29-19.04.39:465][428]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.10.29-19.04.39:466][428]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2025.10.29-19.04.39:466][428]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.10.29-19.04.39:466][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.29-19.04.39:466][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.29-19.04.39:466][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.29-19.04.39:466][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.29-19.04.39:466][428]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.29-19.04.39:466][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.29-19.04.39:466][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.29-19.04.39:466][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.29-19.04.39:466][428]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.29-19.04.39:466][428]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.29-19.04.39:466][428]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.29-19.04.39:468][428]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.29-19.04.39:478][428]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.10.29-19.04.39:478][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.29-19.04.39:478][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.29-19.04.39:478][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.29-19.04.39:478][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.10.29-19.04.39:478][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.10.29-19.04.39:480][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.10.29-19.04.39:480][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.10.29-19.04.39:480][428]LogInit: FAudioDevice initialized with ID 10.
+[2025.10.29-19.04.39:480][428]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartMenuLevel'.
+[2025.10.29-19.04.39:480][428]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.29-19.04.39:484][428]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.10.29-19.04.39:484][428]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.10.29-15.04.39
+[2025.10.29-19.04.39:484][428]LogWorld: Bringing up level for play took: 0.000291
+[2025.10.29-19.04.39:486][428]PIE: Server logged in
+[2025.10.29-19.04.39:487][428]PIE: Play in editor total start time 0.059 seconds.
+[2025.10.29-19.04.39:523][429]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.29-19.04.40:976][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.04.40:977][591]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.10.29-19.04.40:977][591]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-19.04.40:977][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.40:978][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.29-19.04.40:982][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.04.40:999][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.29-19.04.40:999][591]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.29-19.04.40:999][591]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.10.29-19.04.41:000][591]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.10.29-19.04.41:005][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.29-19.04.41:047][594]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.10.29-19.04.42:685][779]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.29-19.04.57:675][555]LogEditorTransaction: Undo Resize Widget
+[2025.10.29-19.04.58:812][632]LogEditorTransaction: Redo Resize Widget
+[2025.10.29-19.05.01:502][940]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 3484
+[2025.10.29-19.05.01:502][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.05.01:505][941]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.29-19.05.01:507][941]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.29-19.05.01:507][941]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.29-19.05.01:508][941]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.29-19.05.01:512][941]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.29-19.05.14:780][501]LogEditorTransaction: Undo Resize Widget
+[2025.10.29-19.05.17:105][723]LogEditorTransaction: Redo Resize Widget
+[2025.10.29-19.05.46:772][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.29-19.05.46:773][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/StartMenuLevel' took 0.022
+[2025.10.29-19.05.46:774][455]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.29-19.05.46:779][455]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.29-19.05.46:779][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.29-19.05.46:792][455]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WBP/WBP_StartMenu_Auto2
+[2025.10.29-19.05.46:792][455]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu_Auto28926DD6D4E9544D9AEDE3C81CAD78927.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Blueprints/WBP/WBP_StartMenu_Auto2.uasset'
+[2025.10.29-19.05.46:793][455]LogFileHelpers: Auto-saving content packages took 0.019
+[2025.10.29-19.10.50:372][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2136.746582
+[2025.10.29-19.10.51:371][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-19.10.51:371][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2137.413086, Update Interval: 355.903809
+[2025.10.29-19.12.44:239][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.29-19.12.45:499][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.29-19.12.45:504][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-19.12.45:559][696]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.10.29-19.12.45:561][696]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.10.29-19.12.45:561][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.10.29-19.12.45:561][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.10.29-19.12.45:575][696]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.10.29-19.12.45:575][696]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenuB311F40F4153C7E6CD37C682394ED969.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.10.29-19.12.45:581][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.539 ms (total: 262.444 ms)
+[2025.10.29-19.12.45:624][696]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-19.12.45:624][696]LogContentValidation: Enabled validators:
+[2025.10.29-19.12.45:624][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-19.12.45:624][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-19.12.45:624][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-19.12.45:624][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-19.12.45:624][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-19.12.45:624][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-19.12.45:625][696]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.10.29-19.12.57:273][286]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.29-19.13.12:229][614]LogContentBrowser: Attempting asset rename: StartScreenImagery -> MYHUD
+[2025.10.29-19.13.12:312][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-19.13.12:312][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WBP/MYHUD] ([2] browsable assets)...
+[2025.10.29-19.13.12:312][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/MYHUD]
+[2025.10.29-19.13.12:312][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/MYHUD" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/MYHUD.uasset" SILENT=true
+[2025.10.29-19.13.12:320][614]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/MYHUD
+[2025.10.29-19.13.12:320][614]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/MYHUD0724267D4803B2A16C4934A165D2801A.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/MYHUD.uasset'
+[2025.10.29-19.13.12:325][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.276 ms (total: 277.720 ms)
+[2025.10.29-19.13.12:352][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.29-19.13.12:370][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.29-19.13.12:388][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.29-19.13.12:426][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-19.13.12:426][614]LogContentValidation: Enabled validators:
+[2025.10.29-19.13.12:426][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-19.13.12:426][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-19.13.12:426][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-19.13.12:426][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-19.13.12:426][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-19.13.12:426][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-19.13.12:427][614]AssetCheck: /Game/Blueprints/WBP/MYHUD Validating asset
+[2025.10.29-19.13.12:458][614]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.29-19.13.19:349][372]LogContentBrowser: Attempting asset rename: MYHUD -> HudWidget
+[2025.10.29-19.13.19:428][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-19.13.19:428][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WBP/HudWidget] ([2] browsable assets)...
+[2025.10.29-19.13.19:428][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/HudWidget]
+[2025.10.29-19.13.19:428][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/HudWidget" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/HudWidget.uasset" SILENT=true
+[2025.10.29-19.13.19:433][372]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/HudWidget
+[2025.10.29-19.13.19:433][372]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/HudWidget53C7D17448596920FA8C76A197BB3B11.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/HudWidget.uasset'
+[2025.10.29-19.13.19:439][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.141 ms (total: 288.862 ms)
+[2025.10.29-19.13.19:465][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.29-19.13.19:483][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.29-19.13.19:500][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.29-19.13.19:560][372]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-19.13.19:560][372]LogContentValidation: Enabled validators:
+[2025.10.29-19.13.19:560][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-19.13.19:560][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-19.13.19:560][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-19.13.19:560][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-19.13.19:560][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-19.13.19:560][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-19.13.19:560][372]AssetCheck: /Game/Blueprints/WBP/HudWidget Validating asset
+[2025.10.29-19.13.19:590][372]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.29-19.13.27:259][545]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP/HudWidget.HudWidget
+[2025.10.29-19.13.27:259][545]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.29-19.13.27:264][545]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.29-19.14.13:285][901]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.29-19.14.13:925][917]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.10.29-19.14.14:026][917]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.10.29-19.14.14:071][918]LogPSOHitching: Encountered 550 PSO creation hitches so far (133 graphics, 417 compute). 0 of them were precached.
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: ================================================
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Total job queries 431, among them cache hits 29 (6.73%), DDC hits 333 (77.26%), Duplicates 67 (15.55%)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Tracking 335 distinct input hashes that result in 242 distinct outputs (72.24%)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: RAM used: 3.31 MiB of 1.60 GiB budget. Usage: 0.20%
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.04 s
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 1.13 s
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Job life time (pending + execution): average 1.12 s, max 1.17
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Shader code size: total 13.988 KiB, numShaders 2, average 6.994 KiB, min 6.379 KiB, max 7.609 KiB
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.17 s
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Average processing rate: 1.71 jobs/sec
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Total thread time: 0.528 s
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Total thread preprocess time: 5.24 s
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Percentage time preprocessing: 992.26%
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Effective parallelization: 0.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.037691
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 58.97% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 41.03% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: === Material stats ===
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Materials Translated:    141
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Material Translation Only: 0.03 s (30%)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: Material Cache Hits: 25 (18%)
+[2025.10.29-19.14.17:538][104]LogShaderCompilers: Display: ================================================
+[2025.10.29-19.15.01:721][485]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.29-19.15.26:323][922]LogStreaming: Display: FlushAsyncLoading(763): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-19.15.26:325][922]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.10.29-19.15.26:336][922]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.29-19.15.26:336][922]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.29-19.15.26:336][922]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.29-19.15.26:360][922]LogWorldPartition: Display: WorldPartition initialize took 23.585 ms (total: 317.487 ms)
+[2025.10.29-19.15.57:516][229]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.29-19.15.57:522][229]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.29-19.16.00:875][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.29-19.16.04:352][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.29-19.16.04:354][937]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.29-19.16.04:354][937]Cmd: MAP LOAD FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Levels/L_LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.29-19.16.04:367][937]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-19.16.04:367][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.16.04:384][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.29-19.16.04:385][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.29-19.16.04:386][937]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-19.16.04:387][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-19.16.04:387][937]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2025.10.29-19.16.04:405][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.29-19.16.04:423][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.29-19.16.04:424][937]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-19.16.04:427][937]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelOne'.
+[2025.10.29-19.16.04:427][937]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.10.29-19.16.04:428][937]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.10.29-19.16.04:428][937]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.29-19.16.04:428][937]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.29-19.16.04:489][937]LogWorldPartition: Display: WorldPartition initialize took 59.885 ms (total: 377.372 ms)
+[2025.10.29-19.16.04:522][937]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.29-19.16.04:540][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.29-19.16.04:545][937]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.29-19.16.04:546][937]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.512ms to complete.
+[2025.10.29-19.16.04:592][938]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.29-19.16.04:775][939]LogPSOHitching: Encountered 600 PSO creation hitches so far (159 graphics, 441 compute). 0 of them were precached.
+[2025.10.29-19.16.07:143][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
