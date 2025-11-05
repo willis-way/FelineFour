@@ -2134,3 +2134,441 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.05-20.04.55:702][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.05-20.04.55:702][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.05-20.04.55:702][231]AssetCheck: /Game/Blueprints/WBP/WBP_Dialouge Validating asset
+[2025.11.05-20.05.12:762][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1771.174072
+[2025.11.05-20.05.13:761][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-20.05.13:762][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1771.840942, Update Interval: 329.819641
+[2025.11.05-20.05.16:699][363]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.05-20.05.39:592][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-20.05.39:592][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-Black] ([1] browsable assets)...
+[2025.11.05-20.05.39:592][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-Black]
+[2025.11.05-20.05.39:592][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-Black" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Black.uasset" SILENT=true
+[2025.11.05-20.05.39:603][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-Black
+[2025.11.05-20.05.39:603][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-Black5003E72B44CEE1F2D3CC3AB137D256D9.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Black.uasset'
+[2025.11.05-20.05.39:604][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-BlackItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:604][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-BlackItalic]
+[2025.11.05-20.05.39:604][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-BlackItalic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-BlackItalic.uasset" SILENT=true
+[2025.11.05-20.05.39:610][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-BlackItalic
+[2025.11.05-20.05.39:610][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-BlackItalic71D952424E09F828E78965BAC1C901BD.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-BlackItalic.uasset'
+[2025.11.05-20.05.39:610][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-Bold] ([1] browsable assets)...
+[2025.11.05-20.05.39:610][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-Bold]
+[2025.11.05-20.05.39:610][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-Bold" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Bold.uasset" SILENT=true
+[2025.11.05-20.05.39:614][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-Bold
+[2025.11.05-20.05.39:614][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-Bold16532D09448034285BD8F8860EBA5D64.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Bold.uasset'
+[2025.11.05-20.05.39:615][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-BoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:615][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-BoldItalic]
+[2025.11.05-20.05.39:615][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-BoldItalic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-BoldItalic.uasset" SILENT=true
+[2025.11.05-20.05.39:620][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-BoldItalic
+[2025.11.05-20.05.39:620][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-BoldItalic843A01DD4635B3EC8490BB9AB2B2EBFB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-BoldItalic.uasset'
+[2025.11.05-20.05.39:621][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-ExtraBold] ([1] browsable assets)...
+[2025.11.05-20.05.39:621][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-ExtraBold]
+[2025.11.05-20.05.39:621][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-ExtraBold" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ExtraBold.uasset" SILENT=true
+[2025.11.05-20.05.39:626][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-ExtraBold
+[2025.11.05-20.05.39:626][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-ExtraBold24ED3C7D412D83A75997C8A81FEF4EA7.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ExtraBold.uasset'
+[2025.11.05-20.05.39:627][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-ExtraBoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:627][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-ExtraBoldItalic]
+[2025.11.05-20.05.39:627][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-ExtraBoldItalic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ExtraBoldItalic.uasset" SILENT=true
+[2025.11.05-20.05.39:631][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-ExtraBoldItalic
+[2025.11.05-20.05.39:631][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-ExtraBoldItalicA45EAD29429581175F35B080EF1BA183.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ExtraBoldItalic.uasset'
+[2025.11.05-20.05.39:632][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-ExtraLight] ([1] browsable assets)...
+[2025.11.05-20.05.39:632][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-ExtraLight]
+[2025.11.05-20.05.39:632][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-ExtraLight" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ExtraLight.uasset" SILENT=true
+[2025.11.05-20.05.39:636][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-ExtraLight
+[2025.11.05-20.05.39:636][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-ExtraLight5AEB1BF348D01AD71DBA178110D98E6D.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ExtraLight.uasset'
+[2025.11.05-20.05.39:638][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-ExtraLightItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:638][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-ExtraLightItalic]
+[2025.11.05-20.05.39:638][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-ExtraLightItalic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ExtraLightItalic.uasset" SILENT=true
+[2025.11.05-20.05.39:643][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-ExtraLightItalic
+[2025.11.05-20.05.39:643][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-ExtraLightItalic257BE79343BCF26D31FCF59346E79945.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ExtraLightItalic.uasset'
+[2025.11.05-20.05.39:643][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-Italic] ([1] browsable assets)...
+[2025.11.05-20.05.39:643][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-Italic]
+[2025.11.05-20.05.39:643][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-Italic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Italic.uasset" SILENT=true
+[2025.11.05-20.05.39:648][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-Italic
+[2025.11.05-20.05.39:648][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-Italic82E2E6F14EBA0F2F77E14C9D1276DEFD.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Italic.uasset'
+[2025.11.05-20.05.39:649][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-Light] ([1] browsable assets)...
+[2025.11.05-20.05.39:649][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-Light]
+[2025.11.05-20.05.39:649][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-Light" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Light.uasset" SILENT=true
+[2025.11.05-20.05.39:653][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-Light
+[2025.11.05-20.05.39:653][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-Light681DE72D46BAB7BC060C32814152B159.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Light.uasset'
+[2025.11.05-20.05.39:654][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-LightItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:654][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-LightItalic]
+[2025.11.05-20.05.39:654][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-LightItalic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-LightItalic.uasset" SILENT=true
+[2025.11.05-20.05.39:659][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-LightItalic
+[2025.11.05-20.05.39:659][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-LightItalic88ED18E44C612E272A8FD68BE733EED5.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-LightItalic.uasset'
+[2025.11.05-20.05.39:660][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-Medium] ([1] browsable assets)...
+[2025.11.05-20.05.39:660][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-Medium]
+[2025.11.05-20.05.39:660][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-Medium" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Medium.uasset" SILENT=true
+[2025.11.05-20.05.39:665][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-Medium
+[2025.11.05-20.05.39:665][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-Medium3F2245764DD50CE7275A94B40A8FF09E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Medium.uasset'
+[2025.11.05-20.05.39:666][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-MediumItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:666][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-MediumItalic]
+[2025.11.05-20.05.39:666][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-MediumItalic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-MediumItalic.uasset" SILENT=true
+[2025.11.05-20.05.39:670][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-MediumItalic
+[2025.11.05-20.05.39:670][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-MediumItalic3C78F5394BD80286DF3FBD825757E056.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-MediumItalic.uasset'
+[2025.11.05-20.05.39:671][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-Regular] ([1] browsable assets)...
+[2025.11.05-20.05.39:671][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-Regular]
+[2025.11.05-20.05.39:671][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-Regular" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Regular.uasset" SILENT=true
+[2025.11.05-20.05.39:676][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-Regular
+[2025.11.05-20.05.39:676][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-Regular420E59C848C3717F29AC99BF6A9FC60A.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Regular.uasset'
+[2025.11.05-20.05.39:677][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-SemiBold] ([1] browsable assets)...
+[2025.11.05-20.05.39:677][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-SemiBold]
+[2025.11.05-20.05.39:677][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-SemiBold" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-SemiBold.uasset" SILENT=true
+[2025.11.05-20.05.39:682][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-SemiBold
+[2025.11.05-20.05.39:682][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-SemiBoldC053B942459CAEFA3A672DA10F007A5C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-SemiBold.uasset'
+[2025.11.05-20.05.39:683][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-SemiBoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:683][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-SemiBoldItalic]
+[2025.11.05-20.05.39:683][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-SemiBoldItalic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-SemiBoldItalic.uasset" SILENT=true
+[2025.11.05-20.05.39:688][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-SemiBoldItalic
+[2025.11.05-20.05.39:688][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-SemiBoldItalicE5C3C1324E61C00EE15B1B837F077A15.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-SemiBoldItalic.uasset'
+[2025.11.05-20.05.39:689][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-Thin] ([1] browsable assets)...
+[2025.11.05-20.05.39:689][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-Thin]
+[2025.11.05-20.05.39:689][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-Thin" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Thin.uasset" SILENT=true
+[2025.11.05-20.05.39:694][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-Thin
+[2025.11.05-20.05.39:694][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-ThinC1479E624E90F8676CCB558CC6BE56AC.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-Thin.uasset'
+[2025.11.05-20.05.39:694][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-ThinItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:694][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-ThinItalic]
+[2025.11.05-20.05.39:694][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy-ThinItalic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ThinItalic.uasset" SILENT=true
+[2025.11.05-20.05.39:700][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-ThinItalic
+[2025.11.05-20.05.39:700][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-ThinItalic928472A24C45B41DDCE49B8961EC3415.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-ThinItalic.uasset'
+[2025.11.05-20.05.39:701][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-Black] ([1] browsable assets)...
+[2025.11.05-20.05.39:701][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-Black]
+[2025.11.05-20.05.39:701][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_Expanded-Black" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Black.uasset" SILENT=true
+[2025.11.05-20.05.39:705][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-Black
+[2025.11.05-20.05.39:705][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-BlackA5A4D98B4BE410243D19CCA312007317.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Black.uasset'
+[2025.11.05-20.05.39:705][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-BlackItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:705][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-BlackItalic]
+[2025.11.05-20.05.39:711][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-BlackItalic
+[2025.11.05-20.05.39:711][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-BlackItalicAF28A10F48B557D4BC3FF89FD3D9AEB7.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-BlackItalic.uasset'
+[2025.11.05-20.05.39:711][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-Bold] ([1] browsable assets)...
+[2025.11.05-20.05.39:711][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-Bold]
+[2025.11.05-20.05.39:711][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_Expanded-Bold" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Bold.uasset" SILENT=true
+[2025.11.05-20.05.39:716][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-Bold
+[2025.11.05-20.05.39:716][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-BoldF6EF346F4A38C0B7A76A15BA955B2BC0.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Bold.uasset'
+[2025.11.05-20.05.39:716][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-BoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:716][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-BoldItalic]
+[2025.11.05-20.05.39:722][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-BoldItalic
+[2025.11.05-20.05.39:722][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-BoldItalicBAEB88F746DDBD1E11689B90B1936621.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-BoldItalic.uasset'
+[2025.11.05-20.05.39:723][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-ExtraBold] ([1] browsable assets)...
+[2025.11.05-20.05.39:723][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-ExtraBold]
+[2025.11.05-20.05.39:728][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-ExtraBold
+[2025.11.05-20.05.39:728][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-ExtraBold8B2427834B370244EEC81BAF595A962F.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-ExtraBold.uasset'
+[2025.11.05-20.05.39:728][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-ExtraBoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:728][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-ExtraBoldItalic]
+[2025.11.05-20.05.39:733][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-ExtraBoldItalic
+[2025.11.05-20.05.39:734][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-ExtraBoldItalED413B3F41AF426EF0A2B49E927F4549.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-ExtraBoldItalic.uasset'
+[2025.11.05-20.05.39:734][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-ExtraLight] ([1] browsable assets)...
+[2025.11.05-20.05.39:734][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-ExtraLight]
+[2025.11.05-20.05.39:739][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-ExtraLight
+[2025.11.05-20.05.39:739][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-ExtraLightD5BB2DE646C82099CCC7EF8DFA552043.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-ExtraLight.uasset'
+[2025.11.05-20.05.39:739][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-ExtraLightItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:739][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-ExtraLightItalic]
+[2025.11.05-20.05.39:744][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-ExtraLightItalic
+[2025.11.05-20.05.39:744][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-ExtraLightIta5BC32D564BF142ACFCDD8793BCAF1270.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-ExtraLightItalic.uasset'
+[2025.11.05-20.05.39:745][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-Italic] ([1] browsable assets)...
+[2025.11.05-20.05.39:745][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-Italic]
+[2025.11.05-20.05.39:745][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_Expanded-Italic" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Italic.uasset" SILENT=true
+[2025.11.05-20.05.39:751][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-Italic
+[2025.11.05-20.05.39:751][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-ItalicB5578302428C7FACB1B61399B27C5FD8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Italic.uasset'
+[2025.11.05-20.05.39:752][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-Light] ([1] browsable assets)...
+[2025.11.05-20.05.39:752][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-Light]
+[2025.11.05-20.05.39:752][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_Expanded-Light" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Light.uasset" SILENT=true
+[2025.11.05-20.05.39:757][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-Light
+[2025.11.05-20.05.39:757][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-Light990612664B258079977BA38AC70B6573.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Light.uasset'
+[2025.11.05-20.05.39:758][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-LightItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:758][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-LightItalic]
+[2025.11.05-20.05.39:764][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-LightItalic
+[2025.11.05-20.05.39:764][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-LightItalicA17E3A93464360FD876822B4E5B078D5.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-LightItalic.uasset'
+[2025.11.05-20.05.39:765][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-Medium] ([1] browsable assets)...
+[2025.11.05-20.05.39:765][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-Medium]
+[2025.11.05-20.05.39:765][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_Expanded-Medium" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Medium.uasset" SILENT=true
+[2025.11.05-20.05.39:770][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-Medium
+[2025.11.05-20.05.39:771][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-Medium90F1A2BE456774DBF3CF92BCC2AC6F00.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Medium.uasset'
+[2025.11.05-20.05.39:771][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-MediumItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:771][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-MediumItalic]
+[2025.11.05-20.05.39:776][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-MediumItalic
+[2025.11.05-20.05.39:776][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-MediumItalic5DA8F197462800DEC0E132BCE1D56536.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-MediumItalic.uasset'
+[2025.11.05-20.05.39:777][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-Regular] ([1] browsable assets)...
+[2025.11.05-20.05.39:777][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-Regular]
+[2025.11.05-20.05.39:777][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_Expanded-Regular" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Regular.uasset" SILENT=true
+[2025.11.05-20.05.39:782][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-Regular
+[2025.11.05-20.05.39:782][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-Regular823E1D044ECE755E19F1CD88C07EE7B9.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Regular.uasset'
+[2025.11.05-20.05.39:782][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-SemiBold] ([1] browsable assets)...
+[2025.11.05-20.05.39:782][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-SemiBold]
+[2025.11.05-20.05.39:782][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_Expanded-SemiBold" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-SemiBold.uasset" SILENT=true
+[2025.11.05-20.05.39:788][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-SemiBold
+[2025.11.05-20.05.39:788][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-SemiBold8D7E7C814E02EB8DB99252AC9E477C9C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-SemiBold.uasset'
+[2025.11.05-20.05.39:789][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-SemiBoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:789][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-SemiBoldItalic]
+[2025.11.05-20.05.39:794][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-SemiBoldItalic
+[2025.11.05-20.05.39:794][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-SemiBoldItali2D8208F24119CC2FBE698484F9FEAEBF.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-SemiBoldItalic.uasset'
+[2025.11.05-20.05.39:795][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-Thin] ([1] browsable assets)...
+[2025.11.05-20.05.39:795][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-Thin]
+[2025.11.05-20.05.39:795][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_Expanded-Thin" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Thin.uasset" SILENT=true
+[2025.11.05-20.05.39:799][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-Thin
+[2025.11.05-20.05.39:799][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-Thin044214914FCC5DA635D05FBF242F9C97.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-Thin.uasset'
+[2025.11.05-20.05.39:800][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_Expanded-ThinItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:800][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_Expanded-ThinItalic]
+[2025.11.05-20.05.39:805][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_Expanded-ThinItalic
+[2025.11.05-20.05.39:805][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_Expanded-ThinItalic7157553B4DB5FFA982B8358EAF8C6FC4.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_Expanded-ThinItalic.uasset'
+[2025.11.05-20.05.39:806][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-Black] ([1] browsable assets)...
+[2025.11.05-20.05.39:806][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-Black]
+[2025.11.05-20.05.39:812][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-Black
+[2025.11.05-20.05.39:812][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-BlackAE946482443D8B6777DDFE87557143ED.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Black.uasset'
+[2025.11.05-20.05.39:812][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-BlackItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:812][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-BlackItalic]
+[2025.11.05-20.05.39:817][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-BlackItalic
+[2025.11.05-20.05.39:818][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-BlackItal78159C69491A0DC12713DA8DFD2A7B8E.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-BlackItalic.uasset'
+[2025.11.05-20.05.39:818][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-Bold] ([1] browsable assets)...
+[2025.11.05-20.05.39:818][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-Bold]
+[2025.11.05-20.05.39:818][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_SemiExpanded-Bold" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Bold.uasset" SILENT=true
+[2025.11.05-20.05.39:823][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-Bold
+[2025.11.05-20.05.39:823][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-Bold049652704CD5AEEBBA31D29F10FEDDFA.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Bold.uasset'
+[2025.11.05-20.05.39:824][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-BoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:824][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-BoldItalic]
+[2025.11.05-20.05.39:830][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-BoldItalic
+[2025.11.05-20.05.39:830][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-BoldItali06B6427E4EFC2636410E588BFD1B389C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-BoldItalic.uasset'
+[2025.11.05-20.05.39:830][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-ExtraBold] ([1] browsable assets)...
+[2025.11.05-20.05.39:830][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-ExtraBold]
+[2025.11.05-20.05.39:836][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-ExtraBold
+[2025.11.05-20.05.39:836][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-ExtraBold9237FA8A45E4304414CEECB437B50B90.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-ExtraBold.uasset'
+[2025.11.05-20.05.39:838][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-ExtraBoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:838][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-ExtraBoldItalic]
+[2025.11.05-20.05.39:843][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-ExtraBoldItalic
+[2025.11.05-20.05.39:843][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-ExtraBold9FF040D140CAAE77BCE0538D72E408B8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-ExtraBoldItalic.uasset'
+[2025.11.05-20.05.39:844][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-ExtraLight] ([1] browsable assets)...
+[2025.11.05-20.05.39:844][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-ExtraLight]
+[2025.11.05-20.05.39:849][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-ExtraLight
+[2025.11.05-20.05.39:849][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-ExtraLighAF54028D42821E699B94CF8DF2F0E532.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-ExtraLight.uasset'
+[2025.11.05-20.05.39:849][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-ExtraLightItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:849][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-ExtraLightItalic]
+[2025.11.05-20.05.39:855][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-ExtraLightItalic
+[2025.11.05-20.05.39:855][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-ExtraLigh5381B6464C5771DD7F4E3DB605B28946.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-ExtraLightItalic.uasset'
+[2025.11.05-20.05.39:856][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-Italic] ([1] browsable assets)...
+[2025.11.05-20.05.39:856][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-Italic]
+[2025.11.05-20.05.39:860][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-Italic
+[2025.11.05-20.05.39:860][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-Italic98352E824C1DA3364A527E8459F1CA6C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Italic.uasset'
+[2025.11.05-20.05.39:861][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-Light] ([1] browsable assets)...
+[2025.11.05-20.05.39:861][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-Light]
+[2025.11.05-20.05.39:866][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-Light
+[2025.11.05-20.05.39:866][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-Light5CACE28645A962B2843C1787606EE67A.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Light.uasset'
+[2025.11.05-20.05.39:867][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-LightItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:867][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-LightItalic]
+[2025.11.05-20.05.39:873][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-LightItalic
+[2025.11.05-20.05.39:873][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-LightItal7988B5C94C2F6BDF474CC78613B0BC0C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-LightItalic.uasset'
+[2025.11.05-20.05.39:873][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-Medium] ([1] browsable assets)...
+[2025.11.05-20.05.39:873][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-Medium]
+[2025.11.05-20.05.39:878][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-Medium
+[2025.11.05-20.05.39:878][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-MediumC4523C4D4ED1B5E0CCBD53A4446B3D06.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Medium.uasset'
+[2025.11.05-20.05.39:879][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-MediumItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:879][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-MediumItalic]
+[2025.11.05-20.05.39:884][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-MediumItalic
+[2025.11.05-20.05.39:884][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-MediumIta27816CB8481CEAE9D741D68927A682B9.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-MediumItalic.uasset'
+[2025.11.05-20.05.39:885][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-Regular] ([1] browsable assets)...
+[2025.11.05-20.05.39:885][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-Regular]
+[2025.11.05-20.05.39:890][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-Regular
+[2025.11.05-20.05.39:890][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-RegularAE05BA1C4133E3CEF231A4BA5F9FE622.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Regular.uasset'
+[2025.11.05-20.05.39:891][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-SemiBold] ([1] browsable assets)...
+[2025.11.05-20.05.39:891][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-SemiBold]
+[2025.11.05-20.05.39:896][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-SemiBold
+[2025.11.05-20.05.39:896][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-SemiBold737B4B3A4B4B1161E87BC5B897AA9297.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-SemiBold.uasset'
+[2025.11.05-20.05.39:896][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-SemiBoldItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:896][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-SemiBoldItalic]
+[2025.11.05-20.05.39:902][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-SemiBoldItalic
+[2025.11.05-20.05.39:902][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-SemiBoldI73FF100A4DBCB3224B8864B910D8A1E2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-SemiBoldItalic.uasset'
+[2025.11.05-20.05.39:902][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-Thin] ([1] browsable assets)...
+[2025.11.05-20.05.39:902][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-Thin]
+[2025.11.05-20.05.39:902][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/SourGummy_SemiExpanded-Thin" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Thin.uasset" SILENT=true
+[2025.11.05-20.05.39:908][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-Thin
+[2025.11.05-20.05.39:908][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-Thin8293D04D4CE262E2683E719A3C3F51E8.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-Thin.uasset'
+[2025.11.05-20.05.39:909][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy_SemiExpanded-ThinItalic] ([1] browsable assets)...
+[2025.11.05-20.05.39:909][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy_SemiExpanded-ThinItalic]
+[2025.11.05-20.05.39:914][722]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy_SemiExpanded-ThinItalic
+[2025.11.05-20.05.39:914][722]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy_SemiExpanded-ThinItali23E9457F4BBB7A158CB5AA91552E21A9.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy_SemiExpanded-ThinItalic.uasset'
+[2025.11.05-20.05.39:915][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 322.865 ms (total: 1.13 sec)
+[2025.11.05-20.05.40:515][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.11.05-20.05.40:534][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.11.05-20.05.40:552][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.05-20.05.40:576][722]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.05-20.05.40:576][722]LogContentValidation: Display: Starting to validate 54 assets
+[2025.11.05-20.05.40:576][722]LogContentValidation: Enabled validators:
+[2025.11.05-20.05.40:576][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-20.05.40:576][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-20.05.40:576][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-20.05.40:576][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-20.05.40:576][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-20.05.40:576][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-20.05.40:576][722]AssetCheck: /Game/Fonts/SourGummy-Black Validating asset
+[2025.11.05-20.05.40:576][722]AssetCheck: /Game/Fonts/SourGummy-BlackItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-Bold Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-BoldItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-ExtraBold Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-ExtraBoldItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-ExtraLight Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-ExtraLightItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-Italic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-Light Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-LightItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-Medium Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-MediumItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-Regular Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-SemiBold Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-SemiBoldItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-Thin Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy-ThinItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-Black Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-BlackItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-Bold Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-BoldItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-ExtraBold Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-ExtraBoldItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-ExtraLight Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-ExtraLightItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-Italic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-Light Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-LightItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-Medium Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-MediumItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-Regular Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-SemiBold Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-SemiBoldItalic Validating asset
+[2025.11.05-20.05.40:578][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-Thin Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_Expanded-ThinItalic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-Black Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-BlackItalic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-Bold Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-BoldItalic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-ExtraBold Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-ExtraBoldItalic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-ExtraLight Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-ExtraLightItalic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-Italic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-Light Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-LightItalic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-Medium Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-MediumItalic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-Regular Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-SemiBold Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-SemiBoldItalic Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-Thin Validating asset
+[2025.11.05-20.05.40:579][722]AssetCheck: /Game/Fonts/SourGummy_SemiExpanded-ThinItalic Validating asset
+[2025.11.05-20.05.40:588][722]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.05-20.05.45:706][225]LogPSOHitching: Encountered 300 PSO creation hitches so far (81 graphics, 219 compute). 0 of them were precached.
+[2025.11.05-20.05.45:769][226]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.05-20.05.45:966][230]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.11.05-20.05.46:105][236]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.11.05-20.05.46:126][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: ================================================
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Total job queries 430, among them cache hits 25 (5.81%), DDC hits 329 (76.51%), Duplicates 68 (15.81%)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Tracking 337 distinct input hashes that result in 241 distinct outputs (71.51%)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: RAM used: 3.30 MiB of 1.60 GiB budget. Usage: 0.20%
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Average time worker was idle: 210.38 s
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Job execution time: average 0.73 s, max 1.34 s
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Job life time (pending + execution): average 0.82 s, max 1.45
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Shader code size: total 69.199 KiB, numShaders 8, average 8.649 KiB, min 4.984 KiB, max 12.176 KiB
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.04 s
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Average processing rate: 2.63 jobs/sec
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Total thread time: 3.854 s
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Total thread preprocess time: 5.23 s
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Percentage time preprocessing: 135.70%
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Effective parallelization: 1.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.105599
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.89 sec, max 0.91 sec, min 0.87 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.40 sec, max 0.43 sec, min 0.34 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.32 sec, max 0.32 sec, min 0.31 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 46.20% of total time (compiled    2 times, average 0.89 sec, max 0.91 sec, min 0.87 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.93% of total time (compiled    3 times, average 0.40 sec, max 0.43 sec, min 0.34 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                                                 FLumenCardPS - 16.39% of total time (compiled    2 times, average 0.32 sec, max 0.32 sec, min 0.31 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.49% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: === Material stats ===
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Materials Translated:    144
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Material Translation Only: 0.03 s (26%)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: Material Cache Hits: 22 (15%)
+[2025.11.05-20.05.59:389][658]LogShaderCompilers: Display: ================================================
+[2025.11.05-20.07.56:095][538]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 153538
+[2025.11.05-20.07.56:095][538]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.11.05-20.07.56:108][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-20.09.19:505][ 77]LogSlate: Warning: FSlateFontInfo property 'WidgetStyle.TextStyle.Font.FontObject' on object '/Engine/Transient.World_4:WBP_Dialouge_C_23.WidgetTree_0.MultiLineEditableTextBox_0' was set to use a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2025.11.05-20.09.22:279][383]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.05-20.09.22:432][385]LogPSOHitching: Encountered 350 PSO creation hitches so far (107 graphics, 243 compute). 0 of them were precached.
+[2025.11.05-20.09.48:189][930]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\sbehr\Downloads\Sour_Gummy\SourGummy-VariableFont_wdth,wght.ttf)
+[2025.11.05-20.09.51:142][930]LogSlate: Window 'Font Face Import Options' being destroyed
+[2025.11.05-20.09.51:150][930]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2025.11.05-20.09.51:151][930]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2025.11.05-20.09.51:167][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-20.09.51:171][931]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.11.05-20.09.51:176][931]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.11.05-20.09.51:182][931]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.05-20.09.54:510][222]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.11.05-20.09.54:511][222]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.05-20.09.55:482][332]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.11.05-20.09.55:484][332]LogSlate: Took 0.001770 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.11.05-20.10.05:419][447]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.11.05-20.11.13:352][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2131.764893
+[2025.11.05-20.11.13:442][339]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-20.11.13:442][339]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2131.847900, Update Interval: 317.664734
+[2025.11.05-20.13.44:052][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.05-20.14.18:532][141]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.05-20.17.16:720][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2495.138672
+[2025.11.05-20.17.17:721][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-20.17.17:721][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2495.805664, Update Interval: 306.449158
+[2025.11.05-20.18.24:217][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.05-20.18.24:220][  0]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.122
+[2025.11.05-20.18.24:221][  0]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_Dialouge] ([2] browsable assets)...
+[2025.11.05-20.18.24:223][  0]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_Dialouge.WBP_Dialouge]
+[2025.11.05-20.18.24:223][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_Dialouge]
+[2025.11.05-20.18.24:235][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WBP/WBP_Dialouge_Auto2
+[2025.11.05-20.18.24:235][  0]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_Dialouge_Auto29837502443FE1467F0912FBC3C71E636.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Blueprints/WBP/WBP_Dialouge_Auto2.uasset'
+[2025.11.05-20.18.24:235][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-VariableFont_wdth_wght] ([1] browsable assets)...
+[2025.11.05-20.18.24:235][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-VariableFont_wdth_wght]
+[2025.11.05-20.18.24:241][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fonts/SourGummy-VariableFont_wdth_wght_Auto2
+[2025.11.05-20.18.24:241][  0]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-VariableFont_wdth_wght279791CE43A78E38E4EC0F9213732DB6.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Fonts/SourGummy-VariableFont_wdth_wght_Auto2.uasset'
+[2025.11.05-20.18.24:241][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fonts/SourGummy-VariableFont_wdth_wght_Font] ([1] browsable assets)...
+[2025.11.05-20.18.24:243][  0]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Fonts/SourGummy-VariableFont_wdth_wght_Font.SourGummy-VariableFont_wdth_wght_Font]
+[2025.11.05-20.18.24:243][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-VariableFont_wdth_wght_Font]
+[2025.11.05-20.18.24:248][  0]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fonts/SourGummy-VariableFont_wdth_wght_Font_Auto2
+[2025.11.05-20.18.24:248][  0]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-VariableFont_wdth_wght219F7F6043AC1F0654B69AA5B408126C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Fonts/SourGummy-VariableFont_wdth_wght_Font_Auto2.uasset'
+[2025.11.05-20.18.24:249][  0]LogFileHelpers: Auto-saving content packages took 0.029
+[2025.11.05-20.18.36:352][434]LogEditorTransaction: Undo Resize Widget
+[2025.11.05-20.18.42:552][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.05-20.18.44:094][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.11.05-20.18.44:100][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-20.18.44:150][221]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_Dialouge] ([2] browsable assets)...
+[2025.11.05-20.18.44:153][221]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_Dialouge.WBP_Dialouge]
+[2025.11.05-20.18.44:154][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_Dialouge]
+[2025.11.05-20.18.44:154][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_Dialouge" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_Dialouge.uasset" SILENT=true
+[2025.11.05-20.18.44:166][221]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_Dialouge
+[2025.11.05-20.18.44:166][221]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_DialougeFA969741426DDD57721902ABE034BD98.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_Dialouge.uasset'
+[2025.11.05-20.18.44:167][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-VariableFont_wdth_wght] ([1] browsable assets)...
+[2025.11.05-20.18.44:167][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-VariableFont_wdth_wght]
+[2025.11.05-20.18.44:173][221]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-VariableFont_wdth_wght
+[2025.11.05-20.18.44:173][221]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-VariableFont_wdth_wght04238B0345733B8BA05F8B8655D96C6C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-VariableFont_wdth_wght.uasset'
+[2025.11.05-20.18.44:174][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fonts/SourGummy-VariableFont_wdth_wght_Font] ([1] browsable assets)...
+[2025.11.05-20.18.44:174][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/SourGummy-VariableFont_wdth_wght_Font]
+[2025.11.05-20.18.44:178][221]LogSavePackage: Moving output files for package: /Game/Fonts/SourGummy-VariableFont_wdth_wght_Font
+[2025.11.05-20.18.44:179][221]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourGummy-VariableFont_wdth_wghtF5E6B81C4BA81DBCA9BBC0983DE34AC7.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Fonts/SourGummy-VariableFont_wdth_wght_Font.uasset'
+[2025.11.05-20.18.44:185][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.375 ms (total: 1.22 sec)
+[2025.11.05-20.18.44:232][221]LogContentValidation: Display: Starting to validate 3 assets
+[2025.11.05-20.18.44:233][221]LogContentValidation: Enabled validators:
+[2025.11.05-20.18.44:233][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-20.18.44:233][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-20.18.44:233][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-20.18.44:233][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-20.18.44:233][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-20.18.44:233][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-20.18.44:233][221]AssetCheck: /Game/Blueprints/WBP/WBP_Dialouge Validating asset
+[2025.11.05-20.18.44:233][221]AssetCheck: /Game/Fonts/SourGummy-VariableFont_wdth_wght Validating asset
+[2025.11.05-20.18.44:233][221]AssetCheck: /Game/Fonts/SourGummy-VariableFont_wdth_wght_Font Validating asset
+[2025.11.05-20.18.44:250][221]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
