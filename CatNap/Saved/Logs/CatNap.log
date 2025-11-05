@@ -1206,3 +1206,178 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.05-19.38.59:366][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.05-19.38.59:366][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.05-19.38.59:366][468]AssetCheck: /Game/Blueprints/WBP/WBP_Dialouge Validating asset
+[2025.11.05-19.41.40:299][ 85]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 358.712769
+[2025.11.05-19.41.40:357][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-19.41.40:357][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 358.762543, Update Interval: 321.557678
+[2025.11.05-19.42.25:272][ 84]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.05-19.42.25:278][ 84]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.05-19.42.25:288][ 85]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.05-19.42.40:220][720]LogContentBrowser: Attempting asset rename: NewFolder -> 2dArtImages
+[2025.11.05-19.42.40:220][720]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.05-19.42.44:589][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-19.42.44:589][147]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.11.05-19.42.44:592][147]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.11.05-19.42.44:592][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.11.05-19.42.44:592][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.11.05-19.42.44:605][147]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.11.05-19.42.44:605][147]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenuA35DCB6D45D0FC45D7B3A58407130BD1.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.11.05-19.42.44:605][147]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2dArtImages/CatNap_Home_Screen] ([1] browsable assets)...
+[2025.11.05-19.42.44:605][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtImages/CatNap_Home_Screen]
+[2025.11.05-19.42.44:605][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtImages/CatNap_Home_Screen" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtImages/CatNap_Home_Screen.uasset" SILENT=true
+[2025.11.05-19.42.44:613][147]LogSavePackage: Moving output files for package: /Game/2dArtImages/CatNap_Home_Screen
+[2025.11.05-19.42.44:613][147]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/CatNap_Home_ScreenD7238BBB4AFE5B7A6DAD94BCC6121A4C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtImages/CatNap_Home_Screen.uasset'
+[2025.11.05-19.42.44:613][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.685 ms (total: 97.450 ms)
+[2025.11.05-19.42.44:656][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.11.05-19.42.44:674][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.05-19.42.44:692][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.05-19.42.44:710][147]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.05-19.42.44:710][147]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.05-19.42.44:710][147]LogContentValidation: Enabled validators:
+[2025.11.05-19.42.44:710][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-19.42.44:710][147]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-19.42.44:710][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-19.42.44:710][147]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-19.42.44:710][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-19.42.44:710][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-19.42.44:711][147]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.11.05-19.42.44:711][147]AssetCheck: /Game/2dArtImages/CatNap_Home_Screen Validating asset
+[2025.11.05-19.42.44:726][147]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.05-19.42.55:511][250]LogContentBrowser: Attempting asset rename: 2dArtImages -> 2dArtTextures
+[2025.11.05-19.42.55:602][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-19.42.55:603][250]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.11.05-19.42.55:605][250]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.11.05-19.42.55:605][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.11.05-19.42.55:605][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.11.05-19.42.55:617][250]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.11.05-19.42.55:617][250]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu622AC34B4502AB2A04812D9762CF407C.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.11.05-19.42.55:618][250]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2dArtTextures/CatNap_Home_Screen] ([1] browsable assets)...
+[2025.11.05-19.42.55:618][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/CatNap_Home_Screen]
+[2025.11.05-19.42.55:618][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/CatNap_Home_Screen" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/CatNap_Home_Screen.uasset" SILENT=true
+[2025.11.05-19.42.55:648][250]LogSavePackage: Moving output files for package: /Game/2dArtTextures/CatNap_Home_Screen
+[2025.11.05-19.42.55:648][250]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/CatNap_Home_Screen4E0B535C4A4D883574C77E8A573E5C19.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/CatNap_Home_Screen.uasset'
+[2025.11.05-19.42.55:649][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.419 ms (total: 143.870 ms)
+[2025.11.05-19.42.55:676][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.05-19.42.55:696][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.11.05-19.42.55:714][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.05-19.42.55:794][250]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.05-19.42.55:794][250]LogContentValidation: Enabled validators:
+[2025.11.05-19.42.55:794][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-19.42.55:794][250]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-19.42.55:794][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-19.42.55:794][250]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-19.42.55:794][250]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-19.42.55:794][250]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-19.42.55:795][250]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.11.05-19.42.55:795][250]AssetCheck: /Game/2dArtTextures/CatNap_Home_Screen Validating asset
+[2025.11.05-19.42.55:825][250]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.05-19.44.03:404][ 34]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-19.44.03:708][ 34]LogInterchangeEngine: [Pending] Importing
+[2025.11.05-19.44.03:709][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Trinity Talk.png]
+[2025.11.05-19.44.03:709][ 34]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.05-19.44.03:709][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Trinity Smile.png]
+[2025.11.05-19.44.03:710][ 34]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.11.05-19.44.03:710][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Sarah Talk.png]
+[2025.11.05-19.44.03:710][ 34]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.11.05-19.44.03:710][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Sarah Smile.png]
+[2025.11.05-19.44.03:711][ 34]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.11.05-19.44.03:711][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Rachel smile.png]
+[2025.11.05-19.44.03:711][ 34]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.11.05-19.44.03:711][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Rachel Talk.png]
+[2025.11.05-19.44.03:712][ 34]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.11.05-19.44.03:712][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Mia Talk.png]
+[2025.11.05-19.44.03:712][ 34]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.11.05-19.44.03:712][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sbehr/Downloads/Mia Smile.png]
+[2025.11.05-19.44.04:130][ 36]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-19.44.04:425][ 37]LogTexture: Display: Building textures: /Game/2dArtTextures/Trinity_Talk.Trinity_Talk (BGRA8, 450x450 x1x1x1) (Required Memory Estimate: 7.952286 MB), EncodeSpeed: Fast
+[2025.11.05-19.44.04:426][ 37]LogTexture: Display: Building textures: /Game/2dArtTextures/Trinity_Smile.Trinity_Smile (BGRA8, 450x450 x1x1x1) (Required Memory Estimate: 7.952286 MB), EncodeSpeed: Fast
+[2025.11.05-19.44.04:426][ 37]LogTexture: Display: Building textures: /Game/2dArtTextures/Sarah_Talk.Sarah_Talk (BGRA8, 450x450 x1x1x1) (Required Memory Estimate: 7.952286 MB), EncodeSpeed: Fast
+[2025.11.05-19.44.04:427][ 37]LogTexture: Display: Building textures: /Game/2dArtTextures/Rachel_smile.Rachel_smile (BGRA8, 450x450 x1x1x1) (Required Memory Estimate: 7.952286 MB), EncodeSpeed: Fast
+[2025.11.05-19.44.04:427][ 37]LogTexture: Display: Building textures: /Game/2dArtTextures/Sarah_Smile.Sarah_Smile (BGRA8, 450x450 x1x1x1) (Required Memory Estimate: 7.952286 MB), EncodeSpeed: Fast
+[2025.11.05-19.44.04:429][ 37]LogTexture: Display: Building textures: /Game/2dArtTextures/Mia_Talk.Mia_Talk (BGRA8, 450x450 x1x1x1) (Required Memory Estimate: 7.952286 MB), EncodeSpeed: Fast
+[2025.11.05-19.44.04:429][ 37]LogTexture: Display: Building textures: /Game/2dArtTextures/Rachel_Talk.Rachel_Talk (BGRA8, 450x450 x1x1x1) (Required Memory Estimate: 7.952286 MB), EncodeSpeed: Fast
+[2025.11.05-19.44.04:430][ 38]LogTexture: Display: Building textures: /Game/2dArtTextures/Mia_Smile.Mia_Smile (BGRA8, 450x450 x1x1x1) (Required Memory Estimate: 7.952286 MB), EncodeSpeed: Fast
+[2025.11.05-19.44.04:780][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Trinity Talk.png]
+[2025.11.05-19.44.04:780][ 38]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Trinity Smile.png]
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Sarah Talk.png]
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Sarah Smile.png]
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Rachel smile.png]
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Rachel Talk.png]
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Mia Talk.png]
+[2025.11.05-19.44.04:781][ 38]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.11.05-19.44.04:783][ 38]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sbehr/Downloads/Mia Smile.png]
+[2025.11.05-19.44.04:802][ 38]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.05-19.44.04:802][ 38]LogInterchangeEngine: [Success] Import Done
+[2025.11.05-19.44.17:287][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.05-19.44.17:292][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-19.44.17:350][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Trinity_Talk] ([1] browsable assets)...
+[2025.11.05-19.44.17:352][ 35]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Trinity_Talk.Trinity_Talk]
+[2025.11.05-19.44.17:352][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Trinity_Talk]
+[2025.11.05-19.44.17:352][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/Trinity_Talk" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Trinity_Talk.uasset" SILENT=true
+[2025.11.05-19.44.17:362][ 35]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Trinity_Talk
+[2025.11.05-19.44.17:363][ 35]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Trinity_TalkFAEEDB9347C25495BF48DDAFCA0BFCB2.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Trinity_Talk.uasset'
+[2025.11.05-19.44.17:363][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Trinity_Smile] ([1] browsable assets)...
+[2025.11.05-19.44.17:365][ 35]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Trinity_Smile.Trinity_Smile]
+[2025.11.05-19.44.17:365][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Trinity_Smile]
+[2025.11.05-19.44.17:365][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/Trinity_Smile" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Trinity_Smile.uasset" SILENT=true
+[2025.11.05-19.44.17:373][ 35]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Trinity_Smile
+[2025.11.05-19.44.17:373][ 35]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Trinity_Smile97EEB8544C165371CF3D218A1B1D2964.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Trinity_Smile.uasset'
+[2025.11.05-19.44.17:374][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Sarah_Talk] ([1] browsable assets)...
+[2025.11.05-19.44.17:376][ 35]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Sarah_Talk.Sarah_Talk]
+[2025.11.05-19.44.17:376][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Sarah_Talk]
+[2025.11.05-19.44.17:376][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/Sarah_Talk" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Sarah_Talk.uasset" SILENT=true
+[2025.11.05-19.44.17:383][ 35]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Sarah_Talk
+[2025.11.05-19.44.17:383][ 35]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Sarah_TalkF2F5176D41FCB4E7E30309967C770FDB.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Sarah_Talk.uasset'
+[2025.11.05-19.44.17:384][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Sarah_Smile] ([1] browsable assets)...
+[2025.11.05-19.44.17:385][ 35]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Sarah_Smile.Sarah_Smile]
+[2025.11.05-19.44.17:385][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Sarah_Smile]
+[2025.11.05-19.44.17:385][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/Sarah_Smile" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Sarah_Smile.uasset" SILENT=true
+[2025.11.05-19.44.17:393][ 35]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Sarah_Smile
+[2025.11.05-19.44.17:393][ 35]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Sarah_Smile2B3C546247A59ACF765C23974147ADD3.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Sarah_Smile.uasset'
+[2025.11.05-19.44.17:394][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Rachel_smile] ([1] browsable assets)...
+[2025.11.05-19.44.17:396][ 35]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Rachel_smile.Rachel_smile]
+[2025.11.05-19.44.17:396][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Rachel_smile]
+[2025.11.05-19.44.17:396][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/Rachel_smile" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Rachel_smile.uasset" SILENT=true
+[2025.11.05-19.44.17:403][ 35]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Rachel_smile
+[2025.11.05-19.44.17:403][ 35]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Rachel_smile83D9917A46E7E46373257E80C7144699.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Rachel_smile.uasset'
+[2025.11.05-19.44.17:404][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Rachel_Talk] ([1] browsable assets)...
+[2025.11.05-19.44.17:406][ 35]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Rachel_Talk.Rachel_Talk]
+[2025.11.05-19.44.17:406][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Rachel_Talk]
+[2025.11.05-19.44.17:406][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/Rachel_Talk" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Rachel_Talk.uasset" SILENT=true
+[2025.11.05-19.44.17:413][ 35]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Rachel_Talk
+[2025.11.05-19.44.17:413][ 35]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Rachel_TalkD9E847904DEF125B52F2D3ABA457B064.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Rachel_Talk.uasset'
+[2025.11.05-19.44.17:414][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Mia_Talk] ([1] browsable assets)...
+[2025.11.05-19.44.17:416][ 35]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Mia_Talk.Mia_Talk]
+[2025.11.05-19.44.17:416][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Mia_Talk]
+[2025.11.05-19.44.17:416][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/Mia_Talk" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Mia_Talk.uasset" SILENT=true
+[2025.11.05-19.44.17:424][ 35]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Mia_Talk
+[2025.11.05-19.44.17:424][ 35]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Mia_Talk56BB18FD47528C88D0F54E9A3A63AF65.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Mia_Talk.uasset'
+[2025.11.05-19.44.17:425][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Mia_Smile] ([1] browsable assets)...
+[2025.11.05-19.44.17:426][ 35]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Mia_Smile.Mia_Smile]
+[2025.11.05-19.44.17:426][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Mia_Smile]
+[2025.11.05-19.44.17:426][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/Mia_Smile" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Mia_Smile.uasset" SILENT=true
+[2025.11.05-19.44.17:433][ 35]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Mia_Smile
+[2025.11.05-19.44.17:433][ 35]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/Mia_Smile32150C6F48C0DD483A676EAAA69C1B63.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/2dArtTextures/Mia_Smile.uasset'
+[2025.11.05-19.44.17:440][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.907 ms (total: 292.778 ms)
+[2025.11.05-19.44.17:482][ 35]LogContentValidation: Display: Starting to validate 8 assets
+[2025.11.05-19.44.17:482][ 35]LogContentValidation: Enabled validators:
+[2025.11.05-19.44.17:482][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-19.44.17:482][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-19.44.17:482][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-19.44.17:482][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-19.44.17:482][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-19.44.17:482][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-19.44.17:482][ 35]AssetCheck: /Game/2dArtTextures/Trinity_Talk Validating asset
+[2025.11.05-19.44.17:482][ 35]AssetCheck: /Game/2dArtTextures/Trinity_Smile Validating asset
+[2025.11.05-19.44.17:482][ 35]AssetCheck: /Game/2dArtTextures/Sarah_Talk Validating asset
+[2025.11.05-19.44.17:482][ 35]AssetCheck: /Game/2dArtTextures/Sarah_Smile Validating asset
+[2025.11.05-19.44.17:482][ 35]AssetCheck: /Game/2dArtTextures/Rachel_smile Validating asset
+[2025.11.05-19.44.17:482][ 35]AssetCheck: /Game/2dArtTextures/Rachel_Talk Validating asset
+[2025.11.05-19.44.17:482][ 35]AssetCheck: /Game/2dArtTextures/Mia_Talk Validating asset
+[2025.11.05-19.44.17:482][ 35]AssetCheck: /Game/2dArtTextures/Mia_Smile Validating asset
+[2025.11.05-19.44.17:495][ 35]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
