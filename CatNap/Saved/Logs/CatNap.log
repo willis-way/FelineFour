@@ -4277,3 +4277,496 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.12-21.07.47:073][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.12-21.07.47:073][427]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.11.12-21.07.47:102][427]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-21.08.27:943][  5]Cmd: DELETE
+[2025.11.12-21.08.27:943][  5]Cmd: ACTOR DELETE
+[2025.11.12-21.08.27:945][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.08.27:946][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.08.27:946][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.08.27:964][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.08.27:966][  5]LogEditorActor: Deleted 3 Actors (0.023 secs)
+[2025.11.12-21.08.30:824][277]Cmd: DELETE
+[2025.11.12-21.08.30:824][277]Cmd: ACTOR DELETE
+[2025.11.12-21.08.30:826][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.08.30:827][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.08.30:862][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.08.30:864][277]LogEditorActor: Deleted 2 Actors (0.041 secs)
+[2025.11.12-21.08.39:624][278]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.09.07:877][180]Cmd: DELETE
+[2025.11.12-21.09.07:877][180]Cmd: ACTOR DELETE
+[2025.11.12-21.09.07:879][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.09.07:880][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.09.07:880][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.09.07:881][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.09.07:881][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.09.07:898][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.09.07:899][180]LogEditorActor: Deleted 5 Actors (0.023 secs)
+[2025.11.12-21.10.10:528][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-21.10.10:589][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.12-21.10.10:604][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.10.10:620][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.10.10:631][570]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/S7/XER7ARRK8LVK9FBS2ZCXSM
+[2025.11.12-21.10.10:631][570]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/XER7ARRK8LVK9FBS2ZCXSM80617DA14A0585B2CD97E2B842F5D295.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/S7/XER7ARRK8LVK9FBS2ZCXSM.uasset'
+[2025.11.12-21.10.10:637][570]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/SF/748ONM3K7LEZGSU7HG2SA6
+[2025.11.12-21.10.10:638][570]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/748ONM3K7LEZGSU7HG2SA6B04DC01748EF442125085E8291448F60.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/SF/748ONM3K7LEZGSU7HG2SA6.uasset'
+[2025.11.12-21.10.10:644][570]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/Y6/MUPAXPZBILRUARSUN5SUOT
+[2025.11.12-21.10.10:644][570]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MUPAXPZBILRUARSUN5SUOT8C24D01E42D9DE0249DFC4A3130ABFB0.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/Y6/MUPAXPZBILRUARSUN5SUOT.uasset'
+[2025.11.12-21.10.10:652][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.280 ms (total: 4.71 sec)
+[2025.11.12-21.10.10:707][570]LogContentValidation: Display: Starting to validate 3 assets
+[2025.11.12-21.10.10:707][570]LogContentValidation: Enabled validators:
+[2025.11.12-21.10.10:707][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-21.10.10:707][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-21.10.10:707][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-21.10.10:707][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-21.10.10:707][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-21.10.10:707][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-21.10.10:707][570]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.12-21.10.22:641][875]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.10.26:529][288]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.10.26:529][288]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.10.26:530][288]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_69
+[2025.11.12-21.10.27:580][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.12-21.10.27:582][405]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.10.27:591][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.10.27:591][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.10.27:593][405]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917CA102_2125973693
+[2025.11.12-21.10.28:581][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.28:581][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.28:581][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_70
+[2025.11.12-21.10.29:799][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.10.29:801][597]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.10.29:809][597]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.29:809][597]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.29:810][597]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917CA102_2128191694
+[2025.11.12-21.10.35:046][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.35:046][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.35:046][136]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_71
+[2025.11.12-21.10.36:748][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.10.36:750][328]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.11.12-21.10.36:759][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.36:759][328]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.36:761][328]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917CA102_2135141695
+[2025.11.12-21.10.37:861][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.10.37:861][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.10.37:861][424]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_72
+[2025.11.12-21.10.40:470][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.10.40:472][721]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.10.40:481][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.10.40:481][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.10.40:483][721]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917CA102_2138863696
+[2025.11.12-21.10.50:113][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.50:113][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.50:114][735]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_73
+[2025.11.12-21.10.52:204][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.12-21.10.52:206][974]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.10.52:215][974]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.52:215][974]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.10.52:217][974]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1076855874
+[2025.11.12-21.10.53:655][127]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.11.05:960][417]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.11.10:074][820]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.10:074][820]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.10:076][820]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_74
+[2025.11.12-21.11.11:054][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.11.11:056][928]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.11.11:065][928]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.11:065][928]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.11:066][928]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1095705875
+[2025.11.12-21.11.12:899][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.12:899][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.12:899][ 90]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_75
+[2025.11.12-21.11.14:353][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.11.14:355][253]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.11.12-21.11.14:363][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.14:363][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.14:364][253]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1099003876
+[2025.11.12-21.11.15:214][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.15:214][307]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.15:215][307]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_76
+[2025.11.12-21.11.16:381][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.12-21.11.16:383][439]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.11.16:392][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.16:392][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.16:393][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1101032877
+[2025.11.12-21.11.30:730][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.30:730][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.30:730][894]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_77
+[2025.11.12-21.11.34:015][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.11.34:017][278]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.12-21.11.34:026][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.34:027][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.34:028][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1118666878
+[2025.11.12-21.11.34:715][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.34:715][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.34:716][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_78
+[2025.11.12-21.11.37:138][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.11.37:140][589]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.11.37:149][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.37:149][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.37:151][589]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1121789879
+[2025.11.12-21.11.38:513][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.38:513][709]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.38:513][709]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_79
+[2025.11.12-21.11.43:363][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.11.43:365][270]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.11.43:373][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.43:373][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.43:374][270]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1128013880
+[2025.11.12-21.11.45:714][499]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.45:714][499]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.45:715][499]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_80
+[2025.11.12-21.11.48:385][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.11.48:387][803]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.11.12-21.11.48:396][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.48:396][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.11.48:398][803]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1133036881
+[2025.11.12-21.11.49:282][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.49:283][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.49:283][859]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_81
+[2025.11.12-21.11.51:299][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.12-21.11.51:301][ 88]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.11.51:309][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.51:309][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.51:311][ 88]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1135949882
+[2025.11.12-21.11.52:048][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.52:048][136]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.52:048][136]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_82
+[2025.11.12-21.11.53:625][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.11.53:627][312]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.11.12-21.11.53:636][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.53:636][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.53:637][312]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1138276883
+[2025.11.12-21.11.57:846][700]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.57:846][700]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.11.57:847][700]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_83
+[2025.11.12-21.12.00:072][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.12.00:075][954]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.12.00:082][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.00:082][954]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.00:085][954]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1144722884
+[2025.11.12-21.12.01:132][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.01:132][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.01:132][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_84
+[2025.11.12-21.12.02:293][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.12.02:294][173]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.12.02:302][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.02:302][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.02:305][173]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1146942885
+[2025.11.12-21.12.32:197][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.32:198][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.32:198][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_85
+[2025.11.12-21.12.33:063][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.12.33:064][415]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.11.12-21.12.33:073][415]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.33:073][415]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.12.33:075][415]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1177713886
+[2025.11.12-21.12.33:866][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.12.33:866][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.12.33:866][466]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_86
+[2025.11.12-21.12.35:495][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.12.35:497][653]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.12.35:505][653]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.12.35:505][653]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.12.35:507][653]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1180145887
+[2025.11.12-21.12.39:085][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.12.39:085][  8]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.12.39:086][  8]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_87
+[2025.11.12-21.12.40:366][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.12.40:367][153]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.12.40:376][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.12.40:376][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8
+[2025.11.12-21.12.40:377][153]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_Bush8.SM_Bush8 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1185016888
+[2025.11.12-21.12.42:461][374]Cmd: TRANSACTION UNDO
+[2025.11.12-21.12.42:461][374]LogEditorTransaction: Undo Scale Elements
+[2025.11.12-21.13.05:902][862]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.13.26:049][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5354.998047
+[2025.11.12-21.13.26:141][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-21.13.26:141][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5355.082520, Update Interval: 309.736023
+[2025.11.12-21.13.54:765][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.13.54:765][222]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.13.54:766][222]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_88
+[2025.11.12-21.13.55:329][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.12-21.13.55:331][279]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.13.55:339][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.13.55:339][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA
+[2025.11.12-21.13.55:342][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Bushes/SM_BushA.SM_BushA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1259979893
+[2025.11.12-21.14.12:183][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/DeathCap/SM_DeathCapBAdultVariantC.SM_DeathCapBAdultVariantC
+[2025.11.12-21.14.12:183][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/DeathCap/SM_DeathCapBAdultVariantC.SM_DeathCapBAdultVariantC
+[2025.11.12-21.14.12:184][ 59]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/DeathCap/SM_DeathCapBAdultVariantC.SM_DeathCapBAdultVariantC as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_89
+[2025.11.12-21.14.13:838][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.12-21.14.13:841][244]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.14.13:849][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/DeathCap/SM_DeathCapBAdultVariantC.SM_DeathCapBAdultVariantC
+[2025.11.12-21.14.13:849][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/DeathCap/SM_DeathCapBAdultVariantC.SM_DeathCapBAdultVariantC
+[2025.11.12-21.14.13:851][244]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/DeathCap/SM_DeathCapBAdultVariantC.SM_DeathCapBAdultVariantC as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1278489895
+[2025.11.12-21.14.27:949][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBAdultVariantB.SM_FlyAgaricBAdultVariantB
+[2025.11.12-21.14.27:949][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBAdultVariantB.SM_FlyAgaricBAdultVariantB
+[2025.11.12-21.14.27:949][778]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBAdultVariantB.SM_FlyAgaricBAdultVariantB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_90
+[2025.11.12-21.14.29:560][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.11.12-21.14.29:562][956]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.14.29:569][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBAdultVariantB.SM_FlyAgaricBAdultVariantB
+[2025.11.12-21.14.29:569][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBAdultVariantB.SM_FlyAgaricBAdultVariantB
+[2025.11.12-21.14.29:571][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBAdultVariantB.SM_FlyAgaricBAdultVariantB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1294209897
+[2025.11.12-21.14.30:009][995]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.15.05:983][895]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.15.40:025][434]Cmd: DELETE
+[2025.11.12-21.15.40:025][434]Cmd: ACTOR DELETE
+[2025.11.12-21.15.40:028][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.15.40:048][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.11.12-21.15.40:049][434]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.11.12-21.15.47:753][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBYoungVariantB.SM_FlyAgaricBYoungVariantB
+[2025.11.12-21.15.47:753][251]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBYoungVariantB.SM_FlyAgaricBYoungVariantB
+[2025.11.12-21.15.47:754][251]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBYoungVariantB.SM_FlyAgaricBYoungVariantB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_91
+[2025.11.12-21.15.48:546][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.15.48:548][339]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-21.15.48:557][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBYoungVariantB.SM_FlyAgaricBYoungVariantB
+[2025.11.12-21.15.48:557][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBYoungVariantB.SM_FlyAgaricBYoungVariantB
+[2025.11.12-21.15.48:559][339]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/FlyAgaric/SM_FlyAgaricBYoungVariantB.SM_FlyAgaricBYoungVariantB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1373197903
+[2025.11.12-21.15.50:354][529]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1373197903.StaticMeshComponent0.
+[2025.11.12-21.15.50:373][531]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1373197903.StaticMeshComponent0.
+[2025.11.12-21.15.50:479][543]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1373197903.StaticMeshComponent0.
+[2025.11.12-21.15.50:497][545]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1373197903.StaticMeshComponent0.
+[2025.11.12-21.15.53:820][915]Cmd: DELETE
+[2025.11.12-21.15.53:820][915]Cmd: ACTOR DELETE
+[2025.11.12-21.15.53:823][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.15.53:840][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.15.53:842][915]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.11.12-21.16.16:760][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.16.16:760][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.16.16:760][330]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_92
+[2025.11.12-21.16.17:949][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.12-21.16.17:950][462]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.16.17:958][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.16.17:958][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.16.17:961][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1402598906
+[2025.11.12-21.16.26:549][387]Cmd: DELETE
+[2025.11.12-21.16.26:549][387]Cmd: ACTOR DELETE
+[2025.11.12-21.16.26:551][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.16.26:568][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.16.26:571][387]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.11.12-21.16.36:902][562]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.16.40:457][918]Cmd: DELETE
+[2025.11.12-21.16.40:457][918]Cmd: ACTOR DELETE
+[2025.11.12-21.16.40:459][918]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-21.16.40:477][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.11.12-21.16.40:480][918]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.11.12-21.16.43:369][220]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD
+[2025.11.12-21.16.43:369][220]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD
+[2025.11.12-21.16.43:370][220]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_93
+[2025.11.12-21.16.44:812][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.16.44:815][384]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.11.12-21.16.44:824][384]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD
+[2025.11.12-21.16.44:824][384]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD
+[2025.11.12-21.16.44:825][384]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1429464908
+[2025.11.12-21.16.46:103][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.16.46:103][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.16.46:103][485]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_94
+[2025.11.12-21.16.48:256][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.16.48:258][727]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.16.48:267][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.16.48:267][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.16.48:269][727]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1432907909
+[2025.11.12-21.16.49:935][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.16.49:935][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.16.49:936][870]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_95
+[2025.11.12-21.16.51:143][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.12-21.16.51:144][  3]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.12-21.16.51:154][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.16.51:154][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.16.51:155][  3]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1435794910
+[2025.11.12-21.16.57:724][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.16.57:724][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.16.57:724][692]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_96
+[2025.11.12-21.16.59:084][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.16.59:086][840]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.12-21.16.59:095][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.16.59:095][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.16.59:096][840]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1443735911
+[2025.11.12-21.17.12:714][332]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.17.35:210][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.17.35:210][721]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.17.35:211][721]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_97
+[2025.11.12-21.17.37:124][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.12-21.17.37:126][931]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.11.12-21.17.37:135][931]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.17.37:135][931]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.17.37:137][931]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1481775917
+[2025.11.12-21.17.52:063][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.17.52:063][493]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.17.52:064][493]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_98
+[2025.11.12-21.17.53:371][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.12-21.17.53:373][643]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.11.12-21.17.53:382][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.17.53:382][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.17.53:384][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1498022919
+[2025.11.12-21.17.55:734][875]Cmd: TRANSACTION UNDO
+[2025.11.12-21.17.55:734][875]LogEditorTransaction: Undo Rotate Elements
+[2025.11.12-21.17.58:122][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.18.02:857][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.18.02:857][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.18.02:857][560]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_99
+[2025.11.12-21.18.03:913][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.18.03:915][678]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-21.18.03:925][678]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.18.03:925][678]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.18.03:927][678]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1508565920
+[2025.11.12-21.18.04:806][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD
+[2025.11.12-21.18.04:806][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD
+[2025.11.12-21.18.04:807][722]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_100
+[2025.11.12-21.18.05:528][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.18.05:530][799]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.12-21.18.05:539][799]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD
+[2025.11.12-21.18.05:539][799]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD
+[2025.11.12-21.18.05:541][799]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpD.SM_GrassLumpD as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1510179921
+[2025.11.12-21.18.06:669][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.18.06:669][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.18.06:669][880]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_101
+[2025.11.12-21.18.09:207][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.18.09:208][164]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.12-21.18.09:219][164]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.18.09:219][164]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall
+[2025.11.12-21.18.09:221][164]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_GrassLumpLargeFTall.SM_GrassLumpLargeFTall as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1513859922
+[2025.11.12-21.18.09:892][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.18.09:892][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.18.09:892][205]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_102
+[2025.11.12-21.18.10:883][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.18.10:885][313]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.12-21.18.10:894][313]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.18.10:894][313]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.11.12-21.18.10:896][313]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917DA102_1515534923
+[2025.11.12-21.18.36:965][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-21.18.37:052][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.18.37:069][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.18.37:086][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-21.18.37:095][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/SB/TV6KF06TUX2AMPL7CCP8DT
+[2025.11.12-21.18.37:095][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/TV6KF06TUX2AMPL7CCP8DT0F2C3512493E38C0680D1F86B6829717.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/SB/TV6KF06TUX2AMPL7CCP8DT.uasset'
+[2025.11.12-21.18.37:101][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/FO/LEU5XOP7MOFUZYITR3H3I0
+[2025.11.12-21.18.37:101][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/LEU5XOP7MOFUZYITR3H3I0783054D845F64807830A2B9A6D6776DD.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/FO/LEU5XOP7MOFUZYITR3H3I0.uasset'
+[2025.11.12-21.18.37:108][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/K1/F2BJFSQTLXVB52SR6NRASX
+[2025.11.12-21.18.37:108][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/F2BJFSQTLXVB52SR6NRASX138B116348703A8CF0B31D9A4EA4E822.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/K1/F2BJFSQTLXVB52SR6NRASX.uasset'
+[2025.11.12-21.18.37:114][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/0E/QO8ZZ4F8Z1XOQICCDJNZ1Z
+[2025.11.12-21.18.37:114][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/QO8ZZ4F8Z1XOQICCDJNZ1Z9AB82B2C4A959DC7B5651891848DD84E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/0E/QO8ZZ4F8Z1XOQICCDJNZ1Z.uasset'
+[2025.11.12-21.18.37:121][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/VU/HW3KP0ZWU2PAYXM8MPXPYT
+[2025.11.12-21.18.37:121][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/HW3KP0ZWU2PAYXM8MPXPYTCA8A5B284C03A08D2C938898CD71AA06.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/VU/HW3KP0ZWU2PAYXM8MPXPYT.uasset'
+[2025.11.12-21.18.37:127][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/CZ/7XC3S4YOMU9L1J6PYABHAS
+[2025.11.12-21.18.37:127][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/7XC3S4YOMU9L1J6PYABHAS028312BE4F968EABDDA8DD82B5418FE2.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/CZ/7XC3S4YOMU9L1J6PYABHAS.uasset'
+[2025.11.12-21.18.37:132][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/HY/GSNCDD0H8HXIFZSE56Z99I
+[2025.11.12-21.18.37:132][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/GSNCDD0H8HXIFZSE56Z99IBC5C6D7A4CFB4916EB59D6B0383502FC.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/HY/GSNCDD0H8HXIFZSE56Z99I.uasset'
+[2025.11.12-21.18.37:138][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/H1/WBQOGU8YO3B3Q3QNHH0RG8
+[2025.11.12-21.18.37:138][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/WBQOGU8YO3B3Q3QNHH0RG8A3D5D0714493EED735568DB5474BC3B0.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/H1/WBQOGU8YO3B3Q3QNHH0RG8.uasset'
+[2025.11.12-21.18.37:145][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/XO/QS0TAEO6NOIWUGQ3U7D8FY
+[2025.11.12-21.18.37:145][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/QS0TAEO6NOIWUGQ3U7D8FYA966599D409C379BF58F618E13026127.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/XO/QS0TAEO6NOIWUGQ3U7D8FY.uasset'
+[2025.11.12-21.18.37:151][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/F/0G/QC5RHKIPQW7BL3QCKOW555
+[2025.11.12-21.18.37:151][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/QC5RHKIPQW7BL3QCKOW555C79833F34CDEFB3A7728D7A735E46720.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/F/0G/QC5RHKIPQW7BL3QCKOW555.uasset'
+[2025.11.12-21.18.37:157][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/8G/ACVMOCSOGNHFLQJIDL7OE8
+[2025.11.12-21.18.37:157][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/ACVMOCSOGNHFLQJIDL7OE8DCC84F4743828C0DBDC9F2AF725F5D3F.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/8G/ACVMOCSOGNHFLQJIDL7OE8.uasset'
+[2025.11.12-21.18.37:163][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/TD/BMEZT0MBIWO0WR7V86W8JF
+[2025.11.12-21.18.37:163][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/BMEZT0MBIWO0WR7V86W8JF65CA8BC24EAD194B471600BBB68E52B6.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/TD/BMEZT0MBIWO0WR7V86W8JF.uasset'
+[2025.11.12-21.18.37:169][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/R9/R16OGKI5L2OACHL17UMCBS
+[2025.11.12-21.18.37:169][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/R16OGKI5L2OACHL17UMCBSA2CF61C74C890572B5E094905AFC7AC4.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/R9/R16OGKI5L2OACHL17UMCBS.uasset'
+[2025.11.12-21.18.37:175][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/4B/X4FXBN0WCX219D3OEZ6WLF
+[2025.11.12-21.18.37:175][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/X4FXBN0WCX219D3OEZ6WLF6D463A9648573C41E186969DE0DC047A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/4B/X4FXBN0WCX219D3OEZ6WLF.uasset'
+[2025.11.12-21.18.37:181][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/YT/GT56DVODL6DB7FFYBN8JDP
+[2025.11.12-21.18.37:181][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/GT56DVODL6DB7FFYBN8JDP743B415E44A6B051038AB58F3790DC06.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/YT/GT56DVODL6DB7FFYBN8JDP.uasset'
+[2025.11.12-21.18.37:187][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/CR/32LG552AMIQ1TPXEB54AV7
+[2025.11.12-21.18.37:187][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/32LG552AMIQ1TPXEB54AV7704F6B374DAA70D8BF5AE58A2C6EFB4B.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/CR/32LG552AMIQ1TPXEB54AV7.uasset'
+[2025.11.12-21.18.37:193][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/TJ/2Z35LJKPC7RPZ29OOFV1EQ
+[2025.11.12-21.18.37:193][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/2Z35LJKPC7RPZ29OOFV1EQ21ABF9A849D9D8B0EEDE7FB5D78626EB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/TJ/2Z35LJKPC7RPZ29OOFV1EQ.uasset'
+[2025.11.12-21.18.37:199][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/7D/BURPY6BKS56I8KHRNGI1CW
+[2025.11.12-21.18.37:199][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/BURPY6BKS56I8KHRNGI1CWC88E68AB4A3BAD4C0913878C987117A0.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/7D/BURPY6BKS56I8KHRNGI1CW.uasset'
+[2025.11.12-21.18.37:205][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/P3/LO75NID82T6EJWXN8KYKC8
+[2025.11.12-21.18.37:205][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/LO75NID82T6EJWXN8KYKC8A3BD46C14A1883681EC91C84B1DDC3FE.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/P3/LO75NID82T6EJWXN8KYKC8.uasset'
+[2025.11.12-21.18.37:210][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/1M/SRK1GAEBFCE6THR72GRUY6
+[2025.11.12-21.18.37:210][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SRK1GAEBFCE6THR72GRUY68C0CC5624D06BB6387658BAE7F90A0F1.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/1M/SRK1GAEBFCE6THR72GRUY6.uasset'
+[2025.11.12-21.18.37:216][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/ER/MMVF9TFJGZQUCESVUSWRR9
+[2025.11.12-21.18.37:216][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MMVF9TFJGZQUCESVUSWRR9BD432EEF44BA000AB516D3879B74D6D4.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/ER/MMVF9TFJGZQUCESVUSWRR9.uasset'
+[2025.11.12-21.18.37:224][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/BB/HA9Z72MVS8J2D19KJR22Y5
+[2025.11.12-21.18.37:224][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/HA9Z72MVS8J2D19KJR22Y53506092C436E1AAC6F83DFBEF982BA65.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/BB/HA9Z72MVS8J2D19KJR22Y5.uasset'
+[2025.11.12-21.18.37:230][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/6I/QXW1AGXYSHNEFXCHSUTPPM
+[2025.11.12-21.18.37:230][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/QXW1AGXYSHNEFXCHSUTPPM07A0128A477DC0BD1338D988158412C6.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/6I/QXW1AGXYSHNEFXCHSUTPPM.uasset'
+[2025.11.12-21.18.37:236][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/I0/6OFV446RE6JS3ELEENZ1KA
+[2025.11.12-21.18.37:236][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/6OFV446RE6JS3ELEENZ1KA7B4F6A9A4C795CC26E8BCC83C0F85323.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/I0/6OFV446RE6JS3ELEENZ1KA.uasset'
+[2025.11.12-21.18.37:242][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/ME/86OAPO0QJF0FUVMP8WJNBF
+[2025.11.12-21.18.37:242][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/86OAPO0QJF0FUVMP8WJNBFD567EAF949E3035108C8EFBB5DA1EFD2.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/ME/86OAPO0QJF0FUVMP8WJNBF.uasset'
+[2025.11.12-21.18.37:247][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/LS/1YUCKO0OHYYO9AX4H9Q4T9
+[2025.11.12-21.18.37:247][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/1YUCKO0OHYYO9AX4H9Q4T901ABBDBE43006104DA6DC5B96ED9B6A6.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/LS/1YUCKO0OHYYO9AX4H9Q4T9.uasset'
+[2025.11.12-21.18.37:254][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/K3/1JUQWWATPDYFH0G5M0B4TW
+[2025.11.12-21.18.37:254][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/1JUQWWATPDYFH0G5M0B4TW6A0B724847CD89350D8554B1DE08FC6A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/K3/1JUQWWATPDYFH0G5M0B4TW.uasset'
+[2025.11.12-21.18.37:259][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/OG/HECAQX4DVLRHOE9MZP1BJZ
+[2025.11.12-21.18.37:259][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/HECAQX4DVLRHOE9MZP1BJZ626A03DA48C57726707163A4266719E5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/OG/HECAQX4DVLRHOE9MZP1BJZ.uasset'
+[2025.11.12-21.18.37:265][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/TB/0TOGTRRG04J6NTR30ZBX66
+[2025.11.12-21.18.37:265][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/0TOGTRRG04J6NTR30ZBX6673EE14894577A65215DA2D978030A63A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/TB/0TOGTRRG04J6NTR30ZBX66.uasset'
+[2025.11.12-21.18.37:271][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/RP/J3ZLL0U1ERE6R8RMHYXRQ2
+[2025.11.12-21.18.37:271][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/J3ZLL0U1ERE6R8RMHYXRQ224FFC5A14C4727CA324DB3A139CF66B8.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/RP/J3ZLL0U1ERE6R8RMHYXRQ2.uasset'
+[2025.11.12-21.18.37:277][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/XV/BVAKXF3ETFDHEBJ1FLVVNG
+[2025.11.12-21.18.37:277][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/BVAKXF3ETFDHEBJ1FLVVNG657FC73345E529728D94A5991B7966E2.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/XV/BVAKXF3ETFDHEBJ1FLVVNG.uasset'
+[2025.11.12-21.18.37:282][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/8B/HQJXIPO0QUG5YGNB0E6CZS
+[2025.11.12-21.18.37:282][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/HQJXIPO0QUG5YGNB0E6CZSC34448EC409D469EA6F508824BB50FAA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/8B/HQJXIPO0QUG5YGNB0E6CZS.uasset'
+[2025.11.12-21.18.37:288][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/P0/LQOPHU00SESOFN5KEIXWTY
+[2025.11.12-21.18.37:288][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/LQOPHU00SESOFN5KEIXWTY1E38F5154880C97D8007CDA80EEFDCBB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/P0/LQOPHU00SESOFN5KEIXWTY.uasset'
+[2025.11.12-21.18.37:295][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/T1/PHUIIOKK2CC7KOW1B05UNP
+[2025.11.12-21.18.37:295][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/PHUIIOKK2CC7KOW1B05UNP171EE7064529EAEFDD417EB3A00B087D.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/T1/PHUIIOKK2CC7KOW1B05UNP.uasset'
+[2025.11.12-21.18.37:301][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/YO/R9HDP7FCY0DBBPMKS3467V
+[2025.11.12-21.18.37:301][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/R9HDP7FCY0DBBPMKS3467VB2FC752A44DC501D351A1790C5653860.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/YO/R9HDP7FCY0DBBPMKS3467V.uasset'
+[2025.11.12-21.18.37:306][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/SB/FJPBWOQWE88F408R3MFFJE
+[2025.11.12-21.18.37:306][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/FJPBWOQWE88F408R3MFFJEC52AF7D84CC2EA68D9466BA006D1DA31.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/SB/FJPBWOQWE88F408R3MFFJE.uasset'
+[2025.11.12-21.18.37:312][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/6W/X2Y7HMMY5RQ4IBL2EDPPKA
+[2025.11.12-21.18.37:312][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/X2Y7HMMY5RQ4IBL2EDPPKAC45C93AC499D8146DFA17E857C7E4E86.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/6W/X2Y7HMMY5RQ4IBL2EDPPKA.uasset'
+[2025.11.12-21.18.37:317][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/98/6QT52L67SHZY1XFJI0658A
+[2025.11.12-21.18.37:317][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/6QT52L67SHZY1XFJI0658A81654B3C457C1BD3A3AC0CB4AE752CDE.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/98/6QT52L67SHZY1XFJI0658A.uasset'
+[2025.11.12-21.18.37:324][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/TD/NEMN6KGE3BZOFP6CAE47X1
+[2025.11.12-21.18.37:324][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/NEMN6KGE3BZOFP6CAE47X19EBF2345494AF9493EA62C89BBD1D73B.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/TD/NEMN6KGE3BZOFP6CAE47X1.uasset'
+[2025.11.12-21.18.37:329][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/OD/WGPPWZ77LQH9K25GN43ANT
+[2025.11.12-21.18.37:329][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/WGPPWZ77LQH9K25GN43ANT82A42DFE40996655A0188DA621DCA49D.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/OD/WGPPWZ77LQH9K25GN43ANT.uasset'
+[2025.11.12-21.18.37:335][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/KC/NMIENV3JGA9CAH204MOSOE
+[2025.11.12-21.18.37:335][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/NMIENV3JGA9CAH204MOSOEF94AB8534A02AB39338388B63E5AA09C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/KC/NMIENV3JGA9CAH204MOSOE.uasset'
+[2025.11.12-21.18.37:341][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/8V/6ZLMJHO8VTLRMZ969ZIJ2H
+[2025.11.12-21.18.37:341][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/6ZLMJHO8VTLRMZ969ZIJ2H8FA2154B4B859538D4C0E1B190FDFA9F.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/8V/6ZLMJHO8VTLRMZ969ZIJ2H.uasset'
+[2025.11.12-21.18.37:346][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/DS/U5JKMM5Z1NGDC5CPJVKFUH
+[2025.11.12-21.18.37:346][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/U5JKMM5Z1NGDC5CPJVKFUH07B2709444772EEAD9EFD2835A292AA9.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/DS/U5JKMM5Z1NGDC5CPJVKFUH.uasset'
+[2025.11.12-21.18.37:353][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/5Y/O4TQK0KFVQCQ79TM2JIUI0
+[2025.11.12-21.18.37:353][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/O4TQK0KFVQCQ79TM2JIUI0387E6EDD4B0DAA4B6EC5678FD31942A5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/5Y/O4TQK0KFVQCQ79TM2JIUI0.uasset'
+[2025.11.12-21.18.37:359][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/0O/WJ7D9TNY821Q040PUNDS9T
+[2025.11.12-21.18.37:359][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/WJ7D9TNY821Q040PUNDS9T063CF2504DC68D1261EFA093A7B01C2A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/0O/WJ7D9TNY821Q040PUNDS9T.uasset'
+[2025.11.12-21.18.37:365][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/V7/8A6EYHN4PX2YH85LMSCZAD
+[2025.11.12-21.18.37:365][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/8A6EYHN4PX2YH85LMSCZADD795CA6B43983B0F309C47B08709AF19.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/V7/8A6EYHN4PX2YH85LMSCZAD.uasset'
+[2025.11.12-21.18.37:370][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/VB/PIS1E5QTFLI6QRRKQXTK7J
+[2025.11.12-21.18.37:370][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/PIS1E5QTFLI6QRRKQXTK7J010547CD48897344D6E702B99912726C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/VB/PIS1E5QTFLI6QRRKQXTK7J.uasset'
+[2025.11.12-21.18.37:376][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/FY/TH1VCUEGI13FCAE3T59X7I
+[2025.11.12-21.18.37:376][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/TH1VCUEGI13FCAE3T59X7I229C30EE450529666A8426944387BBD9.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/FY/TH1VCUEGI13FCAE3T59X7I.uasset'
+[2025.11.12-21.18.37:382][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/4Z/RD9PT4K5XWB0LSXD3CVM79
+[2025.11.12-21.18.37:382][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/RD9PT4K5XWB0LSXD3CVM7920F62EC341B7D283FEE5E9904A17DB7F.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/4Z/RD9PT4K5XWB0LSXD3CVM79.uasset'
+[2025.11.12-21.18.37:388][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/WR/P75UZQGZC12UZ5SRC3YOWC
+[2025.11.12-21.18.37:388][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/P75UZQGZC12UZ5SRC3YOWC51B413324E3FB1F7FD791287A5962F8E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/WR/P75UZQGZC12UZ5SRC3YOWC.uasset'
+[2025.11.12-21.18.37:394][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/MB/VX5KSY15MYQZN7QT62XY6O
+[2025.11.12-21.18.37:394][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/VX5KSY15MYQZN7QT62XY6OB4963E1F4ACB13C55DA7EBAB5F04723C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/MB/VX5KSY15MYQZN7QT62XY6O.uasset'
+[2025.11.12-21.18.37:404][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 438.215 ms (total: 5.14 sec)
+[2025.11.12-21.18.37:453][169]LogContentValidation: Display: Starting to validate 51 assets
+[2025.11.12-21.18.37:453][169]LogContentValidation: Enabled validators:
+[2025.11.12-21.18.37:453][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-21.18.37:453][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-21.18.37:453][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-21.18.37:453][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-21.18.37:453][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-21.18.37:453][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-21.18.37:453][169]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.12-21.18.37:485][169]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-21.19.09:350][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5698.215332
+[2025.11.12-21.19.09:410][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-21.19.09:410][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5698.265137, Update Interval: 326.366150
+[2025.11.12-21.19.16:803][829]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.19.20:949][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.19.32:820][547]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-21.19.56:112][ 63]Cmd: TRANSACTION UNDO
+[2025.11.12-21.19.56:112][ 63]LogEditorTransaction: Undo Rotate Elements
+[2025.11.12-21.20.05:601][970]Cmd: TRANSACTION UNDO
+[2025.11.12-21.20.05:602][970]LogEditorTransaction: Undo Rotate Elements
+[2025.11.12-21.20.06:705][ 39]Cmd: TRANSACTION UNDO
+[2025.11.12-21.20.06:706][ 39]LogEditorTransaction: Undo Clicking Background
+[2025.11.12-21.20.07:410][ 99]Cmd: TRANSACTION UNDO
+[2025.11.12-21.20.07:410][ 99]LogEditorTransaction: Undo Rotate Elements
+[2025.11.12-21.20.07:926][144]Cmd: TRANSACTION UNDO
+[2025.11.12-21.20.07:926][144]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-21.20.28:099][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-21.20.28:188][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.12-21.20.28:204][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-21.20.28:220][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-21.20.28:227][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.514 ms (total: 5.27 sec)
