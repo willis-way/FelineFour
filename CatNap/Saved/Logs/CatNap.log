@@ -1147,3 +1147,22 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.12-19.44.17:275][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.448156
 [2025.11.12-19.44.17:276][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -877650155
 [2025.11.12-19.44.17:276][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.448156, Update Interval: 320.689728
+[2025.11.12-19.46.09:136][ 50]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.12-19.48.19:149][833]LogStreaming: Display: FlushAsyncLoading(380): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-19.48.19:155][833]LogStaticMesh: Display: Building static mesh SM_GrassMoundA (Required Memory Estimate: 0.343032 MB)...
+[2025.11.12-19.48.19:158][833]LogTexture: Display: Building textures: /Game/VRS_LowPolyNatureEssentials/Textures/T_BaselinePalette.T_BaselinePalette (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.11.12-19.48.19:159][833]LogStaticMesh: Built static mesh [0.00s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_GrassMoundA.SM_GrassMoundA
+[2025.11.12-19.48.19:206][834]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.11.12-19.48.19:446][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_GrassMoundA.SM_GrassMoundA
+[2025.11.12-19.48.19:446][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_GrassMoundA.SM_GrassMoundA
+[2025.11.12-19.48.19:446][835]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_GrassMoundA.SM_GrassMoundA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_0
+[2025.11.12-19.48.20:239][905]LogPSOHitching: Encountered 250 PSO creation hitches so far (61 graphics, 189 compute). 0 of them were precached.
+[2025.11.12-19.48.20:539][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.12-19.48.20:540][930]LogEditorActor: Deleted 0 Actors (0.047 secs)
+[2025.11.12-19.48.20:548][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_GrassMoundA.SM_GrassMoundA
+[2025.11.12-19.48.20:548][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_GrassMoundA.SM_GrassMoundA
+[2025.11.12-19.48.20:553][930]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_GrassMoundA.SM_GrassMoundA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79178A102_1493897631
+[2025.11.12-19.48.20:692][932]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.11.12-19.49.37:876][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 326.148102
+[2025.11.12-19.49.37:942][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-19.49.37:942][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 326.206604, Update Interval: 313.903625
