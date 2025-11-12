@@ -1156,3 +1156,39 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.12-19.24.57:908][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -877650155
 [2025.11.12-19.24.57:908][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.851918, Update Interval: 351.877197
 [2025.11.12-19.25.06:098][ 35]LogPSOHitching: Encountered 200 PSO creation hitches so far (43 graphics, 157 compute). 0 of them were precached.
+[2025.11.12-19.26.49:133][859]LogDerivedDataCache: C:/Users/sbehr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.12-19.26.52:919][267]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.12-19.26.52:926][267]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.12-19.26.52:935][268]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.12-19.26.56:359][647]LogContentBrowser: Attempting asset rename: NewFolder -> BPI
+[2025.11.12-19.26.56:359][647]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.12-19.27.15:946][ 30]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2025.11.12-19.27.15:955][ 30]LogContentBrowser: Creating deferred item: NewInterface
+[2025.11.12-19.27.16:008][ 32]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2025.11.12-19.27.31:171][367]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2025.11.12-19.27.31:171][367]LogContentBrowser: End creating deferred item NewInterface
+[2025.11.12-19.27.38:025][ 65]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Interactable
+[2025.11.12-19.27.38:101][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-19.27.38:101][ 65]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPI/BPI_Interactable] ([2] browsable assets)...
+[2025.11.12-19.27.38:101][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPI/BPI_Interactable]
+[2025.11.12-19.27.38:101][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BPI/BPI_Interactable" FILE="../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/BPI/BPI_Interactable.uasset" SILENT=true
+[2025.11.12-19.27.38:109][ 65]LogSavePackage: Moving output files for package: /Game/Blueprints/BPI/BPI_Interactable
+[2025.11.12-19.27.38:109][ 65]LogSavePackage: Moving '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/BPI_InteractableE56710944E622F202919C68E582B00DE.tmp' to '../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/BPI/BPI_Interactable.uasset'
+[2025.11.12-19.27.38:112][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.756 ms
+[2025.11.12-19.27.38:214][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.12-19.27.38:232][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.11.12-19.27.38:249][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.12-19.27.38:285][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-19.27.38:285][ 65]LogContentValidation: Enabled validators:
+[2025.11.12-19.27.38:285][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-19.27.38:285][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-19.27.38:285][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-19.27.38:285][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-19.27.38:285][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-19.27.38:286][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-19.27.38:286][ 65]AssetCheck: /Game/Blueprints/BPI/BPI_Interactable Validating asset
+[2025.11.12-19.27.38:322][ 65]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sbehr/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-19.27.40:151][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPI/BPI_Interactable.BPI_Interactable
+[2025.11.12-19.27.40:151][254]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.11.12-19.27.42:792][475]LogSlate: Window 'BPI_Interactable' being destroyed
+[2025.11.12-19.27.43:542][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
