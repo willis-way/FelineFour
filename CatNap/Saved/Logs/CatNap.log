@@ -2097,3 +2097,280 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.12-20.10.48:121][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.12-20.10.48:121][622]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.11.12-20.10.48:149][622]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-20.11.38:665][217]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1647.391357
+[2025.11.12-20.11.38:818][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-20.11.38:818][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1647.538574, Update Interval: 314.306458
+[2025.11.12-20.11.41:960][593]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.12-20.11.41:963][593]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.12-20.11.41:963][593]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.11.12-20.11.41:965][593]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 1.296 ms (total: 1.895 ms)
+[2025.11.12-20.11.41:965][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.12-20.11.41:965][593]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2025.11.12-20.11.41:968][593]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.11.12-20.11.41:982][594]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.11.12-20.11.41:987][594]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.12-20.11.41:988][594]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 931 us (total: 1.556 ms)
+[2025.11.12-20.11.41:988][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006137s)
+[2025.11.12-20.11.41:988][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006176s)
+[2025.11.12-20.11.42:005][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.12-20.11.42:009][594]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.11.12-20.11.42:010][594]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.12-20.11.42:010][594]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.12-20.11.42:010][594]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.12-20.11.42:010][594]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.12-20.11.42:011][594]LogWorldPartition: Display: WorldPartition initialize took 1.249 ms (total: 70.618 ms)
+[2025.11.12-20.11.42:011][594]LogPlayLevel: PIE: World Init took: (0.003162s)
+[2025.11.12-20.11.42:012][594]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.11.12-20.11.42:012][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.12-20.11.42:012][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.12-20.11.42:012][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.12-20.11.42:012][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.12-20.11.42:012][594]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.12-20.11.42:012][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.12-20.11.42:012][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.12-20.11.42:012][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.12-20.11.42:012][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.12-20.11.42:012][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.12-20.11.42:012][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.12-20.11.42:014][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.12-20.11.42:025][594]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.11.12-20.11.42:025][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.12-20.11.42:026][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.12-20.11.42:026][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.12-20.11.42:026][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.11.12-20.11.42:026][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.11.12-20.11.42:028][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.11.12-20.11.42:028][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.11.12-20.11.42:028][594]LogInit: FAudioDevice initialized with ID 3.
+[2025.11.12-20.11.42:028][594]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_LevelOne'.
+[2025.11.12-20.11.42:028][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.12-20.11.42:032][594]LogLoad: Game class is 'GM_IntroGame_C'
+[2025.11.12-20.11.42:035][594]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.11.12-15.11.42
+[2025.11.12-20.11.42:035][594]LogWorld: Bringing up level for play took: 0.002606
+[2025.11.12-20.11.42:037][594]PIE: Server logged in
+[2025.11.12-20.11.42:039][594]PIE: Play in editor total start time 0.075 seconds.
+[2025.11.12-20.11.42:080][595]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.12-20.11.51:899][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.12-20.11.51:899][721]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.11.12-20.11.51:899][721]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.11.12-20.11.51:900][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-20.11.51:900][721]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.11.12-20.11.51:901][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.12-20.11.51:903][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.12-20.11.51:915][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.12-20.11.51:916][721]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.11.12-20.11.51:916][721]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.11.12-20.11.51:917][721]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.11.12-20.11.51:923][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.12-20.11.51:973][724]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.11.12-20.12.06:544][216]LogStreaming: Display: FlushAsyncLoading(382): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.12.06:545][216]LogStaticMesh: Display: Building static mesh SM_RuinedWallA (Required Memory Estimate: 1.458051 MB)...
+[2025.11.12-20.12.06:566][216]LogStaticMesh: Built static mesh [0.02s] /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallA.SM_RuinedWallA
+[2025.11.12-20.12.06:729][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallA.SM_RuinedWallA
+[2025.11.12-20.12.06:729][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallA.SM_RuinedWallA
+[2025.11.12-20.12.06:729][217]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallA.SM_RuinedWallA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_5
+[2025.11.12-20.12.06:792][220]LogPSOHitching: Encountered 450 PSO creation hitches so far (170 graphics, 280 compute). 0 of them were precached.
+[2025.11.12-20.12.07:750][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.12-20.12.07:752][330]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.11.12-20.12.07:761][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallA.SM_RuinedWallA
+[2025.11.12-20.12.07:761][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallA.SM_RuinedWallA
+[2025.11.12-20.12.07:762][330]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallA.SM_RuinedWallA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_1847368902
+[2025.11.12-20.12.10:366][618]Cmd: DELETE
+[2025.11.12-20.12.10:367][618]Cmd: ACTOR DELETE
+[2025.11.12-20.12.10:368][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.12.10:380][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-20.12.10:381][618]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-20.12.13:060][893]LogStreaming: Display: FlushAsyncLoading(383): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.12.13:061][893]LogStaticMesh: Display: Building static mesh SM_RuinedWallRubbleA (Required Memory Estimate: 0.469457 MB)...
+[2025.11.12-20.12.13:068][893]LogStaticMesh: Built static mesh [0.01s] /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallRubbleA.SM_RuinedWallRubbleA
+[2025.11.12-20.12.13:194][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallRubbleA.SM_RuinedWallRubbleA
+[2025.11.12-20.12.13:194][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallRubbleA.SM_RuinedWallRubbleA
+[2025.11.12-20.12.13:195][895]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallRubbleA.SM_RuinedWallRubbleA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_6
+[2025.11.12-20.12.14:443][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.12-20.12.14:445][ 39]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.11.12-20.12.14:455][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallRubbleA.SM_RuinedWallRubbleA
+[2025.11.12-20.12.14:455][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallRubbleA.SM_RuinedWallRubbleA
+[2025.11.12-20.12.14:456][ 39]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/RuinedWalls/SM_RuinedWallRubbleA.SM_RuinedWallRubbleA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_1854062903
+[2025.11.12-20.12.14:973][ 87]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.12.18:472][464]Cmd: DELETE
+[2025.11.12-20.12.18:472][464]Cmd: ACTOR DELETE
+[2025.11.12-20.12.18:473][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.12.18:494][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-20.12.18:495][464]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.11.12-20.12.26:493][347]Cmd: DELETE
+[2025.11.12-20.12.26:493][347]Cmd: ACTOR DELETE
+[2025.11.12-20.12.26:495][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.12.26:510][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-20.12.26:513][347]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.11.12-20.12.39:988][790]LogStreaming: Display: FlushAsyncLoading(384): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.12.39:989][790]LogStaticMesh: Display: Building static mesh SM_DirtMoundD (Required Memory Estimate: 0.364374 MB)...
+[2025.11.12-20.12.39:992][790]LogStaticMesh: Built static mesh [0.00s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_DirtMoundD.SM_DirtMoundD
+[2025.11.12-20.12.40:100][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_DirtMoundD.SM_DirtMoundD
+[2025.11.12-20.12.40:100][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_DirtMoundD.SM_DirtMoundD
+[2025.11.12-20.12.40:100][791]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_DirtMoundD.SM_DirtMoundD as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_7
+[2025.11.12-20.12.40:885][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.12-20.12.40:888][880]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.11.12-20.12.40:897][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_DirtMoundD.SM_DirtMoundD
+[2025.11.12-20.12.40:897][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_DirtMoundD.SM_DirtMoundD
+[2025.11.12-20.12.40:898][880]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/Mounds/SM_DirtMoundD.SM_DirtMoundD as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_1880504904
+[2025.11.12-20.12.41:526][939]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.13.11:121][203]Cmd: DELETE
+[2025.11.12-20.13.11:121][203]Cmd: ACTOR DELETE
+[2025.11.12-20.13.11:123][203]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.13.11:135][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.12-20.13.11:137][203]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.11.12-20.13.18:025][979]Cmd: TRANSACTION UNDO
+[2025.11.12-20.13.18:025][979]LogEditorTransaction: Undo Scale Elements
+[2025.11.12-20.14.06:856][144]LogStreaming: Display: FlushAsyncLoading(385): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.14.06:858][144]LogStaticMesh: Display: Building static mesh SM_WillowTreeAdultA (Required Memory Estimate: 2.636469 MB)...
+[2025.11.12-20.14.06:868][144]LogStaticMesh: Built static mesh [0.01s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/WeepingWillow/SM_WillowTreeAdultA.SM_WillowTreeAdultA
+[2025.11.12-20.14.06:953][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/WeepingWillow/SM_WillowTreeAdultA.SM_WillowTreeAdultA
+[2025.11.12-20.14.06:953][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/WeepingWillow/SM_WillowTreeAdultA.SM_WillowTreeAdultA
+[2025.11.12-20.14.06:953][145]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/WeepingWillow/SM_WillowTreeAdultA.SM_WillowTreeAdultA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_8
+[2025.11.12-20.14.08:001][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.12-20.14.08:003][245]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.11.12-20.14.08:012][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/WeepingWillow/SM_WillowTreeAdultA.SM_WillowTreeAdultA
+[2025.11.12-20.14.08:012][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/WeepingWillow/SM_WillowTreeAdultA.SM_WillowTreeAdultA
+[2025.11.12-20.14.08:014][245]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/WeepingWillow/SM_WillowTreeAdultA.SM_WillowTreeAdultA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_1967619908
+[2025.11.12-20.14.22:103][701]LogStreaming: Display: FlushAsyncLoading(386): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.14.22:105][701]LogStaticMesh: Display: Building static mesh SM_BackgroundMountainA (Required Memory Estimate: 0.900802 MB)...
+[2025.11.12-20.14.22:125][701]LogStaticMesh: Built static mesh [0.02s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.11.12-20.14.22:153][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.11.12-20.14.22:153][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.11.12-20.14.22:153][701]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_9
+[2025.11.12-20.14.23:547][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.12-20.14.23:549][847]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.11.12-20.14.23:559][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.11.12-20.14.23:559][847]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.11.12-20.14.23:560][847]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_1983166909
+[2025.11.12-20.14.38:544][476]Cmd: DELETE
+[2025.11.12-20.14.38:544][476]Cmd: ACTOR DELETE
+[2025.11.12-20.14.38:546][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.14.38:559][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-20.14.38:561][476]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.11.12-20.14.41:193][762]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.14.57:384][440]LogStreaming: Display: FlushAsyncLoading(387): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.14.57:385][440]LogStaticMesh: Display: Building static mesh SM_OakAdultD (Required Memory Estimate: 1.347634 MB)...
+[2025.11.12-20.14.57:396][440]LogStaticMesh: Built static mesh [0.01s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.11.12-20.14.57:445][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.11.12-20.14.57:447][440]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.11.12-20.14.57:447][440]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_10
+[2025.11.12-20.14.59:750][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.11.12-20.14.59:753][686]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.11.12-20.14.59:762][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.11.12-20.14.59:762][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.11.12-20.14.59:764][686]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_2019369910
+[2025.11.12-20.15.01:222][835]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.15.07:617][495]Cmd: TRANSACTION UNDO
+[2025.11.12-20.15.07:617][495]LogEditorTransaction: Undo Move Elements
+[2025.11.12-20.15.14:737][238]Cmd: TRANSACTION UNDO
+[2025.11.12-20.15.14:737][238]LogEditorTransaction: Undo Move Elements
+[2025.11.12-20.15.37:954][689]Cmd: TRANSACTION UNDO
+[2025.11.12-20.15.37:954][689]LogEditorTransaction: Undo Move Elements
+[2025.11.12-20.15.38:635][716]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.15.52:727][185]LogStreaming: Display: FlushAsyncLoading(388): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.15.52:728][185]LogStaticMesh: Display: Building static mesh SM_BirchTreeAdultA (Required Memory Estimate: 0.882317 MB)...
+[2025.11.12-20.15.52:731][185]LogStaticMesh: Built static mesh [0.00s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Birch/SM_BirchTreeAdultA.SM_BirchTreeAdultA
+[2025.11.12-20.15.52:787][185]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Birch/SM_BirchTreeAdultA.SM_BirchTreeAdultA
+[2025.11.12-20.15.52:787][185]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Birch/SM_BirchTreeAdultA.SM_BirchTreeAdultA
+[2025.11.12-20.15.52:787][185]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Birch/SM_BirchTreeAdultA.SM_BirchTreeAdultA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_11
+[2025.11.12-20.15.55:078][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.12-20.15.55:081][432]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-20.15.55:090][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Birch/SM_BirchTreeAdultA.SM_BirchTreeAdultA
+[2025.11.12-20.15.55:090][432]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Birch/SM_BirchTreeAdultA.SM_BirchTreeAdultA
+[2025.11.12-20.15.55:091][432]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Birch/SM_BirchTreeAdultA.SM_BirchTreeAdultA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_2074697912
+[2025.11.12-20.16.24:299][621]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_2082003913.StaticMeshComponent0.
+[2025.11.12-20.16.35:396][765]LogStreaming: Display: FlushAsyncLoading(389): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.16.35:397][765]LogStaticMesh: Display: Building static mesh SM_GenericTreeB (Required Memory Estimate: 0.807655 MB)...
+[2025.11.12-20.16.35:404][765]LogStaticMesh: Built static mesh [0.01s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.11.12-20.16.35:447][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.11.12-20.16.35:447][765]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.11.12-20.16.35:448][765]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_12
+[2025.11.12-20.16.41:553][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.12-20.16.41:557][465]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.11.12-20.16.41:567][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.11.12-20.16.41:567][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.11.12-20.16.41:568][465]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_2121174915
+[2025.11.12-20.16.48:361][170]LogStreaming: Display: FlushAsyncLoading(390): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.16.48:362][170]LogStaticMesh: Display: Building static mesh SM_PineVariantAGrowingB (Required Memory Estimate: 0.476172 MB)...
+[2025.11.12-20.16.48:372][170]LogStaticMesh: Built static mesh [0.01s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.11.12-20.16.48:427][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.11.12-20.16.48:427][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.11.12-20.16.48:427][171]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_13
+[2025.11.12-20.16.49:667][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.12-20.16.49:669][301]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.11.12-20.16.49:679][301]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.11.12-20.16.49:679][301]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.11.12-20.16.49:680][301]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_2129286916
+[2025.11.12-20.16.50:880][413]Cmd: DELETE
+[2025.11.12-20.16.50:880][413]Cmd: ACTOR DELETE
+[2025.11.12-20.16.50:881][413]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.16.50:899][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.11.12-20.16.50:901][413]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.11.12-20.16.58:938][318]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.17.05:989][ 61]LogStreaming: Display: FlushAsyncLoading(391): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-20.17.05:990][ 61]LogStaticMesh: Display: Building static mesh SM_PineVariantAMatureB (Required Memory Estimate: 0.706238 MB)...
+[2025.11.12-20.17.05:997][ 61]LogStaticMesh: Built static mesh [0.01s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.11.12-20.17.06:135][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.11.12-20.17.06:135][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.11.12-20.17.06:135][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_14
+[2025.11.12-20.17.07:152][160]LogMeshUtilities: Finished distance field build in 1.1s - 119x119x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, SM_PineVariantAMatureB
+[2025.11.12-20.17.07:397][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.11.12-20.17.07:400][187]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.11.12-20.17.07:409][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.11.12-20.17.07:409][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.11.12-20.17.07:410][187]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79179A102_2147016918
+[2025.11.12-20.17.33:184][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2001.974731
+[2025.11.12-20.17.33:266][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-20.17.33:267][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2002.049072, Update Interval: 310.213928
+[2025.11.12-20.17.43:011][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-20.17.43:077][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.12-20.17.43:090][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-20.17.43:122][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.12-20.17.43:132][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/VU/VPQ2UYECT2J4OA6V7EOCVG
+[2025.11.12-20.17.43:132][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/VPQ2UYECT2J4OA6V7EOCVGB3EA92A945DF87F7F6D7DFBB5A9227B5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/VU/VPQ2UYECT2J4OA6V7EOCVG.uasset'
+[2025.11.12-20.17.43:139][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/64/CCC0QH6W1B0OCZ7DYT5XLG
+[2025.11.12-20.17.43:139][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/CCC0QH6W1B0OCZ7DYT5XLGFEA7502D446CE0A00626BABF5017C7D0.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/64/CCC0QH6W1B0OCZ7DYT5XLG.uasset'
+[2025.11.12-20.17.43:146][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/5A/X6FZL8PO07RV0FMWQ8VDHB
+[2025.11.12-20.17.43:146][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/X6FZL8PO07RV0FMWQ8VDHB315FE91547758F6F1ADE1DBC44B595BA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/5A/X6FZL8PO07RV0FMWQ8VDHB.uasset'
+[2025.11.12-20.17.43:152][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/63/H38LUYMMQIPW3EVTU4JAYQ
+[2025.11.12-20.17.43:152][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/H38LUYMMQIPW3EVTU4JAYQ5EA2F9EF46882B16332554868BA00B2D.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/63/H38LUYMMQIPW3EVTU4JAYQ.uasset'
+[2025.11.12-20.17.43:158][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/J3/LX51YKIJRUOPKVQ6WYUX1B
+[2025.11.12-20.17.43:158][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/LX51YKIJRUOPKVQ6WYUX1BD5D32DD347B02603D44C6B8953E46855.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/J3/LX51YKIJRUOPKVQ6WYUX1B.uasset'
+[2025.11.12-20.17.43:165][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/OV/AFP9SZ8F2GEDCY55ZZRALY
+[2025.11.12-20.17.43:165][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/AFP9SZ8F2GEDCY55ZZRALYD6DEBFF84E1F303123A10EB39B13657B.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/OV/AFP9SZ8F2GEDCY55ZZRALY.uasset'
+[2025.11.12-20.17.43:171][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/NS/DLT2AM5H80L3A9SWKEJ9UN
+[2025.11.12-20.17.43:171][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/DLT2AM5H80L3A9SWKEJ9UN3A0BDBC541A59B564EAACCBF8E11A83C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/NS/DLT2AM5H80L3A9SWKEJ9UN.uasset'
+[2025.11.12-20.17.43:178][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/UM/1SMWCIWGE3H2G08GZNNJCP
+[2025.11.12-20.17.43:178][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/1SMWCIWGE3H2G08GZNNJCPF934A41049A4AC28AC76C9B72483C2A9.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/UM/1SMWCIWGE3H2G08GZNNJCP.uasset'
+[2025.11.12-20.17.43:183][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/PI/G86MTLD3S90IXYA24AJYUD
+[2025.11.12-20.17.43:183][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/G86MTLD3S90IXYA24AJYUDBA8E7A654134DEB5F236C6AD5292A6AA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/PI/G86MTLD3S90IXYA24AJYUD.uasset'
+[2025.11.12-20.17.43:189][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/AY/8NOYK0NSV4QHELC0W7GBU6
+[2025.11.12-20.17.43:189][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/8NOYK0NSV4QHELC0W7GBU61AD9573240F6ADC1BC3B58A06BF757A2.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/AY/8NOYK0NSV4QHELC0W7GBU6.uasset'
+[2025.11.12-20.17.43:195][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/A6/TUBB8P7NKDCYBCRMWO2VB8
+[2025.11.12-20.17.43:195][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/TUBB8P7NKDCYBCRMWO2VB82B12AA11432A0D19D9FFB389FD69E307.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/A6/TUBB8P7NKDCYBCRMWO2VB8.uasset'
+[2025.11.12-20.17.43:201][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/4D/KG8ICGK0BTAWQ3Q7U6UIXR
+[2025.11.12-20.17.43:201][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/KG8ICGK0BTAWQ3Q7U6UIXR45957BC1461B7798C475D4819FBB3E05.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/4D/KG8ICGK0BTAWQ3Q7U6UIXR.uasset'
+[2025.11.12-20.17.43:206][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/DP/VMGSEVFCBCWL8QT3JYEV6C
+[2025.11.12-20.17.43:206][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/VMGSEVFCBCWL8QT3JYEV6CDF263D9F478B7C03EC93F3BD94D8CE07.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/DP/VMGSEVFCBCWL8QT3JYEV6C.uasset'
+[2025.11.12-20.17.43:213][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/DQ/U9BAAW5RII8BP64J7RJL3G
+[2025.11.12-20.17.43:213][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/U9BAAW5RII8BP64J7RJL3GBFCD9D8C472C62F1FC4F87B4ED3BBBD6.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/DQ/U9BAAW5RII8BP64J7RJL3G.uasset'
+[2025.11.12-20.17.43:218][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/WZ/82WWENT69L8PI00RPQ8O78
+[2025.11.12-20.17.43:219][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/82WWENT69L8PI00RPQ8O788F33161B41DBA2FD8C0E409801F21A06.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/WZ/82WWENT69L8PI00RPQ8O78.uasset'
+[2025.11.12-20.17.43:225][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/ZB/FGTI1SX6FNCLPFFY5IZIQA
+[2025.11.12-20.17.43:225][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/FGTI1SX6FNCLPFFY5IZIQAC638CB7549365B533A4E57A2EDE69A9C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/ZB/FGTI1SX6FNCLPFFY5IZIQA.uasset'
+[2025.11.12-20.17.43:231][ 31]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/SW/RL62H2F3LOR0LDNUUTVHWI
+[2025.11.12-20.17.43:231][ 31]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/RL62H2F3LOR0LDNUUTVHWI6F41D83044B55B062F677999731BCC0A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/SW/RL62H2F3LOR0LDNUUTVHWI.uasset'
+[2025.11.12-20.17.43:243][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 232.131 ms (total: 1.46 sec)
+[2025.11.12-20.17.43:301][ 31]LogContentValidation: Display: Starting to validate 17 assets
+[2025.11.12-20.17.43:302][ 31]LogContentValidation: Enabled validators:
+[2025.11.12-20.17.43:302][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-20.17.43:302][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-20.17.43:302][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-20.17.43:302][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-20.17.43:302][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-20.17.43:302][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-20.17.43:302][ 31]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.12-20.17.43:363][ 31]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
