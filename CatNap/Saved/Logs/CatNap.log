@@ -3259,3 +3259,310 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.12-20.44.09:296][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.12-20.44.09:296][346]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.11.12-20.44.09:323][346]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-20.45.06:242][547]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.06:242][547]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.45.06:543][551]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.06:543][551]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.45.06:771][553]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.06:771][553]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.45.06:894][554]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.06:894][554]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.45.07:087][562]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.07:087][562]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.45.07:247][567]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.07:247][567]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.45.07:440][576]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.07:440][576]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.45.07:875][613]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.07:875][613]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.45.08:174][634]Cmd: TRANSACTION UNDO
+[2025.11.12-20.45.08:174][634]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.46.02:684][646]Cmd: DUPLICATE
+[2025.11.12-20.46.02:684][646]Cmd: ACTOR DUPLICATE
+[2025.11.12-20.46.09:136][391]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.12-20.46.09:257][406]Cmd: ACTOR HIDE SELECTED
+[2025.11.12-20.46.36:660][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.46.53:315][185]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.46.56:736][553]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917BA102_1762890436.StaticMeshComponent0.
+[2025.11.12-20.46.56:736][553]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917BA102_1762891437.StaticMeshComponent0.
+[2025.11.12-20.46.57:585][646]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917BA102_1762890436.StaticMeshComponent0.
+[2025.11.12-20.46.57:585][646]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7917BA102_1762891437.StaticMeshComponent0.
+[2025.11.12-20.46.59:176][821]Cmd: TRANSACTION UNDO
+[2025.11.12-20.46.59:176][821]LogEditorTransaction: Undo Scale Elements
+[2025.11.12-20.47.16:018][593]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.47.23:301][330]Cmd: TRANSACTION UNDO
+[2025.11.12-20.47.23:301][330]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.12-20.47.27:136][684]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.47.36:374][655]Cmd: DELETE
+[2025.11.12-20.47.36:374][655]Cmd: ACTOR DELETE
+[2025.11.12-20.47.36:376][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.47.36:399][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.12-20.47.36:401][655]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.11.12-20.47.39:695][ 20]Cmd: DELETE
+[2025.11.12-20.47.39:695][ 20]Cmd: ACTOR DELETE
+[2025.11.12-20.47.39:697][ 20]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.47.39:712][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-20.47.39:715][ 20]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.11.12-20.48.00:060][246]Cmd: DELETE
+[2025.11.12-20.48.00:060][246]Cmd: ACTOR DELETE
+[2025.11.12-20.48.00:061][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.48.00:076][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-20.48.00:078][246]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.11.12-20.48.06:915][966]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.48.17:090][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.48.44:095][894]Cmd: DELETE
+[2025.11.12-20.48.44:095][894]Cmd: ACTOR DELETE
+[2025.11.12-20.48.44:098][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.48.44:114][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.12-20.48.44:116][894]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.11.12-20.48.46:664][183]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3875.621094
+[2025.11.12-20.48.46:737][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-20.48.46:737][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3875.684326, Update Interval: 304.561310
+[2025.11.12-20.48.50:809][614]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.48.59:850][520]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.49.07:102][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.49.24:339][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-20.49.24:397][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-20.49.24:413][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.12-20.49.24:427][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-20.49.24:438][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/J1/TS2WQBT9619SLUV0Q66R3X
+[2025.11.12-20.49.24:438][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/TS2WQBT9619SLUV0Q66R3X5BAD9DC54E65A5A21E1F768A45EE26B5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/J1/TS2WQBT9619SLUV0Q66R3X.uasset'
+[2025.11.12-20.49.24:445][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/IE/14V8FXG7IYT86GFB7AZSJJ
+[2025.11.12-20.49.24:445][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/14V8FXG7IYT86GFB7AZSJJ9CAE8E254188E04FF607DB96AC37F47A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/IE/14V8FXG7IYT86GFB7AZSJJ.uasset'
+[2025.11.12-20.49.24:451][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/OV/AFP9SZ8F2GEDCY55ZZRALY
+[2025.11.12-20.49.24:451][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/AFP9SZ8F2GEDCY55ZZRALY620968454E5BD7436AE33083DFB4A1DC.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/OV/AFP9SZ8F2GEDCY55ZZRALY.uasset'
+[2025.11.12-20.49.24:458][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/ZB/FGTI1SX6FNCLPFFY5IZIQA
+[2025.11.12-20.49.24:458][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/FGTI1SX6FNCLPFFY5IZIQA61AA8AA0430FEF5C5F1603854705352C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/ZB/FGTI1SX6FNCLPFFY5IZIQA.uasset'
+[2025.11.12-20.49.24:460][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/SW/RL62H2F3LOR0LDNUUTVHWI
+[2025.11.12-20.49.24:461][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/RL62H2F3LOR0LDNUUTVHWIE3C41D644171866806FB90B7F3996B39.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/SW/RL62H2F3LOR0LDNUUTVHWI.uasset'
+[2025.11.12-20.49.24:467][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/H0/EA0MHFGAJYCXW9R3LA55FP
+[2025.11.12-20.49.24:467][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/EA0MHFGAJYCXW9R3LA55FP55A6A39A4882A4823A1A27BCA31D19CB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/H0/EA0MHFGAJYCXW9R3LA55FP.uasset'
+[2025.11.12-20.49.24:473][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/KS/SLMYFF93NOE8QAMSXAMXG0
+[2025.11.12-20.49.24:473][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SLMYFF93NOE8QAMSXAMXG0EEFA69A0480F9F21B904A99A1F0126AB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/KS/SLMYFF93NOE8QAMSXAMXG0.uasset'
+[2025.11.12-20.49.24:480][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/QV/P7B5H6D2DZ9TODB5QHVXOA
+[2025.11.12-20.49.24:480][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/P7B5H6D2DZ9TODB5QHVXOACEDB8C4246B809B1070B8396CB97813E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/QV/P7B5H6D2DZ9TODB5QHVXOA.uasset'
+[2025.11.12-20.49.24:487][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/F/2Z/NKYJZFR31Y3BQ2NFLFTQOH
+[2025.11.12-20.49.24:487][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/NKYJZFR31Y3BQ2NFLFTQOHBD054C7C426D22C296230FA43C813EDA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/F/2Z/NKYJZFR31Y3BQ2NFLFTQOH.uasset'
+[2025.11.12-20.49.24:493][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/HD/KULQMJ8D7ARH8NA978JZ35
+[2025.11.12-20.49.24:493][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/KULQMJ8D7ARH8NA978JZ355BBDD7F547D159680ED586860DFE3FC0.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/HD/KULQMJ8D7ARH8NA978JZ35.uasset'
+[2025.11.12-20.49.24:499][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/4E/YDGPWJJTN8MLL3NWCTARZV
+[2025.11.12-20.49.24:499][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/YDGPWJJTN8MLL3NWCTARZV71FEDFB84013424EAAC6DFBD950D0876.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/4E/YDGPWJJTN8MLL3NWCTARZV.uasset'
+[2025.11.12-20.49.24:505][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/UZ/MTCG2AITR1BTUUX12YGNFM
+[2025.11.12-20.49.24:505][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MTCG2AITR1BTUUX12YGNFM3E01C3B248E4C7E8228EB6BC4C0F2408.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/UZ/MTCG2AITR1BTUUX12YGNFM.uasset'
+[2025.11.12-20.49.24:512][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/DC/TQTC98NWM0VI1KLO8LMU0X
+[2025.11.12-20.49.24:512][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/TQTC98NWM0VI1KLO8LMU0X097AE32941B7237E39BD9696B34F8EA6.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/DC/TQTC98NWM0VI1KLO8LMU0X.uasset'
+[2025.11.12-20.49.24:514][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/P4/YBQSZALDR5F6GCUWNJ58WV
+[2025.11.12-20.49.24:514][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/YBQSZALDR5F6GCUWNJ58WV208DFDC74C9EB0BC98A0399F2A150F40.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/P4/YBQSZALDR5F6GCUWNJ58WV.uasset'
+[2025.11.12-20.49.24:516][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/XH/5KXN2SAYJKG9QOX3C4YO7P
+[2025.11.12-20.49.24:516][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/5KXN2SAYJKG9QOX3C4YO7P5D178E9D495F74EDC6A57CAEA61276F4.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/XH/5KXN2SAYJKG9QOX3C4YO7P.uasset'
+[2025.11.12-20.49.24:518][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/8E/1NBS1708YZRFWUFEV1UVVX
+[2025.11.12-20.49.24:518][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/1NBS1708YZRFWUFEV1UVVX5EE2232040A0521696DFEBBEA1D08D82.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/8E/1NBS1708YZRFWUFEV1UVVX.uasset'
+[2025.11.12-20.49.24:524][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/TI/F0VKE9FG4ZLA4Q36P1TBUK
+[2025.11.12-20.49.24:525][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/F0VKE9FG4ZLA4Q36P1TBUK338305C5447A9FF48F7135B746044F64.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/TI/F0VKE9FG4ZLA4Q36P1TBUK.uasset'
+[2025.11.12-20.49.24:531][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/KR/HK4650EEEZ97X46UFQQWZG
+[2025.11.12-20.49.24:531][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/HK4650EEEZ97X46UFQQWZGDE507C0D4ACF03956C4AF4BB990983BA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/KR/HK4650EEEZ97X46UFQQWZG.uasset'
+[2025.11.12-20.49.24:533][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/W8/RL7K2ZGR6H0VO8ELOPLDNF
+[2025.11.12-20.49.24:533][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/RL7K2ZGR6H0VO8ELOPLDNFCA7EDF5A49159B1E1BD4E78754F6F9B7.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/W8/RL7K2ZGR6H0VO8ELOPLDNF.uasset'
+[2025.11.12-20.49.24:535][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/B2/0XZ89GNNSLX6SXPF6EW435
+[2025.11.12-20.49.24:535][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/0XZ89GNNSLX6SXPF6EW435FB11252D43818B973A9E5E9FCEFCD753.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/B2/0XZ89GNNSLX6SXPF6EW435.uasset'
+[2025.11.12-20.49.24:538][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/17/P8NCY602LV883AC8ZI2PVX
+[2025.11.12-20.49.24:538][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/P8NCY602LV883AC8ZI2PVX1FDBC9BE49462BFD1756699216C7ED53.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/17/P8NCY602LV883AC8ZI2PVX.uasset'
+[2025.11.12-20.49.24:544][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/SW/7Z1EKFX17MGYPX2Y932PCQ
+[2025.11.12-20.49.24:545][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/7Z1EKFX17MGYPX2Y932PCQ50A578504DE05D95680519B43B9ACFCA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/SW/7Z1EKFX17MGYPX2Y932PCQ.uasset'
+[2025.11.12-20.49.24:550][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/04/KJDFW8P6OGREFWKF9EUB0E
+[2025.11.12-20.49.24:550][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/KJDFW8P6OGREFWKF9EUB0EE402F6304EB172CB799B3688F61D8C96.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/04/KJDFW8P6OGREFWKF9EUB0E.uasset'
+[2025.11.12-20.49.24:556][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/PY/FV48SEME3GY1NW3BDTRKA2
+[2025.11.12-20.49.24:556][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/FV48SEME3GY1NW3BDTRKA29336A4184D60BEBE57805083F028D851.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/PY/FV48SEME3GY1NW3BDTRKA2.uasset'
+[2025.11.12-20.49.24:563][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/EJ/1GBKRNI32P3W9QZ46IQN5A
+[2025.11.12-20.49.24:563][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/1GBKRNI32P3W9QZ46IQN5A34155BCB4615947026353A894BD19A5A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/EJ/1GBKRNI32P3W9QZ46IQN5A.uasset'
+[2025.11.12-20.49.24:568][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/KG/8LVNBU9UY82HOFGHJVT0KI
+[2025.11.12-20.49.24:569][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/8LVNBU9UY82HOFGHJVT0KIA773A0DB4B2FEE68E801D98EB98ACF44.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/KG/8LVNBU9UY82HOFGHJVT0KI.uasset'
+[2025.11.12-20.49.24:575][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/KG/CJASFUB7EUBV9EFFO7LCOC
+[2025.11.12-20.49.24:575][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/CJASFUB7EUBV9EFFO7LCOC5D25E18B49C44A51C1250C8C287F8D08.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/KG/CJASFUB7EUBV9EFFO7LCOC.uasset'
+[2025.11.12-20.49.24:582][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/84/55UAB6B4YJM1XQG3WY2E92
+[2025.11.12-20.49.24:582][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/55UAB6B4YJM1XQG3WY2E92EF481B20447B3C8590C1158F686D3C33.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/84/55UAB6B4YJM1XQG3WY2E92.uasset'
+[2025.11.12-20.49.24:588][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/67/MIR8DDQXFZEAIMGZEOYJ3O
+[2025.11.12-20.49.24:589][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MIR8DDQXFZEAIMGZEOYJ3OAC2BA5904BC08FF0CB70EA914BD5B98C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/67/MIR8DDQXFZEAIMGZEOYJ3O.uasset'
+[2025.11.12-20.49.24:594][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/Q9/6DPQSQ4NND0D7T3LJXROQ6
+[2025.11.12-20.49.24:594][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/6DPQSQ4NND0D7T3LJXROQ601B571654477C7D783F333A77F20D817.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/Q9/6DPQSQ4NND0D7T3LJXROQ6.uasset'
+[2025.11.12-20.49.24:600][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/NC/7IP2ICNW1TRS4NKVO71N5D
+[2025.11.12-20.49.24:600][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/7IP2ICNW1TRS4NKVO71N5DAD86F92640EABF587BC40682E4951AAE.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/NC/7IP2ICNW1TRS4NKVO71N5D.uasset'
+[2025.11.12-20.49.24:607][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/0U/TIVWIQVNURF1CHPVWBYFH1
+[2025.11.12-20.49.24:607][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/TIVWIQVNURF1CHPVWBYFH1B9D180FD4FAE294E3AD2789F6E1F382A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/0U/TIVWIQVNURF1CHPVWBYFH1.uasset'
+[2025.11.12-20.49.24:613][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/FH/KKZPYL801EZT3C0AYCRZLD
+[2025.11.12-20.49.24:613][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/KKZPYL801EZT3C0AYCRZLD8AAA79CD43F7E34E937E2AAC506E6261.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/FH/KKZPYL801EZT3C0AYCRZLD.uasset'
+[2025.11.12-20.49.24:618][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/DS/YLUOH7QRB8VFBCHENRTQOO
+[2025.11.12-20.49.24:619][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/YLUOH7QRB8VFBCHENRTQOO3FDDD4A84649417FD5B6A6AB8D044158.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/DS/YLUOH7QRB8VFBCHENRTQOO.uasset'
+[2025.11.12-20.49.24:625][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/V6/85Y0HWWL5IK0KRV8OXKZCN
+[2025.11.12-20.49.24:625][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/85Y0HWWL5IK0KRV8OXKZCN9A732F424C8EC3AC5D81B6910A34AE5D.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/V6/85Y0HWWL5IK0KRV8OXKZCN.uasset'
+[2025.11.12-20.49.24:631][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/LO/PEXSS3I92R2M7E0A0Z6XK6
+[2025.11.12-20.49.24:631][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/PEXSS3I92R2M7E0A0Z6XK61A6B7424496BD47C5284739F08C83B02.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/LO/PEXSS3I92R2M7E0A0Z6XK6.uasset'
+[2025.11.12-20.49.24:638][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/KH/FEO4CD8I58JLXASQIM5ZSC
+[2025.11.12-20.49.24:638][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/FEO4CD8I58JLXASQIM5ZSC9E6C3B1546ACA4FBE14ACAA0A7D55C8C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/KH/FEO4CD8I58JLXASQIM5ZSC.uasset'
+[2025.11.12-20.49.24:644][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/9A/CMB2444Q1V2EKB6PJUMJ2Z
+[2025.11.12-20.49.24:644][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/CMB2444Q1V2EKB6PJUMJ2ZC706200C4AB5103CFA5DCBA0145AED63.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/9A/CMB2444Q1V2EKB6PJUMJ2Z.uasset'
+[2025.11.12-20.49.24:649][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/4J/T6NRE20X520KEHWUQIEWVG
+[2025.11.12-20.49.24:650][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/T6NRE20X520KEHWUQIEWVG177F329647BC0EBC51C13A88BF42559F.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/4J/T6NRE20X520KEHWUQIEWVG.uasset'
+[2025.11.12-20.49.24:656][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/KK/YBNWD3L6NCF6G8LMDI7HDT
+[2025.11.12-20.49.24:656][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/YBNWD3L6NCF6G8LMDI7HDT4557896E42CA3CD36EB498B2D9EC58A7.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/KK/YBNWD3L6NCF6G8LMDI7HDT.uasset'
+[2025.11.12-20.49.24:662][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/E3/37TZ7ITDE99RP7I7KR8J2M
+[2025.11.12-20.49.24:662][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/37TZ7ITDE99RP7I7KR8J2M9C43F77844828935F84AF483885B697F.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/E3/37TZ7ITDE99RP7I7KR8J2M.uasset'
+[2025.11.12-20.49.24:667][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/QV/FVWO67UTAX6PTKV4BZUBDY
+[2025.11.12-20.49.24:668][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/FVWO67UTAX6PTKV4BZUBDY89D2B17E44FE9932FEDD11B28419EE6A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/QV/FVWO67UTAX6PTKV4BZUBDY.uasset'
+[2025.11.12-20.49.24:674][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/H8/6A6DXRNKWP5N7D57UD5ZBS
+[2025.11.12-20.49.24:674][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/6A6DXRNKWP5N7D57UD5ZBS07154C9E426622119B2076B6FC474940.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/H8/6A6DXRNKWP5N7D57UD5ZBS.uasset'
+[2025.11.12-20.49.24:680][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/ST/ORWP2UEBRTWGKM6D8H3I8L
+[2025.11.12-20.49.24:680][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/ORWP2UEBRTWGKM6D8H3I8LB7CCE3204D92C0F98F94CFAEC22D2C20.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/ST/ORWP2UEBRTWGKM6D8H3I8L.uasset'
+[2025.11.12-20.49.24:685][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/G4/991HQ53AC506UF7JLFTA4J
+[2025.11.12-20.49.24:687][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/991HQ53AC506UF7JLFTA4J67FF25614494F73FA40050B805FDFEAD.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/G4/991HQ53AC506UF7JLFTA4J.uasset'
+[2025.11.12-20.49.24:693][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/9B/3IAVERKIFDQJ4GHTKFF489
+[2025.11.12-20.49.24:693][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/3IAVERKIFDQJ4GHTKFF489E65399534A9C6CE4374A9AB0B6F82677.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/9B/3IAVERKIFDQJ4GHTKFF489.uasset'
+[2025.11.12-20.49.24:699][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/FF/US98RJ0QQM6ZN37RCW4RQR
+[2025.11.12-20.49.24:699][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/US98RJ0QQM6ZN37RCW4RQRFA18CC2A47AC6EF962F5BD87D4AC4540.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/FF/US98RJ0QQM6ZN37RCW4RQR.uasset'
+[2025.11.12-20.49.24:704][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/ZS/NRSR4A26P6WCD9HXAFE8NB
+[2025.11.12-20.49.24:704][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/NRSR4A26P6WCD9HXAFE8NB8E7225F84ACF0EC4CD38DA9F7FD0EC5D.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/ZS/NRSR4A26P6WCD9HXAFE8NB.uasset'
+[2025.11.12-20.49.24:711][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/98/50L5YE0X47NWFKLQ38G600
+[2025.11.12-20.49.24:711][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/50L5YE0X47NWFKLQ38G6003F98BFA04F87F4992A986BA85A24EFEB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/98/50L5YE0X47NWFKLQ38G600.uasset'
+[2025.11.12-20.49.24:717][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/0Q/Q36JTMDMUGRUJI155M7O7R
+[2025.11.12-20.49.24:717][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Q36JTMDMUGRUJI155M7O7R8FECE2574060552487A7CB8066D13276.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/0Q/Q36JTMDMUGRUJI155M7O7R.uasset'
+[2025.11.12-20.49.24:723][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/B8/9RCNF5YVNC95W28AOP953P
+[2025.11.12-20.49.24:723][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/9RCNF5YVNC95W28AOP953P5CE55A624C2B545829974DA96D23F7D2.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/B8/9RCNF5YVNC95W28AOP953P.uasset'
+[2025.11.12-20.49.24:729][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/ZO/RE1VYCYGB9CZCDVT743JAC
+[2025.11.12-20.49.24:730][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/RE1VYCYGB9CZCDVT743JACD9975649433AAA899044A3945E3D159F.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/ZO/RE1VYCYGB9CZCDVT743JAC.uasset'
+[2025.11.12-20.49.24:735][244]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/L_LevelOne/E/IJ/KFZ4L7WEA26O4KTLDZYO69
+[2025.11.12-20.49.24:735][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/KFZ4L7WEA26O4KTLDZYO697E6B640A4639B394312BB8B517CAC9EF.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/E/IJ/KFZ4L7WEA26O4KTLDZYO69.uasset'
+[2025.11.12-20.49.24:740][244]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/L_LevelOne/2/ZV/TD5P73UDL8IHPYRACIR47W
+[2025.11.12-20.49.24:741][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/TD5P73UDL8IHPYRACIR47W553B8EC449F7B70A42DFDCBB0ADB7D0E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/2/ZV/TD5P73UDL8IHPYRACIR47W.uasset'
+[2025.11.12-20.49.24:747][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/HK/36KK3XOCF5DB47WXV6A3K7
+[2025.11.12-20.49.24:747][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/36KK3XOCF5DB47WXV6A3K702EE728D432E6E7B22D630BAA3FBD4CD.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/HK/36KK3XOCF5DB47WXV6A3K7.uasset'
+[2025.11.12-20.49.24:754][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/AP/2GVHZ9TYUCEBADJBOLHVIZ
+[2025.11.12-20.49.24:754][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/2GVHZ9TYUCEBADJBOLHVIZE8360354449957EAAB2374921373898E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/AP/2GVHZ9TYUCEBADJBOLHVIZ.uasset'
+[2025.11.12-20.49.24:759][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/VJ/VXQZEEC3XMSR98V0DJOUC4
+[2025.11.12-20.49.24:759][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/VXQZEEC3XMSR98V0DJOUC4355761BE440D1FD0529EC5B5654553B5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/VJ/VXQZEEC3XMSR98V0DJOUC4.uasset'
+[2025.11.12-20.49.24:765][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/VY/SFVZ8F3XWMDFEUK2RI2ADX
+[2025.11.12-20.49.24:765][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SFVZ8F3XWMDFEUK2RI2ADX5C8D3B7648D59767D882D9A341571F17.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/VY/SFVZ8F3XWMDFEUK2RI2ADX.uasset'
+[2025.11.12-20.49.24:771][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/O5/6OYMD0LHZE4GUAJGYRP9SM
+[2025.11.12-20.49.24:771][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/6OYMD0LHZE4GUAJGYRP9SMBBD3BC8C4D66355F348BB9892D26FB97.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/O5/6OYMD0LHZE4GUAJGYRP9SM.uasset'
+[2025.11.12-20.49.24:777][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/S9/3E6J88B5UIBYIR6F5186S3
+[2025.11.12-20.49.24:777][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/3E6J88B5UIBYIR6F5186S37E1D663643F2568343AF4297533FD058.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/S9/3E6J88B5UIBYIR6F5186S3.uasset'
+[2025.11.12-20.49.24:786][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/KU/9LZ5614NS35RSU83E2A5NZ
+[2025.11.12-20.49.24:786][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/9LZ5614NS35RSU83E2A5NZ06DBA88C494076E9B759E5A869114EC2.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/KU/9LZ5614NS35RSU83E2A5NZ.uasset'
+[2025.11.12-20.49.24:792][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/4W/L8NTO03SV7E1V2ARS6UKXF
+[2025.11.12-20.49.24:792][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/L8NTO03SV7E1V2ARS6UKXF6B37D12D4BA57DC132C50392A9721F5C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/4W/L8NTO03SV7E1V2ARS6UKXF.uasset'
+[2025.11.12-20.49.24:798][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/JD/UFJYMY4ARSJ8COSU4D13XU
+[2025.11.12-20.49.24:798][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/UFJYMY4ARSJ8COSU4D13XU4E5619294AAC6C5652D4279C8C7977EC.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/JD/UFJYMY4ARSJ8COSU4D13XU.uasset'
+[2025.11.12-20.49.24:805][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/LG/15XC17KI3KMLOE4VXHTNJN
+[2025.11.12-20.49.24:805][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/15XC17KI3KMLOE4VXHTNJNA3DCFBFC43647BF792F609AEDB7CDE92.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/LG/15XC17KI3KMLOE4VXHTNJN.uasset'
+[2025.11.12-20.49.24:810][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/GR/Z1HXFYQTHDI8SXBQJJGREU
+[2025.11.12-20.49.24:810][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Z1HXFYQTHDI8SXBQJJGREUE27624A5441CF02D6C469FBA921517A8.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/GR/Z1HXFYQTHDI8SXBQJJGREU.uasset'
+[2025.11.12-20.49.24:817][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/5T/MDSW3QVKWIMBFRK8J85TF9
+[2025.11.12-20.49.24:817][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MDSW3QVKWIMBFRK8J85TF942DF65034B72E272E9FDB8A4779FC192.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/5T/MDSW3QVKWIMBFRK8J85TF9.uasset'
+[2025.11.12-20.49.24:823][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/PU/79F2NV7464M0NDWAGJDW6C
+[2025.11.12-20.49.24:823][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/79F2NV7464M0NDWAGJDW6C28C1AED44AB69FD77F5BA797CBCE11BF.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/PU/79F2NV7464M0NDWAGJDW6C.uasset'
+[2025.11.12-20.49.24:828][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/66/N7INFO78D3VEYO22JKSQ8A
+[2025.11.12-20.49.24:828][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/N7INFO78D3VEYO22JKSQ8A9A15015E4B812CFE62840EA1A13766E8.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/66/N7INFO78D3VEYO22JKSQ8A.uasset'
+[2025.11.12-20.49.24:835][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/JZ/VKABHOJXXU9SEN2TLXBQL0
+[2025.11.12-20.49.24:835][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/VKABHOJXXU9SEN2TLXBQL0A9BBAE2B4D8CE90D55D007A5CD914BDB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/JZ/VKABHOJXXU9SEN2TLXBQL0.uasset'
+[2025.11.12-20.49.24:840][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/AE/K7M2LUSFYCBK65RIDBK5G7
+[2025.11.12-20.49.24:840][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/K7M2LUSFYCBK65RIDBK5G7560AD5734485946896BC0EA86663B9DF.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/AE/K7M2LUSFYCBK65RIDBK5G7.uasset'
+[2025.11.12-20.49.24:847][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/26/MR5X81FVIVWCDY0UF4DO76
+[2025.11.12-20.49.24:847][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MR5X81FVIVWCDY0UF4DO76172EAA50426105085F5E47B43ECB07C4.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/26/MR5X81FVIVWCDY0UF4DO76.uasset'
+[2025.11.12-20.49.24:852][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/QP/IGTIRAE3V7PMOX4S55KYYA
+[2025.11.12-20.49.24:852][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/IGTIRAE3V7PMOX4S55KYYA154C71904FF06B1BF8A4878160F8634A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/QP/IGTIRAE3V7PMOX4S55KYYA.uasset'
+[2025.11.12-20.49.24:859][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/OM/JRZD1OG9KYKXVGVAY58RK7
+[2025.11.12-20.49.24:859][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/JRZD1OG9KYKXVGVAY58RK7E7D8F7DA41B96ACD930EFF9E9FCCE1D3.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/OM/JRZD1OG9KYKXVGVAY58RK7.uasset'
+[2025.11.12-20.49.24:864][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/TC/LXLS2P17DLF2KVQUNPO3YR
+[2025.11.12-20.49.24:864][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/LXLS2P17DLF2KVQUNPO3YR00D4ADD146FDD9E0811DFF92DF18B96E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/TC/LXLS2P17DLF2KVQUNPO3YR.uasset'
+[2025.11.12-20.49.24:870][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/MK/NO7J7QQI0X4QS3XB09G2VJ
+[2025.11.12-20.49.24:870][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/NO7J7QQI0X4QS3XB09G2VJEB2AA81E49FE95F686AF44868E96092D.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/MK/NO7J7QQI0X4QS3XB09G2VJ.uasset'
+[2025.11.12-20.49.24:875][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/RE/OTSLAJ26E8POQHHN15NV1T
+[2025.11.12-20.49.24:875][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/OTSLAJ26E8POQHHN15NV1TAA398265401E8D50BEB5FD97B0DA21AF.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/RE/OTSLAJ26E8POQHHN15NV1T.uasset'
+[2025.11.12-20.49.24:882][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/W8/PLVZ9ET3YGDTN2T4PQY23L
+[2025.11.12-20.49.24:882][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/PLVZ9ET3YGDTN2T4PQY23L0B37CEAE4363E0DE2C3984B098EBDDBB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/W8/PLVZ9ET3YGDTN2T4PQY23L.uasset'
+[2025.11.12-20.49.24:888][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/5B/J09VOSC5GQHBMSIJ72HOSK
+[2025.11.12-20.49.24:888][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/J09VOSC5GQHBMSIJ72HOSKD5FE88144C622C467B136FB2B83FAF10.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/5B/J09VOSC5GQHBMSIJ72HOSK.uasset'
+[2025.11.12-20.49.24:893][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/M3/MWTOL12QDBF4L80YO6KZQO
+[2025.11.12-20.49.24:893][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MWTOL12QDBF4L80YO6KZQO2E0779EE4CD45AF4089C0499C8C28CE5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/M3/MWTOL12QDBF4L80YO6KZQO.uasset'
+[2025.11.12-20.49.24:900][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/NR/6N7IKERHWD5XXWV0J7RABX
+[2025.11.12-20.49.24:900][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/6N7IKERHWD5XXWV0J7RABX811FC11E4567FB923F2699A35A6BACA1.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/NR/6N7IKERHWD5XXWV0J7RABX.uasset'
+[2025.11.12-20.49.24:906][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/LQ/AARL489Y96ZAVLI0ICPIVA
+[2025.11.12-20.49.24:906][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/AARL489Y96ZAVLI0ICPIVA79E276774C2CBD24DC1850835F30C0D6.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/LQ/AARL489Y96ZAVLI0ICPIVA.uasset'
+[2025.11.12-20.49.24:912][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/77/MWFYV5RY0GTK6FWH3X5SCJ
+[2025.11.12-20.49.24:912][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MWFYV5RY0GTK6FWH3X5SCJ0B96CBCB43D31639EB419585BCE06509.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/77/MWFYV5RY0GTK6FWH3X5SCJ.uasset'
+[2025.11.12-20.49.24:917][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/HU/0F6F19HW1TPWQS8SMOQNFH
+[2025.11.12-20.49.24:917][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/0F6F19HW1TPWQS8SMOQNFH46FB1FC24E9DEA78D97DAAAD725F8D22.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/HU/0F6F19HW1TPWQS8SMOQNFH.uasset'
+[2025.11.12-20.49.24:923][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/S7/XER7ARRK8LVK9FBS2ZCXSM
+[2025.11.12-20.49.24:923][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/XER7ARRK8LVK9FBS2ZCXSMD5BA32284E02F45A6490FB9E60F1E125.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/S7/XER7ARRK8LVK9FBS2ZCXSM.uasset'
+[2025.11.12-20.49.24:930][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/BY/XEIAX74L11GUO1J4O7FKAR
+[2025.11.12-20.49.24:930][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/XEIAX74L11GUO1J4O7FKAR6A986327499949C21992FBAD37965A79.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/BY/XEIAX74L11GUO1J4O7FKAR.uasset'
+[2025.11.12-20.49.24:936][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/HV/XQF0RW75LL15TIH0LSZGMX
+[2025.11.12-20.49.24:936][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/XQF0RW75LL15TIH0LSZGMX73A4587045E7FBFBF9697FBD38E767C4.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/HV/XQF0RW75LL15TIH0LSZGMX.uasset'
+[2025.11.12-20.49.24:942][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/N4/NGG4O470FVGQPDOP7WQFPA
+[2025.11.12-20.49.24:942][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/NGG4O470FVGQPDOP7WQFPA4BAB6BA2449B980852820882C633FFDA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/N4/NGG4O470FVGQPDOP7WQFPA.uasset'
+[2025.11.12-20.49.24:948][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/8M/IP9U9DSG7GM65921I8UCC7
+[2025.11.12-20.49.24:949][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/IP9U9DSG7GM65921I8UCC7D158E9204C4D806AA574C5B6728ADCF2.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/8M/IP9U9DSG7GM65921I8UCC7.uasset'
+[2025.11.12-20.49.24:954][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/YL/HNV4GL7OOOGBXB946AEN5I
+[2025.11.12-20.49.24:954][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/HNV4GL7OOOGBXB946AEN5IC5CF98174C32CA2489CF33B0BDEB891F.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/YL/HNV4GL7OOOGBXB946AEN5I.uasset'
+[2025.11.12-20.49.24:960][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/CZ/2SODSDHI11SWVQRSSYFSL6
+[2025.11.12-20.49.24:960][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/2SODSDHI11SWVQRSSYFSL6E00664FD4858F62871246384181AAEAE.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/CZ/2SODSDHI11SWVQRSSYFSL6.uasset'
+[2025.11.12-20.49.24:967][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/45/CBL2T7RIDTG1VA3DBB7CC8
+[2025.11.12-20.49.24:967][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/CBL2T7RIDTG1VA3DBB7CC8FE7F93B34FCCC43BB62E2DBC523619BF.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/45/CBL2T7RIDTG1VA3DBB7CC8.uasset'
+[2025.11.12-20.49.24:973][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/8Y/3Y64U2UD1CF2HRZU09WLCP
+[2025.11.12-20.49.24:973][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/3Y64U2UD1CF2HRZU09WLCPBE0D7C26485C1174AA121884EFEE4653.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/8Y/3Y64U2UD1CF2HRZU09WLCP.uasset'
+[2025.11.12-20.49.24:978][244]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/RI/1DWQTSTGC4QZTRLLSG3DVZ
+[2025.11.12-20.49.24:979][244]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/1DWQTSTGC4QZTRLLSG3DVZC893F9644B517B2596DDEE8A344D4F83.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/RI/1DWQTSTGC4QZTRLLSG3DVZ.uasset'
+[2025.11.12-20.49.24:987][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 648.019 ms (total: 3.56 sec)
+[2025.11.12-20.49.25:039][244]LogContentValidation: Display: Starting to validate 93 assets
+[2025.11.12-20.49.25:039][244]LogContentValidation: Enabled validators:
+[2025.11.12-20.49.25:039][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-20.49.25:039][244]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-20.49.25:039][244]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-20.49.25:039][244]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-20.49.25:039][244]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-20.49.25:039][244]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-20.49.25:040][244]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.12-20.49.25:065][244]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-20.49.36:965][632]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.49.46:485][598]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.49.55:078][523]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-20.50.04:085][498]Cmd: DELETE
+[2025.11.12-20.50.04:085][498]Cmd: ACTOR DELETE
+[2025.11.12-20.50.04:087][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.04:107][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.12-20.50.04:108][498]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.11.12-20.50.24:434][737]Cmd: DELETE
+[2025.11.12-20.50.24:434][737]Cmd: ACTOR DELETE
+[2025.11.12-20.50.24:436][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:436][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:437][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:437][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:438][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:438][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:438][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:438][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:440][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:440][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-20.50.24:455][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.12-20.50.24:457][737]LogEditorActor: Deleted 10 Actors (0.023 secs)
+[2025.11.12-20.50.26:882][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-20.50.26:965][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-20.50.26:979][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-20.50.26:992][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.12-20.50.27:002][  8]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/VJ/VXQZEEC3XMSR98V0DJOUC4
+[2025.11.12-20.50.27:002][  8]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/VXQZEEC3XMSR98V0DJOUC4232D2A2049BE9BAF938AB4B3390DAF0F.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/VJ/VXQZEEC3XMSR98V0DJOUC4.uasset'
+[2025.11.12-20.50.27:009][  8]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/5T/MDSW3QVKWIMBFRK8J85TF9
+[2025.11.12-20.50.27:009][  8]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/MDSW3QVKWIMBFRK8J85TF97C27A47443AC812098E365A120825A00.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/5T/MDSW3QVKWIMBFRK8J85TF9.uasset'
+[2025.11.12-20.50.27:015][  8]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/HU/0F6F19HW1TPWQS8SMOQNFH
+[2025.11.12-20.50.27:015][  8]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/0F6F19HW1TPWQS8SMOQNFHBFF9C8BF45A0F71C590ABEB8498187F5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/HU/0F6F19HW1TPWQS8SMOQNFH.uasset'
+[2025.11.12-20.50.27:020][  8]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/S7/XER7ARRK8LVK9FBS2ZCXSM
+[2025.11.12-20.50.27:020][  8]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/XER7ARRK8LVK9FBS2ZCXSM27599F4D4B3DB2B804815A859FFF96C7.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/S7/XER7ARRK8LVK9FBS2ZCXSM.uasset'
+[2025.11.12-20.50.27:028][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.435 ms (total: 3.71 sec)
+[2025.11.12-20.50.27:091][  8]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.12-20.50.27:091][  8]LogContentValidation: Enabled validators:
+[2025.11.12-20.50.27:091][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-20.50.27:091][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-20.50.27:091][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-20.50.27:091][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-20.50.27:091][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-20.50.27:091][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-20.50.27:091][  8]AssetCheck: /Game/Levels/L_LevelOne Validating asset
