@@ -1166,3 +1166,280 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.12-19.49.37:876][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 326.148102
 [2025.11.12-19.49.37:942][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.12-19.49.37:942][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 326.206604, Update Interval: 313.903625
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: ================================================
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Total job queries 400, among them cache hits 23 (5.75%), DDC hits 306 (76.50%), Duplicates 66 (16.50%)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Tracking 311 distinct input hashes that result in 222 distinct outputs (71.38%)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: RAM used: 3.18 MiB of 1.60 GiB budget. Usage: 0.19%
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Job execution time: average 0.54 s, max 0.84 s
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 0.92
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Shader code size: total 39.613 KiB, numShaders 5, average 7.922 KiB, min 5.164 KiB, max 11.609 KiB
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.92 s
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Average processing rate: 5.41 jobs/sec
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Total thread time: 1.762 s
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Total thread preprocess time: 4.955 s
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Percentage time preprocessing: 281.18%
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Effective parallelization: 1.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.158993
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 37.73% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.83% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.37% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.27% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.81% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: === Material stats ===
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Materials Translated:    140
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Material Translation Only: 0.03 s (22%)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: Material Cache Hits: 22 (16%)
+[2025.11.12-19.50.14:358][525]LogShaderCompilers: Display: ================================================
+[2025.11.12-19.50.19:591][131]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.12-19.50.20:321][206]Cmd: DELETE
+[2025.11.12-19.50.20:322][206]Cmd: ACTOR DELETE
+[2025.11.12-19.50.20:328][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.20:349][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.12-19.50.20:351][206]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.11.12-19.50.27:374][996]Cmd: DELETE
+[2025.11.12-19.50.27:374][996]Cmd: ACTOR DELETE
+[2025.11.12-19.50.27:375][996]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.27:387][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.27:389][996]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.28:778][148]Cmd: DELETE
+[2025.11.12-19.50.28:778][148]Cmd: ACTOR DELETE
+[2025.11.12-19.50.28:779][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.28:800][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.12-19.50.28:802][148]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.11.12-19.50.29:364][198]Cmd: DELETE
+[2025.11.12-19.50.29:364][198]Cmd: ACTOR DELETE
+[2025.11.12-19.50.29:365][198]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.29:380][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-19.50.29:382][198]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.11.12-19.50.29:773][226]Cmd: DELETE
+[2025.11.12-19.50.29:773][226]Cmd: ACTOR DELETE
+[2025.11.12-19.50.29:774][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.29:841][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.12-19.50.29:843][226]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2025.11.12-19.50.30:577][295]Cmd: DELETE
+[2025.11.12-19.50.30:577][295]Cmd: ACTOR DELETE
+[2025.11.12-19.50.30:578][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.30:589][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.30:592][295]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.31:051][331]Cmd: DELETE
+[2025.11.12-19.50.31:051][331]Cmd: ACTOR DELETE
+[2025.11.12-19.50.31:052][331]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.31:063][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-19.50.31:066][331]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.31:840][406]Cmd: DELETE
+[2025.11.12-19.50.31:840][406]Cmd: ACTOR DELETE
+[2025.11.12-19.50.31:842][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.31:852][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.12-19.50.31:855][406]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.32:270][437]Cmd: DELETE
+[2025.11.12-19.50.32:270][437]Cmd: ACTOR DELETE
+[2025.11.12-19.50.32:271][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.32:282][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.32:285][437]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.32:736][473]Cmd: DELETE
+[2025.11.12-19.50.32:736][473]Cmd: ACTOR DELETE
+[2025.11.12-19.50.32:737][473]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.32:751][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.32:753][473]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.11.12-19.50.33:291][516]Cmd: DELETE
+[2025.11.12-19.50.33:291][516]Cmd: ACTOR DELETE
+[2025.11.12-19.50.33:292][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.33:305][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.33:307][516]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.11.12-19.50.33:765][552]Cmd: DELETE
+[2025.11.12-19.50.33:765][552]Cmd: ACTOR DELETE
+[2025.11.12-19.50.33:765][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.33:817][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.33:819][552]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2025.11.12-19.50.34:664][637]Cmd: DELETE
+[2025.11.12-19.50.34:664][637]Cmd: ACTOR DELETE
+[2025.11.12-19.50.34:665][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.34:676][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-19.50.34:678][637]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.35:051][664]Cmd: DELETE
+[2025.11.12-19.50.35:051][664]Cmd: ACTOR DELETE
+[2025.11.12-19.50.35:051][664]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.35:064][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.35:067][664]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.36:453][796]Cmd: DELETE
+[2025.11.12-19.50.36:453][796]Cmd: ACTOR DELETE
+[2025.11.12-19.50.36:454][796]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.36:467][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.36:469][796]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.11.12-19.50.36:919][832]Cmd: DELETE
+[2025.11.12-19.50.36:920][832]Cmd: ACTOR DELETE
+[2025.11.12-19.50.36:920][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.36:958][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.12-19.50.36:960][832]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.11.12-19.50.37:641][896]Cmd: DELETE
+[2025.11.12-19.50.37:641][896]Cmd: ACTOR DELETE
+[2025.11.12-19.50.37:642][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.37:669][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.12-19.50.37:671][896]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.11.12-19.50.38:170][937]Cmd: DELETE
+[2025.11.12-19.50.38:170][937]Cmd: ACTOR DELETE
+[2025.11.12-19.50.38:171][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.38:183][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.12-19.50.38:185][937]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.38:870][  1]Cmd: DELETE
+[2025.11.12-19.50.38:870][  1]Cmd: ACTOR DELETE
+[2025.11.12-19.50.38:871][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.38:882][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-19.50.38:885][  1]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.50.39:528][ 63]Cmd: DELETE
+[2025.11.12-19.50.39:528][ 63]Cmd: ACTOR DELETE
+[2025.11.12-19.50.39:529][ 63]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.39:540][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.39:543][ 63]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.11.12-19.50.40:149][121]Cmd: DELETE
+[2025.11.12-19.50.40:149][121]Cmd: ACTOR DELETE
+[2025.11.12-19.50.40:151][121]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.40:184][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.50.40:186][121]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.11.12-19.50.50:960][293]Cmd: TRANSACTION UNDO
+[2025.11.12-19.50.50:960][293]LogEditorTransaction: Undo Move Elements
+[2025.11.12-19.50.53:589][523]Cmd: DELETE
+[2025.11.12-19.50.53:589][523]Cmd: ACTOR DELETE
+[2025.11.12-19.50.53:590][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.50.53:605][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.12-19.50.53:609][523]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.11.12-19.50.54:015][571]Cmd: TRANSACTION UNDO
+[2025.11.12-19.50.54:015][571]LogEditorTransaction: Undo Delete Elements
+[2025.11.12-19.51.00:766][272]Cmd: DELETE
+[2025.11.12-19.51.00:766][272]Cmd: ACTOR DELETE
+[2025.11.12-19.51.00:767][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.51.00:783][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.12-19.51.00:786][272]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.11.12-19.51.01:263][314]Cmd: DELETE
+[2025.11.12-19.51.01:263][314]Cmd: ACTOR DELETE
+[2025.11.12-19.51.01:264][314]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.51.01:279][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.12-19.51.01:281][314]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.11.12-19.51.02:170][400]Cmd: DELETE
+[2025.11.12-19.51.02:170][400]Cmd: ACTOR DELETE
+[2025.11.12-19.51.02:170][400]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.51.02:183][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.12-19.51.02:185][400]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.51.03:007][470]Cmd: DELETE
+[2025.11.12-19.51.03:007][470]Cmd: ACTOR DELETE
+[2025.11.12-19.51.03:008][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.51.03:020][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.51.03:022][470]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2025.11.12-19.51.03:904][553]Cmd: DELETE
+[2025.11.12-19.51.03:904][553]Cmd: ACTOR DELETE
+[2025.11.12-19.51.03:906][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.51.03:919][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.12-19.51.03:921][553]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.11.12-19.51.13:758][626]LogStreaming: Display: FlushAsyncLoading(381): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-19.51.13:760][626]LogStaticMesh: Display: Building static mesh SM_SWFModA (Required Memory Estimate: 0.660396 MB)...
+[2025.11.12-19.51.13:767][626]LogStaticMesh: Built static mesh [0.01s] /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.51.13:814][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.51.13:814][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.51.13:814][626]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_1
+[2025.11.12-19.51.15:931][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.12-19.51.15:933][868]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.11.12-19.51.15:943][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.51.15:943][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.51.15:944][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79178A102_1669292633
+[2025.11.12-19.51.17:074][980]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-19.51.31:123][562]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-19.52.44:590][167]Cmd: TRANSACTION UNDO
+[2025.11.12-19.52.44:590][167]LogEditorTransaction: Undo Move Elements
+[2025.11.12-19.52.53:886][149]Cmd: DUPLICATE
+[2025.11.12-19.52.53:886][149]Cmd: ACTOR DUPLICATE
+[2025.11.12-19.53.08:425][781]Cmd: DELETE
+[2025.11.12-19.53.08:425][781]Cmd: ACTOR DELETE
+[2025.11.12-19.53.08:428][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.53.08:428][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.53.08:441][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.12-19.53.08:444][781]LogEditorActor: Deleted 2 Actors (0.018 secs)
+[2025.11.12-19.53.09:383][875]LogPSOHitching: Encountered 300 PSO creation hitches so far (88 graphics, 212 compute). 0 of them were precached.
+[2025.11.12-19.53.09:451][875]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.12-19.53.10:451][967]Cmd: DELETE
+[2025.11.12-19.53.10:451][967]Cmd: ACTOR DELETE
+[2025.11.12-19.53.10:452][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.53.10:465][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.12-19.53.10:468][967]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.11.12-19.53.11:047][ 21]Cmd: DELETE
+[2025.11.12-19.53.11:047][ 21]Cmd: ACTOR DELETE
+[2025.11.12-19.53.11:047][ 21]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.11.12-19.53.11:047][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.12-19.53.11:064][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.12-19.53.11:066][ 21]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.11.12-19.53.14:285][368]LogShaderCompilers: Display: ================================================
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Total job queries 424, among them cache hits 27 (6.37%), DDC hits 321 (75.71%), Duplicates 66 (15.57%)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Tracking 331 distinct input hashes that result in 238 distinct outputs (71.90%)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: RAM used: 3.28 MiB of 1.60 GiB budget. Usage: 0.20%
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Shaders Compiled: 10
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Average time worker was idle: 179.62 s
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 0.84 s
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 0.92
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Shader code size: total 74.301 KiB, numShaders 10, average 7.43 KiB, min 5.164 KiB, max 11.609 KiB
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.54 s
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Average processing rate: 6.50 jobs/sec
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Total thread time: 3.155 s
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Total thread preprocess time: 5.199 s
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Percentage time preprocessing: 164.77%
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Effective parallelization: 2.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.170953
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.25 sec, max 0.25 sec, min 0.24 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.76% of total time (compiled    3 times, average 0.34 sec, max 0.37 sec, min 0.32 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.39% of total time (compiled    3 times, average 0.25 sec, max 0.25 sec, min 0.24 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.07% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.02% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.60% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: === Material stats ===
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Materials Translated:    140
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Material Translation Only: 0.03 s (22%)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: Material Cache Hits: 22 (16%)
+[2025.11.12-19.53.14:286][368]LogShaderCompilers: Display: ================================================
+[2025.11.12-19.53.56:718][ 52]Cmd: TRANSACTION UNDO
+[2025.11.12-19.53.56:718][ 52]LogEditorTransaction: Undo Clicking on Actors
+[2025.11.12-19.54.04:526][878]Cmd: TRANSACTION UNDO
+[2025.11.12-19.54.04:526][878]LogEditorTransaction: Undo Move Elements
+[2025.11.12-19.54.32:081][916]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-19.54.33:346][ 29]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-19.54.37:211][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.54.37:211][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.54.37:211][437]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_2
+[2025.11.12-19.54.38:075][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.12-19.54.38:078][526]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.11.12-19.54.38:087][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.54.38:087][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA
+[2025.11.12-19.54.38:088][526]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Arch/Fence/SM_SWFModA.SM_SWFModA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79178A102_1871436647
+[2025.11.12-19.54.52:521][165]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.12-19.54.54:463][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 642.873108
+[2025.11.12-19.54.54:531][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-19.54.54:531][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 642.933167, Update Interval: 336.450073
+[2025.11.12-19.55.00:622][ 55]Cmd: MODE ROTGRID=0
+[2025.11.12-19.55.02:362][234]Cmd: MODE GRID=0
