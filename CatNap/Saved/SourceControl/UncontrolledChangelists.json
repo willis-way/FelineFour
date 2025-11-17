@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/WA/I14PP8LWWB7Q61QCS4FPEH.uasset"
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/WA/I14PP8LWWB7Q61QCS4FPEH.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/M_Trinity_Body.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Body.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose_Anim.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose_PhysicsAsset.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose_Skeleton.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk_Anim.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk_PhysicsAsset.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk_Skeleton.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving_Anim.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving_PhysicsAsset.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving_Skeleton.uasset"
 			]
 		}
 	]

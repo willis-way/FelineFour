@@ -1178,3 +1178,414 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.17-20.39.42:866][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 982.176208
 [2025.11.17-20.39.43:869][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.17-20.39.43:869][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 982.842896, Update Interval: 304.213379
+[2025.11.17-20.41.37:585][193]LogPSOHitching: Encountered 300 PSO creation hitches so far (107 graphics, 193 compute). 0 of them were precached.
+[2025.11.17-20.41.37:586][193]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.17-20.41.42:447][623]LogStreaming: Display: FlushAsyncLoading(722): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.41.42:499][623]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Trinity_Walk.fbx]
+[2025.11.17-20.42.12:804][623]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-20.42.12:827][623]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-20.42.12:828][623]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.17-20.42.12:829][623]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.11.17-20.42.12:910][624]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.17-20.42.12:910][624]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.11.17-20.42.12:910][624]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.11.17-20.42.12:910][624]LogInterchangeEngine: [Success] Import Canceled
+[2025.11.17-20.42.14:581][741]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.14:635][741]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Trinity_T-Pose.fbx]
+[2025.11.17-20.42.30:998][741]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-20.42.31:011][741]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-20.42.31:162][742]LogStreaming: Display: FlushAsyncLoading(736): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.31:315][744]LogStreaming: Display: FlushAsyncLoading(740): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.31:523][748]LogStreaming: Display: FlushAsyncLoading(741): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.31:599][749]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Trinity_T-Pose_Anim.Trinity_T-Pose_Anim (Required Memory Estimate: 0.22 MB)
+[2025.11.17-20.42.31:603][749]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Trinity_T-Pose_Anim.Trinity_T-Pose_Anim, at AnimationSequence/6200eca77c99fcf3a3187e6427a20b650e0496dd
+[2025.11.17-20.42.31:615][749]LogSkeletalMesh: Building Skeletal Mesh Trinity_T-Pose...
+[2025.11.17-20.42.31:665][751]LogSkeletalMesh: Display: /Game/Animations/Trinity_T-Pose.Trinity_T-Pose ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.42.31:871][757]LogSkeletalMesh: Built Skeletal Mesh [0.26s] /Game/Animations/Trinity_T-Pose.Trinity_T-Pose
+[2025.11.17-20.42.31:926][758]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.17-20.42.31:936][758]LogMaterial: Display: Material /Game/Animations/M_Trinity_Body.M_Trinity_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2025.11.17-20.42.31:966][758]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.42.31:966][758]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.42.31:966][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.42.31:970][758]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.17-20.42.31:980][758]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.42.31:980][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.42.32:041][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.11.17-20.42.32:084][759]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Trinity_T-Pose.fbx]
+[2025.11.17-20.42.32:084][759]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.17-20.42.32:084][759]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.17-20.42.32:084][759]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Trinity_Waving.fbx]
+[2025.11.17-20.42.32:635][817]LogStreaming: Display: FlushAsyncLoading(742): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.40:327][817]LogSlate: Window 'Message' being destroyed
+[2025.11.17-20.42.40:332][817]Message dialog closed, result: No, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Animations/Trinity_Body.Trinity_Body'?
+[2025.11.17-20.42.40:340][818]LogStreaming: Display: FlushAsyncLoading(743): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.40:342][819]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.11.17-20.42.40:457][820]LogStreaming: Display: FlushAsyncLoading(744): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.40:530][821]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.11.17-20.42.40:553][822]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.11.17-20.42.40:619][823]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.11.17-20.42.40:666][823]LogStreaming: Display: FlushAsyncLoading(745): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.40:674][824]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Trinity_Waving_Anim.Trinity_Waving_Anim (Required Memory Estimate: 0.42 MB)
+[2025.11.17-20.42.40:678][824]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Trinity_Waving_Anim.Trinity_Waving_Anim, at AnimationSequence/2c4bae5a3a8ef2d697ae3c9658ab3b7393eb7094
+[2025.11.17-20.42.40:680][824]LogSkeletalMesh: Building Skeletal Mesh Trinity_Waving...
+[2025.11.17-20.42.40:722][828]LogSkeletalMesh: Display: /Game/Animations/Trinity_Waving.Trinity_Waving ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.42.40:918][850]LogSkeletalMesh: Built Skeletal Mesh [0.24s] /Game/Animations/Trinity_Waving.Trinity_Waving
+[2025.11.17-20.42.40:943][851]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.11.17-20.42.40:949][851]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.42.40:979][851]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.42.40:979][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.42.40:981][851]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.11.17-20.42.40:987][851]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.42.40:987][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.42.41:025][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.11.17-20.42.41:041][852]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Trinity_Waving.fbx]
+[2025.11.17-20.42.41:041][852]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.11.17-20.42.41:041][852]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.11.17-20.42.41:041][852]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Trinity_Walk.fbx]
+[2025.11.17-20.42.41:066][854]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.11.17-20.42.41:124][855]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.11.17-20.42.41:533][898]LogStreaming: Display: FlushAsyncLoading(746): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.43:838][898]LogSlate: Window 'Message' being destroyed
+[2025.11.17-20.42.43:843][898]Message dialog closed, result: No, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Animations/Trinity_Body.Trinity_Body'?
+[2025.11.17-20.42.43:850][899]LogStreaming: Display: FlushAsyncLoading(747): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.43:921][901]LogStreaming: Display: FlushAsyncLoading(748): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.44:110][913]LogStreaming: Display: FlushAsyncLoading(749): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.42.44:121][914]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Trinity_Walk_Anim.Trinity_Walk_Anim (Required Memory Estimate: 0.57 MB)
+[2025.11.17-20.42.44:127][914]LogSkeletalMesh: Building Skeletal Mesh Trinity_Walk...
+[2025.11.17-20.42.44:129][914]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Trinity_Walk_Anim.Trinity_Walk_Anim, at AnimationSequence/1de5ef7d55f23dfefd61c7e873575cdfd1f31a5c
+[2025.11.17-20.42.44:170][919]LogSkeletalMesh: Display: /Game/Animations/Trinity_Walk.Trinity_Walk ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.42.44:367][941]LogSkeletalMesh: Built Skeletal Mesh [0.24s] /Game/Animations/Trinity_Walk.Trinity_Walk
+[2025.11.17-20.42.44:394][942]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.11.17-20.42.44:401][942]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.42.44:401][942]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.42.44:401][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.42.44:403][942]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.11.17-20.42.44:409][942]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.42.44:409][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.42.44:415][942]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Trinity_Walk.fbx]
+[2025.11.17-20.42.44:416][942]Interchange: Warning: [C:/Users/rgowell/Desktop/Trinity_T-Pose.fbx : 'Trinity_T-Pose', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.42.44:416][942]Interchange: Warning: [C:/Users/rgowell/Desktop/Trinity_Waving.fbx : '', Texture2D] The option bReplaceExisting is false, we are not overriding the asset named 'Texture2D /Game/Animations/Trinity_Body.Trinity_Body'.
+[2025.11.17-20.42.44:416][942]Interchange: Warning: [C:/Users/rgowell/Desktop/Trinity_Waving.fbx : 'Trinity_Waving', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.42.44:416][942]Interchange: Warning: [C:/Users/rgowell/Desktop/Trinity_Walk.fbx : '', Texture2D] The option bReplaceExisting is false, we are not overriding the asset named 'Texture2D /Game/Animations/Trinity_Body.Trinity_Body'.
+[2025.11.17-20.42.44:416][942]Interchange: Warning: [C:/Users/rgowell/Desktop/Trinity_Walk.fbx : 'Trinity_Walk', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.42.44:449][942]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-20.42.44:449][942]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-20.42.44:451][943]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.11.17-20.42.44:497][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.17-20.42.44:587][944]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.11.17-20.42.56:736][924]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.17-20.42.56:809][924]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.17-20.42.56:817][925]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.17-20.43.01:476][373]LogContentBrowser: Attempting asset rename: NewFolder -> Trinity
+[2025.11.17-20.43.01:477][373]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.17-20.43.10:155][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.17-20.43.10:156][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/M_Trinity_Body] ([1] browsable assets)...
+[2025.11.17-20.43.10:204][110]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Trinity/M_Trinity_Body.M_Trinity_Body]
+[2025.11.17-20.43.10:204][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/M_Trinity_Body]
+[2025.11.17-20.43.10:204][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Trinity/M_Trinity_Body" FILE="../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/M_Trinity_Body.uasset" SILENT=true
+[2025.11.17-20.43.10:215][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/M_Trinity_Body
+[2025.11.17-20.43.10:215][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/M_Trinity_BodyD78453284EDB6CE9E90F008437E17100.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/M_Trinity_Body.uasset'
+[2025.11.17-20.43.10:215][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Body] ([1] browsable assets)...
+[2025.11.17-20.43.10:217][110]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Animations/Trinity/Trinity_Body.Trinity_Body]
+[2025.11.17-20.43.10:217][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Body]
+[2025.11.17-20.43.10:217][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Trinity/Trinity_Body" FILE="../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Body.uasset" SILENT=true
+[2025.11.17-20.43.10:239][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Body
+[2025.11.17-20.43.10:239][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_BodyED04862348E60E967D3A288757DFF766.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Body.uasset'
+[2025.11.17-20.43.10:240][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_T-Pose] ([1] browsable assets)...
+[2025.11.17-20.43.10:240][110]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.11.17-20.43.10:256][110]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Trinity/Trinity_T-Pose.Trinity_T-Pose]
+[2025.11.17-20.43.10:256][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_T-Pose]
+[2025.11.17-20.43.10:256][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Trinity/Trinity_T-Pose" FILE="../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose.uasset" SILENT=true
+[2025.11.17-20.43.10:283][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_T-Pose
+[2025.11.17-20.43.10:283][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_T-PoseD3768D1949F1FFC746795991E5EC45AB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose.uasset'
+[2025.11.17-20.43.10:284][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_T-Pose_Anim] ([1] browsable assets)...
+[2025.11.17-20.43.10:293][110]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Trinity/Trinity_T-Pose_Anim.Trinity_T-Pose_Anim]
+[2025.11.17-20.43.10:293][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_T-Pose_Anim]
+[2025.11.17-20.43.10:304][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_T-Pose_Anim
+[2025.11.17-20.43.10:304][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_T-Pose_AnimA0A621AB4FD81B0AA8A4848FB7B36931.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose_Anim.uasset'
+[2025.11.17-20.43.10:305][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_T-Pose_PhysicsAsset] ([1] browsable assets)...
+[2025.11.17-20.43.10:312][110]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Trinity/Trinity_T-Pose_PhysicsAsset.Trinity_T-Pose_PhysicsAsset]
+[2025.11.17-20.43.10:312][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_T-Pose_PhysicsAsset]
+[2025.11.17-20.43.10:321][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_T-Pose_PhysicsAsset
+[2025.11.17-20.43.10:321][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_T-Pose_PhysicsAssetD52D34994BE33CF53C2997B5158F6932.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose_PhysicsAsset.uasset'
+[2025.11.17-20.43.10:322][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_T-Pose_Skeleton] ([1] browsable assets)...
+[2025.11.17-20.43.10:322][110]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.11.17-20.43.10:339][110]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Animations/Trinity/Trinity_T-Pose_Skeleton.Trinity_T-Pose_Skeleton]
+[2025.11.17-20.43.10:339][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_T-Pose_Skeleton]
+[2025.11.17-20.43.10:348][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_T-Pose_Skeleton
+[2025.11.17-20.43.10:348][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_T-Pose_Skeleton6A4CEC4B47E39DCE9983EE99D66CB567.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_T-Pose_Skeleton.uasset'
+[2025.11.17-20.43.10:348][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Walk] ([1] browsable assets)...
+[2025.11.17-20.43.10:349][110]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.11.17-20.43.10:365][110]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Trinity/Trinity_Walk.Trinity_Walk]
+[2025.11.17-20.43.10:365][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Walk]
+[2025.11.17-20.43.10:365][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Trinity/Trinity_Walk" FILE="../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk.uasset" SILENT=true
+[2025.11.17-20.43.10:391][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Walk
+[2025.11.17-20.43.10:391][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Walk272BDCCD4EE3CC1551A1E2969CFF3080.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk.uasset'
+[2025.11.17-20.43.10:391][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Walk_Anim] ([1] browsable assets)...
+[2025.11.17-20.43.10:399][110]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Trinity/Trinity_Walk_Anim.Trinity_Walk_Anim]
+[2025.11.17-20.43.10:400][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Walk_Anim]
+[2025.11.17-20.43.10:400][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Trinity/Trinity_Walk_Anim" FILE="../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk_Anim.uasset" SILENT=true
+[2025.11.17-20.43.10:410][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Walk_Anim
+[2025.11.17-20.43.10:410][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Walk_Anim46034B8244BE39CF0E4024B1CBBF7A28.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk_Anim.uasset'
+[2025.11.17-20.43.10:411][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Walk_PhysicsAsset] ([1] browsable assets)...
+[2025.11.17-20.43.10:419][110]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Trinity/Trinity_Walk_PhysicsAsset.Trinity_Walk_PhysicsAsset]
+[2025.11.17-20.43.10:419][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Walk_PhysicsAsset]
+[2025.11.17-20.43.10:425][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Walk_PhysicsAsset
+[2025.11.17-20.43.10:425][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Walk_PhysicsAsset25F8A10A404E0C8CF42247B6EE86BAA5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk_PhysicsAsset.uasset'
+[2025.11.17-20.43.10:426][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Walk_Skeleton] ([1] browsable assets)...
+[2025.11.17-20.43.10:426][110]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.11.17-20.43.10:442][110]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Animations/Trinity/Trinity_Walk_Skeleton.Trinity_Walk_Skeleton]
+[2025.11.17-20.43.10:442][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Walk_Skeleton]
+[2025.11.17-20.43.10:451][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Walk_Skeleton
+[2025.11.17-20.43.10:451][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Walk_Skeleton4320734F4709D56C3208FEB60C9B1F28.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Walk_Skeleton.uasset'
+[2025.11.17-20.43.10:451][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Waving] ([1] browsable assets)...
+[2025.11.17-20.43.10:452][110]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.11.17-20.43.10:469][110]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Trinity/Trinity_Waving.Trinity_Waving]
+[2025.11.17-20.43.10:469][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Waving]
+[2025.11.17-20.43.10:469][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Trinity/Trinity_Waving" FILE="../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving.uasset" SILENT=true
+[2025.11.17-20.43.10:494][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Waving
+[2025.11.17-20.43.10:495][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_WavingAF194DE644CDDCE5A00C3B929F4CDF6C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving.uasset'
+[2025.11.17-20.43.10:495][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Waving_Anim] ([1] browsable assets)...
+[2025.11.17-20.43.10:502][110]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Trinity/Trinity_Waving_Anim.Trinity_Waving_Anim]
+[2025.11.17-20.43.10:502][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Waving_Anim]
+[2025.11.17-20.43.10:512][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Waving_Anim
+[2025.11.17-20.43.10:512][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Waving_Anim85B1BCCB43D634E8AC450480E79E2CD1.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving_Anim.uasset'
+[2025.11.17-20.43.10:512][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Waving_PhysicsAsset] ([1] browsable assets)...
+[2025.11.17-20.43.10:520][110]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Trinity/Trinity_Waving_PhysicsAsset.Trinity_Waving_PhysicsAsset]
+[2025.11.17-20.43.10:520][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Waving_PhysicsAsset]
+[2025.11.17-20.43.10:529][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Waving_PhysicsAsset
+[2025.11.17-20.43.10:529][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Waving_PhysicsAssetAB38A75B4118BAE2E15588BC8074FC2B.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving_PhysicsAsset.uasset'
+[2025.11.17-20.43.10:529][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Trinity/Trinity_Waving_Skeleton] ([1] browsable assets)...
+[2025.11.17-20.43.10:529][110]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.11.17-20.43.10:545][110]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Animations/Trinity/Trinity_Waving_Skeleton.Trinity_Waving_Skeleton]
+[2025.11.17-20.43.10:545][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Trinity/Trinity_Waving_Skeleton]
+[2025.11.17-20.43.10:554][110]LogSavePackage: Moving output files for package: /Game/Animations/Trinity/Trinity_Waving_Skeleton
+[2025.11.17-20.43.10:554][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Waving_Skeleton873791094450EA505436FBAF884E502C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving_Skeleton.uasset'
+[2025.11.17-20.43.10:554][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 398.907 ms (total: 458.112 ms)
+[2025.11.17-20.43.10:701][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.11.17-20.43.10:717][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.17-20.43.10:730][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.17-20.43.10:749][110]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.17-20.43.10:749][110]LogContentValidation: Display: Starting to validate 14 assets
+[2025.11.17-20.43.10:749][110]LogContentValidation: Enabled validators:
+[2025.11.17-20.43.10:749][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.17-20.43.10:749][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.17-20.43.10:749][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.17-20.43.10:749][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.17-20.43.10:749][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.17-20.43.10:749][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/M_Trinity_Body Validating asset
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/Trinity_Body Validating asset
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/Trinity_T-Pose Validating asset
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/Trinity_T-Pose_Anim Validating asset
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/Trinity_T-Pose_PhysicsAsset Validating asset
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/Trinity_T-Pose_Skeleton Validating asset
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/Trinity_Walk Validating asset
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/Trinity_Walk_Anim Validating asset
+[2025.11.17-20.43.10:749][110]AssetCheck: /Game/Animations/Trinity/Trinity_Walk_PhysicsAsset Validating asset
+[2025.11.17-20.43.10:750][110]AssetCheck: /Game/Animations/Trinity/Trinity_Walk_Skeleton Validating asset
+[2025.11.17-20.43.10:750][110]AssetCheck: /Game/Animations/Trinity/Trinity_Waving Validating asset
+[2025.11.17-20.43.10:750][110]AssetCheck: /Game/Animations/Trinity/Trinity_Waving_Anim Validating asset
+[2025.11.17-20.43.10:750][110]AssetCheck: /Game/Animations/Trinity/Trinity_Waving_PhysicsAsset Validating asset
+[2025.11.17-20.43.10:750][110]AssetCheck: /Game/Animations/Trinity/Trinity_Waving_Skeleton Validating asset
+[2025.11.17-20.43.10:757][110]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.17-20.43.14:628][519]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.17-20.43.14:687][519]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.17-20.43.14:693][520]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.17-20.43.16:907][775]LogContentBrowser: Attempting asset rename: NewFolder -> Rachel
+[2025.11.17-20.43.16:907][775]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: ================================================
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Total job queries 449, among them cache hits 42 (9.35%), DDC hits 332 (73.94%), Duplicates 72 (16.04%)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Tracking 335 distinct input hashes that result in 236 distinct outputs (70.45%)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: RAM used: 3.28 MiB of 1.60 GiB budget. Usage: 0.20%
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Shaders Compiled: 3
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Job execution time: average 0.66 s, max 0.93 s
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 1.01
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Shader code size: total 26.207 KiB, numShaders 3, average 8.735 KiB, min 7.762 KiB, max 9.465 KiB
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.02 s
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Average processing rate: 2.94 jobs/sec
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Total thread time: 1.475 s
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Total thread preprocess time: 5.486 s
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Percentage time preprocessing: 372.02%
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Effective parallelization: 1.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.120491
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                                             FDebugViewModePS - 48.26% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 26.35% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.39% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: === Material stats ===
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Materials Translated:    148
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Material Translation Only: 0.03 s (30%)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: Material Cache Hits: 27 (18%)
+[2025.11.17-20.44.23:920][409]LogShaderCompilers: Display: ================================================
+[2025.11.17-20.44.58:924][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1298.236206
+[2025.11.17-20.44.59:925][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-20.44.59:925][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1298.902954, Update Interval: 318.812836
+[2025.11.17-20.49.09:603][533]LogStreaming: Display: FlushAsyncLoading(750): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.09:658][533]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Rachel_Wave.fbx]
+[2025.11.17-20.49.10:921][533]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-20.49.10:937][533]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-20.49.11:024][534]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.11:088][535]LogStreaming: Display: FlushAsyncLoading(757): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.11:339][537]LogStreaming: Display: FlushAsyncLoading(758): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.11:394][538]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Rachel/Rachel_Wave_Anim.Rachel_Wave_Anim (Required Memory Estimate: 0.41 MB)
+[2025.11.17-20.49.11:397][538]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Rachel/Rachel_Wave_Anim.Rachel_Wave_Anim, at AnimationSequence/9f0418e9fd0baf61c28e042a315eab3382ebf3a2
+[2025.11.17-20.49.11:411][539]LogSkeletalMesh: Building Skeletal Mesh Rachel_Wave...
+[2025.11.17-20.49.11:428][539]LogSkeletalMesh: Display: /Game/Animations/Rachel/Rachel_Wave.Rachel_Wave ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.49.11:481][539]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Rachel/Rachel_Wave.Rachel_Wave
+[2025.11.17-20.49.11:539][540]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.11.17-20.49.11:546][540]LogMaterial: Display: Material /Game/Animations/Rachel/M_Rachel_Body1.M_Rachel_Body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.11.17-20.49.11:564][540]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.49.11:564][540]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.49.11:564][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.49.11:565][540]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.11.17-20.49.11:575][540]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.49.11:575][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.49.11:600][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.11.17-20.49.11:653][541]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Rachel_Wave.fbx]
+[2025.11.17-20.49.11:653][541]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.17-20.49.11:653][541]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.17-20.49.11:653][541]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Rachel_T-Pose.fbx]
+[2025.11.17-20.49.11:801][542]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.17-20.49.11:981][543]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.11.17-20.49.12:045][545]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.11.17-20.49.12:135][549]LogStreaming: Display: FlushAsyncLoading(759): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.13:750][549]LogSlate: Window 'Message' being destroyed
+[2025.11.17-20.49.13:775][549]Message dialog closed, result: No, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Animations/Rachel/Rachel_Body.Rachel_Body'?
+[2025.11.17-20.49.13:782][550]LogStreaming: Display: FlushAsyncLoading(760): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.13:807][551]LogStreaming: Display: FlushAsyncLoading(761): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.13:879][555]LogStreaming: Display: FlushAsyncLoading(762): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.13:887][556]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Rachel/Rachel_T-Pose_Anim.Rachel_T-Pose_Anim (Required Memory Estimate: 0.22 MB)
+[2025.11.17-20.49.13:888][556]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Rachel/Rachel_T-Pose_Anim.Rachel_T-Pose_Anim, at AnimationSequence/6142d8c2fddcde793e1d8fda558e23becceb90fd
+[2025.11.17-20.49.13:893][556]LogSkeletalMesh: Building Skeletal Mesh Rachel_T-Pose...
+[2025.11.17-20.49.13:910][557]LogSkeletalMesh: Display: /Game/Animations/Rachel/Rachel_T-Pose.Rachel_T-Pose ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.49.13:965][563]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Rachel/Rachel_T-Pose.Rachel_T-Pose
+[2025.11.17-20.49.14:005][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.11.17-20.49.14:012][564]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.49.14:042][564]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.49.14:042][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.49.14:043][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.11.17-20.49.14:049][564]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.49.14:049][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.49.14:063][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.11.17-20.49.14:103][565]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Rachel_T-Pose.fbx]
+[2025.11.17-20.49.14:103][565]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.11.17-20.49.14:103][565]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.11.17-20.49.14:103][565]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Rachel_Walking.fbx]
+[2025.11.17-20.49.14:105][566]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.11.17-20.49.14:199][567]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.11.17-20.49.14:351][578]LogStreaming: Display: FlushAsyncLoading(763): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.16:262][578]LogSlate: Window 'Message' being destroyed
+[2025.11.17-20.49.16:269][578]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Animations/Rachel/Rachel_Body.Rachel_Body'?
+[2025.11.17-20.49.16:276][579]LogStreaming: Display: FlushAsyncLoading(764): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.16:301][580]LogStreaming: Display: FlushAsyncLoading(765): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.16:395][584]LogStreaming: Display: FlushAsyncLoading(766): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.49.16:407][585]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Rachel/Rachel_Walking_Anim.Rachel_Walking_Anim (Required Memory Estimate: 0.73 MB)
+[2025.11.17-20.49.16:413][585]LogSkeletalMesh: Building Skeletal Mesh Rachel_Walking...
+[2025.11.17-20.49.16:415][585]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Rachel/Rachel_Walking_Anim.Rachel_Walking_Anim, at AnimationSequence/9d055056e85a5f4ee3696ebf0eae11c644474c78
+[2025.11.17-20.49.16:429][587]LogSkeletalMesh: Display: /Game/Animations/Rachel/Rachel_Walking.Rachel_Walking ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.49.16:483][590]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Rachel/Rachel_Walking.Rachel_Walking
+[2025.11.17-20.49.16:520][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.11.17-20.49.16:526][591]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.49.16:561][591]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.49.16:561][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.49.16:563][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.11.17-20.49.16:569][591]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.49.16:569][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.49.16:585][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.11.17-20.49.16:616][592]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Rachel_Walking.fbx]
+[2025.11.17-20.49.16:616][592]Interchange: Warning: [C:/Users/rgowell/Desktop/Rachel_Wave.fbx : 'Rachel_Wave', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.49.16:616][592]Interchange: Warning: [C:/Users/rgowell/Desktop/Rachel_T-Pose.fbx : '', Texture2D] The option bReplaceExisting is false, we are not overriding the asset named 'Texture2D /Game/Animations/Rachel/Rachel_Body.Rachel_Body'.
+[2025.11.17-20.49.16:616][592]Interchange: Warning: [C:/Users/rgowell/Desktop/Rachel_T-Pose.fbx : 'Rachel_T-Pose', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.49.16:616][592]Interchange: Warning: [C:/Users/rgowell/Desktop/Rachel_Walking.fbx : 'Rachel_Walking', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.49.16:638][592]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-20.49.16:638][592]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-20.49.16:676][593]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.11.17-20.49.16:764][594]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.11.17-20.50.49:869][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1649.181885
+[2025.11.17-20.50.50:870][265]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-20.50.50:870][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1649.848389, Update Interval: 302.387756
+[2025.11.17-20.52.13:285][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.11.17-20.52.13:287][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.016
+[2025.11.17-20.52.13:288][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/M_Rachel_Body1] ([1] browsable assets)...
+[2025.11.17-20.52.13:363][512]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Animations/Rachel/M_Rachel_Body1.M_Rachel_Body1]
+[2025.11.17-20.52.13:363][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/M_Rachel_Body1]
+[2025.11.17-20.52.13:373][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/M_Rachel_Body1_Auto1
+[2025.11.17-20.52.13:373][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/M_Rachel_Body1_Auto1ACAAA6994CDA38E3A53E7E8C8B1591AB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/M_Rachel_Body1_Auto1.uasset'
+[2025.11.17-20.52.13:374][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_Wave_PhysicsAsset] ([1] browsable assets)...
+[2025.11.17-20.52.13:391][512]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Rachel/Rachel_Wave_PhysicsAsset.Rachel_Wave_PhysicsAsset]
+[2025.11.17-20.52.13:391][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_Wave_PhysicsAsset]
+[2025.11.17-20.52.13:399][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Wave_PhysicsAsset_Auto1
+[2025.11.17-20.52.13:399][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Wave_PhysicsAsset_Auto16F0207894B8E1D101DDE4A8EA7F548D6.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Wave_PhysicsAsset_Auto1.uasset'
+[2025.11.17-20.52.13:400][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_Walking_Anim] ([1] browsable assets)...
+[2025.11.17-20.52.13:418][512]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rachel/Rachel_Walking_Anim.Rachel_Walking_Anim]
+[2025.11.17-20.52.13:418][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_Walking_Anim]
+[2025.11.17-20.52.13:429][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Walking_Anim_Auto1
+[2025.11.17-20.52.13:429][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Walking_Anim_Auto18E4AD4174EA1FB47321A3686EEC7E12A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Walking_Anim_Auto1.uasset'
+[2025.11.17-20.52.13:429][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_Wave_Skeleton] ([1] browsable assets)...
+[2025.11.17-20.52.13:441][512]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Animations/Rachel/Rachel_Wave_Skeleton.Rachel_Wave_Skeleton]
+[2025.11.17-20.52.13:441][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_Wave_Skeleton]
+[2025.11.17-20.52.13:449][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Wave_Skeleton_Auto1
+[2025.11.17-20.52.13:449][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Wave_Skeleton_Auto148948D4B4C5B287D5EDA1CBE55F644AE.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Wave_Skeleton_Auto1.uasset'
+[2025.11.17-20.52.13:449][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_Wave] ([1] browsable assets)...
+[2025.11.17-20.52.13:458][512]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Rachel/Rachel_Wave.Rachel_Wave]
+[2025.11.17-20.52.13:458][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_Wave]
+[2025.11.17-20.52.13:474][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Wave_Auto1
+[2025.11.17-20.52.13:474][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Wave_Auto17AD90F39491582D6066885BEA6C509D9.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Wave_Auto1.uasset'
+[2025.11.17-20.52.13:475][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_Wave_Anim] ([1] browsable assets)...
+[2025.11.17-20.52.13:488][512]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rachel/Rachel_Wave_Anim.Rachel_Wave_Anim]
+[2025.11.17-20.52.13:488][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_Wave_Anim]
+[2025.11.17-20.52.13:499][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Wave_Anim_Auto1
+[2025.11.17-20.52.13:499][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Wave_Anim_Auto165419FF2405BF8E36A3A549650D05E2B.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Wave_Anim_Auto1.uasset'
+[2025.11.17-20.52.13:500][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_T-Pose_PhysicsAsset] ([1] browsable assets)...
+[2025.11.17-20.52.13:507][512]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Rachel/Rachel_T-Pose_PhysicsAsset.Rachel_T-Pose_PhysicsAsset]
+[2025.11.17-20.52.13:507][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_T-Pose_PhysicsAsset]
+[2025.11.17-20.52.13:515][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_T-Pose_PhysicsAsset_Auto1
+[2025.11.17-20.52.13:516][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_T-Pose_PhysicsAsset_Auto1C8A5207144B0FE4D3AD49382FC0D0FFE.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_T-Pose_PhysicsAsset_Auto1.uasset'
+[2025.11.17-20.52.13:516][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_T-Pose_Skeleton] ([1] browsable assets)...
+[2025.11.17-20.52.13:525][512]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Animations/Rachel/Rachel_T-Pose_Skeleton.Rachel_T-Pose_Skeleton]
+[2025.11.17-20.52.13:525][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_T-Pose_Skeleton]
+[2025.11.17-20.52.13:533][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_T-Pose_Skeleton_Auto1
+[2025.11.17-20.52.13:533][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_T-Pose_Skeleton_Auto1FA6A9BEA483FA10D745078B933182325.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_T-Pose_Skeleton_Auto1.uasset'
+[2025.11.17-20.52.13:533][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_T-Pose] ([1] browsable assets)...
+[2025.11.17-20.52.13:541][512]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Rachel/Rachel_T-Pose.Rachel_T-Pose]
+[2025.11.17-20.52.13:541][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_T-Pose]
+[2025.11.17-20.52.13:556][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_T-Pose_Auto1
+[2025.11.17-20.52.13:556][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_T-Pose_Auto1110BB69A47EA5EDD6038E9B5A1F19733.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_T-Pose_Auto1.uasset'
+[2025.11.17-20.52.13:557][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_T-Pose_Anim] ([1] browsable assets)...
+[2025.11.17-20.52.13:571][512]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rachel/Rachel_T-Pose_Anim.Rachel_T-Pose_Anim]
+[2025.11.17-20.52.13:571][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_T-Pose_Anim]
+[2025.11.17-20.52.13:580][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_T-Pose_Anim_Auto1
+[2025.11.17-20.52.13:580][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_T-Pose_Anim_Auto1913D08F04BA3682502AC57B540ACEE26.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_T-Pose_Anim_Auto1.uasset'
+[2025.11.17-20.52.13:581][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_Walking_PhysicsAsset] ([1] browsable assets)...
+[2025.11.17-20.52.13:589][512]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Animations/Rachel/Rachel_Walking_PhysicsAsset.Rachel_Walking_PhysicsAsset]
+[2025.11.17-20.52.13:589][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_Walking_PhysicsAsset]
+[2025.11.17-20.52.13:596][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Walking_PhysicsAsset_Auto1
+[2025.11.17-20.52.13:596][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Walking_PhysicsAsset_Auto4E449F4345CD6CC34A1FD2996417F4B6.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Walking_PhysicsAsset_Auto1.uasset'
+[2025.11.17-20.52.13:597][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_Walking_Skeleton] ([1] browsable assets)...
+[2025.11.17-20.52.13:607][512]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Animations/Rachel/Rachel_Walking_Skeleton.Rachel_Walking_Skeleton]
+[2025.11.17-20.52.13:608][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_Walking_Skeleton]
+[2025.11.17-20.52.13:614][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Walking_Skeleton_Auto1
+[2025.11.17-20.52.13:614][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Walking_Skeleton_Auto1B90F6C084B421141ACD4CC9833A51856.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Walking_Skeleton_Auto1.uasset'
+[2025.11.17-20.52.13:615][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rachel/Rachel_Walking] ([1] browsable assets)...
+[2025.11.17-20.52.13:623][512]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/Rachel/Rachel_Walking.Rachel_Walking]
+[2025.11.17-20.52.13:623][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rachel/Rachel_Walking]
+[2025.11.17-20.52.13:638][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Walking_Auto1
+[2025.11.17-20.52.13:638][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Walking_Auto174DA10A841A1769C1A3189AA818CDEA1.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Walking_Auto1.uasset'
+[2025.11.17-20.52.13:638][512]LogFileHelpers: Auto-saving content packages took 0.351
