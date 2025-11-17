@@ -1589,3 +1589,84 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.17-20.52.13:638][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Rachel/Rachel_Walking_Auto1
 [2025.11.17-20.52.13:638][512]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Walking_Auto174DA10A841A1769C1A3189AA818CDEA1.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Animations/Rachel/Rachel_Walking_Auto1.uasset'
 [2025.11.17-20.52.13:638][512]LogFileHelpers: Auto-saving content packages took 0.351
+[2025.11.17-20.53.33:685][123]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.17-20.53.33:691][123]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.17-20.53.33:698][124]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.17-20.53.35:893][365]LogContentBrowser: Attempting asset rename: NewFolder -> Mia
+[2025.11.17-20.53.35:894][365]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.17-20.53.40:467][711]LogStreaming: Display: FlushAsyncLoading(767): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.40:525][711]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Mia_Walk.fbx]
+[2025.11.17-20.53.41:803][711]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-20.53.41:820][711]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-20.53.41:903][712]LogStreaming: Display: FlushAsyncLoading(770): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.41:972][713]LogStreaming: Display: FlushAsyncLoading(774): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.42:049][714]LogStreaming: Display: FlushAsyncLoading(775): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.42:112][715]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Mia/Mia_Walk_Anim.Mia_Walk_Anim (Required Memory Estimate: 0.57 MB)
+[2025.11.17-20.53.42:127][715]LogSkeletalMesh: Building Skeletal Mesh Mia_Walk...
+[2025.11.17-20.53.42:127][715]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Mia/Mia_Walk_Anim.Mia_Walk_Anim, at AnimationSequence/877a3234a22540dbdfa403df6e6e08d7e351e516
+[2025.11.17-20.53.42:152][716]LogSkeletalMesh: Display: /Game/Animations/Mia/Mia_Walk.Mia_Walk ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.53.42:206][717]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Mia/Mia_Walk.Mia_Walk
+[2025.11.17-20.53.42:431][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.11.17-20.53.42:441][719]LogMaterial: Display: Material /Game/Animations/Mia/M_Mia_Body.M_Mia_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2025.11.17-20.53.42:457][719]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_34:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.53.42:457][719]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.53.42:457][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.53.42:459][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.11.17-20.53.42:467][719]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.53.42:467][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.53.42:490][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.11.17-20.53.42:522][720]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Mia_Walk.fbx]
+[2025.11.17-20.53.42:522][720]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.17-20.53.42:522][720]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.11.17-20.53.42:522][720]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Mia_T-Pose.fbx]
+[2025.11.17-20.53.42:610][722]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.11.17-20.53.42:684][725]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.11.17-20.53.42:776][729]LogStreaming: Display: FlushAsyncLoading(776): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.43:696][729]LogSlate: Window 'Message' being destroyed
+[2025.11.17-20.53.43:718][729]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Animations/Mia/Mia_Tex.Mia_Tex'?
+[2025.11.17-20.53.43:725][730]LogStreaming: Display: FlushAsyncLoading(777): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.43:752][731]LogStreaming: Display: FlushAsyncLoading(778): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.43:832][737]LogStreaming: Display: FlushAsyncLoading(779): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.43:842][738]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Mia/Mia_T-Pose_Anim.Mia_T-Pose_Anim (Required Memory Estimate: 0.22 MB)
+[2025.11.17-20.53.43:842][738]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Mia/Mia_T-Pose_Anim.Mia_T-Pose_Anim, at AnimationSequence/25ade8f5d950d132b310a3c4bbeaab65d1727266
+[2025.11.17-20.53.43:848][738]LogSkeletalMesh: Building Skeletal Mesh Mia_T-Pose...
+[2025.11.17-20.53.43:874][740]LogSkeletalMesh: Display: /Game/Animations/Mia/Mia_T-Pose.Mia_T-Pose ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.53.43:931][747]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Mia/Mia_T-Pose.Mia_T-Pose
+[2025.11.17-20.53.43:960][747]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.11.17-20.53.43:968][747]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_38:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.53.43:968][747]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.53.43:968][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.53.43:969][747]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.11.17-20.53.43:976][747]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.53.43:976][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.53.43:990][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.17-20.53.44:002][748]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Mia_T-Pose.fbx]
+[2025.11.17-20.53.44:002][748]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.11.17-20.53.44:002][748]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.11.17-20.53.44:002][748]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Mia_Waving.fbx]
+[2025.11.17-20.53.44:010][749]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.11.17-20.53.44:080][751]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.11.17-20.53.44:243][763]LogStreaming: Display: FlushAsyncLoading(780): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.44:272][764]LogStreaming: Display: FlushAsyncLoading(783): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.44:346][770]LogStreaming: Display: FlushAsyncLoading(784): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.53.44:357][771]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Mia/Mia_Waving_Anim.Mia_Waving_Anim (Required Memory Estimate: 0.44 MB)
+[2025.11.17-20.53.44:360][771]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Mia/Mia_Waving_Anim.Mia_Waving_Anim, at AnimationSequence/2a2af5ecc73d647957c7868e744fa85ed165915c
+[2025.11.17-20.53.44:366][771]LogSkeletalMesh: Building Skeletal Mesh Mia_Waving...
+[2025.11.17-20.53.44:391][775]LogSkeletalMesh: Display: /Game/Animations/Mia/Mia_Waving.Mia_Waving ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.11.17-20.53.44:447][779]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Mia/Mia_Waving.Mia_Waving
+[2025.11.17-20.53.44:471][780]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.11.17-20.53.44:476][780]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_42:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2025.11.17-20.53.44:514][780]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.53.44:514][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.53.44:514][780]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.11.17-20.53.44:519][780]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.11.17-20.53.44:519][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.17-20.53.44:533][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.17-20.53.44:581][781]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Mia_Waving.fbx]
+[2025.11.17-20.53.44:581][781]Interchange: Warning: [C:/Users/rgowell/Desktop/Mia_Walk.fbx : 'Mia_Walk', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.53.44:581][781]Interchange: Warning: [C:/Users/rgowell/Desktop/Mia_T-Pose.fbx : 'Mia_T-Pose', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.53.44:581][781]Interchange: Warning: [C:/Users/rgowell/Desktop/Mia_Waving.fbx : 'Mia_Waving', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.53.44:606][781]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-20.53.44:606][781]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-20.53.44:609][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.11.17-20.53.44:749][783]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
