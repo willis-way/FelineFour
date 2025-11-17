@@ -1809,3 +1809,652 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.17-19.26.47:919][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.17-19.26.47:919][472]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.11.17-19.26.47:943][472]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.17-19.28.29:399][973]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2169.487305
+[2025.11.17-19.28.30:400][976]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-19.28.30:400][976]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2170.154541, Update Interval: 303.226410
+[2025.11.17-19.30.18:049][865]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.17-19.30.18:056][865]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.17-19.30.18:064][866]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.17-19.30.19:993][ 75]LogContentBrowser: Attempting asset rename: NewFolder -> Rachel
+[2025.11.17-19.30.19:994][ 75]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.17-19.30.31:454][598]LogStreaming: Display: FlushAsyncLoading(767): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.30.31:502][598]LogInterchangeEngine: Display: Interchange start importing source [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx]
+[2025.11.17-19.30.33:528][598]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-19.30.33:541][598]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-19.30.33:644][599]LogStreaming: Display: FlushAsyncLoading(768): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.30.33:711][600]LogStreaming: Display: FlushAsyncLoading(770): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.30.33:808][602]LogStaticMesh: Display: Building static mesh Rachel (Required Memory Estimate: 11.245852 MB)...
+[2025.11.17-19.30.33:814][602]LogTexture: Display: Building textures: /Game/Characters/OurCharacterModels/Rachel/Rachel_Body.Rachel_Body (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2025.11.17-19.30.33:843][602]LogStaticMesh: Adjacency [0.00s], tris: 7324, UVs 1
+[2025.11.17-19.30.33:849][602]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.11.17-19.30.33:849][602]LogStaticMesh: Leaves [0.00s]
+[2025.11.17-19.30.34:014][604]LogStaticMesh: Reduce [0.16s]
+[2025.11.17-19.30.34:079][605]LogStaticMesh: Fallback [0.07s], num tris: 1650
+[2025.11.17-19.30.34:166][610]LogStaticMesh: Fallback [0.09s], num tris: 1076
+[2025.11.17-19.30.34:168][610]LogStaticMesh: ConstrainClusters:
+[2025.11.17-19.30.34:168][610]LogStaticMesh:   Input: 118 Clusters, 14882 Triangles and 12884 Vertices
+[2025.11.17-19.30.34:168][610]LogStaticMesh:   Output without splits: 118 Clusters, 14882 Triangles and 12933 Vertices
+[2025.11.17-19.30.34:168][610]LogStaticMesh:   Output with splits: 118 Clusters, 14882 Triangles and 12933 Vertices
+[2025.11.17-19.30.34:168][610]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 118, Slow Path Clusters: 0, 1 Material: 118, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.17-19.30.34:171][610]LogStaticMesh: WritePages:
+[2025.11.17-19.30.34:171][610]LogStaticMesh:   Root: GPU size: 31940 bytes. 1 Pages. 31940.000 bytes per page (97.473% utilization).
+[2025.11.17-19.30.34:171][610]LogStaticMesh:   Streaming: GPU size: 126344 bytes. 1 Pages (1 with relative encoding). 126344.000 bytes per page (96.393% utilization).
+[2025.11.17-19.30.34:171][610]LogStaticMesh:   Page data disk size: 131724 bytes. Fixup data size: 368 bytes.
+[2025.11.17-19.30.34:171][610]LogStaticMesh:   Total GPU size: 158284 bytes, Total disk size: 132092 bytes.
+[2025.11.17-19.30.34:171][610]LogStaticMesh: Encode [0.01s]
+[2025.11.17-19.30.34:171][610]LogStaticMesh: NaniteBuild [0.33s]
+[2025.11.17-19.30.34:228][616]LogStaticMesh: Built static mesh [0.42s] /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.34:259][620]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.34:282][620]LogInterchangeEngine: Display: Interchange import completed [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx]
+[2025.11.17-19.30.34:282][620]Interchange: Warning: [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx : 'Rachel', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-19.30.34:298][620]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-19.30.34:298][620]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-19.30.34:301][621]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.34:492][624]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.M_Rachel_Body1 needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.30.35:923][713]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.35:923][713]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.35:924][713]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_9
+[2025.11.17-19.30.36:298][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.17-19.30.36:301][743]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.17-19.30.36:309][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.36:309][743]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.36:311][743]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79109A302_1859187216
+[2025.11.17-19.30.37:389][807]Cmd: TRANSACTION UNDO
+[2025.11.17-19.30.37:389][807]LogEditorTransaction: Undo Place Objects
+[2025.11.17-19.30.38:425][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.38:425][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.38:426][840]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_10
+[2025.11.17-19.30.38:718][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.17-19.30.38:721][869]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.11.17-19.30.38:728][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.38:728][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.30.38:729][869]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79109A302_1861606217
+[2025.11.17-19.30.43:333][347]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.17-19.30.56:365][811]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.17-19.31.02:362][472]Cmd: TRANSACTION UNDO
+[2025.11.17-19.31.02:362][472]LogEditorTransaction: Undo Move Elements
+[2025.11.17-19.31.28:306][340]Cmd: MODE GRID=0
+[2025.11.17-19.31.41:845][804]Cmd: TRANSACTION UNDO
+[2025.11.17-19.31.41:845][804]LogEditorTransaction: Undo Scale Elements
+[2025.11.17-19.31.48:631][449]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.Rachel_Body_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.32.59:356][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.11.17-19.32.59:369][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/Z0/GN35I9LQN93CT5G40EPO4F_Auto4
+[2025.11.17-19.32.59:369][ 28]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/GN35I9LQN93CT5G40EPO4F_Auto4CD974BA742D5D0FAA5AC2E8C6E2171DB.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/Z0/GN35I9LQN93CT5G40EPO4F_Auto4.uasset'
+[2025.11.17-19.32.59:376][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/1/PE/WCDLQSJWBOQW8MB420ZC2R_Auto4
+[2025.11.17-19.32.59:376][ 28]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/WCDLQSJWBOQW8MB420ZC2R_Auto48C76B0344C6B59A86DF62A9D3D818BEA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/1/PE/WCDLQSJWBOQW8MB420ZC2R_Auto4.uasset'
+[2025.11.17-19.32.59:376][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.036
+[2025.11.17-19.32.59:376][ 28]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2025.11.17-19.32.59:377][ 28]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1] ([1] browsable assets)...
+[2025.11.17-19.32.59:497][ 28]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.M_Rachel_Body1]
+[2025.11.17-19.32.59:497][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1]
+[2025.11.17-19.32.59:506][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1_Auto4
+[2025.11.17-19.32.59:506][ 28]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/M_Rachel_Body1_Auto4631EC2104F5609CD316725A59F9E6E80.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1_Auto4.uasset'
+[2025.11.17-19.32.59:507][ 28]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body] ([1] browsable assets)...
+[2025.11.17-19.32.59:509][ 28]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/OurCharacterModels/Rachel/Rachel_Body.Rachel_Body]
+[2025.11.17-19.32.59:509][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body]
+[2025.11.17-19.32.59:526][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Auto4
+[2025.11.17-19.32.59:526][ 28]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Body_Auto42EE2D8264310B8A0EA92BBBFCCD00F59.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Auto4.uasset'
+[2025.11.17-19.32.59:526][ 28]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel] ([1] browsable assets)...
+[2025.11.17-19.32.59:554][ 28]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel]
+[2025.11.17-19.32.59:555][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel]
+[2025.11.17-19.32.59:568][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Auto4
+[2025.11.17-19.32.59:568][ 28]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Auto4A2939E714BDA233770AD6BAE41CA400E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Auto4.uasset'
+[2025.11.17-19.32.59:569][ 28]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat] ([1] browsable assets)...
+[2025.11.17-19.32.59:583][ 28]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.Rachel_Body_Mat]
+[2025.11.17-19.32.59:583][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat]
+[2025.11.17-19.32.59:591][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat_Auto4
+[2025.11.17-19.32.59:591][ 28]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Body_Mat_Auto4352AE2C84ACFB18B6512F7B7590FB123.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat_Auto4.uasset'
+[2025.11.17-19.32.59:591][ 28]LogFileHelpers: Auto-saving content packages took 0.215
+[2025.11.17-19.34.16:568][517]Cmd: DELETE
+[2025.11.17-19.34.16:568][517]Cmd: ACTOR DELETE
+[2025.11.17-19.34.16:571][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.17-19.34.16:583][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.17-19.34.16:584][517]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.11.17-19.34.16:654][519]LogPSOHitching: Encountered 350 PSO creation hitches so far (111 graphics, 239 compute). 0 of them were precached.
+[2025.11.17-19.34.20:881][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.17-19.34.21:895][928]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-19.34.21:915][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.11.17-19.34.21:928][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.17-19.34.21:940][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.17-19.34.23:254][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2523.350342
+[2025.11.17-19.34.23:636][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-19.34.23:636][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2523.724121, Update Interval: 349.216583
+[2025.11.17-19.34.23:970][996]LogStreaming: Display: FlushAsyncLoading(771): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.24:027][996]LogInterchangeEngine: Display: Interchange start importing source [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx]
+[2025.11.17-19.34.25:609][996]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-19.34.25:621][996]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-19.34.28:020][997]LogSlate: Window 'Message' being destroyed
+[2025.11.17-19.34.28:027][997]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Characters/OurCharacterModels/Rachel/Rachel_Body.Rachel_Body'?
+[2025.11.17-19.34.28:048][998]LogStreaming: Display: FlushAsyncLoading(772): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.28:067][  0]LogStaticMesh: Display: Building static mesh Rachel (Required Memory Estimate: 11.245852 MB)...
+[2025.11.17-19.34.28:088][  0]LogStaticMesh: Adjacency [0.00s], tris: 7324, UVs 1
+[2025.11.17-19.34.28:095][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.11.17-19.34.28:096][  0]LogStaticMesh: Leaves [0.00s]
+[2025.11.17-19.34.28:253][  0]LogStaticMesh: Reduce [0.16s]
+[2025.11.17-19.34.28:324][  5]LogStaticMesh: Fallback [0.07s], num tris: 1650
+[2025.11.17-19.34.28:412][ 15]LogStaticMesh: Fallback [0.09s], num tris: 1076
+[2025.11.17-19.34.28:414][ 15]LogStaticMesh: ConstrainClusters:
+[2025.11.17-19.34.28:414][ 15]LogStaticMesh:   Input: 118 Clusters, 14882 Triangles and 12884 Vertices
+[2025.11.17-19.34.28:414][ 15]LogStaticMesh:   Output without splits: 118 Clusters, 14882 Triangles and 12933 Vertices
+[2025.11.17-19.34.28:414][ 15]LogStaticMesh:   Output with splits: 118 Clusters, 14882 Triangles and 12933 Vertices
+[2025.11.17-19.34.28:414][ 15]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 118, Slow Path Clusters: 0, 1 Material: 118, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.17-19.34.28:417][ 16]LogStaticMesh: WritePages:
+[2025.11.17-19.34.28:417][ 16]LogStaticMesh:   Root: GPU size: 31940 bytes. 1 Pages. 31940.000 bytes per page (97.473% utilization).
+[2025.11.17-19.34.28:418][ 16]LogStaticMesh:   Streaming: GPU size: 126344 bytes. 1 Pages (1 with relative encoding). 126344.000 bytes per page (96.393% utilization).
+[2025.11.17-19.34.28:418][ 16]LogStaticMesh:   Page data disk size: 131724 bytes. Fixup data size: 368 bytes.
+[2025.11.17-19.34.28:418][ 16]LogStaticMesh:   Total GPU size: 158284 bytes, Total disk size: 132092 bytes.
+[2025.11.17-19.34.28:418][ 16]LogStaticMesh: Encode [0.00s]
+[2025.11.17-19.34.28:418][ 16]LogStaticMesh: NaniteBuild [0.33s]
+[2025.11.17-19.34.28:476][ 22]LogStaticMesh: Built static mesh [0.41s] /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.28:503][ 25]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.28:523][ 25]LogInterchangeEngine: Display: Interchange import completed [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx]
+[2025.11.17-19.34.28:523][ 25]Interchange: Warning: [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx : 'Rachel', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-19.34.28:541][ 25]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-19.34.28:541][ 25]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-19.34.28:543][ 26]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.29:514][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.29:514][ 53]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.29:515][ 53]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_11
+[2025.11.17-19.34.29:862][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.17-19.34.29:864][ 83]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.11.17-19.34.29:871][ 83]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.29:871][ 83]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.29:873][ 83]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79109A302_2092749218
+[2025.11.17-19.34.35:214][626]LogStreaming: Display: FlushAsyncLoading(773): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.35:256][626]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.11.17-19.34.35:274][626]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.018 s
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: === Handled ensure: ===
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: 
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: Ensure condition failed: AssetObj != 0  [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\LevelEditorViewport.cpp] [Line: 1770] 
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: AssetObj was null (/Script/Engine.Texture2D /Game/Characters/OurCharacterModels/Rachel/Rachel_Body.Rachel_Body)
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: Stack: 
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffb7c6f64a7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffb7bafea09 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffb7147706d UnrealEditor-LevelEditor.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffb7148d98e UnrealEditor-LevelEditor.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbac112a45 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbac17177a UnrealEditor-Slate.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbac161f3f UnrealEditor-Slate.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbac153d85 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbb5f6f72b UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbb5f57137 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbb5f7299c UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbb5f51171 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbecfe81d6 USER32.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbecfe5d2d USER32.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbb5f92316 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ff6ae78871b UnrealEditor.exe!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ff6ae7ae5ac UnrealEditor.exe!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ff6ae7ae6ba UnrealEditor.exe!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ff6ae7b209e UnrealEditor.exe!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ff6ae7c4e44 UnrealEditor.exe!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ff6ae7c80fa UnrealEditor.exe!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbecbbe8d7 KERNEL32.DLL!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: [Callstack] 0x00007ffbee1dc34c ntdll.dll!UnknownFunction []
+[2025.11.17-19.34.35:274][626]LogOutputDevice: Error: 
+[2025.11.17-19.34.35:275][626]LogStats:                SubmitErrorReport -  0.000 s
+[2025.11.17-19.34.36:090][626]LogStats:                    SendNewReport -  0.814 s
+[2025.11.17-19.34.36:090][626]LogStats:             FDebug::EnsureFailed -  0.833 s
+[2025.11.17-19.34.37:886][785]LogStreaming: Display: FlushAsyncLoading(779): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:926][785]LogStreaming: Display: FlushAsyncLoading(782): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:936][786]LogStreaming: Display: FlushAsyncLoading(787): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:945][787]LogStreaming: Display: FlushAsyncLoading(793): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:953][788]LogStreaming: Display: FlushAsyncLoading(799): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:961][789]LogStreaming: Display: FlushAsyncLoading(804): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:969][790]LogStreaming: Display: FlushAsyncLoading(810): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:979][791]LogStreaming: Display: FlushAsyncLoading(816): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:985][792]LogStreaming: Display: FlushAsyncLoading(821): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.37:993][793]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:003][794]LogStreaming: Display: FlushAsyncLoading(833): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:009][795]LogStreaming: Display: FlushAsyncLoading(838): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:019][796]LogStreaming: Display: FlushAsyncLoading(844): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:029][797]LogStreaming: Display: FlushAsyncLoading(850): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:036][798]LogStreaming: Display: FlushAsyncLoading(855): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:045][799]LogStreaming: Display: FlushAsyncLoading(861): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:053][800]LogStreaming: Display: FlushAsyncLoading(866): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:060][801]LogStreaming: Display: FlushAsyncLoading(870): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:068][802]LogStreaming: Display: FlushAsyncLoading(875): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:078][803]LogStreaming: Display: FlushAsyncLoading(880): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:085][804]LogStreaming: Display: FlushAsyncLoading(884): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:093][805]LogStreaming: Display: FlushAsyncLoading(889): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:103][806]LogStreaming: Display: FlushAsyncLoading(894): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:110][807]LogStreaming: Display: FlushAsyncLoading(898): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:118][808]LogStreaming: Display: FlushAsyncLoading(903): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:128][809]LogStreaming: Display: FlushAsyncLoading(908): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:135][810]LogStreaming: Display: FlushAsyncLoading(912): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:143][811]LogStreaming: Display: FlushAsyncLoading(917): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:153][812]LogStreaming: Display: FlushAsyncLoading(922): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:160][813]LogStreaming: Display: FlushAsyncLoading(926): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:168][814]LogStreaming: Display: FlushAsyncLoading(931): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:178][815]LogStreaming: Display: FlushAsyncLoading(936): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:185][816]LogStreaming: Display: FlushAsyncLoading(941): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:193][817]LogStreaming: Display: FlushAsyncLoading(947): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:204][818]LogStreaming: Display: FlushAsyncLoading(953): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:211][819]LogStreaming: Display: FlushAsyncLoading(958): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:219][820]LogStreaming: Display: FlushAsyncLoading(964): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:229][821]LogStreaming: Display: FlushAsyncLoading(970): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:236][822]LogStreaming: Display: FlushAsyncLoading(975): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:243][823]LogStreaming: Display: FlushAsyncLoading(981): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:253][824]LogStreaming: Display: FlushAsyncLoading(986): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:260][825]LogStreaming: Display: FlushAsyncLoading(990): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:268][826]LogStreaming: Display: FlushAsyncLoading(995): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:278][827]LogStreaming: Display: FlushAsyncLoading(1000): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:285][828]LogStreaming: Display: FlushAsyncLoading(1004): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:294][829]LogStreaming: Display: FlushAsyncLoading(1009): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:303][830]LogStreaming: Display: FlushAsyncLoading(1014): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:310][831]LogStreaming: Display: FlushAsyncLoading(1018): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:318][832]LogStreaming: Display: FlushAsyncLoading(1023): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:328][833]LogStreaming: Display: FlushAsyncLoading(1028): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:335][834]LogStreaming: Display: FlushAsyncLoading(1032): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:343][835]LogStreaming: Display: FlushAsyncLoading(1037): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:353][836]LogStreaming: Display: FlushAsyncLoading(1042): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:360][837]LogStreaming: Display: FlushAsyncLoading(1046): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:369][838]LogStreaming: Display: FlushAsyncLoading(1051): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.38:378][839]LogStreaming: Display: FlushAsyncLoading(1056): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.45:820][529]LogStreaming: Display: FlushAsyncLoading(1062): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.45:833][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.11.17-19.34.46:933][529]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-19.34.46:983][529]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.Rachel_Body_Mat
+	Asset Type: Material
+	Asset Name: /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+	Asset Type: StaticMesh
+	Asset Name: /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.M_Rachel_Body1
+	Asset Type: Material
+[2025.11.17-19.34.47:095][529]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.47:111][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.17-19.34.47:125][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.11.17-19.34.47:138][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.17-19.34.51:260][643]LogStreaming: Display: FlushAsyncLoading(1063): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.51:311][643]LogInterchangeEngine: Display: Interchange start importing source [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx]
+[2025.11.17-19.34.56:879][643]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-19.34.56:907][643]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-19.34.56:993][644]LogStreaming: Display: FlushAsyncLoading(1064): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.57:058][645]LogStreaming: Display: FlushAsyncLoading(1066): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.34.57:147][647]LogStaticMesh: Display: Building static mesh Rachel (Required Memory Estimate: 11.245852 MB)...
+[2025.11.17-19.34.57:171][647]LogStaticMesh: Adjacency [0.00s], tris: 7324, UVs 1
+[2025.11.17-19.34.57:178][647]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.11.17-19.34.57:179][647]LogStaticMesh: Leaves [0.00s]
+[2025.11.17-19.34.57:344][648]LogStaticMesh: Reduce [0.17s]
+[2025.11.17-19.34.57:413][650]LogStaticMesh: Fallback [0.07s], num tris: 1650
+[2025.11.17-19.34.57:511][660]LogStaticMesh: Fallback [0.10s], num tris: 1076
+[2025.11.17-19.34.57:513][660]LogStaticMesh: ConstrainClusters:
+[2025.11.17-19.34.57:513][660]LogStaticMesh:   Input: 118 Clusters, 14882 Triangles and 12884 Vertices
+[2025.11.17-19.34.57:513][660]LogStaticMesh:   Output without splits: 118 Clusters, 14882 Triangles and 12933 Vertices
+[2025.11.17-19.34.57:513][660]LogStaticMesh:   Output with splits: 118 Clusters, 14882 Triangles and 12933 Vertices
+[2025.11.17-19.34.57:513][660]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 118, Slow Path Clusters: 0, 1 Material: 118, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.17-19.34.57:517][661]LogStaticMesh: WritePages:
+[2025.11.17-19.34.57:517][661]LogStaticMesh:   Root: GPU size: 31940 bytes. 1 Pages. 31940.000 bytes per page (97.473% utilization).
+[2025.11.17-19.34.57:517][661]LogStaticMesh:   Streaming: GPU size: 126344 bytes. 1 Pages (1 with relative encoding). 126344.000 bytes per page (96.393% utilization).
+[2025.11.17-19.34.57:517][661]LogStaticMesh:   Page data disk size: 131724 bytes. Fixup data size: 368 bytes.
+[2025.11.17-19.34.57:517][661]LogStaticMesh:   Total GPU size: 158284 bytes, Total disk size: 132092 bytes.
+[2025.11.17-19.34.57:517][661]LogStaticMesh: Encode [0.01s]
+[2025.11.17-19.34.57:517][661]LogStaticMesh: NaniteBuild [0.35s]
+[2025.11.17-19.34.57:576][667]LogStaticMesh: Built static mesh [0.44s] /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.57:601][670]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.57:624][670]LogInterchangeEngine: Display: Interchange import completed [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx]
+[2025.11.17-19.34.57:624][670]Interchange: Warning: [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx : 'Rachel', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-19.34.57:647][670]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-19.34.57:647][670]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-19.34.57:648][671]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.34.57:812][674]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.M_Rachel_Body1 needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.35.04:797][350]Cmd: TRANSACTION UNDO
+[2025.11.17-19.35.04:797][350]LogEditorTransaction: Undo Scale Elements
+[2025.11.17-19.35.07:381][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.35.07:381][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.35.07:381][523]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_12
+[2025.11.17-19.35.07:716][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.17-19.35.07:752][554]LogEditorActor: Deleted 0 Actors (0.048 secs)
+[2025.11.17-19.35.07:760][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.35.07:760][554]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.35.07:761][554]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79109A302_2130638219
+[2025.11.17-19.35.11:658][929]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.Rachel_Body_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.35.38:873][934]Cmd: DELETE
+[2025.11.17-19.35.38:873][934]Cmd: ACTOR DELETE
+[2025.11.17-19.35.38:876][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.17-19.35.38:890][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.11.17-19.35.38:892][934]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.11.17-19.38.00:248][ 84]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.17-19.38.04:207][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.17-19.38.05:339][399]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-19.38.05:362][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.17-19.38.05:376][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.17-19.38.05:391][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.17-19.38.10:234][564]LogStreaming: Display: FlushAsyncLoading(1067): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.38.10:292][564]LogInterchangeEngine: Display: Interchange start importing source [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx]
+[2025.11.17-19.38.11:913][564]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-19.38.11:935][564]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-19.38.12:019][565]LogStreaming: Display: FlushAsyncLoading(1068): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.38.12:085][566]LogStreaming: Display: FlushAsyncLoading(1070): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.38.12:164][568]LogStaticMesh: Display: Building static mesh Rachel (Required Memory Estimate: 11.245852 MB)...
+[2025.11.17-19.38.12:187][568]LogStaticMesh: Adjacency [0.00s], tris: 7324, UVs 1
+[2025.11.17-19.38.12:194][568]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.11.17-19.38.12:195][568]LogStaticMesh: Leaves [0.00s]
+[2025.11.17-19.38.12:362][570]LogStaticMesh: Reduce [0.17s]
+[2025.11.17-19.38.12:430][571]LogStaticMesh: Fallback [0.07s], num tris: 1650
+[2025.11.17-19.38.12:518][577]LogStaticMesh: Fallback [0.09s], num tris: 1076
+[2025.11.17-19.38.12:520][577]LogStaticMesh: ConstrainClusters:
+[2025.11.17-19.38.12:520][577]LogStaticMesh:   Input: 118 Clusters, 14882 Triangles and 12884 Vertices
+[2025.11.17-19.38.12:520][577]LogStaticMesh:   Output without splits: 118 Clusters, 14882 Triangles and 12933 Vertices
+[2025.11.17-19.38.12:520][577]LogStaticMesh:   Output with splits: 118 Clusters, 14882 Triangles and 12933 Vertices
+[2025.11.17-19.38.12:520][577]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 118, Slow Path Clusters: 0, 1 Material: 118, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.17-19.38.12:522][578]LogStaticMesh: WritePages:
+[2025.11.17-19.38.12:523][578]LogStaticMesh:   Root: GPU size: 31940 bytes. 1 Pages. 31940.000 bytes per page (97.473% utilization).
+[2025.11.17-19.38.12:523][578]LogStaticMesh:   Streaming: GPU size: 126344 bytes. 1 Pages (1 with relative encoding). 126344.000 bytes per page (96.393% utilization).
+[2025.11.17-19.38.12:523][578]LogStaticMesh:   Page data disk size: 131724 bytes. Fixup data size: 368 bytes.
+[2025.11.17-19.38.12:523][578]LogStaticMesh:   Total GPU size: 158284 bytes, Total disk size: 132092 bytes.
+[2025.11.17-19.38.12:523][578]LogStaticMesh: Encode [0.01s]
+[2025.11.17-19.38.12:523][578]LogStaticMesh: NaniteBuild [0.34s]
+[2025.11.17-19.38.12:580][584]LogStaticMesh: Built static mesh [0.42s] /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.38.12:608][587]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.38.12:630][587]LogInterchangeEngine: Display: Interchange import completed [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx]
+[2025.11.17-19.38.12:630][587]Interchange: Warning: [D:/catnap/Git Hub Projects/Rachel/Rachel.fbx : 'Rachel', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-19.38.12:641][587]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-19.38.12:642][587]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-19.38.12:706][589]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.094 Y=-2.181 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030735)) and MeshDescription Bounds (Origin=X=-4.082 Y=-2.175 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.38.12:770][590]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.M_Rachel_Body1 needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.38.14:326][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.38.14:326][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.38.14:326][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_13
+[2025.11.17-19.38.14:628][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.17-19.38.14:630][732]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.11.17-19.38.14:638][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.38.14:638][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel
+[2025.11.17-19.38.14:639][732]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel.Rachel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7910AA302_1243774396
+[2025.11.17-19.39.06:935][765]LogStreaming: Display: FlushAsyncLoading(1071): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.39.06:993][765]LogInterchangeEngine: Display: Interchange start importing source [D:/catnap/Git Hub Projects/Rachel/Rachel_1.fbx]
+[2025.11.17-19.39.08:728][765]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-19.39.08:754][765]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-19.39.11:336][766]LogSlate: Window 'Message' being destroyed
+[2025.11.17-19.39.11:344][766]Message dialog closed, result: No, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Characters/OurCharacterModels/Rachel/Rachel_Body.Rachel_Body'?
+[2025.11.17-19.39.11:367][767]LogStreaming: Display: FlushAsyncLoading(1072): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.39.11:387][769]LogStaticMesh: Display: Building static mesh Rachel_1 (Required Memory Estimate: 11.245852 MB)...
+[2025.11.17-19.39.11:409][769]LogStaticMesh: Adjacency [0.00s], tris: 7324, UVs 1
+[2025.11.17-19.39.11:415][769]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.11.17-19.39.11:416][769]LogStaticMesh: Leaves [0.00s]
+[2025.11.17-19.39.11:578][770]LogStaticMesh: Reduce [0.16s]
+[2025.11.17-19.39.11:642][771]LogStaticMesh: Fallback [0.06s], num tris: 1650
+[2025.11.17-19.39.11:737][782]LogStaticMesh: Fallback [0.09s], num tris: 1076
+[2025.11.17-19.39.11:739][782]LogStaticMesh: ConstrainClusters:
+[2025.11.17-19.39.11:739][782]LogStaticMesh:   Input: 118 Clusters, 14882 Triangles and 12884 Vertices
+[2025.11.17-19.39.11:739][782]LogStaticMesh:   Output without splits: 118 Clusters, 14882 Triangles and 12932 Vertices
+[2025.11.17-19.39.11:739][782]LogStaticMesh:   Output with splits: 118 Clusters, 14882 Triangles and 12932 Vertices
+[2025.11.17-19.39.11:739][782]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 118, Slow Path Clusters: 0, 1 Material: 118, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.17-19.39.11:741][782]LogStaticMesh: WritePages:
+[2025.11.17-19.39.11:741][782]LogStaticMesh:   Root: GPU size: 31940 bytes. 1 Pages. 31940.000 bytes per page (97.473% utilization).
+[2025.11.17-19.39.11:742][782]LogStaticMesh:   Streaming: GPU size: 126336 bytes. 1 Pages (1 with relative encoding). 126336.000 bytes per page (96.387% utilization).
+[2025.11.17-19.39.11:742][782]LogStaticMesh:   Page data disk size: 131712 bytes. Fixup data size: 368 bytes.
+[2025.11.17-19.39.11:742][782]LogStaticMesh:   Total GPU size: 158276 bytes, Total disk size: 132080 bytes.
+[2025.11.17-19.39.11:742][782]LogStaticMesh: Encode [0.00s]
+[2025.11.17-19.39.11:742][782]LogStaticMesh: NaniteBuild [0.33s]
+[2025.11.17-19.39.11:800][788]LogStaticMesh: Built static mesh [0.41s] /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1
+[2025.11.17-19.39.11:824][791]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.013 Y=-0.006 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030736)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1
+[2025.11.17-19.39.11:846][791]LogInterchangeEngine: Display: Interchange import completed [D:/catnap/Git Hub Projects/Rachel/Rachel_1.fbx]
+[2025.11.17-19.39.11:846][791]Interchange: Warning: [D:/catnap/Git Hub Projects/Rachel/Rachel_1.fbx : '', Texture2D] The option bReplaceExisting is false, we are not overriding the asset named 'Texture2D /Game/Characters/OurCharacterModels/Rachel/Rachel_Body.Rachel_Body'.
+[2025.11.17-19.39.11:846][791]Interchange: Warning: [D:/catnap/Git Hub Projects/Rachel/Rachel_1.fbx : 'Rachel_1', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-19.39.11:857][791]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-19.39.11:858][791]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-19.39.11:926][793]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.013 Y=-0.006 Z=1.580, BoxExtent=(X=1.126 Y=0.810 Z=1.847), SphereRadius=(2.030736)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=1.615, BoxExtent=(X=1.055 Y=0.760 Z=1.588), SphereRadius=(1.636172)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1
+[2025.11.17-19.39.14:979][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1
+[2025.11.17-19.39.14:980][973]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1
+[2025.11.17-19.39.14:980][973]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_14
+[2025.11.17-19.39.15:357][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.17-19.39.15:359][ 12]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.11.17-19.39.15:366][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1
+[2025.11.17-19.39.15:366][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1
+[2025.11.17-19.39.15:368][ 12]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7910AA302_1304502397
+[2025.11.17-19.39.20:300][531]Cmd: TRANSACTION UNDO
+[2025.11.17-19.39.20:300][531]LogEditorTransaction: Undo Scale Elements
+[2025.11.17-19.39.24:475][916]Cmd: DELETE
+[2025.11.17-19.39.24:475][916]Cmd: ACTOR DELETE
+[2025.11.17-19.39.24:478][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.17-19.39.24:502][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.17-19.39.24:504][916]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.11.17-19.39.27:256][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.17-19.39.28:380][173]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-19.39.28:403][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.17-19.39.28:416][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.17-19.39.28:430][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.17-19.39.29:907][308]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.Rachel_Body_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.39.36:777][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.17-19.39.45:579][923]LogPSOHitching: Encountered 400 PSO creation hitches so far (129 graphics, 271 compute). 0 of them were precached.
+[2025.11.17-19.39.49:735][358]Cmd: TRANSACTION UNDO
+[2025.11.17-19.39.49:735][358]LogEditorTransaction: Undo Move Elements
+[2025.11.17-19.41.11:704][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2931.817139
+[2025.11.17-19.41.12:704][744]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-19.41.12:704][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2932.483643, Update Interval: 323.262421
+[2025.11.17-19.42.59:794][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.17-19.42.59:808][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/Z0/GN35I9LQN93CT5G40EPO4F_Auto5
+[2025.11.17-19.42.59:808][ 64]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/GN35I9LQN93CT5G40EPO4F_Auto5B0E676BB453B578992F0698BEFF7277E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/Z0/GN35I9LQN93CT5G40EPO4F_Auto5.uasset'
+[2025.11.17-19.42.59:814][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/JJ/N9R3Z08T2VEB5HCKDEUWO7_Auto5
+[2025.11.17-19.42.59:814][ 64]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/N9R3Z08T2VEB5HCKDEUWO7_Auto5B27C51A546E2CF7EC63200BA6C6EF8E7.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/JJ/N9R3Z08T2VEB5HCKDEUWO7_Auto5.uasset'
+[2025.11.17-19.42.59:819][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/2/1J/DRL828OK9EFFMNE0RXYJGG_Auto5
+[2025.11.17-19.42.59:819][ 64]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/DRL828OK9EFFMNE0RXYJGG_Auto54F5593414FD5583AAF091CB1854E6BD8.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/2/1J/DRL828OK9EFFMNE0RXYJGG_Auto5.uasset'
+[2025.11.17-19.42.59:820][ 64]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.042
+[2025.11.17-19.42.59:820][ 64]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2025.11.17-19.42.59:820][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1] ([1] browsable assets)...
+[2025.11.17-19.42.59:940][ 64]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.M_Rachel_Body1]
+[2025.11.17-19.42.59:940][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1]
+[2025.11.17-19.42.59:948][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1_Auto5
+[2025.11.17-19.42.59:948][ 64]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/M_Rachel_Body1_Auto5DF54910C468DF009E1CF24B7F36D35DA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1_Auto5.uasset'
+[2025.11.17-19.42.59:949][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body] ([1] browsable assets)...
+[2025.11.17-19.42.59:950][ 64]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/OurCharacterModels/Rachel/Rachel_Body.Rachel_Body]
+[2025.11.17-19.42.59:950][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body]
+[2025.11.17-19.42.59:967][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Auto5
+[2025.11.17-19.42.59:967][ 64]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Body_Auto57D0E9D524585A0C53F82A083251116CA.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Auto5.uasset'
+[2025.11.17-19.42.59:967][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_1] ([1] browsable assets)...
+[2025.11.17-19.43.00:001][ 64]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/OurCharacterModels/Rachel/Rachel_1.Rachel_1]
+[2025.11.17-19.43.00:001][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_1]
+[2025.11.17-19.43.00:014][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_1_Auto5
+[2025.11.17-19.43.00:014][ 64]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_1_Auto5DF6F96C8462F065D5C2C76813D2931AF.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_1_Auto5.uasset'
+[2025.11.17-19.43.00:015][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat] ([1] browsable assets)...
+[2025.11.17-19.43.00:030][ 64]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.Rachel_Body_Mat]
+[2025.11.17-19.43.00:030][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat]
+[2025.11.17-19.43.00:037][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat_Auto5
+[2025.11.17-19.43.00:037][ 64]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Body_Mat_Auto599006E8C4DFE9E66327E36B5AAD618D7.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat_Auto5.uasset'
+[2025.11.17-19.43.00:038][ 64]LogFileHelpers: Auto-saving content packages took 0.218
+[2025.11.17-19.43.41:751][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.17-19.43.42:878][917]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-19.43.46:470][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.17-19.43.49:180][231]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-19.43.49:227][231]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+	Asset Type: StaticMesh
+[2025.11.17-19.43.49:334][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.17-19.43.49:348][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.17-19.43.49:361][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.17-19.43.57:449][563]LogStreaming: Display: FlushAsyncLoading(1073): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.43.57:496][563]LogInterchangeEngine: Display: Interchange start importing source [D:/catnap/Git Hub Projects/Trinity/Trinity.fbx]
+[2025.11.17-19.43.59:273][563]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-19.43.59:288][563]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-19.43.59:409][564]LogStreaming: Display: FlushAsyncLoading(1074): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.44.02:182][564]LogSlate: Window 'Message' being destroyed
+[2025.11.17-19.44.02:190][564]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Characters/OurCharacterModels/Trinity/Trinity_Body.Trinity_Body'?
+[2025.11.17-19.44.02:268][566]LogStreaming: Display: FlushAsyncLoading(1075): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.44.02:409][569]LogStaticMesh: Display: Building static mesh Trinity (Required Memory Estimate: 38.904789 MB)...
+[2025.11.17-19.44.02:490][571]LogStaticMesh: Adjacency [0.00s], tris: 25380, UVs 1
+[2025.11.17-19.44.02:507][571]LogStaticMesh: Clustering [0.02s]. Ratio: 1.010050
+[2025.11.17-19.44.02:510][571]LogStaticMesh: Leaves [0.00s]
+[2025.11.17-19.44.02:794][595]LogStaticMesh: Reduce [0.28s]
+[2025.11.17-19.44.02:891][607]LogStaticMesh: Fallback [0.10s], num tris: 3124
+[2025.11.17-19.44.02:961][615]LogStaticMesh: Fallback [0.07s], num tris: 1634
+[2025.11.17-19.44.02:965][616]LogStaticMesh: ConstrainClusters:
+[2025.11.17-19.44.02:965][616]LogStaticMesh:   Input: 416 Clusters, 52453 Triangles and 44045 Vertices
+[2025.11.17-19.44.02:965][616]LogStaticMesh:   Output without splits: 416 Clusters, 52453 Triangles and 44445 Vertices
+[2025.11.17-19.44.02:965][616]LogStaticMesh:   Output with splits: 416 Clusters, 52453 Triangles and 44445 Vertices
+[2025.11.17-19.44.02:966][616]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 416, Slow Path Clusters: 0, 1 Material: 416, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.17-19.44.02:970][617]LogStaticMesh: WritePages:
+[2025.11.17-19.44.02:970][617]LogStaticMesh:   Root: GPU size: 31116 bytes. 1 Pages. 31116.000 bytes per page (94.958% utilization).
+[2025.11.17-19.44.02:970][617]LogStaticMesh:   Streaming: GPU size: 499712 bytes. 4 Pages (4 with relative encoding). 124928.000 bytes per page (95.312% utilization).
+[2025.11.17-19.44.02:970][617]LogStaticMesh:   Page data disk size: 431424 bytes. Fixup data size: 2280 bytes.
+[2025.11.17-19.44.02:970][617]LogStaticMesh:   Total GPU size: 530828 bytes, Total disk size: 433704 bytes.
+[2025.11.17-19.44.02:970][617]LogStaticMesh: Encode [0.01s]
+[2025.11.17-19.44.02:970][617]LogStaticMesh: NaniteBuild [0.48s]
+[2025.11.17-19.44.03:060][627]LogStaticMesh: Built static mesh [0.66s] /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+[2025.11.17-19.44.03:143][637]LogStaticMesh: Warning: Trinity has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.11.17-19.44.03:143][637]LogStaticMesh: Warning: Trinity has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.11.17-19.44.03:148][638]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.033 Y=-0.127 Z=1.558, BoxExtent=(X=1.130 Y=0.842 Z=1.807), SphereRadius=(2.072023)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.116 Z=1.612, BoxExtent=(X=1.053 Y=0.787 Z=1.584), SphereRadius=(1.637971)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+[2025.11.17-19.44.03:169][638]LogInterchangeEngine: Display: Interchange import completed [D:/catnap/Git Hub Projects/Trinity/Trinity.fbx]
+[2025.11.17-19.44.03:169][638]Interchange: Warning: [D:/catnap/Git Hub Projects/Trinity/Trinity.fbx : 'Trinity', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-19.44.03:177][638]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-19.44.03:177][638]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-19.44.03:296][640]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.033 Y=-0.127 Z=1.558, BoxExtent=(X=1.130 Y=0.842 Z=1.807), SphereRadius=(2.072023)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.116 Z=1.612, BoxExtent=(X=1.053 Y=0.787 Z=1.584), SphereRadius=(1.637971)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+[2025.11.17-19.44.03:340][641]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Trinity/M_Trinity_Body.M_Trinity_Body needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.45.13:334][283]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+[2025.11.17-19.45.13:334][283]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+[2025.11.17-19.45.13:334][283]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_15
+[2025.11.17-19.45.13:767][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.17-19.45.13:769][326]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.11.17-19.45.13:777][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+[2025.11.17-19.45.13:777][326]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+[2025.11.17-19.45.13:779][326]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7910AA302_1662913398
+[2025.11.17-19.45.16:375][599]Cmd: TRANSACTION UNDO
+[2025.11.17-19.45.16:375][599]LogEditorTransaction: Undo Scale Elements
+[2025.11.17-19.45.25:434][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.17-19.45.33:248][386]LogStreaming: Display: FlushAsyncLoading(1076): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.45.34:204][485]LogMaterial: Warning: Trinity_Body_Mat: Requesting an invalid TextureIndex! (0 / 1)
+[2025.11.17-19.45.38:325][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.17-19.45.39:582][823]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-19.45.39:640][823]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/OurCharacterModels/Trinity/M_Trinity_Body.M_Trinity_Body
+	Asset Type: Material
+[2025.11.17-19.45.39:737][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.17-19.45.39:750][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.11.17-19.45.39:763][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.17-19.45.39:767][823]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.033 Y=-0.127 Z=1.558, BoxExtent=(X=1.130 Y=0.842 Z=1.807), SphereRadius=(2.072023)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.116 Z=1.612, BoxExtent=(X=1.053 Y=0.787 Z=1.584), SphereRadius=(1.637971)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity
+[2025.11.17-19.45.46:014][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.17-19.45.47:564][414]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-19.45.47:615][414]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/OurCharacterModels/Trinity/Trinity_Body_Mat.Trinity_Body_Mat
+	Asset Type: Material
+[2025.11.17-19.45.47:711][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.11.17-19.45.47:726][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.17-19.45.47:738][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.17-19.45.49:978][595]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Trinity/Trinity_Body_Mat.Trinity_Body_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.45.49:982][595]LogShaderCompilers: Display: Cancelled job 0x0000015B31779600 with pending SubmitJob call.
+[2025.11.17-19.45.49:983][595]LogShaderCompilers: Display: Cancelled job 0x0000015A60121400 with pending SubmitJob call.
+[2025.11.17-19.45.49:984][595]LogShaderCompilers: Display: Cancelled job 0x0000015A5B6B1400 with pending SubmitJob call.
+[2025.11.17-19.45.49:990][595]LogShaderCompilers: Display: Cancelled job 0x0000015A5B6B3200 with pending SubmitJob call.
+[2025.11.17-19.45.49:997][595]LogShaderCompilers: Display: Cancelled job 0x0000015B3177E600 with pending SubmitJob call.
+[2025.11.17-19.45.49:998][595]LogShaderCompilers: Display: Cancelled job 0x0000015A8FAA5000 with pending SubmitJob call.
+[2025.11.17-19.45.50:000][595]LogShaderCompilers: Display: Cancelled job 0x0000015A60124600 with pending SubmitJob call.
+[2025.11.17-19.45.50:001][595]LogShaderCompilers: Display: Cancelled job 0x0000015A8FAA6400 with pending SubmitJob call.
+[2025.11.17-19.45.50:001][595]LogShaderCompilers: Display: Cancelled job 0x0000015A8FAA0A00 with pending SubmitJob call.
+[2025.11.17-19.45.50:001][595]LogShaderCompilers: Display: Cancelled job 0x0000015A60120A00 with pending SubmitJob call.
+[2025.11.17-19.45.50:002][595]LogShaderCompilers: Display: Cancelled job 0x0000015A5B6B3C00 with pending SubmitJob call.
+[2025.11.17-19.45.50:003][595]LogShaderCompilers: Display: Cancelled job 0x0000015A8FAAA000 with pending SubmitJob call.
+[2025.11.17-19.46.16:121][408]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.17-19.46.16:126][408]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.17-19.46.16:135][409]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.17-19.46.18:485][689]LogContentBrowser: Attempting asset rename: NewFolder -> Mia
+[2025.11.17-19.46.18:486][689]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.17-19.47.23:351][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3303.467041
+[2025.11.17-19.47.24:351][378]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-19.47.24:351][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3304.134277, Update Interval: 305.068512
+[2025.11.17-19.53.00:490][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.11.17-19.53.00:503][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/Z0/GN35I9LQN93CT5G40EPO4F_Auto6
+[2025.11.17-19.53.00:503][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/GN35I9LQN93CT5G40EPO4F_Auto651951A61405383D22194E9A627F9DBD8.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/E/Z0/GN35I9LQN93CT5G40EPO4F_Auto6.uasset'
+[2025.11.17-19.53.00:509][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/JJ/N9R3Z08T2VEB5HCKDEUWO7_Auto6
+[2025.11.17-19.53.00:509][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/N9R3Z08T2VEB5HCKDEUWO7_Auto6A2DF8ACC4DEA7008AD89988626567E6B.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/JJ/N9R3Z08T2VEB5HCKDEUWO7_Auto6.uasset'
+[2025.11.17-19.53.00:515][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/2/1J/DRL828OK9EFFMNE0RXYJGG_Auto6
+[2025.11.17-19.53.00:515][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/DRL828OK9EFFMNE0RXYJGG_Auto6BD7CEDE8426B178298A5F2B08EDA75CE.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/2/1J/DRL828OK9EFFMNE0RXYJGG_Auto6.uasset'
+[2025.11.17-19.53.00:521][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/C/1H/2ZS96JY7569L7ZBN8THQDU_Auto6
+[2025.11.17-19.53.00:521][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/2ZS96JY7569L7ZBN8THQDU_Auto605BE9404451C2E6715A40189D61DA393.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/C/1H/2ZS96JY7569L7ZBN8THQDU_Auto6.uasset'
+[2025.11.17-19.53.00:522][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.077
+[2025.11.17-19.53.00:522][385]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2025.11.17-19.53.00:522][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat] ([1] browsable assets)...
+[2025.11.17-19.53.00:522][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat]
+[2025.11.17-19.53.00:527][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat_Auto6
+[2025.11.17-19.53.00:527][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Body_Mat_Auto65A022481417904B75B8424ABB3328FC9.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat_Auto6.uasset'
+[2025.11.17-19.53.00:528][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Trinity/Trinity] ([1] browsable assets)...
+[2025.11.17-19.53.00:582][385]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/OurCharacterModels/Trinity/Trinity.Trinity]
+[2025.11.17-19.53.00:582][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Trinity/Trinity]
+[2025.11.17-19.53.00:598][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Trinity/Trinity_Auto6
+[2025.11.17-19.53.00:598][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Auto67BC5F2AE44E71F17892D4AACB4B4E875.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Trinity/Trinity_Auto6.uasset'
+[2025.11.17-19.53.00:599][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1] ([1] browsable assets)...
+[2025.11.17-19.53.00:599][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1]
+[2025.11.17-19.53.00:605][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1_Auto6
+[2025.11.17-19.53.00:605][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/M_Rachel_Body1_Auto6736FF1E348C6AA77280C7A8E66D2215E.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1_Auto6.uasset'
+[2025.11.17-19.53.00:606][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body] ([1] browsable assets)...
+[2025.11.17-19.53.00:606][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body]
+[2025.11.17-19.53.00:622][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Auto6
+[2025.11.17-19.53.00:622][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_Body_Auto68A943E44471569E4AC5B34B0DD1F2D63.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Auto6.uasset'
+[2025.11.17-19.53.00:623][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_1] ([1] browsable assets)...
+[2025.11.17-19.53.00:623][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_1]
+[2025.11.17-19.53.00:633][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_1_Auto6
+[2025.11.17-19.53.00:633][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Rachel_1_Auto6BC6037544744D0CEE47AD0A9A18ADD29.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_1_Auto6.uasset'
+[2025.11.17-19.53.00:634][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Trinity/Trinity_Body_Mat] ([1] browsable assets)...
+[2025.11.17-19.53.00:654][385]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Trinity/Trinity_Body_Mat.Trinity_Body_Mat]
+[2025.11.17-19.53.00:654][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Trinity/Trinity_Body_Mat]
+[2025.11.17-19.53.00:662][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Trinity/Trinity_Body_Mat_Auto6
+[2025.11.17-19.53.00:662][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Trinity_Body_Mat_Auto6597BE68D40969ADF0C61ABAFB6306345.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Trinity/Trinity_Body_Mat_Auto6.uasset'
+[2025.11.17-19.53.00:663][385]LogFileHelpers: Auto-saving content packages took 0.141
+[2025.11.17-19.53.03:421][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3643.536133
+[2025.11.17-19.53.04:422][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-19.53.04:422][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3644.203857, Update Interval: 337.339996
+[2025.11.17-19.54.17:204][616]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.17-19.58.01:215][930]LogStreaming: Display: FlushAsyncLoading(1077): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.58.01:261][930]LogInterchangeEngine: Display: Interchange start importing source [D:/catnap/Git Hub Projects/Mia/Mia.fbx]
+[2025.11.17-19.58.08:038][930]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-19.58.08:053][930]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-19.58.08:139][931]LogStreaming: Display: FlushAsyncLoading(1078): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.58.08:206][932]LogStreaming: Display: FlushAsyncLoading(1080): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-19.58.08:306][934]LogStaticMesh: Display: Building static mesh Mia (Required Memory Estimate: 12.678014 MB)...
+[2025.11.17-19.58.08:310][934]LogTexture: Display: Building textures: /Game/Characters/OurCharacterModels/Mia/Mia_Tex.Mia_Tex (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2025.11.17-19.58.08:343][934]LogStaticMesh: Adjacency [0.00s], tris: 8240, UVs 1
+[2025.11.17-19.58.08:351][934]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.11.17-19.58.08:352][934]LogStaticMesh: Leaves [0.00s]
+[2025.11.17-19.58.08:510][935]LogStaticMesh: Reduce [0.16s]
+[2025.11.17-19.58.08:570][936]LogStaticMesh: Fallback [0.06s], num tris: 2300
+[2025.11.17-19.58.08:636][939]LogStaticMesh: Fallback [0.07s], num tris: 1355
+[2025.11.17-19.58.08:639][940]LogStaticMesh: ConstrainClusters:
+[2025.11.17-19.58.08:639][940]LogStaticMesh:   Input: 135 Clusters, 17056 Triangles and 15674 Vertices
+[2025.11.17-19.58.08:639][940]LogStaticMesh:   Output without splits: 135 Clusters, 17056 Triangles and 15705 Vertices
+[2025.11.17-19.58.08:639][940]LogStaticMesh:   Output with splits: 135 Clusters, 17056 Triangles and 15705 Vertices
+[2025.11.17-19.58.08:639][940]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 135, Slow Path Clusters: 0, 1 Material: 135, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.17-19.58.08:642][940]LogStaticMesh: WritePages:
+[2025.11.17-19.58.08:642][940]LogStaticMesh:   Root: GPU size: 31928 bytes. 1 Pages. 31928.000 bytes per page (97.437% utilization).
+[2025.11.17-19.58.08:642][940]LogStaticMesh:   Streaming: GPU size: 157900 bytes. 2 Pages (2 with relative encoding). 78950.000 bytes per page (60.234% utilization).
+[2025.11.17-19.58.08:642][940]LogStaticMesh:   Page data disk size: 154676 bytes. Fixup data size: 616 bytes.
+[2025.11.17-19.58.08:642][940]LogStaticMesh:   Total GPU size: 189828 bytes, Total disk size: 155292 bytes.
+[2025.11.17-19.58.08:642][940]LogStaticMesh: Encode [0.01s]
+[2025.11.17-19.58.08:642][940]LogStaticMesh: NaniteBuild [0.30s]
+[2025.11.17-19.58.08:713][948]LogStaticMesh: Built static mesh [0.41s] /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.08:751][952]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.189 Y=-0.019 Z=1.636, BoxExtent=(X=1.320 Y=0.844 Z=1.667), SphereRadius=(2.109042)) and MeshDescription Bounds (Origin=X=0.001 Y=-0.062 Z=1.611, BoxExtent=(X=1.055 Y=0.741 Z=1.592), SphereRadius=(1.639044)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.08:773][952]LogInterchangeEngine: Display: Interchange import completed [D:/catnap/Git Hub Projects/Mia/Mia.fbx]
+[2025.11.17-19.58.08:773][952]Interchange: Warning: [D:/catnap/Git Hub Projects/Mia/Mia.fbx : 'Mia', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-19.58.08:794][952]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-19.58.08:794][952]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-19.58.08:796][953]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.189 Y=-0.019 Z=1.636, BoxExtent=(X=1.320 Y=0.844 Z=1.667), SphereRadius=(2.109042)) and MeshDescription Bounds (Origin=X=0.001 Y=-0.062 Z=1.611, BoxExtent=(X=1.055 Y=0.741 Z=1.592), SphereRadius=(1.639044)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.08:980][956]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Mia/M_Mia_Body.M_Mia_Body needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.58.10:395][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.10:395][ 52]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.10:396][ 52]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_16
+[2025.11.17-19.58.10:738][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.17-19.58.10:740][ 88]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.11.17-19.58.10:747][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.10:747][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.10:749][ 88]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7910BA302_1366141575
+[2025.11.17-19.58.23:790][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.23:790][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia
+[2025.11.17-19.58.23:790][371]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_17
+[2025.11.17-19.58.25:059][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.17-19.58.25:061][512]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.11.17-19.58.47:773][880]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat.Mia_Tex_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.17-19.58.47:774][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335F6400 with pending SubmitJob call.
+[2025.11.17-19.58.47:775][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335F2800 with pending SubmitJob call.
+[2025.11.17-19.58.47:776][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335FB400 with pending SubmitJob call.
+[2025.11.17-19.58.47:777][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335FAA00 with pending SubmitJob call.
+[2025.11.17-19.58.47:777][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335F8200 with pending SubmitJob call.
+[2025.11.17-19.58.47:777][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335F5000 with pending SubmitJob call.
+[2025.11.17-19.58.47:778][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335F3C00 with pending SubmitJob call.
+[2025.11.17-19.58.47:779][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335FDC00 with pending SubmitJob call.
+[2025.11.17-19.58.47:781][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335F4600 with pending SubmitJob call.
+[2025.11.17-19.58.47:781][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335FBE00 with pending SubmitJob call.
+[2025.11.17-19.58.47:785][880]LogShaderCompilers: Display: Cancelled job 0x0000015B335F8C00 with pending SubmitJob call.
+[2025.11.17-19.59.18:286][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4018.398193
+[2025.11.17-19.59.18:357][220]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-19.59.18:357][220]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4018.460205, Update Interval: 330.544769
