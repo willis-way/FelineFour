@@ -2458,3 +2458,136 @@ Script Stack (0 frames) :
 [2025.11.17-19.59.18:286][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4018.398193
 [2025.11.17-19.59.18:357][220]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.17-19.59.18:357][220]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4018.460205, Update Interval: 330.544769
+[2025.11.17-20.01.00:677][ 20]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.17-20.01.00:682][ 20]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.17-20.01.00:690][ 21]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.17-20.01.03:996][402]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2025.11.17-20.01.03:996][402]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.17-20.01.45:680][323]LogPSOHitching: Encountered 450 PSO creation hitches so far (161 graphics, 289 compute). 0 of them were precached.
+[2025.11.17-20.02.00:950][528]LogAssetTools: Warning: Failed to import 'D:\catnap\Git Hub Projects\Mia\Mia_wave'. Unknown extension ''.
+[2025.11.17-20.03.01:026][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.17-20.03.01:038][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/6/EY/RSGYBLWFBY3F88LTYYAV9P_Auto7
+[2025.11.17-20.03.01:038][708]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/RSGYBLWFBY3F88LTYYAV9P_Auto74B6790C64513E85155449282D5A3FE2C.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/6/EY/RSGYBLWFBY3F88LTYYAV9P_Auto7.uasset'
+[2025.11.17-20.03.01:039][708]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.043
+[2025.11.17-20.03.01:039][708]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2025.11.17-20.03.01:039][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Mia/M_Mia_Body] ([1] browsable assets)...
+[2025.11.17-20.03.01:173][708]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Mia/M_Mia_Body.M_Mia_Body]
+[2025.11.17-20.03.01:173][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Mia/M_Mia_Body]
+[2025.11.17-20.03.01:180][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Mia/M_Mia_Body_Auto7
+[2025.11.17-20.03.01:181][708]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/M_Mia_Body_Auto7C540058E455B49C6476357AC42CA8B79.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Mia/M_Mia_Body_Auto7.uasset'
+[2025.11.17-20.03.01:181][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Mia/Mia_Tex] ([1] browsable assets)...
+[2025.11.17-20.03.01:194][708]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/OurCharacterModels/Mia/Mia_Tex.Mia_Tex]
+[2025.11.17-20.03.01:194][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Mia/Mia_Tex]
+[2025.11.17-20.03.01:212][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Auto7
+[2025.11.17-20.03.01:212][708]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Mia_Tex_Auto7DA29891A46E0A3106B3630B1FC4EA4C1.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Auto7.uasset'
+[2025.11.17-20.03.01:212][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Mia/Mia] ([1] browsable assets)...
+[2025.11.17-20.03.01:312][708]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/OurCharacterModels/Mia/Mia.Mia]
+[2025.11.17-20.03.01:312][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Mia/Mia]
+[2025.11.17-20.03.01:326][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Mia/Mia_Auto7
+[2025.11.17-20.03.01:326][708]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Mia_Auto7571D446043881457E41CA7AC431BDEE5.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Mia/Mia_Auto7.uasset'
+[2025.11.17-20.03.01:327][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat] ([1] browsable assets)...
+[2025.11.17-20.03.01:359][708]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat.Mia_Tex_Mat]
+[2025.11.17-20.03.01:359][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat]
+[2025.11.17-20.03.01:367][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat_Auto7
+[2025.11.17-20.03.01:367][708]LogSavePackage: Moving '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Mia_Tex_Mat_Auto7B8D040AA481044ABA05A239C49567F6A.tmp' to '../../../../../../Users/rgowell/Desktop/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat_Auto7.uasset'
+[2025.11.17-20.03.01:368][708]LogFileHelpers: Auto-saving content packages took 0.329
+[2025.11.17-20.05.42:075][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4402.167480
+[2025.11.17-20.05.43:075][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-20.05.43:075][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4402.833984, Update Interval: 342.283997
+[2025.11.17-20.06.43:451][375]LogPSOHitching: Encountered 500 PSO creation hitches so far (177 graphics, 323 compute). 0 of them were precached.
+[2025.11.17-20.06.43:672][375]LogPSOHitching: Encountered 550 PSO creation hitches so far (177 graphics, 373 compute). 0 of them were precached.
+[2025.11.17-20.06.51:037][ 95]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.17-20.12.23:330][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4803.479980
+[2025.11.17-20.12.24:330][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.17-20.12.24:330][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4804.146973, Update Interval: 336.450073
+[2025.11.17-20.16.45:431][462]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.17-20.16.49:565][832]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.17-20.16.54:811][341]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.17-20.16.54:818][341]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.17-20.16.54:826][342]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.17-20.16.56:982][591]LogContentBrowser: Attempting asset rename: NewFolder -> Sarah
+[2025.11.17-20.16.56:982][591]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.17-20.17.02:615][931]LogStreaming: Display: FlushAsyncLoading(1081): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.17.02:642][931]LogInterchangeEngine: Display: Interchange start importing source [D:/catnap/Git Hub Projects/Sarah/Sarah.fbx]
+[2025.11.17-20.17.04:935][931]LogSlate: Window 'Import Content' being destroyed
+[2025.11.17-20.17.04:953][931]LogInterchangeEngine: [Pending] Importing
+[2025.11.17-20.17.05:022][932]LogStreaming: Display: FlushAsyncLoading(1082): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.17.05:054][933]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.11.17-20.17.05:089][933]LogStreaming: Display: FlushAsyncLoading(1084): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.17-20.17.05:163][935]LogStaticMesh: Display: Building static mesh Sarah (Required Memory Estimate: 12.577931 MB)...
+[2025.11.17-20.17.05:166][935]LogTexture: Display: Building textures: /Game/Characters/OurCharacterModels/Sarah/Sarah_Tex.Sarah_Tex (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 306.083323 MB), EncodeSpeed: Fast
+[2025.11.17-20.17.05:194][935]LogStaticMesh: Adjacency [0.00s], tris: 8180, UVs 1
+[2025.11.17-20.17.05:201][935]LogStaticMesh: Clustering [0.01s]. Ratio: 1.015625
+[2025.11.17-20.17.05:202][935]LogStaticMesh: Leaves [0.00s]
+[2025.11.17-20.17.05:365][936]LogStaticMesh: Reduce [0.16s]
+[2025.11.17-20.17.05:439][937]LogStaticMesh: Fallback [0.07s], num tris: 1988
+[2025.11.17-20.17.05:510][938]LogStaticMesh: Fallback [0.07s], num tris: 1180
+[2025.11.17-20.17.05:512][938]LogStaticMesh: ConstrainClusters:
+[2025.11.17-20.17.05:512][938]LogStaticMesh:   Input: 137 Clusters, 17251 Triangles and 15577 Vertices
+[2025.11.17-20.17.05:512][938]LogStaticMesh:   Output without splits: 137 Clusters, 17251 Triangles and 15614 Vertices
+[2025.11.17-20.17.05:512][938]LogStaticMesh:   Output with splits: 137 Clusters, 17251 Triangles and 15614 Vertices
+[2025.11.17-20.17.05:512][938]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 137, Slow Path Clusters: 0, 1 Material: 137, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.17-20.17.05:515][938]LogStaticMesh: WritePages:
+[2025.11.17-20.17.05:515][938]LogStaticMesh:   Root: GPU size: 31252 bytes. 1 Pages. 31252.000 bytes per page (95.374% utilization).
+[2025.11.17-20.17.05:515][938]LogStaticMesh:   Streaming: GPU size: 157976 bytes. 2 Pages (2 with relative encoding). 78988.000 bytes per page (60.263% utilization).
+[2025.11.17-20.17.05:515][938]LogStaticMesh:   Page data disk size: 154484 bytes. Fixup data size: 648 bytes.
+[2025.11.17-20.17.05:515][938]LogStaticMesh:   Total GPU size: 189228 bytes, Total disk size: 155132 bytes.
+[2025.11.17-20.17.05:515][938]LogStaticMesh: Encode [0.00s]
+[2025.11.17-20.17.05:515][938]LogStaticMesh: NaniteBuild [0.32s]
+[2025.11.17-20.17.05:571][939]LogStaticMesh: Built static mesh [0.42s] /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah
+[2025.11.17-20.17.05:649][941]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.035 Y=0.035 Z=1.585, BoxExtent=(X=1.151 Y=0.866 Z=1.732), SphereRadius=(2.105155)) and MeshDescription Bounds (Origin=X=0.001 Y=0.022 Z=1.614, BoxExtent=(X=1.055 Y=0.837 Z=1.589), SphereRadius=(1.622291)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah
+[2025.11.17-20.17.05:671][941]LogInterchangeEngine: Display: Interchange import completed [D:/catnap/Git Hub Projects/Sarah/Sarah.fbx]
+[2025.11.17-20.17.05:671][941]Interchange: Warning: [D:/catnap/Git Hub Projects/Sarah/Sarah.fbx : 'Sarah', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.17-20.17.05:696][941]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.17-20.17.05:696][941]LogInterchangeEngine: [Success] Import Done
+[2025.11.17-20.17.05:698][942]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.035 Y=0.035 Z=1.585, BoxExtent=(X=1.151 Y=0.866 Z=1.732), SphereRadius=(2.105155)) and MeshDescription Bounds (Origin=X=0.001 Y=0.022 Z=1.614, BoxExtent=(X=1.055 Y=0.837 Z=1.589), SphereRadius=(1.622291)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah
+[2025.11.17-20.17.05:908][945]LogPSOHitching: Encountered 600 PSO creation hitches so far (196 graphics, 404 compute). 0 of them were precached.
+[2025.11.17-20.17.06:708][999]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Sarah/M_Sarah_Body.M_Sarah_Body needed to have new flag set bUsedWithNanite !
+[2025.11.17-20.17.09:733][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah
+[2025.11.17-20.17.09:733][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah
+[2025.11.17-20.17.09:733][264]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_18
+[2025.11.17-20.17.10:727][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.17-20.17.10:730][371]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.11.17-20.17.10:737][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah
+[2025.11.17-20.17.10:737][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah
+[2025.11.17-20.17.10:739][371]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC7910CA302_1432389752
+[2025.11.17-20.17.47:438][485]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Sarah/Sarah_Tex_Mat.Sarah_Tex_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.17-20.17.47:440][485]LogShaderCompilers: Display: Cancelled job 0x0000015B28F7DC00 with pending SubmitJob call.
+[2025.11.17-20.17.47:440][485]LogShaderCompilers: Display: Cancelled job 0x0000015A8C374600 with pending SubmitJob call.
+[2025.11.17-20.17.47:440][485]LogShaderCompilers: Display: Cancelled job 0x0000015A8C37BE00 with pending SubmitJob call.
+[2025.11.17-20.17.47:442][485]LogShaderCompilers: Display: Cancelled job 0x0000015A8C37E600 with pending SubmitJob call.
+[2025.11.17-20.17.47:442][485]LogShaderCompilers: Display: Cancelled job 0x0000015B28F74600 with pending SubmitJob call.
+[2025.11.17-20.17.47:443][485]LogShaderCompilers: Display: Cancelled job 0x0000015B28F7AA00 with pending SubmitJob call.
+[2025.11.17-20.17.47:444][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD6AA00 with pending SubmitJob call.
+[2025.11.17-20.17.47:444][485]LogShaderCompilers: Display: Cancelled job 0x0000015B28F76E00 with pending SubmitJob call.
+[2025.11.17-20.17.47:446][485]LogShaderCompilers: Display: Cancelled job 0x0000015B28F78200 with pending SubmitJob call.
+[2025.11.17-20.17.47:446][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD6C800 with pending SubmitJob call.
+[2025.11.17-20.17.47:448][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD60000 with pending SubmitJob call.
+[2025.11.17-20.17.47:448][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD6B400 with pending SubmitJob call.
+[2025.11.17-20.17.47:449][485]LogShaderCompilers: Display: Cancelled job 0x0000015B1E57CF60 with pending SubmitJob call.
+[2025.11.17-20.17.47:449][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD69600 with pending SubmitJob call.
+[2025.11.17-20.17.47:449][485]LogShaderCompilers: Display: Cancelled job 0x0000015A8C370000 with pending SubmitJob call.
+[2025.11.17-20.17.47:449][485]LogShaderCompilers: Display: Cancelled job 0x0000015B28F70000 with pending SubmitJob call.
+[2025.11.17-20.17.47:453][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD68C00 with pending SubmitJob call.
+[2025.11.17-20.17.47:454][485]LogShaderCompilers: Display: Cancelled job 0x0000015B28F78C00 with pending SubmitJob call.
+[2025.11.17-20.17.47:455][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD6A000 with pending SubmitJob call.
+[2025.11.17-20.17.47:456][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD6BE00 with pending SubmitJob call.
+[2025.11.17-20.17.47:456][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD63C00 with pending SubmitJob call.
+[2025.11.17-20.17.47:457][485]LogShaderCompilers: Display: Cancelled job 0x0000015B1E57CA20 with pending SubmitJob call.
+[2025.11.17-20.17.47:457][485]LogShaderCompilers: Display: Cancelled job 0x0000015A8C37A000 with pending SubmitJob call.
+[2025.11.17-20.17.47:458][485]LogShaderCompilers: Display: Cancelled job 0x0000015ABAD66E00 with pending SubmitJob call.
+[2025.11.17-20.17.47:459][485]LogShaderCompilers: Display: Cancelled job 0x0000015B1E57FB20 with pending SubmitJob call.
+[2025.11.17-20.17.47:625][485]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.17-20.17.47:625][485]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.17-20.17.47:725][485]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.17-20.17.48:241][487]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.17-20.17.48:341][487]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.17-20.17.53:811][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.17-20.17.54:898][ 20]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.17-20.17.54:951][ 20]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/OurCharacterModels/Sarah/M_Sarah_Body.M_Sarah_Body
+	Asset Type: Material
+[2025.11.17-20.17.55:055][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.17-20.17.55:068][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.17-20.17.55:080][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.11.17-20.17.55:100][ 20]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.035 Y=0.035 Z=1.585, BoxExtent=(X=1.151 Y=0.866 Z=1.732), SphereRadius=(2.105155)) and MeshDescription Bounds (Origin=X=0.001 Y=0.022 Z=1.614, BoxExtent=(X=1.055 Y=0.837 Z=1.589), SphereRadius=(1.622291)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Sarah/Sarah.Sarah
