@@ -2308,3 +2308,174 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.22-16.09.56:486][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.22-16.09.56:486][955]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.11.22-16.09.56:513][955]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.22-16.10.26:846][309]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.22-16.14.06:419][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2472.163086
+[2025.11.22-16.14.07:419][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-16.14.07:419][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2472.829834, Update Interval: 326.519958
+[2025.11.22-16.20.04:839][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2830.577148
+[2025.11.22-16.20.05:839][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-16.20.05:839][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2831.243896, Update Interval: 303.466278
+[2025.11.22-16.26.04:898][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3190.629150
+[2025.11.22-16.26.05:898][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-16.26.05:898][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3191.296143, Update Interval: 315.269623
+[2025.11.22-16.32.06:622][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3552.347900
+[2025.11.22-16.32.07:623][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-16.32.07:623][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3553.014648, Update Interval: 339.367035
+[2025.11.22-16.34.50:902][176]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.22-16.38.46:023][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3951.744141
+[2025.11.22-16.38.47:023][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-16.38.47:023][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3952.410889, Update Interval: 335.693848
+[2025.11.22-16.45.11:088][ 37]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4336.835938
+[2025.11.22-16.45.12:098][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-16.45.12:098][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4337.502441, Update Interval: 345.830872
+[2025.11.22-16.51.57:185][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4742.966309
+[2025.11.22-16.51.58:186][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-16.51.58:186][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4743.632812, Update Interval: 358.207336
+[2025.11.22-16.58.48:253][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5154.103027
+[2025.11.22-16.58.49:253][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-16.58.49:253][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5154.770020, Update Interval: 351.727051
+[2025.11.22-17.05.32:665][700]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5558.564453
+[2025.11.22-17.05.33:665][704]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.05.33:666][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5559.230957, Update Interval: 358.862885
+[2025.11.22-17.12.10:726][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5956.667969
+[2025.11.22-17.12.11:725][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.12.11:725][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5957.334961, Update Interval: 347.641846
+[2025.11.22-17.18.38:129][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6344.107910
+[2025.11.22-17.18.39:130][ 60]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.18.39:130][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6344.774414, Update Interval: 307.591797
+[2025.11.22-17.23.59:210][571]LogStreaming: Display: FlushAsyncLoading(745): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-17.24.02:731][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/houses/Blue No door.fbx]
+[2025.11.22-17.24.04:211][571]LogSlate: Window 'Import Content' being destroyed
+[2025.11.22-17.24.04:225][571]LogInterchangeEngine: [Pending] Importing
+[2025.11.22-17.24.04:299][572]LogStreaming: Display: FlushAsyncLoading(773): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-17.24.04:447][574]LogStreaming: Display: FlushAsyncLoading(782): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-17.24.04:640][576]LogStaticMesh: Display: Building static mesh Blue_No_door (Required Memory Estimate: 23.241119 MB)...
+[2025.11.22-17.24.04:684][576]LogStaticMesh: Adjacency [0.00s], tris: 15167, UVs 1
+[2025.11.22-17.24.04:712][576]LogStaticMesh: Clustering [0.03s]. Ratio: 1.016807
+[2025.11.22-17.24.04:713][576]LogStaticMesh: Leaves [0.00s]
+[2025.11.22-17.24.04:935][582]LogStaticMesh: Reduce [0.22s]
+[2025.11.22-17.24.05:028][583]LogStaticMesh: Fallback [0.09s], num tris: 6433
+[2025.11.22-17.24.05:167][589]LogStaticMesh: Fallback [0.14s], num tris: 4063
+[2025.11.22-17.24.05:170][590]LogStaticMesh: ConstrainClusters:
+[2025.11.22-17.24.05:170][590]LogStaticMesh:   Input: 246 Clusters, 30910 Triangles and 19758 Vertices
+[2025.11.22-17.24.05:170][590]LogStaticMesh:   Output without splits: 246 Clusters, 30910 Triangles and 21196 Vertices
+[2025.11.22-17.24.05:170][590]LogStaticMesh:   Output with splits: 246 Clusters, 30910 Triangles and 21196 Vertices
+[2025.11.22-17.24.05:170][590]LogStaticMesh: Material Stats - Unique Materials: 9, Fast Path Clusters: 195, Slow Path Clusters: 51, 1 Material: 131, 2 Materials: 18, 3 Materials: 46, At Least 4 Materials: 51
+[2025.11.22-17.24.05:174][590]LogStaticMesh: WritePages:
+[2025.11.22-17.24.05:174][590]LogStaticMesh:   Root: GPU size: 32616 bytes. 1 Pages. 32616.000 bytes per page (99.536% utilization).
+[2025.11.22-17.24.05:174][590]LogStaticMesh:   Streaming: GPU size: 233028 bytes. 2 Pages (2 with relative encoding). 116514.000 bytes per page (88.893% utilization).
+[2025.11.22-17.24.05:174][590]LogStaticMesh:   Page data disk size: 216860 bytes. Fixup data size: 1120 bytes.
+[2025.11.22-17.24.05:174][590]LogStaticMesh:   Total GPU size: 265644 bytes, Total disk size: 217980 bytes.
+[2025.11.22-17.24.05:174][590]LogStaticMesh: Encode [0.01s]
+[2025.11.22-17.24.05:174][590]LogStaticMesh: NaniteBuild [0.49s]
+[2025.11.22-17.24.05:328][596]LogStaticMesh: Built static mesh [0.69s] /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-17.24.05:382][600]LogStaticMesh: Warning: Blue_No_door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.11.22-17.24.05:383][600]LogStaticMesh: Warning: Blue_No_door has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.11.22-17.24.05:383][600]LogStaticMesh: Warning: Blue_No_door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.11.22-17.24.05:403][600]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-9.628 Y=-5.417 Z=6.006, BoxExtent=(X=4.231 Y=6.686 Z=6.161), SphereRadius=(13.940987)) and MeshDescription Bounds (Origin=X=-9.593 Y=-4.910 Z=5.846, BoxExtent=(X=4.180 Y=6.024 Z=6.001), SphereRadius=(8.940280)) is significative for StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-17.24.05:422][600]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/houses/Blue No door.fbx]
+[2025.11.22-17.24.05:422][600]Interchange: Warning: [C:/Users/rgowell/Desktop/houses/Blue No door.fbx : 'Blue_No_door', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.22-17.24.05:425][600]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.22-17.24.05:425][600]LogInterchangeEngine: [Success] Import Done
+[2025.11.22-17.24.05:486][602]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-9.628 Y=-5.417 Z=6.006, BoxExtent=(X=4.231 Y=6.686 Z=6.161), SphereRadius=(13.940987)) and MeshDescription Bounds (Origin=X=-9.593 Y=-4.910 Z=5.846, BoxExtent=(X=4.180 Y=6.024 Z=6.001), SphereRadius=(8.940280)) is significative for StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-17.24.05:765][604]LogMaterial: Display: Material /Game/Characters/House_Models/M_Window_Frame.M_Window_Frame needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.05:770][604]LogMaterial: Display: Material /Game/Characters/House_Models/M_Shiny_White.M_Shiny_White needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.05:774][604]LogMaterial: Display: Material /Game/Characters/House_Models/M_Shiny_Black_Metal.M_Shiny_Black_Metal needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.05:777][604]LogMaterial: Display: Material /Game/Characters/House_Models/M_Dark_Blue.M_Dark_Blue needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.05:781][604]LogMaterial: Display: Material /Game/Characters/House_Models/M_Light_Blue.M_Light_Blue needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.05:785][604]LogMaterial: Display: Material /Game/Characters/House_Models/standardSurface1.standardSurface1 needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.05:788][604]LogMaterial: Display: Material /Game/Characters/House_Models/M_Light_Pink.M_Light_Pink needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.05:792][604]LogMaterial: Display: Material /Game/Characters/House_Models/M_Light_Green.M_Light_Green needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.05:795][604]LogMaterial: Display: Material /Game/Characters/House_Models/M_Light_Glass.M_Light_Glass needed to have new flag set bUsedWithNanite !
+[2025.11.22-17.24.06:229][608]LogPSOHitching: Encountered 400 PSO creation hitches so far (137 graphics, 263 compute). 0 of them were precached.
+[2025.11.22-17.24.08:946][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-17.24.13:038][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-17.24.13:038][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-17.24.13:038][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_2
+[2025.11.22-17.24.13:535][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.11.22-17.24.13:537][346]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2025.11.22-17.24.13:547][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-17.24.13:547][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-17.24.13:550][346]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D495A402_1074662968
+[2025.11.22-17.24.15:265][525]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D495A402_1074662968.StaticMeshComponent0.
+[2025.11.22-17.24.16:773][686]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D495A402_1074662968.StaticMeshComponent0.
+[2025.11.22-17.24.22:001][261]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-17.24.26:168][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6692.187500
+[2025.11.22-17.24.26:308][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.24.26:308][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6692.284668, Update Interval: 314.941864
+[2025.11.22-17.24.51:522][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.11.22-17.24.52:486][595]LogSlate: Window 'Save Content' being destroyed
+[2025.11.22-17.24.52:497][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.22-17.24.52:533][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Blue_No_door] ([1] browsable assets)...
+[2025.11.22-17.24.52:583][595]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door]
+[2025.11.22-17.24.52:583][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Blue_No_door]
+[2025.11.22-17.24.52:599][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Blue_No_door
+[2025.11.22-17.24.52:599][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Blue_No_door468D586140E89A6E7F9CC993F032A1C8.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Blue_No_door.uasset'
+[2025.11.22-17.24.52:608][595]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/8J/LETES2P6DF7W5YAIH73AOI
+[2025.11.22-17.24.52:608][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/LETES2P6DF7W5YAIH73AOI7F2CBB764007B463BA3F7F893B02F5E3.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/8J/LETES2P6DF7W5YAIH73AOI.uasset'
+[2025.11.22-17.24.52:609][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/M_Dark_Blue] ([1] browsable assets)...
+[2025.11.22-17.24.52:616][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/M_Dark_Blue.M_Dark_Blue]
+[2025.11.22-17.24.52:616][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/M_Dark_Blue]
+[2025.11.22-17.24.52:625][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/M_Dark_Blue
+[2025.11.22-17.24.52:625][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Dark_Blue7780F2A34807370DC27E47A0FDC2B074.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/M_Dark_Blue.uasset'
+[2025.11.22-17.24.52:626][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/M_Light_Blue] ([1] browsable assets)...
+[2025.11.22-17.24.52:632][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/M_Light_Blue.M_Light_Blue]
+[2025.11.22-17.24.52:632][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/M_Light_Blue]
+[2025.11.22-17.24.52:640][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/M_Light_Blue
+[2025.11.22-17.24.52:640][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Light_BlueDB94E17F49A97289D54EEE9DD9F27D9A.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/M_Light_Blue.uasset'
+[2025.11.22-17.24.52:641][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/M_Light_Glass] ([1] browsable assets)...
+[2025.11.22-17.24.52:647][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/M_Light_Glass.M_Light_Glass]
+[2025.11.22-17.24.52:647][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/M_Light_Glass]
+[2025.11.22-17.24.52:654][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/M_Light_Glass
+[2025.11.22-17.24.52:654][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Light_Glass9F91150844226B7C6A4374A427B03AAB.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/M_Light_Glass.uasset'
+[2025.11.22-17.24.52:673][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/M_Light_Green] ([1] browsable assets)...
+[2025.11.22-17.24.52:681][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/M_Light_Green.M_Light_Green]
+[2025.11.22-17.24.52:681][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/M_Light_Green]
+[2025.11.22-17.24.52:689][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/M_Light_Green
+[2025.11.22-17.24.52:689][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Light_GreenB5C7F0FA4127F3A951898A8C70239C68.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/M_Light_Green.uasset'
+[2025.11.22-17.24.52:689][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/M_Light_Pink] ([1] browsable assets)...
+[2025.11.22-17.24.52:696][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/M_Light_Pink.M_Light_Pink]
+[2025.11.22-17.24.52:696][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/M_Light_Pink]
+[2025.11.22-17.24.52:706][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/M_Light_Pink
+[2025.11.22-17.24.52:706][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Light_Pink7C6027E8476CD10B2D29D5B965F81AC8.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/M_Light_Pink.uasset'
+[2025.11.22-17.24.52:706][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/M_Shiny_Black_Metal] ([1] browsable assets)...
+[2025.11.22-17.24.52:713][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/M_Shiny_Black_Metal.M_Shiny_Black_Metal]
+[2025.11.22-17.24.52:713][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/M_Shiny_Black_Metal]
+[2025.11.22-17.24.52:721][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/M_Shiny_Black_Metal
+[2025.11.22-17.24.52:721][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Shiny_Black_Metal7662A8AC4A2B9579E2572AB4EDB9A903.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/M_Shiny_Black_Metal.uasset'
+[2025.11.22-17.24.52:722][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/M_Shiny_White] ([1] browsable assets)...
+[2025.11.22-17.24.52:728][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/M_Shiny_White.M_Shiny_White]
+[2025.11.22-17.24.52:728][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/M_Shiny_White]
+[2025.11.22-17.24.52:735][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/M_Shiny_White
+[2025.11.22-17.24.52:735][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Shiny_WhiteA2AF9F414FB9316F41D8CFB76DD28A22.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/M_Shiny_White.uasset'
+[2025.11.22-17.24.52:737][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/M_Window_Frame] ([1] browsable assets)...
+[2025.11.22-17.24.52:745][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/M_Window_Frame.M_Window_Frame]
+[2025.11.22-17.24.52:745][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/M_Window_Frame]
+[2025.11.22-17.24.52:753][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/M_Window_Frame
+[2025.11.22-17.24.52:753][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Window_Frame95EE23DC4933A1AB89CDF0B4D1F48E30.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/M_Window_Frame.uasset'
+[2025.11.22-17.24.52:754][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/standardSurface1] ([1] browsable assets)...
+[2025.11.22-17.24.52:761][595]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/standardSurface1.standardSurface1]
+[2025.11.22-17.24.52:761][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/standardSurface1]
+[2025.11.22-17.24.52:769][595]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/standardSurface1
+[2025.11.22-17.24.52:769][595]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/standardSurface199080905402B7471A75E1EA88F09DE0F.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/standardSurface1.uasset'
+[2025.11.22-17.24.52:777][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 280.555 ms (total: 2.17 sec)
+[2025.11.22-17.24.52:815][595]LogContentValidation: Display: Starting to validate 11 assets
+[2025.11.22-17.24.52:815][595]LogContentValidation: Enabled validators:
+[2025.11.22-17.24.52:815][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.22-17.24.52:815][595]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.22-17.24.52:815][595]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.22-17.24.52:815][595]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.22-17.24.52:815][595]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.22-17.24.52:815][595]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/Blue_No_door Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Dark_Blue Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Light_Blue Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Light_Glass Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Light_Green Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Light_Pink Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Shiny_Black_Metal Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Shiny_White Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Window_Frame Validating asset
+[2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/standardSurface1 Validating asset
+[2025.11.22-17.24.52:849][595]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
