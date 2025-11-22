@@ -2479,3 +2479,204 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/M_Window_Frame Validating asset
 [2025.11.22-17.24.52:816][595]AssetCheck: /Game/Characters/House_Models/standardSurface1 Validating asset
 [2025.11.22-17.24.52:849][595]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.22-17.30.27:758][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7053.315918
+[2025.11.22-17.30.27:841][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.30.27:841][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7053.390625, Update Interval: 324.826202
+[2025.11.22-17.34.50:910][686]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.22-17.36.30:609][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7415.889160
+[2025.11.22-17.36.31:610][989]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.36.31:610][989]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7416.556152, Update Interval: 330.440369
+[2025.11.22-17.42.48:346][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7793.668945
+[2025.11.22-17.42.49:346][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.42.49:346][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7794.335449, Update Interval: 318.391663
+[2025.11.22-17.48.57:417][226]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8162.797852
+[2025.11.22-17.48.58:418][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.48.58:418][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8163.464844, Update Interval: 313.502625
+[2025.11.22-17.55.02:482][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8527.687500
+[2025.11.22-17.55.03:484][324]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-17.55.03:484][324]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8528.353516, Update Interval: 302.576385
+[2025.11.22-18.00.38:534][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8863.511719
+[2025.11.22-18.00.39:535][331]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.00.39:535][331]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8864.178711, Update Interval: 332.505859
+[2025.11.22-18.06.42:930][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9227.678711
+[2025.11.22-18.06.43:932][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.06.43:932][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9228.345703, Update Interval: 351.188690
+[2025.11.22-18.13.31:662][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9636.166992
+[2025.11.22-18.13.32:663][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.13.32:663][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9636.833008, Update Interval: 317.499939
+[2025.11.22-18.15.43:903][ 59]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.22-18.15.47:399][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.11.22-18.15.48:894][386]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.22-18.15.48:973][386]LogUObjectGlobals: Force Deleting 10 Package(s):
+	Asset Name: /Game/Characters/House_Models/standardSurface1.standardSurface1
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/M_Window_Frame.M_Window_Frame
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/M_Shiny_White.M_Shiny_White
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/M_Shiny_Black_Metal.M_Shiny_Black_Metal
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/M_Light_Pink.M_Light_Pink
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/M_Light_Green.M_Light_Green
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/M_Light_Glass.M_Light_Glass
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/M_Light_Blue.M_Light_Blue
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/M_Dark_Blue.M_Dark_Blue
+	Asset Type: Material
+	Asset Name: /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+	Asset Type: StaticMesh
+[2025.11.22-18.15.49:113][386]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-9.628 Y=-5.417 Z=6.006, BoxExtent=(X=4.231 Y=6.686 Z=6.161), SphereRadius=(13.940987)) and MeshDescription Bounds (Origin=X=-9.593 Y=-4.910 Z=5.846, BoxExtent=(X=4.180 Y=6.024 Z=6.001), SphereRadius=(8.940280)) is significative for StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-18.15.49:276][386]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-9.628 Y=-5.417 Z=6.006, BoxExtent=(X=4.231 Y=6.686 Z=6.161), SphereRadius=(13.940987)) and MeshDescription Bounds (Origin=X=-9.593 Y=-4.910 Z=5.846, BoxExtent=(X=4.180 Y=6.024 Z=6.001), SphereRadius=(8.940280)) is significative for StaticMesh /Game/Characters/House_Models/Blue_No_door.Blue_No_door
+[2025.11.22-18.15.49:293][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.22-18.15.49:308][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.11.22-18.15.49:322][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.22-18.15.53:631][663]LogStreaming: Display: FlushAsyncLoading(783): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.15.53:693][663]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/houses/BLUE.fbx]
+[2025.11.22-18.15.55:412][663]LogSlate: Window 'Import Content' being destroyed
+[2025.11.22-18.15.55:431][663]LogInterchangeEngine: [Pending] Importing
+[2025.11.22-18.15.55:520][664]LogStreaming: Display: FlushAsyncLoading(784): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.15.55:600][665]LogStreaming: Display: FlushAsyncLoading(786): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.15.55:688][667]LogStaticMesh: Display: Building static mesh BLUE1 (Required Memory Estimate: 23.635915 MB)...
+[2025.11.22-18.15.55:694][667]LogTexture: Display: Building textures: /Game/Characters/House_Models/Blue_House.Blue_House (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.15.55:756][667]LogStaticMesh: Adjacency [0.00s], tris: 15087, UVs 1
+[2025.11.22-18.15.55:781][668]LogStaticMesh: Clustering [0.03s]. Ratio: 1.016949
+[2025.11.22-18.15.55:783][668]LogStaticMesh: Leaves [0.00s]
+[2025.11.22-18.15.56:071][679]LogStaticMesh: Reduce [0.29s]
+[2025.11.22-18.15.56:196][688]LogStaticMesh: Fallback [0.13s], num tris: 6716
+[2025.11.22-18.15.56:357][700]LogStaticMesh: Fallback [0.16s], num tris: 4035
+[2025.11.22-18.15.56:361][700]LogStaticMesh: ConstrainClusters:
+[2025.11.22-18.15.56:361][700]LogStaticMesh:   Input: 245 Clusters, 30826 Triangles and 31522 Vertices
+[2025.11.22-18.15.56:361][700]LogStaticMesh:   Output without splits: 245 Clusters, 30826 Triangles and 31687 Vertices
+[2025.11.22-18.15.56:361][700]LogStaticMesh:   Output with splits: 245 Clusters, 30826 Triangles and 31687 Vertices
+[2025.11.22-18.15.56:362][700]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 245, Slow Path Clusters: 0, 1 Material: 245, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.22-18.15.56:365][700]LogStaticMesh: WritePages:
+[2025.11.22-18.15.56:365][700]LogStaticMesh:   Root: GPU size: 32148 bytes. 1 Pages. 32148.000 bytes per page (98.108% utilization).
+[2025.11.22-18.15.56:365][700]LogStaticMesh:   Streaming: GPU size: 333288 bytes. 3 Pages (3 with relative encoding). 111096.000 bytes per page (84.760% utilization).
+[2025.11.22-18.15.56:365][700]LogStaticMesh:   Page data disk size: 310568 bytes. Fixup data size: 1272 bytes.
+[2025.11.22-18.15.56:365][700]LogStaticMesh:   Total GPU size: 365436 bytes, Total disk size: 311840 bytes.
+[2025.11.22-18.15.56:365][700]LogStaticMesh: Encode [0.01s]
+[2025.11.22-18.15.56:365][700]LogStaticMesh: NaniteBuild [0.61s]
+[2025.11.22-18.15.56:551][711]LogStaticMesh: Built static mesh [0.86s] /Game/Characters/House_Models/BLUE1.BLUE1
+[2025.11.22-18.15.56:629][718]LogStaticMesh: Warning: BLUE1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.11.22-18.15.56:629][718]LogStaticMesh: Warning: BLUE1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.11.22-18.15.56:635][719]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-9.631 Y=-5.429 Z=5.187, BoxExtent=(X=4.229 Y=6.674 Z=7.033), SphereRadius=(11.898493)) and MeshDescription Bounds (Origin=X=-9.593 Y=-4.910 Z=5.846, BoxExtent=(X=4.180 Y=6.024 Z=6.001), SphereRadius=(8.940280)) is significative for StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1
+[2025.11.22-18.15.56:653][719]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/houses/BLUE.fbx]
+[2025.11.22-18.15.56:653][719]Interchange: Warning: [C:/Users/rgowell/Desktop/houses/BLUE.fbx : '', Unknown] Renamed Assets: 
+ OriginalName:[/Game/Characters/House_Models/BLUE] NewName:[/Game/Characters/House_Models/BLUE1]
+[2025.11.22-18.15.56:653][719]Interchange: Warning: [C:/Users/rgowell/Desktop/houses/BLUE.fbx : 'BLUE1', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.22-18.15.56:666][719]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.22-18.15.56:666][719]LogInterchangeEngine: [Success] Import Done
+[2025.11.22-18.15.56:736][721]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-9.631 Y=-5.429 Z=5.187, BoxExtent=(X=4.229 Y=6.674 Z=7.033), SphereRadius=(11.898493)) and MeshDescription Bounds (Origin=X=-9.593 Y=-4.910 Z=5.846, BoxExtent=(X=4.180 Y=6.024 Z=6.001), SphereRadius=(8.940280)) is significative for StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1
+[2025.11.22-18.15.57:064][723]LogMaterial: Display: Material /Game/Characters/House_Models/blue.blue needed to have new flag set bUsedWithNanite !
+[2025.11.22-18.15.57:352][725]LogPSOHitching: Encountered 450 PSO creation hitches so far (149 graphics, 301 compute). 0 of them were precached.
+[2025.11.22-18.15.59:877][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1
+[2025.11.22-18.15.59:877][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1
+[2025.11.22-18.15.59:878][948]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_3
+[2025.11.22-18.16.00:310][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.11.22-18.16.00:312][982]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.11.22-18.16.00:321][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1
+[2025.11.22-18.16.00:321][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1
+[2025.11.22-18.16.00:323][982]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D497A402_2033953321
+[2025.11.22-18.16.01:983][160]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D497A402_2033953321.StaticMeshComponent0.
+[2025.11.22-18.16.02:418][209]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D497A402_2033953321.StaticMeshComponent0.
+[2025.11.22-18.16.05:250][483]LogMaterial: Display: Material /Game/Characters/House_Models/Blue_House_Mat.Blue_House_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.22-18.16.05:253][483]LogShaderCompilers: Display: Cancelled job 0x00000182A4459600 with pending SubmitJob call.
+[2025.11.22-18.16.05:255][483]LogShaderCompilers: Display: Cancelled job 0x00000182A4456E00 with pending SubmitJob call.
+[2025.11.22-18.16.09:753][878]Cmd: TRANSACTION UNDO
+[2025.11.22-18.16.09:753][878]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.16.27:058][667]Cmd: DELETE
+[2025.11.22-18.16.27:058][667]Cmd: ACTOR DELETE
+[2025.11.22-18.16.27:061][667]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.16.27:084][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.11.22-18.16.27:086][667]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.11.22-18.16.28:375][807]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.16.37:395][800]Cmd: TRANSACTION UNDO
+[2025.11.22-18.16.37:395][800]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.16.38:788][889]Cmd: TRANSACTION UNDO
+[2025.11.22-18.16.38:788][889]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.16.39:784][982]Cmd: TRANSACTION UNDO
+[2025.11.22-18.16.39:784][982]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.16.52:020][237]Cmd: TRANSACTION UNDO
+[2025.11.22-18.16.52:020][237]LogEditorTransaction: Undo Move Elements
+[2025.11.22-18.16.52:471][244]Cmd: TRANSACTION UNDO
+[2025.11.22-18.16.52:471][244]LogEditorTransaction: Undo Rotate Elements
+[2025.11.22-18.16.55:880][577]Cmd: DELETE
+[2025.11.22-18.16.55:880][577]Cmd: ACTOR DELETE
+[2025.11.22-18.16.55:882][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.16.55:899][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.22-18.16.55:901][577]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.11.22-18.17.02:394][258]Cmd: TRANSACTION UNDO
+[2025.11.22-18.17.02:394][258]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.22-18.17.16:238][632]Cmd: ACTOR BAKEPREPIVOT
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: ================================================
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: Total job queries 948, among them cache hits 411 (43.35%), DDC hits 329 (34.70%), Duplicates 193 (20.36%)
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: Tracking 344 distinct input hashes that result in 246 distinct outputs (71.51%)
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: RAM used: 3.39 MiB of 1.60 GiB budget. Usage: 0.21%
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: Shaders Compiled: 15
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: Average time worker was idle: 2681.22 s
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.25 s
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 1.95 s
+[2025.11.22-18.18.04:998][799]LogShaderCompilers: Display: Job life time (pending + execution): average 1.25 s, max 2.20
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Shader code size: total 191.893 KiB, numShaders 15, average 12.792 KiB, min 4.277 KiB, max 19.422 KiB
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.26 s
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Average processing rate: 2.85 jobs/sec
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Total thread time: 13.892 s
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Total thread preprocess time: 12.533 s
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Percentage time preprocessing: 90.22%
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.264189
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.69 sec, max 1.69 sec, min 1.69 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.46 sec, max 1.66 sec, min 1.26 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.10 sec, max 1.28 sec, min 0.91 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.24% of total time (compiled    3 times, average 0.98 sec, max 1.34 sec, min 0.70 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 21.02% of total time (compiled    2 times, average 1.46 sec, max 1.66 sec, min 1.26 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 15.78% of total time (compiled    2 times, average 1.10 sec, max 1.28 sec, min 0.91 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 12.17% of total time (compiled    1 times, average 1.69 sec, max 1.69 sec, min 1.69 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display:                                                 FLumenCardCS - 9.77% of total time (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: === Material stats ===
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Materials Translated:    193
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Material Translation Only: 0.04 s (36%)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: Material Cache Hits: 23 (12%)
+[2025.11.22-18.18.05:000][799]LogShaderCompilers: Display: ================================================
+[2025.11.22-18.18.07:726][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.11.22-18.18.07:739][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/8J/LETES2P6DF7W5YAIH73AOI_Auto4
+[2025.11.22-18.18.07:739][806]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/LETES2P6DF7W5YAIH73AOI_Auto45D98EC8C4362D9150A94CABB25048471.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/8J/LETES2P6DF7W5YAIH73AOI_Auto4.uasset'
+[2025.11.22-18.18.07:745][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/8/CT/9W99PGTN7TKZE4BV4PKME9_Auto4
+[2025.11.22-18.18.07:745][806]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/9W99PGTN7TKZE4BV4PKME9_Auto468AABB2741D324E30A83AA887D2DB976.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/8/CT/9W99PGTN7TKZE4BV4PKME9_Auto4.uasset'
+[2025.11.22-18.18.07:745][806]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.037
+[2025.11.22-18.18.07:745][806]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2025.11.22-18.18.07:746][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/blue] ([1] browsable assets)...
+[2025.11.22-18.18.07:878][806]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/blue.blue]
+[2025.11.22-18.18.07:878][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/blue]
+[2025.11.22-18.18.07:889][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/House_Models/blue_Auto4
+[2025.11.22-18.18.07:889][806]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/blue_Auto4DB49BE5B498987479C2E1E9D01176ED2.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Characters/House_Models/blue_Auto4.uasset'
+[2025.11.22-18.18.07:890][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Blue_House] ([1] browsable assets)...
+[2025.11.22-18.18.07:900][806]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/House_Models/Blue_House.Blue_House]
+[2025.11.22-18.18.07:900][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Blue_House]
+[2025.11.22-18.18.07:918][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/House_Models/Blue_House_Auto4
+[2025.11.22-18.18.07:918][806]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Blue_House_Auto426CDBD6A4EAA8BCD27D327B9470EECFD.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Characters/House_Models/Blue_House_Auto4.uasset'
+[2025.11.22-18.18.07:918][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/BLUE1] ([1] browsable assets)...
+[2025.11.22-18.18.07:945][806]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/House_Models/BLUE1.BLUE1]
+[2025.11.22-18.18.07:945][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/BLUE1]
+[2025.11.22-18.18.07:960][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/House_Models/BLUE1_Auto4
+[2025.11.22-18.18.07:960][806]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/BLUE1_Auto458C3A18B42F4AD1F1EEA4EB45EC58DDE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Characters/House_Models/BLUE1_Auto4.uasset'
+[2025.11.22-18.18.07:960][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Blue_House_Mat] ([1] browsable assets)...
+[2025.11.22-18.18.07:977][806]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/Blue_House_Mat.Blue_House_Mat]
+[2025.11.22-18.18.07:977][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Blue_House_Mat]
+[2025.11.22-18.18.07:984][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/House_Models/Blue_House_Mat_Auto4
+[2025.11.22-18.18.07:984][806]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Blue_House_Mat_Auto40438FA8C4F3057D5FB8D9DA413831796.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Characters/House_Models/Blue_House_Mat_Auto4.uasset'
+[2025.11.22-18.18.07:985][806]LogFileHelpers: Auto-saving content packages took 0.239
