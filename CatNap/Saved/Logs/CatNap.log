@@ -2963,3 +2963,156 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Material Cache Hits: 23 (10%)
 [2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: ================================================
+[2025.11.22-18.32.09:937][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10754.396484
+[2025.11.22-18.32.10:027][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.32.10:027][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10754.477539, Update Interval: 348.897980
+[2025.11.22-18.32.16:944][420]LogStreaming: Display: FlushAsyncLoading(840): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.32.16:953][420]LogInterchangeEngine: [Pending] Importing
+[2025.11.22-18.32.16:953][420]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/houses/Pink House.png]
+[2025.11.22-18.32.17:664][423]LogStreaming: Display: FlushAsyncLoading(841): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.32.17:956][424]LogTexture: Display: Building textures: /Game/Characters/House_Models/Pink_House.Pink_House (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.32.18:027][426]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/houses/Pink House.png]
+[2025.11.22-18.32.18:032][426]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.22-18.32.18:032][426]LogInterchangeEngine: [Success] Import Done
+[2025.11.22-18.32.19:401][567]LogPSOHitching: Encountered 550 PSO creation hitches so far (208 graphics, 342 compute). 0 of them were precached.
+[2025.11.22-18.32.25:542][145]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.32.26:605][225]LogMaterial: Display: Material /Game/Characters/House_Models/Pink_House_Mat.Pink_House_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.22-18.32.26:606][225]LogShaderCompilers: Display: Cancelled job 0x00000182DAA81E00 with pending SubmitJob call.
+[2025.11.22-18.32.26:607][225]LogShaderCompilers: Display: Cancelled job 0x00000182B4133C00 with pending SubmitJob call.
+[2025.11.22-18.32.26:611][225]LogShaderCompilers: Display: Cancelled job 0x00000182B413DC00 with pending SubmitJob call.
+[2025.11.22-18.32.26:612][225]LogShaderCompilers: Display: Cancelled job 0x00000182B4139600 with pending SubmitJob call.
+[2025.11.22-18.32.30:142][467]LogStreaming: Display: FlushAsyncLoading(842): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.32.30:153][467]LogInterchangeEngine: [Pending] Importing
+[2025.11.22-18.32.30:153][467]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/houses/Purp House.png]
+[2025.11.22-18.32.30:868][470]LogStreaming: Display: FlushAsyncLoading(843): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.32.31:154][471]LogTexture: Display: Building textures: /Game/Characters/House_Models/Purp_House.Purp_House (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.32.31:498][471]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/houses/Purp House.png]
+[2025.11.22-18.32.31:501][471]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.22-18.32.31:501][471]LogInterchangeEngine: [Success] Import Done
+[2025.11.22-18.32.32:091][505]LogStreaming: Display: FlushAsyncLoading(844): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.32.32:104][505]LogInterchangeEngine: [Pending] Importing
+[2025.11.22-18.32.32:104][505]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/houses/Green House.png]
+[2025.11.22-18.32.32:819][508]LogStreaming: Display: FlushAsyncLoading(845): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.32.33:104][509]LogTexture: Display: Building textures: /Game/Characters/House_Models/Green_House.Green_House (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.32.33:446][509]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/houses/Green House.png]
+[2025.11.22-18.32.33:448][509]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.22-18.32.33:448][509]LogInterchangeEngine: [Success] Import Done
+[2025.11.22-18.32.42:085][158]Cmd: DELETE
+[2025.11.22-18.32.42:085][158]Cmd: ACTOR DELETE
+[2025.11.22-18.32.42:088][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.32.42:105][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.11.22-18.32.42:106][158]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.11.22-18.32.47:685][799]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.33.01:400][218]Cmd: DELETE
+[2025.11.22-18.33.01:400][218]Cmd: ACTOR DELETE
+[2025.11.22-18.33.01:404][218]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.33.01:425][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.22-18.33.01:427][218]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.11.22-18.33.04:936][578]Cmd: DELETE
+[2025.11.22-18.33.04:936][578]Cmd: ACTOR DELETE
+[2025.11.22-18.33.04:939][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.33.04:954][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.11.22-18.33.04:956][578]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.11.22-18.33.05:637][639]Cmd: DELETE
+[2025.11.22-18.33.05:637][639]Cmd: ACTOR DELETE
+[2025.11.22-18.33.05:639][639]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.33.05:654][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.22-18.33.05:657][639]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.11.22-18.33.17:748][997]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.33.27:546][967]Cmd: MODE ROTGRID=0
+[2025.11.22-18.33.29:701][188]Cmd: MODE GRID=0
+[2025.11.22-18.33.43:846][652]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.33.45:643][816]Cmd: DELETE
+[2025.11.22-18.33.45:643][816]Cmd: ACTOR DELETE
+[2025.11.22-18.33.45:645][816]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.33.45:662][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.22-18.33.45:664][816]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.11.22-18.34.03:686][706]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.34.12:172][624]LogMaterial: Display: Material /Game/Characters/House_Models/Green_House_Mat.Green_House_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.22-18.34.12:172][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C51E00 with pending SubmitJob call.
+[2025.11.22-18.34.12:174][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C5B400 with pending SubmitJob call.
+[2025.11.22-18.34.12:175][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C52800 with pending SubmitJob call.
+[2025.11.22-18.34.12:175][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C58200 with pending SubmitJob call.
+[2025.11.22-18.34.12:177][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C56400 with pending SubmitJob call.
+[2025.11.22-18.34.12:179][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C56E00 with pending SubmitJob call.
+[2025.11.22-18.34.12:179][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C5DC00 with pending SubmitJob call.
+[2025.11.22-18.34.12:182][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C55000 with pending SubmitJob call.
+[2025.11.22-18.34.12:182][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C55A00 with pending SubmitJob call.
+[2025.11.22-18.34.12:185][624]LogShaderCompilers: Display: Cancelled job 0x00000182D0C5D200 with pending SubmitJob call.
+[2025.11.22-18.34.27:131][ 91]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.34.32:693][699]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.34.45:105][ 21]LogMaterial: Display: Material /Game/Characters/House_Models/Purp_House_Mat.Purp_House_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.22-18.34.45:106][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E501400 with pending SubmitJob call.
+[2025.11.22-18.34.45:107][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E50C800 with pending SubmitJob call.
+[2025.11.22-18.34.45:107][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E50D200 with pending SubmitJob call.
+[2025.11.22-18.34.45:108][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E506E00 with pending SubmitJob call.
+[2025.11.22-18.34.45:109][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E50BE00 with pending SubmitJob call.
+[2025.11.22-18.34.45:110][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E50A000 with pending SubmitJob call.
+[2025.11.22-18.34.45:111][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E503200 with pending SubmitJob call.
+[2025.11.22-18.34.45:111][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E507800 with pending SubmitJob call.
+[2025.11.22-18.34.45:111][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E504600 with pending SubmitJob call.
+[2025.11.22-18.34.45:114][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E505000 with pending SubmitJob call.
+[2025.11.22-18.34.45:115][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E509600 with pending SubmitJob call.
+[2025.11.22-18.34.45:115][ 21]LogShaderCompilers: Display: Cancelled job 0x000001810E508C00 with pending SubmitJob call.
+[2025.11.22-18.34.48:152][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.22-18.34.49:199][284]LogSlate: Window 'Save Content' being destroyed
+[2025.11.22-18.34.49:210][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.22-18.34.49:277][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.22-18.34.49:291][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.22-18.34.49:303][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.11.22-18.34.49:316][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/CT/9W99PGTN7TKZE4BV4PKME9
+[2025.11.22-18.34.49:316][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/9W99PGTN7TKZE4BV4PKME9BE701DAC443D326DE1605F888B5D9E19.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/CT/9W99PGTN7TKZE4BV4PKME9.uasset'
+[2025.11.22-18.34.49:323][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/NO/P883QIJP8UZS0BDGK86R50
+[2025.11.22-18.34.49:323][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/P883QIJP8UZS0BDGK86R509A2FA62349AE56DA49F7C8A5556ADB98.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/NO/P883QIJP8UZS0BDGK86R50.uasset'
+[2025.11.22-18.34.49:330][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/M0/GZIAM6D2XP9KVROJAIUNMT
+[2025.11.22-18.34.49:330][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/GZIAM6D2XP9KVROJAIUNMT240C04DF49F676F47EA5E2A92B424AC8.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/M0/GZIAM6D2XP9KVROJAIUNMT.uasset'
+[2025.11.22-18.34.49:337][284]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/4D/Z2FVVX98FXGTH92UFBHHVD
+[2025.11.22-18.34.49:337][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Z2FVVX98FXGTH92UFBHHVD502839C345F3D9B7ED4FA390006C9B50.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/4D/Z2FVVX98FXGTH92UFBHHVD.uasset'
+[2025.11.22-18.34.49:338][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Green_House] ([1] browsable assets)...
+[2025.11.22-18.34.49:339][284]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/House_Models/Green_House.Green_House]
+[2025.11.22-18.34.49:339][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Green_House]
+[2025.11.22-18.34.49:362][284]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Green_House
+[2025.11.22-18.34.49:362][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Green_House2A4563E24500DBDD66540186E999FD13.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Green_House.uasset'
+[2025.11.22-18.34.49:363][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Green_House_Mat] ([1] browsable assets)...
+[2025.11.22-18.34.49:412][284]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/Green_House_Mat.Green_House_Mat]
+[2025.11.22-18.34.49:412][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Green_House_Mat]
+[2025.11.22-18.34.49:421][284]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Green_House_Mat
+[2025.11.22-18.34.49:421][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Green_House_Mat87B2F97B476151CEF30B788D54B5A287.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Green_House_Mat.uasset'
+[2025.11.22-18.34.49:421][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Pink_House] ([1] browsable assets)...
+[2025.11.22-18.34.49:422][284]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/House_Models/Pink_House.Pink_House]
+[2025.11.22-18.34.49:422][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Pink_House]
+[2025.11.22-18.34.49:445][284]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Pink_House
+[2025.11.22-18.34.49:446][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Pink_HouseD5D0404043098BCEC982D59149C13849.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Pink_House.uasset'
+[2025.11.22-18.34.49:446][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Pink_House_Mat] ([1] browsable assets)...
+[2025.11.22-18.34.49:452][284]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/Pink_House_Mat.Pink_House_Mat]
+[2025.11.22-18.34.49:452][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Pink_House_Mat]
+[2025.11.22-18.34.49:459][284]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Pink_House_Mat
+[2025.11.22-18.34.49:460][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Pink_House_MatE01770904057FEE9C123AAA48FB39BA6.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Pink_House_Mat.uasset'
+[2025.11.22-18.34.49:460][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Purp_House] ([1] browsable assets)...
+[2025.11.22-18.34.49:462][284]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/House_Models/Purp_House.Purp_House]
+[2025.11.22-18.34.49:462][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Purp_House]
+[2025.11.22-18.34.49:486][284]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Purp_House
+[2025.11.22-18.34.49:486][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Purp_House6D0F9B1141096A9DD040428BC089E51A.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Purp_House.uasset'
+[2025.11.22-18.34.49:486][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Purp_House_Mat] ([1] browsable assets)...
+[2025.11.22-18.34.49:493][284]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/Purp_House_Mat.Purp_House_Mat]
+[2025.11.22-18.34.49:493][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Purp_House_Mat]
+[2025.11.22-18.34.49:500][284]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Purp_House_Mat
+[2025.11.22-18.34.49:500][284]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Purp_House_Mat43E5A73F432B96AB297E0FB85D18AEDD.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Purp_House_Mat.uasset'
+[2025.11.22-18.34.49:519][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.496 ms (total: 3.18 sec)
+[2025.11.22-18.34.49:582][284]LogContentValidation: Display: Starting to validate 10 assets
+[2025.11.22-18.34.49:582][284]LogContentValidation: Enabled validators:
+[2025.11.22-18.34.49:582][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.22-18.34.49:582][284]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.22-18.34.49:582][284]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.22-18.34.49:582][284]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.22-18.34.49:582][284]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.22-18.34.49:582][284]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.22-18.34.49:582][284]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.22-18.34.49:583][284]AssetCheck: /Game/Characters/House_Models/Green_House Validating asset
+[2025.11.22-18.34.49:583][284]AssetCheck: /Game/Characters/House_Models/Green_House_Mat Validating asset
+[2025.11.22-18.34.49:583][284]AssetCheck: /Game/Characters/House_Models/Pink_House Validating asset
+[2025.11.22-18.34.49:583][284]AssetCheck: /Game/Characters/House_Models/Pink_House_Mat Validating asset
+[2025.11.22-18.34.49:583][284]AssetCheck: /Game/Characters/House_Models/Purp_House Validating asset
+[2025.11.22-18.34.49:583][284]AssetCheck: /Game/Characters/House_Models/Purp_House_Mat Validating asset
+[2025.11.22-18.34.49:617][284]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.22-18.34.50:917][417]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
