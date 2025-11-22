@@ -3116,3 +3116,187 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.22-18.34.49:583][284]AssetCheck: /Game/Characters/House_Models/Purp_House_Mat Validating asset
 [2025.11.22-18.34.49:617][284]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
 [2025.11.22-18.34.50:917][417]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.22-18.35.17:707][ 68]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack
+[2025.11.22-18.35.17:788][ 68]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.22-18.35.17:794][ 68]LogStreaming: Display: FlushAsyncLoading(846): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.35.17:818][ 68]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.11.22-18.35.17:824][ 68]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.11.22-18.35.17:945][ 68]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.11.22-18.35.17:946][ 68]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.11.22-18.35.21:313][248]LogSlate: Window 'lamps_pack' being destroyed
+[2025.11.22-18.35.21:360][248]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.22-18.35.21:360][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.22-18.35.21:394][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.22-18.35.22:063][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack
+[2025.11.22-18.35.22:063][300]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack
+[2025.11.22-18.35.22:064][300]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_5
+[2025.11.22-18.35.22:672][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.22-18.35.22:673][362]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.11.22-18.35.22:681][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack
+[2025.11.22-18.35.22:681][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack
+[2025.11.22-18.35.22:683][362]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D498A402_2122571507
+[2025.11.22-18.35.23:348][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.35.43:801][651]LogStreaming: Display: FlushAsyncLoading(852): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.35.44:090][651]LogStreaming: Display: FlushAsyncLoading(863): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.35.45:600][796]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.11.22-18.35.45:601][796]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.11.22-18.35.48:354][ 97]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.11.22-18.35.48:459][ 99]LogPSOHitching: Encountered 600 PSO creation hitches so far (235 graphics, 365 compute). 0 of them were precached.
+[2025.11.22-18.35.48:899][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/rgowell/Box_09844F6E.Box_09844F6E
+[2025.11.22-18.35.48:899][133]LogStaticMesh: Display: Building static mesh Box_09844F6E (Required Memory Estimate: 0.027864 MB)...
+[2025.11.22-18.35.48:900][133]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/rgowell/Box_09844F6E.Box_09844F6E
+[2025.11.22-18.35.48:901][133]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/rgowell/Box_09844F6E.Box_09844F6E as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D499A402_1075047684
+[2025.11.22-18.36.00:985][456]LogInteractiveToolsContext: Display: Perform Boolean operations on the input meshes; any interior faces will be removed. Use the transform gizmos to modify the position and orientation of the input objects.
+[2025.11.22-18.36.00:995][456]LogStreaming: Display: FlushAsyncLoading(864): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.36.01:898][517]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_416AC3FE.Boolean_416AC3FE
+[2025.11.22-18.36.01:899][517]LogStaticMesh: Display: Building static mesh Boolean_416AC3FE (Required Memory Estimate: 5.180406 MB)...
+[2025.11.22-18.36.01:900][517]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_416AC3FE.Boolean_416AC3FE as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D499A402_1088046685
+[2025.11.22-18.36.01:911][517]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/rgowell/Boolean_416AC3FE.Boolean_416AC3FE
+[2025.11.22-18.36.02:114][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.36.02:153][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.11.22-18.36.02:155][517]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.11.22-18.36.02:157][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.36.02:179][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.11.22-18.36.02:180][517]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.11.22-18.36.02:885][578]Cmd: TRANSACTION UNDO
+[2025.11.22-18.36.02:885][578]LogEditorTransaction: Undo Boolean Meshes
+[2025.11.22-18.36.04:119][664]LogInteractiveToolsContext: Display: Perform Boolean operations on the input meshes; any interior faces will be removed. Use the transform gizmos to modify the position and orientation of the input objects.
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: ================================================
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Total job queries 1,069, among them cache hits 499 (46.68%), DDC hits 340 (31.81%), Duplicates 193 (18.05%)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Tracking 377 distinct input hashes that result in 272 distinct outputs (72.15%)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: RAM used: 3.59 MiB of 1.60 GiB budget. Usage: 0.22%
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Shaders Compiled: 37
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Jobs assigned 37, completed 37 (100%)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Average time worker was idle: 3031.34 s
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 0.65 s
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 1.95 s
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Job life time (pending + execution): average 1.15 s, max 2.20
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Shader code size: total 416.361 KiB, numShaders 42, average 9.913 KiB, min 2.934 KiB, max 19.422 KiB
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.16 s
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Average processing rate: 3.64 jobs/sec
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Total thread time: 28.565 s
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Total thread preprocess time: 14.093 s
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Percentage time preprocessing: 49.34%
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Effective parallelization: 2.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.281275
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.69 sec, max 1.69 sec, min 1.69 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.46 sec, max 1.66 sec, min 1.26 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.10 sec, max 1.28 sec, min 0.91 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.25% of total time (compiled    7 times, average 0.95 sec, max 1.34 sec, min 0.70 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.28% of total time (compiled    7 times, average 0.46 sec, max 0.56 sec, min 0.30 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 10.22% of total time (compiled    2 times, average 1.46 sec, max 1.66 sec, min 1.26 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.67% of total time (compiled    2 times, average 1.10 sec, max 1.28 sec, min 0.91 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display:                                                  FVelocityPS - 7.57% of total time (compiled    3 times, average 0.72 sec, max 0.77 sec, min 0.64 sec)
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: === Material stats ===
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Materials Translated:    241
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.11.22-18.36.05:207][764]LogShaderCompilers: Display: Material Translation Only: 0.10 s (52%)
+[2025.11.22-18.36.05:208][764]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.22-18.36.05:208][764]LogShaderCompilers: Display: Material Cache Hits: 23 (10%)
+[2025.11.22-18.36.05:208][764]LogShaderCompilers: Display: ================================================
+[2025.11.22-18.36.06:233][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_CE67B1A4.Boolean_CE67B1A4
+[2025.11.22-18.36.06:234][865]LogStaticMesh: Display: Building static mesh Boolean_CE67B1A4 (Required Memory Estimate: 1.486282 MB)...
+[2025.11.22-18.36.06:236][865]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_CE67B1A4.Boolean_CE67B1A4 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D499A402_1092381686
+[2025.11.22-18.36.06:237][865]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/rgowell/Boolean_CE67B1A4.Boolean_CE67B1A4
+[2025.11.22-18.36.06:294][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.36.06:311][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.11.22-18.36.06:314][865]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.11.22-18.36.06:315][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.36.06:330][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.22-18.36.06:331][865]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.11.22-18.36.08:151][ 63]Cmd: TRANSACTION UNDO
+[2025.11.22-18.36.08:151][ 63]LogEditorTransaction: Undo Boolean Meshes
+[2025.11.22-18.36.10:858][308]Cmd: TRANSACTION UNDO
+[2025.11.22-18.36.10:858][308]LogEditorTransaction: Undo Move Elements
+[2025.11.22-18.36.14:197][662]LogInteractiveToolsContext: Display: Perform Boolean operations on the input meshes; any interior faces will be removed. Use the transform gizmos to modify the position and orientation of the input objects.
+[2025.11.22-18.36.16:535][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_4ED423C7.Boolean_4ED423C7
+[2025.11.22-18.36.16:535][895]LogStaticMesh: Display: Building static mesh Boolean_4ED423C7 (Required Memory Estimate: 1.349984 MB)...
+[2025.11.22-18.36.16:537][895]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_4ED423C7.Boolean_4ED423C7 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D499A402_1102683687
+[2025.11.22-18.36.16:539][895]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/rgowell/Boolean_4ED423C7.Boolean_4ED423C7
+[2025.11.22-18.36.16:590][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.36.16:607][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.22-18.36.16:610][895]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.11.22-18.36.16:612][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.36.16:627][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.22-18.36.16:628][895]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.11.22-18.36.27:286][ 25]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.36.30:939][420]Cmd: TRANSACTION UNDO
+[2025.11.22-18.36.30:939][420]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.36.56:516][149]Cmd: TRANSACTION UNDO
+[2025.11.22-18.36.56:516][149]LogEditorTransaction: Undo Move Elements
+[2025.11.22-18.36.59:323][401]Cmd: TRANSACTION UNDO
+[2025.11.22-18.36.59:323][401]LogEditorTransaction: Undo Move Elements
+[2025.11.22-18.37.18:134][439]Cmd: DUPLICATE
+[2025.11.22-18.37.18:134][439]Cmd: ACTOR DUPLICATE
+[2025.11.22-18.37.28:149][525]Cmd: TRANSACTION UNDO
+[2025.11.22-18.37.28:149][525]LogEditorTransaction: Undo Move Elements
+[2025.11.22-18.37.32:267][907]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.37.54:664][378]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.38.09:589][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.22-18.38.10:822][928]LogSlate: Window 'Save Content' being destroyed
+[2025.11.22-18.38.10:849][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.22-18.38.10:890][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/R2/5VA3E3SNLYTOQPXVXENGA3
+[2025.11.22-18.38.10:890][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/5VA3E3SNLYTOQPXVXENGA376DF14BC419200BAFE353DBAFB8D6A03.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/R2/5VA3E3SNLYTOQPXVXENGA3.uasset'
+[2025.11.22-18.38.10:898][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/I7/3VZ11334T3MARIWIWQFVVY
+[2025.11.22-18.38.10:898][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/3VZ11334T3MARIWIWQFVVY9B63FD91409A8137B6F738B8175C0B8F.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/I7/3VZ11334T3MARIWIWQFVVY.uasset'
+[2025.11.22-18.38.10:904][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/WP/NEXQO8YNG0X2HD2I6WZV86
+[2025.11.22-18.38.10:904][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/NEXQO8YNG0X2HD2I6WZV86DFED630E424989F908B6D3B9932F8DB1.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/WP/NEXQO8YNG0X2HD2I6WZV86.uasset'
+[2025.11.22-18.38.10:911][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/WP/LX77IYWLL62MXTA6R4JTCS
+[2025.11.22-18.38.10:911][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/LX77IYWLL62MXTA6R4JTCSB305E7FF4805745FB4DACB9262F9BE41.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/WP/LX77IYWLL62MXTA6R4JTCS.uasset'
+[2025.11.22-18.38.10:917][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/VR/4BCNURU6YCOYAADMMFX4LC
+[2025.11.22-18.38.10:917][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/4BCNURU6YCOYAADMMFX4LCB899CC1448190AA111AD5EB420FC4306.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/VR/4BCNURU6YCOYAADMMFX4LC.uasset'
+[2025.11.22-18.38.10:924][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/IA/FOTOE3QH4MBN5OI58O1F16
+[2025.11.22-18.38.10:924][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/FOTOE3QH4MBN5OI58O1F16835569F748D4D2682A9303AAE41A01D7.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/IA/FOTOE3QH4MBN5OI58O1F16.uasset'
+[2025.11.22-18.38.10:931][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/6J/8SR47FAPGNJNT59N0FWQW7
+[2025.11.22-18.38.10:931][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/8SR47FAPGNJNT59N0FWQW7A5DDCD454A9CD645DE792793C2A9DD85.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/6J/8SR47FAPGNJNT59N0FWQW7.uasset'
+[2025.11.22-18.38.10:938][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/30/6R61BWQE8C5CQGMLSWWH4N
+[2025.11.22-18.38.10:938][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/6R61BWQE8C5CQGMLSWWH4ND8D6A55A4E053433B49DADA688F18406.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/30/6R61BWQE8C5CQGMLSWWH4N.uasset'
+[2025.11.22-18.38.10:944][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/HU/41L7EB9EFICCEC6EZM841R
+[2025.11.22-18.38.10:944][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/41L7EB9EFICCEC6EZM841R826766904F6595FB3317A4BA5FED2E34.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/HU/41L7EB9EFICCEC6EZM841R.uasset'
+[2025.11.22-18.38.10:951][928]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/3/ZD/LE3YKM26H281HWKKT8JK5V
+[2025.11.22-18.38.10:951][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/LE3YKM26H281HWKKT8JK5VB3FFAE544C23EC3273E36989EEBE5DDE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/ZD/LE3YKM26H281HWKKT8JK5V.uasset'
+[2025.11.22-18.38.10:952][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/rgowell/Boolean_416AC3FE] ([1] browsable assets)...
+[2025.11.22-18.38.11:009][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_416AC3FE.Boolean_416AC3FE]
+[2025.11.22-18.38.11:009][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/rgowell/Boolean_416AC3FE]
+[2025.11.22-18.38.11:021][928]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/rgowell/Boolean_416AC3FE
+[2025.11.22-18.38.11:021][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Boolean_416AC3FEBAFCB369427A1624812CFF9B1CF1B8C6.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Levels/_GENERATED/rgowell/Boolean_416AC3FE.uasset'
+[2025.11.22-18.38.11:023][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/rgowell/Boolean_4ED423C7] ([1] browsable assets)...
+[2025.11.22-18.38.11:029][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_4ED423C7.Boolean_4ED423C7]
+[2025.11.22-18.38.11:029][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/rgowell/Boolean_4ED423C7]
+[2025.11.22-18.38.11:039][928]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/rgowell/Boolean_4ED423C7
+[2025.11.22-18.38.11:039][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Boolean_4ED423C789B5D6924E404F5DF1D379AF94262965.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Levels/_GENERATED/rgowell/Boolean_4ED423C7.uasset'
+[2025.11.22-18.38.11:040][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/rgowell/Boolean_CE67B1A4] ([1] browsable assets)...
+[2025.11.22-18.38.11:046][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/rgowell/Boolean_CE67B1A4.Boolean_CE67B1A4]
+[2025.11.22-18.38.11:046][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/rgowell/Boolean_CE67B1A4]
+[2025.11.22-18.38.11:056][928]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/rgowell/Boolean_CE67B1A4
+[2025.11.22-18.38.11:056][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Boolean_CE67B1A4BBE3ED7040F0F1F5513B32A92C3CBA78.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Levels/_GENERATED/rgowell/Boolean_CE67B1A4.uasset'
+[2025.11.22-18.38.11:057][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/rgowell/Box_09844F6E] ([1] browsable assets)...
+[2025.11.22-18.38.11:063][928]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/rgowell/Box_09844F6E.Box_09844F6E]
+[2025.11.22-18.38.11:063][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/rgowell/Box_09844F6E]
+[2025.11.22-18.38.11:071][928]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/rgowell/Box_09844F6E
+[2025.11.22-18.38.11:071][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Box_09844F6E5F2CEBFC4BBEC808094FFF998F8FAD2C.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Levels/_GENERATED/rgowell/Box_09844F6E.uasset'
+[2025.11.22-18.38.11:078][928]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/L_LevelOne/1/Y2/N6O8YSYLSVSDEQSH9BUJS1
+[2025.11.22-18.38.11:078][928]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/N6O8YSYLSVSDEQSH9BUJS11EE382484BFAD4BEDFA7A08EC99F005D.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/1/Y2/N6O8YSYLSVSDEQSH9BUJS1.uasset'
+[2025.11.22-18.38.11:087][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.586 ms (total: 3.41 sec)
+[2025.11.22-18.38.11:144][928]LogContentValidation: Display: Starting to validate 15 assets
+[2025.11.22-18.38.11:145][928]LogContentValidation: Enabled validators:
+[2025.11.22-18.38.11:145][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.22-18.38.11:145][928]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.22-18.38.11:145][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.22-18.38.11:145][928]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.22-18.38.11:145][928]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.22-18.38.11:145][928]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.22-18.38.11:145][928]AssetCheck: /Game/Levels/_GENERATED/rgowell/Boolean_416AC3FE Validating asset
+[2025.11.22-18.38.11:145][928]AssetCheck: /Game/Levels/_GENERATED/rgowell/Boolean_4ED423C7 Validating asset
+[2025.11.22-18.38.11:145][928]AssetCheck: /Game/Levels/_GENERATED/rgowell/Boolean_CE67B1A4 Validating asset
+[2025.11.22-18.38.11:145][928]AssetCheck: /Game/Levels/_GENERATED/rgowell/Box_09844F6E Validating asset
+[2025.11.22-18.38.11:145][928]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.22-18.38.11:174][928]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
