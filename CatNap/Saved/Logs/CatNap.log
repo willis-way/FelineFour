@@ -3482,3 +3482,115 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.22-18.50.19:449][254]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.11.22-18.50.19:449][254]AssetCheck: /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0 Validating asset
 [2025.11.22-18.50.19:483][254]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.22-18.50.54:749][759]LogFab: Display: Asset Type = unreal-engine
+[2025.11.22-18.50.54:749][759]LogFab: Display: Is Quixel = 0
+[2025.11.22-18.50.54:749][759]LogFab: Display: Base Url https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/AnimalsFf74545ae782cV2/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/AnimalsFf74545ae782cV2/CloudDir,https://fastly-download.epicgames.com/Builds/Rocket/Automated/AnimalsFf74545ae782cV2/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/AnimalsFf74545ae782cV2/CloudDir
+[2025.11.22-18.51.07:635][894]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11893.166992
+[2025.11.22-18.51.07:711][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.51.07:711][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11893.232422, Update Interval: 307.172455
+[2025.11.22-18.51.33:179][217]LogSlate: Window 'Fab' being destroyed
+[2025.11.22-18.51.33:184][217]LogSlate: Window 'Fab' being destroyed
+[2025.11.22-18.51.34:680][349]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.11.22-18.51.34:680][349]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/search?is_free=1&q=stylized+animal.
+[2025.11.22-18.51.51:364][ 15]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.22-18.51.51:370][ 15]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.22-18.51.51:370][ 15]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.11.22-18.51.51:374][ 15]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 3.984 ms
+[2025.11.22-18.51.51:376][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.22-18.51.51:380][ 15]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2025.11.22-18.51.51:382][ 15]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.11.22-18.51.51:414][ 16]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.11.22-18.51.51:442][ 16]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.22-18.51.51:447][ 16]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.398 ms
+[2025.11.22-18.51.51:447][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033498s)
+[2025.11.22-18.51.51:447][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.033587s)
+[2025.11.22-18.51.51:461][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.11.22-18.51.51:466][ 16]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.11.22-18.51.51:468][ 16]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.22-18.51.51:468][ 16]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.22-18.51.51:468][ 16]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.22-18.51.51:468][ 16]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.22-18.51.51:474][ 16]LogWorldPartition: Display: WorldPartition initialize took 5.996 ms (total: 1.47 sec)
+[2025.11.22-18.51.51:474][ 16]LogPlayLevel: PIE: World Init took: (0.008808s)
+[2025.11.22-18.51.51:476][ 16]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.11.22-18.51.51:476][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.22-18.51.51:476][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.22-18.51.51:476][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.22-18.51.51:476][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.22-18.51.51:476][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.22-18.51.51:476][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.22-18.51.51:476][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.22-18.51.51:476][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.22-18.51.51:476][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.22-18.51.51:476][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.22-18.51.51:476][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.22-18.51.51:478][ 16]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.22-18.51.51:489][ 16]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2025.11.22-18.51.51:489][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.22-18.51.51:489][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.22-18.51.51:489][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.22-18.51.51:490][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.11.22-18.51.51:490][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.11.22-18.51.51:492][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.11.22-18.51.51:492][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.11.22-18.51.51:492][ 16]LogInit: FAudioDevice initialized with ID 2.
+[2025.11.22-18.51.51:492][ 16]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_LevelOne'.
+[2025.11.22-18.51.51:492][ 16]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.11.22-18.51.51:502][ 16]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.22-18.51.51:515][ 16]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.11.22-13.51.51
+[2025.11.22-18.51.51:516][ 16]LogWorld: Bringing up level for play took: 0.012889
+[2025.11.22-18.51.51:549][ 16]PIE: Server logged in
+[2025.11.22-18.51.51:551][ 16]PIE: Play in editor total start time 0.183 seconds.
+[2025.11.22-18.51.51:628][ 17]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.22-18.52.00:973][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.22-18.52.00:973][ 38]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.11.22-18.52.00:974][ 38]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.11.22-18.52.00:977][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.22-18.52.00:978][ 38]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.11.22-18.52.00:979][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.22-18.52.00:982][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.22-18.52.00:997][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.22-18.52.00:998][ 38]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.11.22-18.52.00:998][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.11.22-18.52.00:999][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.11.22-18.52.01:007][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.22-18.52.01:078][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.11.22-18.52.01:173][ 41]LogPSOHitching: Encountered 700 PSO creation hitches so far (279 graphics, 421 compute). 0 of them were precached.
+[2025.11.22-18.52.02:894][185]LogStreaming: Display: FlushAsyncLoading(873): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.52.02:909][185]LogSkeletalMesh: Building Skeletal Mesh SKM_Deer_001...
+[2025.11.22-18.52.02:915][185]LogTexture: Display: Building textures: /Game/Animals_Free/Textures/T_Textures.T_Textures (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.52.02:929][185]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001
+[2025.11.22-18.52.02:950][185]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001
+[2025.11.22-18.52.02:950][185]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001
+[2025.11.22-18.52.02:951][185]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001 as actor: SkeletalMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.SkeletalMeshActor_0
+[2025.11.22-18.52.02:952][185]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001 as actor: SkeletalMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.SkeletalMeshActor_0
+[2025.11.22-18.52.02:955][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.22-18.52.03:116][189]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.11.22-18.52.03:689][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.11.22-18.52.03:691][249]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.11.22-18.52.03:699][249]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001
+[2025.11.22-18.52.03:699][249]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001
+[2025.11.22-18.52.03:701][249]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001 as actor: SkeletalMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.SkeletalMeshActor_UAID_047C162859D499A402_2049847701
+[2025.11.22-18.52.03:702][249]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Animals_Free/Animals/Meshes/SKM_Deer_001.SKM_Deer_001 as actor: SkeletalMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.SkeletalMeshActor_UAID_047C162859D499A402_2049847701
+[2025.11.22-18.52.07:127][603]Cmd: TRANSACTION UNDO
+[2025.11.22-18.52.07:127][603]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.22-18.52.12:709][160]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.52.17:388][676]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.52.33:014][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.22-18.52.34:189][293]LogSlate: Window 'Save Content' being destroyed
+[2025.11.22-18.52.34:200][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.22-18.52.34:242][293]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/F6/Z8TKTGP34PO6099Z1EKAK6
+[2025.11.22-18.52.34:242][293]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Z8TKTGP34PO6099Z1EKAK64F2467C24CC9B61000DD52A59CD3021F.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/F6/Z8TKTGP34PO6099Z1EKAK6.uasset'
+[2025.11.22-18.52.34:249][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.327 ms (total: 4.19 sec)
+[2025.11.22-18.52.34:302][293]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.22-18.52.34:302][293]LogContentValidation: Enabled validators:
+[2025.11.22-18.52.34:302][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.22-18.52.34:302][293]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.22-18.52.34:302][293]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.22-18.52.34:302][293]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.22-18.52.34:302][293]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.22-18.52.34:302][293]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.22-18.52.34:302][293]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.22-18.52.34:331][293]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
