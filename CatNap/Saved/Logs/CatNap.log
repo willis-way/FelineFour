@@ -2680,3 +2680,286 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.22-18.18.07:984][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/House_Models/Blue_House_Mat_Auto4
 [2025.11.22-18.18.07:984][806]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Blue_House_Mat_Auto40438FA8C4F3057D5FB8D9DA413831796.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Characters/House_Models/Blue_House_Mat_Auto4.uasset'
 [2025.11.22-18.18.07:985][806]LogFileHelpers: Auto-saving content packages took 0.239
+[2025.11.22-18.18.32:675][270]LogFab: Display: Logging in using persist
+[2025.11.22-18.18.32:721][270]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2025.11.22-18.18.32:722][270]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.11.22-18.18.32:906][277]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 90b...80a Access[Expires: 2025.11.22-20.18.32 Remaining: 7200.87] Refresh[Expires: 2026-05-21T18:18:32.872Z Remaining: 15552000.87] State: Valid
+[2025.11.22-18.18.32:923][278]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.11.22-18.18.33:019][288]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.11.22-18.18.33:019][288]LogFab: Display: User logged in
+[2025.11.22-18.18.33:019][288]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.11.22-18.18.33:153][302]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-4usw6DGZMECl47BEco057g-9FqZlFz2GUGGUw5dTJeOxA]
+[2025.11.22-18.19.15:900][595]LogFab: Display: Asset Type = glb
+[2025.11.22-18.19.15:900][595]LogFab: Display: Is Quixel = 0
+[2025.11.22-18.19.16:473][605]LogStreaming: Display: FlushAsyncLoading(787): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.19.16:894][605]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.11.22-18.19.16:895][605]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/AppData/Local/Temp/FabLibrary/8193ec09-619a-4963-a937-8776d102d494/lamps_pack.glb]
+[2025.11.22-18.19.16:946][607]LogStreaming: Display: FlushAsyncLoading(821): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.19.16:987][612]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.19.16:997][613]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.19.17:025][615]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.19.17:064][616]LogTexture: Display: Building textures: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_0.lamps_pack_texture_0 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.19.17:064][616]LogTexture: Display: Building textures: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_2.lamps_pack_texture_2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.19.17:064][616]LogTexture: Display: Building textures: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_1.lamps_pack_texture_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.19.17:064][616]LogTexture: Display: Building textures: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_4.lamps_pack_texture_4 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.19.17:068][616]LogTexture: Display: Building textures: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_3.lamps_pack_texture_3 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.19.17:131][617]LogStaticMesh: Display: Building static mesh lamps_pack (Required Memory Estimate: 5.811528 MB)...
+[2025.11.22-18.19.17:192][620]LogStaticMesh: Built static mesh [0.06s] /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack
+[2025.11.22-18.19.17:292][623]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/App...63-a937-8776d102d494/lamps_pack.glb]
+[2025.11.22-18.19.40:389][930]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10004.867188
+[2025.11.22-18.19.40:479][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.19.40:479][939]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10004.946289, Update Interval: 306.533417
+[2025.11.22-18.20.07:934][641]LogFab: Display: Asset Type = unreal-engine
+[2025.11.22-18.20.07:934][641]LogFab: Display: Is Quixel = 0
+[2025.11.22-18.20.07:934][641]LogFab: Display: Base Url https://download.epicgames.com/Builds/Rocket/Automated/Stylizedbe007f1d3909V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Stylizedbe007f1d3909V1/CloudDir,https://fastly-download.epicgames.com/Builds/Rocket/Automated/Stylizedbe007f1d3909V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/Stylizedbe007f1d3909V1/CloudDir
+[2025.11.22-18.20.09:031][704]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.11.22-18.20.09:031][704]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.11.22-18.20.09:032][704]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Developers/rgowell/Collections/' because it could not be accessed. Aborting watch request...
+[2025.11.22-18.22.54:895][758]LogFab: Display: Asset Type = glb
+[2025.11.22-18.22.54:895][758]LogFab: Display: Is Quixel = 0
+[2025.11.22-18.22.55:458][765]LogStreaming: Display: FlushAsyncLoading(829): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.22.55:458][765]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.11.22-18.22.55:458][765]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/AppData/Local/Temp/FabLibrary/363565d8-ad55-4e1f-ac2f-fe02a24972d5/well.glb]
+[2025.11.22-18.22.55:511][768]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.22.55:532][770]LogStreaming: Display: FlushAsyncLoading(839): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.22.55:689][772]LogStaticMesh: Display: Building static mesh well (Required Memory Estimate: 13.801578 MB)...
+[2025.11.22-18.22.55:770][779]LogStaticMesh: Built static mesh [0.08s] /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.well
+[2025.11.22-18.22.57:317][781]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 51% occupied, 0 triangles, well
+[2025.11.22-18.22.57:329][782]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/App...1f-ac2f-fe02a24972d5/well.glb]
+[2025.11.22-18.22.59:246][935]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 51% occupied, 0 triangles, well
+[2025.11.22-18.23.06:486][700]LogPSOHitching: Encountered 500 PSO creation hitches so far (179 graphics, 321 compute). 0 of them were precached.
+[2025.11.22-18.23.07:012][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.well
+[2025.11.22-18.23.07:012][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.well
+[2025.11.22-18.23.07:012][722]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.well as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_4
+[2025.11.22-18.23.07:628][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.22-18.23.07:629][784]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2025.11.22-18.23.07:638][784]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.well
+[2025.11.22-18.23.07:639][784]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.well
+[2025.11.22-18.23.07:640][784]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.well as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D498A402_1387529500
+[2025.11.22-18.23.08:372][845]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.23.13:463][420]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.23.14:825][561]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D498A402_1387529500.StaticMeshComponent0.
+[2025.11.22-18.23.16:819][783]Cmd: TRANSACTION UNDO
+[2025.11.22-18.23.16:819][783]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.23.28:406][958]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.23.37:508][872]LogNavigationDirtyArea: Warning: Skipped some dirty area creation due to: 0 invalid bounds, 1 empty bounds (element: StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D498A402_1387529500.StaticMeshComponent0, from: Addition to navoctree)
+[2025.11.22-18.23.38:092][933]LogNavigationDirtyArea: Warning: Skipped some dirty area creation due to: 0 invalid bounds, 1 empty bounds (element: StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D498A402_1387529500.StaticMeshComponent0, from: Remove from navoctree)
+[2025.11.22-18.23.41:498][283]Cmd: MODE SCALEGRID=0
+[2025.11.22-18.23.45:335][685]Cmd: TRANSACTION UNDO
+[2025.11.22-18.23.45:336][685]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.23.46:503][757]Cmd: TRANSACTION UNDO
+[2025.11.22-18.23.46:503][757]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.23.49:252][ 38]Cmd: TRANSACTION UNDO
+[2025.11.22-18.23.49:252][ 38]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.23.52:743][334]Cmd: TRANSACTION UNDO
+[2025.11.22-18.23.52:743][334]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.23.58:855][950]Cmd: DELETE
+[2025.11.22-18.23.58:855][950]Cmd: ACTOR DELETE
+[2025.11.22-18.23.58:864][950]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.23.58:882][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.11.22-18.23.58:884][950]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.11.22-18.24.14:422][546]Cmd: DELETE
+[2025.11.22-18.24.14:422][546]Cmd: ACTOR DELETE
+[2025.11.22-18.24.14:424][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.24.14:441][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.11.22-18.24.14:443][546]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.11.22-18.24.15:302][644]Cmd: TRANSACTION UNDO
+[2025.11.22-18.24.15:303][644]LogEditorTransaction: Undo Delete Elements
+[2025.11.22-18.24.15:594][646]Cmd: TRANSACTION UNDO
+[2025.11.22-18.24.15:594][646]LogEditorTransaction: Undo Rotate Elements
+[2025.11.22-18.24.26:606][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.22-18.24.27:716][776]LogSlate: Window 'Save Content' being destroyed
+[2025.11.22-18.24.27:725][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.22-18.24.27:792][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.11.22-18.24.27:804][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.22-18.24.27:818][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.22-18.24.27:818][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/House_Models/BLUE1] ([1] browsable assets)...
+[2025.11.22-18.24.27:818][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/BLUE1]
+[2025.11.22-18.24.27:818][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/House_Models/BLUE1" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/BLUE1.uasset" SILENT=true
+[2025.11.22-18.24.27:836][776]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/BLUE1
+[2025.11.22-18.24.27:836][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/BLUE113A67A7A4674A62FB67C3B8F4642344E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/BLUE1.uasset'
+[2025.11.22-18.24.27:843][776]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/CT/9W99PGTN7TKZE4BV4PKME9
+[2025.11.22-18.24.27:843][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/9W99PGTN7TKZE4BV4PKME9667E70E448FD0899D6039896EFCE0B9E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/CT/9W99PGTN7TKZE4BV4PKME9.uasset'
+[2025.11.22-18.24.27:844][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/House_Models/Blue_House] ([1] browsable assets)...
+[2025.11.22-18.24.27:844][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Blue_House]
+[2025.11.22-18.24.27:867][776]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Blue_House
+[2025.11.22-18.24.27:867][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Blue_House0E52BD5646A70DEF0A9DF7ADC840D7F8.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Blue_House.uasset'
+[2025.11.22-18.24.27:868][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/House_Models/Blue_House_Mat] ([1] browsable assets)...
+[2025.11.22-18.24.27:868][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Blue_House_Mat]
+[2025.11.22-18.24.27:875][776]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Blue_House_Mat
+[2025.11.22-18.24.27:875][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Blue_House_Mat45F3743341B561B241B6189C9F6D920D.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Blue_House_Mat.uasset'
+[2025.11.22-18.24.27:881][776]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/8J/LETES2P6DF7W5YAIH73AOI
+[2025.11.22-18.24.27:882][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/LETES2P6DF7W5YAIH73AOIF09D86FC49B8FF1B8CED2CB69015AEA0.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/8J/LETES2P6DF7W5YAIH73AOI.uasset'
+[2025.11.22-18.24.27:883][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Lamps_Pack/lamps_pack/Materials/Metal] ([1] browsable assets)...
+[2025.11.22-18.24.27:931][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Lamps_Pack/lamps_pack/Materials/Metal.Metal]
+[2025.11.22-18.24.27:931][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lamps_Pack/lamps_pack/Materials/Metal]
+[2025.11.22-18.24.27:940][776]LogSavePackage: Moving output files for package: /Game/Fab/Lamps_Pack/lamps_pack/Materials/Metal
+[2025.11.22-18.24.27:940][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Metal01AF3FAD47928ADBA321F2BC35DD90A0.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Lamps_Pack/lamps_pack/Materials/Metal.uasset'
+[2025.11.22-18.24.27:941][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/House_Models/blue] ([1] browsable assets)...
+[2025.11.22-18.24.27:941][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/blue]
+[2025.11.22-18.24.27:941][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/House_Models/blue" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/blue.uasset" SILENT=true
+[2025.11.22-18.24.27:947][776]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/blue
+[2025.11.22-18.24.27:947][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/blue8A57E5A1493CA87BDE60D6B29308FF72.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/blue.uasset'
+[2025.11.22-18.24.27:948][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack] ([1] browsable assets)...
+[2025.11.22-18.24.27:957][776]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.lamps_pack]
+[2025.11.22-18.24.27:957][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack]
+[2025.11.22-18.24.27:971][776]LogSavePackage: Moving output files for package: /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack
+[2025.11.22-18.24.27:971][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/lamps_pack2CEF28F1449F79B388C475AD555A31BD.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack.uasset'
+[2025.11.22-18.24.27:972][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_0] ([1] browsable assets)...
+[2025.11.22-18.24.27:983][776]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_0.lamps_pack_texture_0]
+[2025.11.22-18.24.27:983][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_0]
+[2025.11.22-18.24.28:017][776]LogSavePackage: Moving output files for package: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_0
+[2025.11.22-18.24.28:017][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/lamps_pack_texture_01D7D120B48B55F5F481C5882888C2C2F.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_0.uasset'
+[2025.11.22-18.24.28:018][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_1] ([1] browsable assets)...
+[2025.11.22-18.24.28:020][776]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_1.lamps_pack_texture_1]
+[2025.11.22-18.24.28:020][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_1]
+[2025.11.22-18.24.28:046][776]LogSavePackage: Moving output files for package: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_1
+[2025.11.22-18.24.28:046][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/lamps_pack_texture_173F16030496C1A8BCE6ACCB83B71A2B0.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_1.uasset'
+[2025.11.22-18.24.28:047][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_2] ([1] browsable assets)...
+[2025.11.22-18.24.28:048][776]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_2.lamps_pack_texture_2]
+[2025.11.22-18.24.28:048][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_2]
+[2025.11.22-18.24.28:073][776]LogSavePackage: Moving output files for package: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_2
+[2025.11.22-18.24.28:073][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/lamps_pack_texture_2E4D0C048486518D56D7B6DBF16A1D361.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_2.uasset'
+[2025.11.22-18.24.28:074][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_3] ([1] browsable assets)...
+[2025.11.22-18.24.28:076][776]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_3.lamps_pack_texture_3]
+[2025.11.22-18.24.28:076][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_3]
+[2025.11.22-18.24.28:103][776]LogSavePackage: Moving output files for package: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_3
+[2025.11.22-18.24.28:103][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/lamps_pack_texture_38F5E090B435C82F79BC857AC653C5A84.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_3.uasset'
+[2025.11.22-18.24.28:104][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_4] ([1] browsable assets)...
+[2025.11.22-18.24.28:107][776]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_4.lamps_pack_texture_4]
+[2025.11.22-18.24.28:107][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_4]
+[2025.11.22-18.24.28:136][776]LogSavePackage: Moving output files for package: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_4
+[2025.11.22-18.24.28:136][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/lamps_pack_texture_42EB96AF1498DFD3F5C8337A9B88C49A2.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_4.uasset'
+[2025.11.22-18.24.28:137][776]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lamps_Pack/lamps_pack/Materials/material] ([1] browsable assets)...
+[2025.11.22-18.24.28:137][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lamps_Pack/lamps_pack/Materials/material]
+[2025.11.22-18.24.28:149][776]LogSavePackage: Moving output files for package: /Game/Fab/Lamps_Pack/lamps_pack/Materials/material
+[2025.11.22-18.24.28:149][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/material4F0AFBC84AAF4E7FFF201FAA605C79DD.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Lamps_Pack/lamps_pack/Materials/material.uasset'
+[2025.11.22-18.24.28:150][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/rope] ([1] browsable assets)...
+[2025.11.22-18.24.28:158][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/rope.rope]
+[2025.11.22-18.24.28:158][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/rope]
+[2025.11.22-18.24.28:171][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/rope
+[2025.11.22-18.24.28:171][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/rope49EAC9284A0FA496668B4B846A94CB15.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/rope.uasset'
+[2025.11.22-18.24.28:172][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_1] ([1] browsable assets)...
+[2025.11.22-18.24.28:181][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_1.stone_1]
+[2025.11.22-18.24.28:181][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_1]
+[2025.11.22-18.24.28:191][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_1
+[2025.11.22-18.24.28:191][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/stone_1596868044407A82B601EDDA327800DCF.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_1.uasset'
+[2025.11.22-18.24.28:194][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2] ([1] browsable assets)...
+[2025.11.22-18.24.28:204][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2.stone_2]
+[2025.11.22-18.24.28:204][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2]
+[2025.11.22-18.24.28:218][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2
+[2025.11.22-18.24.28:218][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/stone_2A696383141D7AB16192B2999DA323C33.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2.uasset'
+[2025.11.22-18.24.28:220][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2_001] ([1] browsable assets)...
+[2025.11.22-18.24.28:228][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2_001.stone_2_001]
+[2025.11.22-18.24.28:228][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2_001]
+[2025.11.22-18.24.28:243][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2_001
+[2025.11.22-18.24.28:243][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/stone_2_001B262F19C4DD69599868903A0CBD158FE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2_001.uasset'
+[2025.11.22-18.24.28:244][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_3] ([1] browsable assets)...
+[2025.11.22-18.24.28:254][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_3.stone_3]
+[2025.11.22-18.24.28:254][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_3]
+[2025.11.22-18.24.28:266][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_3
+[2025.11.22-18.24.28:266][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/stone_33D8288B54DF6229A61B060BC173E36C1.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_3.uasset'
+[2025.11.22-18.24.28:267][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_1] ([1] browsable assets)...
+[2025.11.22-18.24.28:279][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_1.tile_1]
+[2025.11.22-18.24.28:279][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_1]
+[2025.11.22-18.24.28:293][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_1
+[2025.11.22-18.24.28:294][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/tile_131A6262A4D35652746DD938EE98AB462.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_1.uasset'
+[2025.11.22-18.24.28:295][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_2] ([1] browsable assets)...
+[2025.11.22-18.24.28:305][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_2.tile_2]
+[2025.11.22-18.24.28:305][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_2]
+[2025.11.22-18.24.28:317][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_2
+[2025.11.22-18.24.28:317][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/tile_205CFF20A4024747734B748BEC1CE29CF.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_2.uasset'
+[2025.11.22-18.24.28:318][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_3] ([1] browsable assets)...
+[2025.11.22-18.24.28:328][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_3.tile_3]
+[2025.11.22-18.24.28:328][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_3]
+[2025.11.22-18.24.28:341][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_3
+[2025.11.22-18.24.28:341][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/tile_3BCA27CDA4F4C95C751C94FA5EC49E9AB.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_3.uasset'
+[2025.11.22-18.24.28:343][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well] ([1] browsable assets)...
+[2025.11.22-18.24.28:353][776]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.well]
+[2025.11.22-18.24.28:353][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well]
+[2025.11.22-18.24.28:374][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well
+[2025.11.22-18.24.28:374][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/well85C972524647F61F47E4A296B5979F16.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well.uasset'
+[2025.11.22-18.24.28:388][776]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/41/207KTTA0FCLQ3M6JKM2C8Z
+[2025.11.22-18.24.28:388][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/207KTTA0FCLQ3M6JKM2C8Z63281D374279779500AAF09ADFE693BD.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/41/207KTTA0FCLQ3M6JKM2C8Z.uasset'
+[2025.11.22-18.24.28:389][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/wood_1] ([1] browsable assets)...
+[2025.11.22-18.24.28:400][776]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/wood_1.wood_1]
+[2025.11.22-18.24.28:400][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/A_Stylized_Outdoor_Well/well/Materials/wood_1]
+[2025.11.22-18.24.28:413][776]LogSavePackage: Moving output files for package: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/wood_1
+[2025.11.22-18.24.28:413][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/wood_1A11CB07E4F6447F036519FBBB2A262F1.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/A_Stylized_Outdoor_Well/well/Materials/wood_1.uasset'
+[2025.11.22-18.24.28:424][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 698.149 ms (total: 2.87 sec)
+[2025.11.22-18.24.28:481][776]LogContentValidation: Display: Starting to validate 25 assets
+[2025.11.22-18.24.28:481][776]LogContentValidation: Enabled validators:
+[2025.11.22-18.24.28:481][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.22-18.24.28:481][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.22-18.24.28:481][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.22-18.24.28:481][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.22-18.24.28:481][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.22-18.24.28:481][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Characters/House_Models/BLUE1 Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Characters/House_Models/Blue_House Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Characters/House_Models/Blue_House_Mat Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/Lamps_Pack/lamps_pack/Materials/Metal Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Characters/House_Models/blue Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/Lamps_Pack/lamps_pack/StaticMeshes/lamps_pack Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_0 Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_1 Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_2 Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_3 Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/Lamps_Pack/lamps_pack/Textures/lamps_pack_texture_4 Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/Lamps_Pack/lamps_pack/Materials/material Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/rope Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_1 Validating asset
+[2025.11.22-18.24.28:481][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2 Validating asset
+[2025.11.22-18.24.28:482][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_2_001 Validating asset
+[2025.11.22-18.24.28:482][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/stone_3 Validating asset
+[2025.11.22-18.24.28:482][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_1 Validating asset
+[2025.11.22-18.24.28:482][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_2 Validating asset
+[2025.11.22-18.24.28:482][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/tile_3 Validating asset
+[2025.11.22-18.24.28:482][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/StaticMeshes/well Validating asset
+[2025.11.22-18.24.28:482][776]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.22-18.24.28:482][776]AssetCheck: /Game/Fab/A_Stylized_Outdoor_Well/well/Materials/wood_1 Validating asset
+[2025.11.22-18.24.28:523][776]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.22-18.25.36:981][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10361.593750
+[2025.11.22-18.25.37:981][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.25.37:981][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10362.260742, Update Interval: 345.021515
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: ================================================
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Total job queries 975, among them cache hits 420 (43.08%), DDC hits 333 (34.15%), Duplicates 193 (19.79%)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Tracking 362 distinct input hashes that result in 259 distinct outputs (71.55%)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: RAM used: 3.50 MiB of 1.60 GiB budget. Usage: 0.21%
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Shaders Compiled: 29
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Jobs assigned 29, completed 29 (100%)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Average time worker was idle: 4162.26 s
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 0.65 s
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 1.95 s
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Job life time (pending + execution): average 1.17 s, max 2.20
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Shader code size: total 336.596 KiB, numShaders 33, average 10.199 KiB, min 2.934 KiB, max 19.422 KiB
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.21 s
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Average processing rate: 4.02 jobs/sec
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Total thread time: 23.314 s
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Total thread preprocess time: 12.862 s
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Percentage time preprocessing: 55.17%
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Effective parallelization: 3.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.323172
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.69 sec, max 1.69 sec, min 1.69 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.46 sec, max 1.66 sec, min 1.26 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.10 sec, max 1.28 sec, min 0.91 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.93% of total time (compiled    5 times, average 0.98 sec, max 1.34 sec, min 0.70 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 12.53% of total time (compiled    2 times, average 1.46 sec, max 1.66 sec, min 1.26 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.40% of total time (compiled    2 times, average 1.10 sec, max 1.28 sec, min 0.91 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.41% of total time (compiled    4 times, average 0.43 sec, max 0.56 sec, min 0.30 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 7.25% of total time (compiled    1 times, average 1.69 sec, max 1.69 sec, min 1.69 sec)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: === Material stats ===
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Materials Translated:    226
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Material Translation Only: 0.09 s (54%)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: Material Cache Hits: 23 (10%)
+[2025.11.22-18.27.05:105][617]LogShaderCompilers: Display: ================================================
