@@ -3405,3 +3405,80 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.22-18.47.02:182][785]AssetCheck: /Game/Characters/House_Models/well1 Validating asset
 [2025.11.22-18.47.02:182][785]AssetCheck: /Game/Characters/House_Models/well1_Mat Validating asset
 [2025.11.22-18.47.02:212][785]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.22-18.48.49:720][891]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.22-18.48.49:788][892]LogPSOHitching: Encountered 650 PSO creation hitches so far (265 graphics, 385 compute). 0 of them were precached.
+[2025.11.22-18.48.49:821][892]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.22-18.48.55:947][453]LogFab: Display: Asset Type = glb
+[2025.11.22-18.48.55:947][453]LogFab: Display: Is Quixel = 0
+[2025.11.22-18.49.01:202][944]LogStreaming: Display: FlushAsyncLoading(870): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.49.01:203][944]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.11.22-18.49.01:203][944]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/AppData/Local/Temp/FabLibrary/4fe107d4-f11b-4fcb-bfad-6d144b8adaae/espada_de_minecraft.glb]
+[2025.11.22-18.49.01:294][951]LogStreaming: Display: FlushAsyncLoading(871): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.49.02:799][  1]LogStreaming: Display: FlushAsyncLoading(872): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.49.13:787][625]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 6112.938477 MiB, MemoryLimit = 3253.53125 MiB 
+[2025.11.22-18.49.13:787][625]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 6112.938477 MiB, MemoryLimit = 3253.53125 MiB 
+[2025.11.22-18.49.13:788][625]LogStaticMesh: Display: Building static mesh espada_de_minecraft (Required Memory Estimate: 6112.938309 MB)...
+[2025.11.22-18.49.31:299][338]LogStaticMesh: Built static mesh [17.51s] /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.espada_de_minecraft
+[2025.11.22-18.49.37:211][981]LogStaticMesh: Warning: espada_de_minecraft has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.11.22-18.49.37:211][981]LogStaticMesh: Warning: espada_de_minecraft has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.11.22-18.49.39:218][982]LogMeshUtilities: Finished distance field build in 2.0s - 112x126x126 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 58% occupied, 0 triangles, espada_de_minecraft
+[2025.11.22-18.49.39:308][982]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 6112.938477 MiB, MemoryLimit = 2654.449219 MiB 
+[2025.11.22-18.49.39:308][982]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 6112.938477 MiB, MemoryLimit = 2654.449219 MiB 
+[2025.11.22-18.49.39:335][983]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/App...cb-bfad-6d144b8adaae/espada_de_minecraft.glb]
+[2025.11.22-18.49.45:736][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.49.47:520][731]LogMeshUtilities: Finished distance field build in 2.1s - 112x126x126 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 58% occupied, 0 triangles, espada_de_minecraft
+[2025.11.22-18.49.48:455][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.11.22-18.49.48:469][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/4/WP/LX77IYWLL62MXTA6R4JTCS_Auto5
+[2025.11.22-18.49.48:469][810]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/LX77IYWLL62MXTA6R4JTCS_Auto594F0D9EF40D47C65A13B76A3A0D43F6D.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/4/WP/LX77IYWLL62MXTA6R4JTCS_Auto5.uasset'
+[2025.11.22-18.49.48:469][810]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.069
+[2025.11.22-18.49.48:469][810]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2025.11.22-18.49.48:471][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0] ([1] browsable assets)...
+[2025.11.22-18.49.48:517][810]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0.material_0]
+[2025.11.22-18.49.48:517][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0]
+[2025.11.22-18.49.48:525][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0_Auto5
+[2025.11.22-18.49.48:526][810]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/material_0_Auto57672E597421D1B0E3C9E71AA664C4C12.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0_Auto5.uasset'
+[2025.11.22-18.49.48:527][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft] ([1] browsable assets)...
+[2025.11.22-18.49.48:540][810]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.espada_de_minecraft]
+[2025.11.22-18.49.48:540][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft]
+[2025.11.22-18.49.48:995][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft_Auto5
+[2025.11.22-18.49.48:995][810]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/espada_de_minecraft_Auto53679A76D417E65F4F3F1FC81F882BC3B.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft_Auto5.uasset'
+[2025.11.22-18.49.48:996][810]LogFileHelpers: Auto-saving content packages took 0.527
+[2025.11.22-18.49.50:527][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.espada_de_minecraft
+[2025.11.22-18.49.50:527][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.espada_de_minecraft
+[2025.11.22-18.49.50:527][940]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.espada_de_minecraft as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_7
+[2025.11.22-18.49.51:166][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.11.22-18.49.51:167][991]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.11.22-18.49.51:175][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.espada_de_minecraft
+[2025.11.22-18.49.51:175][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.espada_de_minecraft
+[2025.11.22-18.49.51:177][991]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.espada_de_minecraft as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D499A402_1917323700
+[2025.11.22-18.49.55:931][415]Cmd: TRANSACTION UNDO
+[2025.11.22-18.49.55:931][415]LogEditorTransaction: Undo Scale Elements
+[2025.11.22-18.49.59:387][649]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.50.17:479][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.22-18.50.18:853][254]LogSlate: Window 'Save Content' being destroyed
+[2025.11.22-18.50.18:862][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.22-18.50.18:925][254]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/WP/LX77IYWLL62MXTA6R4JTCS
+[2025.11.22-18.50.18:925][254]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/LX77IYWLL62MXTA6R4JTCS8B4218FC40B32AF889E1999A1D0E6BBB.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/WP/LX77IYWLL62MXTA6R4JTCS.uasset'
+[2025.11.22-18.50.18:925][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft] ([1] browsable assets)...
+[2025.11.22-18.50.18:925][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft]
+[2025.11.22-18.50.19:369][254]LogSavePackage: Moving output files for package: /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft
+[2025.11.22-18.50.19:369][254]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/espada_de_minecraftC6696DF141517546816622A04F94A4E9.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft.uasset'
+[2025.11.22-18.50.19:379][254]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/03/TZ5HXVFFJ8HILISJYAWN1Q
+[2025.11.22-18.50.19:379][254]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/TZ5HXVFFJ8HILISJYAWN1QED342E67445FE9B1FCB70BBCC9EC8255.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/03/TZ5HXVFFJ8HILISJYAWN1Q.uasset'
+[2025.11.22-18.50.19:380][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0] ([1] browsable assets)...
+[2025.11.22-18.50.19:380][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0]
+[2025.11.22-18.50.19:386][254]LogSavePackage: Moving output files for package: /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0
+[2025.11.22-18.50.19:386][254]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/material_0B85500544B882B214E50CF85F904DE5D.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0.uasset'
+[2025.11.22-18.50.19:394][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 531.426 ms (total: 4.14 sec)
+[2025.11.22-18.50.19:449][254]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.22-18.50.19:449][254]LogContentValidation: Enabled validators:
+[2025.11.22-18.50.19:449][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.22-18.50.19:449][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.22-18.50.19:449][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.22-18.50.19:449][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.22-18.50.19:449][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.22-18.50.19:449][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.22-18.50.19:449][254]AssetCheck: /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/StaticMeshes/espada_de_minecraft Validating asset
+[2025.11.22-18.50.19:449][254]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.22-18.50.19:449][254]AssetCheck: /Game/Fab/Espada_de_Minecraft/espada_de_minecraft/Materials/material_0 Validating asset
+[2025.11.22-18.50.19:483][254]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
