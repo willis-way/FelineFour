@@ -3300,3 +3300,108 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.22-18.38.11:145][928]AssetCheck: /Game/Levels/_GENERATED/rgowell/Box_09844F6E Validating asset
 [2025.11.22-18.38.11:145][928]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.11.22-18.38.11:174][928]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.22-18.38.55:190][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11160.612305
+[2025.11.22-18.38.55:257][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.38.55:257][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11160.670898, Update Interval: 332.216553
+[2025.11.22-18.45.14:829][ 94]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11540.455078
+[2025.11.22-18.45.15:829][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.22-18.45.15:829][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11541.122070, Update Interval: 304.235352
+[2025.11.22-18.45.53:347][679]LogStreaming: Display: FlushAsyncLoading(866): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.45.53:407][679]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/houses/Well.fbx]
+[2025.11.22-18.45.54:539][679]LogSlate: Window 'Import Content' being destroyed
+[2025.11.22-18.45.54:559][679]LogInterchangeEngine: [Pending] Importing
+[2025.11.22-18.45.54:764][680]LogStreaming: Display: FlushAsyncLoading(867): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.45.54:842][681]LogStreaming: Display: FlushAsyncLoading(869): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.22-18.45.54:955][683]LogStaticMesh: Display: Building static mesh Well12 (Required Memory Estimate: 6.23326 MB)...
+[2025.11.22-18.45.54:961][683]LogTexture: Display: Building textures: /Game/Characters/House_Models/well1.well1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.11.22-18.45.54:977][683]LogStaticMesh: Adjacency [0.00s], tris: 4058, UVs 1
+[2025.11.22-18.45.54:989][683]LogStaticMesh: Clustering [0.01s]. Ratio: 1.031250
+[2025.11.22-18.45.54:990][683]LogStaticMesh: Leaves [0.00s]
+[2025.11.22-18.45.55:080][684]LogStaticMesh: Reduce [0.09s]
+[2025.11.22-18.45.55:134][685]LogStaticMesh: Fallback [0.05s], num tris: 1204
+[2025.11.22-18.45.55:172][685]LogStaticMesh: Fallback [0.04s], num tris: 776
+[2025.11.22-18.45.55:173][685]LogStaticMesh: ConstrainClusters:
+[2025.11.22-18.45.55:173][685]LogStaticMesh:   Input: 64 Clusters, 7964 Triangles and 6454 Vertices
+[2025.11.22-18.45.55:173][685]LogStaticMesh:   Output without splits: 64 Clusters, 7964 Triangles and 6550 Vertices
+[2025.11.22-18.45.55:173][685]LogStaticMesh:   Output with splits: 64 Clusters, 7964 Triangles and 6550 Vertices
+[2025.11.22-18.45.55:173][685]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 64, Slow Path Clusters: 0, 1 Material: 64, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.22-18.45.55:174][685]LogStaticMesh: WritePages:
+[2025.11.22-18.45.55:174][685]LogStaticMesh:   Root: GPU size: 31436 bytes. 1 Pages. 31436.000 bytes per page (95.935% utilization).
+[2025.11.22-18.45.55:174][685]LogStaticMesh:   Streaming: GPU size: 51300 bytes. 1 Pages (1 with relative encoding). 51300.000 bytes per page (39.139% utilization).
+[2025.11.22-18.45.55:174][685]LogStaticMesh:   Page data disk size: 67616 bytes. Fixup data size: 352 bytes.
+[2025.11.22-18.45.55:174][685]LogStaticMesh:   Total GPU size: 82736 bytes, Total disk size: 67968 bytes.
+[2025.11.22-18.45.55:174][685]LogStaticMesh: Encode [0.00s]
+[2025.11.22-18.45.55:174][685]LogStaticMesh: NaniteBuild [0.20s]
+[2025.11.22-18.45.55:205][686]LogStaticMesh: Built static mesh [0.25s] /Game/Characters/House_Models/Well12.Well12
+[2025.11.22-18.45.55:284][688]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/houses/Well.fbx]
+[2025.11.22-18.45.55:284][688]Interchange: Warning: [C:/Users/rgowell/Desktop/houses/Well.fbx : '', Unknown] Renamed Assets: 
+ OriginalName:[/Game/Characters/House_Models/Well] NewName:[/Game/Characters/House_Models/Well2]
+[2025.11.22-18.45.55:284][688]Interchange: Warning: [C:/Users/rgowell/Desktop/houses/Well.fbx : 'Well12', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.22-18.45.55:292][688]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.22-18.45.55:292][688]LogInterchangeEngine: [Success] Import Done
+[2025.11.22-18.45.56:313][743]LogMaterial: Display: Material /Game/Characters/House_Models/Well.Well needed to have new flag set bUsedWithNanite !
+[2025.11.22-18.46.01:453][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/Well12.Well12
+[2025.11.22-18.46.01:453][174]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/Well12.Well12
+[2025.11.22-18.46.01:454][174]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/House_Models/Well12.Well12 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_6
+[2025.11.22-18.46.02:424][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.22-18.46.02:428][274]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.11.22-18.46.02:436][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/Well12.Well12
+[2025.11.22-18.46.02:436][274]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/House_Models/Well12.Well12
+[2025.11.22-18.46.02:438][274]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/House_Models/Well12.Well12 as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D499A402_1688584698
+[2025.11.22-18.46.03:529][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.46.30:150][985]Cmd: TRANSACTION UNDO
+[2025.11.22-18.46.30:150][985]LogEditorTransaction: Undo Place Objects
+[2025.11.22-18.46.31:770][100]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.11.22-18.46.36:274][501]LogMaterial: Display: Material /Game/Characters/House_Models/well1_Mat.well1_Mat needed to have new flag set bUsedWithNanite !
+[2025.11.22-18.46.36:278][501]LogShaderCompilers: Display: Cancelled job 0x0000018204898200 with pending SubmitJob call.
+[2025.11.22-18.46.36:279][501]LogShaderCompilers: Display: Cancelled job 0x0000018204895A00 with pending SubmitJob call.
+[2025.11.22-18.46.36:284][501]LogShaderCompilers: Display: Cancelled job 0x0000018204899600 with pending SubmitJob call.
+[2025.11.22-18.46.36:286][501]LogShaderCompilers: Display: Cancelled job 0x0000018204895000 with pending SubmitJob call.
+[2025.11.22-18.46.47:399][524]Cmd: DELETE
+[2025.11.22-18.46.47:399][524]Cmd: ACTOR DELETE
+[2025.11.22-18.46.47:403][524]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.22-18.46.47:417][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.11.22-18.46.47:421][524]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.11.22-18.47.00:529][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.11.22-18.47.01:926][785]LogSlate: Window 'Save Content' being destroyed
+[2025.11.22-18.47.01:935][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.22-18.47.01:983][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Well] ([1] browsable assets)...
+[2025.11.22-18.47.02:032][785]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/Well.Well]
+[2025.11.22-18.47.02:032][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Well]
+[2025.11.22-18.47.02:032][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/House_Models/Well" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Well.uasset" SILENT=true
+[2025.11.22-18.47.02:041][785]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Well
+[2025.11.22-18.47.02:041][785]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Well82AC6BC0437BE09841B555A248FBC1A7.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Well.uasset'
+[2025.11.22-18.47.02:042][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Well12] ([1] browsable assets)...
+[2025.11.22-18.47.02:051][785]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/House_Models/Well12.Well12]
+[2025.11.22-18.47.02:051][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Well12]
+[2025.11.22-18.47.02:051][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/House_Models/Well12" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Well12.uasset" SILENT=true
+[2025.11.22-18.47.02:062][785]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Well12
+[2025.11.22-18.47.02:062][785]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Well128FB5011F463C995C1B2E91B1899304B7.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Well12.uasset'
+[2025.11.22-18.47.02:070][785]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/WR/2UUUCTFNJSPNGBTELWSK7M
+[2025.11.22-18.47.02:070][785]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/2UUUCTFNJSPNGBTELWSK7MD48272244EFBDFA78A2C28BE9773A5E1.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/WR/2UUUCTFNJSPNGBTELWSK7M.uasset'
+[2025.11.22-18.47.02:070][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/well1] ([1] browsable assets)...
+[2025.11.22-18.47.02:072][785]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/House_Models/well1.well1]
+[2025.11.22-18.47.02:072][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/well1]
+[2025.11.22-18.47.02:072][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/House_Models/well1" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/well1.uasset" SILENT=true
+[2025.11.22-18.47.02:094][785]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/well1
+[2025.11.22-18.47.02:094][785]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/well1E68CC24342AEEC07444540938086C7E7.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/well1.uasset'
+[2025.11.22-18.47.02:095][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/well1_Mat] ([1] browsable assets)...
+[2025.11.22-18.47.02:102][785]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/well1_Mat.well1_Mat]
+[2025.11.22-18.47.02:102][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/well1_Mat]
+[2025.11.22-18.47.02:110][785]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/well1_Mat
+[2025.11.22-18.47.02:110][785]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/well1_Mat941C9EB840B2D87ECF110FB7333BECF1.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/well1_Mat.uasset'
+[2025.11.22-18.47.02:127][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.637 ms (total: 3.61 sec)
+[2025.11.22-18.47.02:181][785]LogContentValidation: Display: Starting to validate 5 assets
+[2025.11.22-18.47.02:181][785]LogContentValidation: Enabled validators:
+[2025.11.22-18.47.02:181][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.22-18.47.02:181][785]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.22-18.47.02:181][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.22-18.47.02:181][785]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.22-18.47.02:181][785]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.22-18.47.02:181][785]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.22-18.47.02:181][785]AssetCheck: /Game/Characters/House_Models/Well Validating asset
+[2025.11.22-18.47.02:181][785]AssetCheck: /Game/Characters/House_Models/Well12 Validating asset
+[2025.11.22-18.47.02:182][785]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.11.22-18.47.02:182][785]AssetCheck: /Game/Characters/House_Models/well1 Validating asset
+[2025.11.22-18.47.02:182][785]AssetCheck: /Game/Characters/House_Models/well1_Mat Validating asset
+[2025.11.22-18.47.02:212][785]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
