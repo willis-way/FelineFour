@@ -2369,3 +2369,171 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.01-22.12.32:754][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.01-22.12.32:755][385]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.12.01-22.12.32:802][385]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.01-22.14.19:844][308]LogStreaming: Display: FlushAsyncLoading(783): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.01-22.14.19:845][308]LogStaticMesh: Display: Building static mesh SM_BackgroundMountainA (Required Memory Estimate: 0.900802 MB)...
+[2025.12.01-22.14.19:870][308]LogStaticMesh: Built static mesh [0.02s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.12.01-22.14.19:977][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.12.01-22.14.19:977][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.12.01-22.14.19:978][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_0
+[2025.12.01-22.14.21:383][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.01-22.14.21:385][422]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.12.01-22.14.21:565][441]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.12.01-22.14.21:565][441]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.12.01-22.14.21:566][441]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_1
+[2025.12.01-22.14.22:178][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.12.01-22.14.22:180][502]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.12.01-22.14.22:184][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.12.01-22.14.22:184][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.12.01-22.14.22:186][502]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_CC28AA46D9E879A702_1514350469
+[2025.12.01-22.14.32:823][698]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.14.36:539][ 96]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.14.43:835][884]Cmd: DUPLICATE
+[2025.12.01-22.14.43:835][884]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.15.01:368][942]Cmd: DUPLICATE
+[2025.12.01-22.15.01:368][942]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.15.25:274][694]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.15.32:352][477]Cmd: DUPLICATE
+[2025.12.01-22.15.32:352][477]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.15.55:860][169]Cmd: DUPLICATE
+[2025.12.01-22.15.55:860][169]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.16.13:520][155]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.14:629][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.16:434][468]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.18:778][723]Cmd: DUPLICATE
+[2025.12.01-22.16.18:778][723]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.16.32:317][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.33:319][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.35:264][624]Cmd: DUPLICATE
+[2025.12.01-22.16.35:264][624]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.16.44:054][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1297.531494
+[2025.12.01-22.16.44:122][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.01-22.16.44:122][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1297.589844, Update Interval: 339.410980
+[2025.12.01-22.16.51:330][506]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.52:520][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.54:546][865]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.55:088][911]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.56:001][  9]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.16.58:298][254]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.17.08:916][337]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.17.23:409][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.17.24:077][ 61]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.17.29:233][640]Cmd: DUPLICATE
+[2025.12.01-22.17.29:233][640]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.18.00:485][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.01-22.18.00:490][141]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.01-22.18.00:490][141]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.01-22.18.00:492][141]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 2.882 ms (total: 26.071 ms)
+[2025.12.01-22.18.00:492][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.01-22.18.00:524][141]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2025.12.01-22.18.00:527][141]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.12.01-22.18.00:547][142]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.01-22.18.00:578][142]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.01-22.18.00:585][142]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.713 ms (total: 37.025 ms)
+[2025.12.01-22.18.00:585][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037794s)
+[2025.12.01-22.18.00:585][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.037831s)
+[2025.12.01-22.18.00:600][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.01-22.18.00:602][142]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.01-22.18.00:604][142]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.01-22.18.00:604][142]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.01-22.18.00:604][142]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.01-22.18.00:604][142]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.01-22.18.00:611][142]LogWorldPartition: Display: WorldPartition initialize took 7.016 ms (total: 516.938 ms)
+[2025.12.01-22.18.00:611][142]LogPlayLevel: PIE: World Init took: (0.008561s)
+[2025.12.01-22.18.00:611][142]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.01-22.18.00:611][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.01-22.18.00:611][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.01-22.18.00:611][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.01-22.18.00:611][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.01-22.18.00:611][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.01-22.18.00:611][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.01-22.18.00:611][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.01-22.18.00:611][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.01-22.18.00:611][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.01-22.18.00:611][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.01-22.18.00:612][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.01-22.18.00:613][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.01-22.18.00:650][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.01-22.18.00:650][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.01-22.18.00:650][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.01-22.18.00:650][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.01-22.18.00:651][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.01-22.18.00:651][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.01-22.18.00:652][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.01-22.18.00:652][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.01-22.18.00:652][142]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.01-22.18.00:652][142]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_LevelOne'.
+[2025.12.01-22.18.00:652][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.01-22.18.00:655][142]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.01-22.18.00:671][142]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.01-17.18.00
+[2025.12.01-22.18.00:671][142]LogWorld: Bringing up level for play took: 0.015511
+[2025.12.01-22.18.00:673][142]PIE: Server logged in
+[2025.12.01-22.18.00:675][142]PIE: Play in editor total start time 0.186 seconds.
+[2025.12.01-22.18.00:719][143]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.01-22.18.06:664][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-22.18.06:664][842]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.01-22.18.06:665][842]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.01-22.18.06:670][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-22.18.06:670][842]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.01-22.18.06:672][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.01-22.18.06:674][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.01-22.18.06:689][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.01-22.18.06:691][842]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.01-22.18.06:691][842]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.12.01-22.18.06:692][842]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.12.01-22.18.06:701][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.01-22.18.06:767][844]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.12.01-22.18.09:856][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.18.12:441][490]Cmd: DUPLICATE
+[2025.12.01-22.18.12:441][490]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.18.15:084][792]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.18.30:451][555]Cmd: DUPLICATE
+[2025.12.01-22.18.30:451][555]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.18.56:056][494]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.18.57:376][621]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.19.07:165][696]Cmd: DUPLICATE
+[2025.12.01-22.19.07:165][696]Cmd: ACTOR DUPLICATE
+[2025.12.01-22.19.13:268][368]Cmd: TRANSACTION UNDO
+[2025.12.01-22.19.13:268][368]LogEditorTransaction: Undo Move Elements
+[2025.12.01-22.19.14:490][469]Cmd: TRANSACTION UNDO
+[2025.12.01-22.19.14:490][469]LogEditorTransaction: Undo Move Elements
+[2025.12.01-22.19.16:924][725]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.19.22:615][363]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.01-22.19.53:943][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.01-22.19.53:950][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.01-22.19.53:983][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/OZ/T5D83HUCOE99F6VT5JXQY0
+[2025.12.01-22.19.53:983][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/T5D83HUCOE99F6VT5JXQY07B1AC602402D65F69F6A7EAD212B1357.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/OZ/T5D83HUCOE99F6VT5JXQY0.uasset'
+[2025.12.01-22.19.53:990][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/XL/UT3191BOKGQ6NB8C53262M
+[2025.12.01-22.19.53:990][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/UT3191BOKGQ6NB8C53262M2F3F4700467F941DF0A646A782D4D1E7.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/XL/UT3191BOKGQ6NB8C53262M.uasset'
+[2025.12.01-22.19.53:997][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/JR/8172YER4RK5SGSUY8YZFOO
+[2025.12.01-22.19.53:997][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/8172YER4RK5SGSUY8YZFOOE21CC7894752FF70D711259F89C53109.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/JR/8172YER4RK5SGSUY8YZFOO.uasset'
+[2025.12.01-22.19.54:004][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/LW/5A13I9V1PMNH0IMFO0GU3C
+[2025.12.01-22.19.54:004][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/5A13I9V1PMNH0IMFO0GU3C57A83C92477F51E4249EEF90A54E5354.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/LW/5A13I9V1PMNH0IMFO0GU3C.uasset'
+[2025.12.01-22.19.54:010][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/Z5/8SRNYOGRNZMEFQ69YT9F1F
+[2025.12.01-22.19.54:010][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/8SRNYOGRNZMEFQ69YT9F1FE1649D2549223F013D93BA9106FC00F0.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/Z5/8SRNYOGRNZMEFQ69YT9F1F.uasset'
+[2025.12.01-22.19.54:016][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/C/KS/G3P9Z8L03VOVI5QJBEQQI6
+[2025.12.01-22.19.54:016][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/G3P9Z8L03VOVI5QJBEQQI6AA06D1A94B5B41925D4D6BAB928E7242.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/KS/G3P9Z8L03VOVI5QJBEQQI6.uasset'
+[2025.12.01-22.19.54:022][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/OS/H1PL8384C5DBP2Z12SJ6OO
+[2025.12.01-22.19.54:022][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/H1PL8384C5DBP2Z12SJ6OO2F401C2C43787C82D0B4F3833FE3060D.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/OS/H1PL8384C5DBP2Z12SJ6OO.uasset'
+[2025.12.01-22.19.54:029][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/BF/EYW033ODS40PM7V7HEYQ6X
+[2025.12.01-22.19.54:029][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/EYW033ODS40PM7V7HEYQ6X6D58061044F2E0B44AF8CEBA24839B1B.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/BF/EYW033ODS40PM7V7HEYQ6X.uasset'
+[2025.12.01-22.19.54:036][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/1/9D/F40MG2GFW45JKJ5AOUFQ1C
+[2025.12.01-22.19.54:036][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/F40MG2GFW45JKJ5AOUFQ1CCF1D6C83471226213F567788B9551CF0.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/1/9D/F40MG2GFW45JKJ5AOUFQ1C.uasset'
+[2025.12.01-22.19.54:041][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/BP/CBK2AGRV738P8LKYZI3EOO
+[2025.12.01-22.19.54:041][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/CBK2AGRV738P8LKYZI3EOOE02F425341A5319785D685BA6779B05C.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/BP/CBK2AGRV738P8LKYZI3EOO.uasset'
+[2025.12.01-22.19.54:048][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/M8/J26G4NCL5ZBKMHQ7SZ9H1K
+[2025.12.01-22.19.54:048][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/J26G4NCL5ZBKMHQ7SZ9H1KAEE3477046FA3AE873A69ABB9617B6E7.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/M8/J26G4NCL5ZBKMHQ7SZ9H1K.uasset'
+[2025.12.01-22.19.54:054][839]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/XZ/IOX0BCKW84EU4QN39U6TZL
+[2025.12.01-22.19.54:054][839]LogSavePackage: Moving '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/IOX0BCKW84EU4QN39U6TZL2ACA78F14E326F29649D509B41579FBF.tmp' to '../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/XZ/IOX0BCKW84EU4QN39U6TZL.uasset'
+[2025.12.01-22.19.54:062][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.295 ms (total: 2.46 sec)
+[2025.12.01-22.19.54:088][839]LogContentValidation: Display: Starting to validate 12 assets
+[2025.12.01-22.19.54:088][839]LogContentValidation: Enabled validators:
+[2025.12.01-22.19.54:088][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.01-22.19.54:088][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.01-22.19.54:088][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.01-22.19.54:088][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.01-22.19.54:088][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.01-22.19.54:088][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.01-22.19.54:088][839]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.01-22.19.54:119][839]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sgbeh/Desktop/unreal/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
