@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/WB_PauseMenu.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Input/Actions/IA_PauseGame.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/Input/IMC_Default.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/ThirdPerson/Blueprints/BP_Cat_Character.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/3B/V8K77RE7A5Z0SKNZPI5A8R.uasset",
+				"C:/Users/rgowell/Desktop/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/GK/6VE6MTT89Y9BI75LFDRPXM.uasset",
 				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/5/P7/CSDU036K6YYY9WBWFVQGQX.uasset",
 				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/F/0Q/D705SQVQP8E98J4X33AJNE.uasset",
 				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalObjects__/Levels/L_LevelOne/B/D9/E3IGQV5QKOB1WPTKUYY5PM.uasset",
