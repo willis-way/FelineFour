@@ -5554,3 +5554,576 @@ FPackageName: Unable to identify a valid mount point associated with skipped pac
 [2025.12.03-16.12.33:619][938]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
 [2025.12.03-16.12.33:749][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.03-16.12.33:749][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4745.203613, Update Interval: 318.113342
+[2025.12.03-16.12.57:874][516]LogStreaming: Display: FlushAsyncLoading(11095): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.12.57:876][516]LogStaticMesh: Display: Building static mesh SM_Rose_Red_Open (Required Memory Estimate: 0.542062 MB)...
+[2025.12.03-16.12.57:877][516]LogStaticMesh: Adjacency [0.00s], tris: 338, UVs 1
+[2025.12.03-16.12.57:878][516]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.03-16.12.57:878][516]LogStaticMesh: Leaves [0.00s]
+[2025.12.03-16.12.57:883][516]LogStaticMesh: Reduce [0.01s]
+[2025.12.03-16.12.57:885][516]LogStaticMesh: Fallback [0.00s], num tris: 313
+[2025.12.03-16.12.57:887][516]LogStaticMesh: Fallback [0.00s], num tris: 275
+[2025.12.03-16.12.57:888][516]LogStaticMesh: ConstrainClusters:
+[2025.12.03-16.12.57:888][516]LogStaticMesh:   Input: 6 Clusters, 714 Triangles and 705 Vertices
+[2025.12.03-16.12.57:888][516]LogStaticMesh:   Output without splits: 6 Clusters, 714 Triangles and 705 Vertices
+[2025.12.03-16.12.57:888][516]LogStaticMesh:   Output with splits: 6 Clusters, 714 Triangles and 705 Vertices
+[2025.12.03-16.12.57:888][516]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 6, Slow Path Clusters: 0, 1 Material: 6, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.03-16.12.57:888][516]LogStaticMesh: WritePages:
+[2025.12.03-16.12.57:888][516]LogStaticMesh:   Root: GPU size: 8588 bytes. 1 Pages. 8588.000 bytes per page (26.208% utilization).
+[2025.12.03-16.12.57:888][516]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.03-16.12.57:888][516]LogStaticMesh:   Page data disk size: 7228 bytes. Fixup data size: 56 bytes.
+[2025.12.03-16.12.57:888][516]LogStaticMesh:   Total GPU size: 8588 bytes, Total disk size: 7284 bytes.
+[2025.12.03-16.12.57:888][516]LogStaticMesh: Encode [0.00s]
+[2025.12.03-16.12.57:888][516]LogStaticMesh: NaniteBuild [0.01s]
+[2025.12.03-16.12.57:896][516]LogStaticMesh: Built static mesh [0.02s] /Game/DEMOFlowerpack/StaticMesh/SM_Rose_Red_Open.SM_Rose_Red_Open
+[2025.12.03-16.12.58:099][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Rose_Red_Open.SM_Rose_Red_Open
+[2025.12.03-16.12.58:099][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Rose_Red_Open.SM_Rose_Red_Open
+[2025.12.03-16.12.58:100][518]LogActorFactory: Actor Factory spawned StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Rose_Red_Open.SM_Rose_Red_Open as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_4
+[2025.12.03-16.12.59:278][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.03-16.12.59:280][628]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.12.03-16.12.59:288][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Rose_Red_Open.SM_Rose_Red_Open
+[2025.12.03-16.12.59:288][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Rose_Red_Open.SM_Rose_Red_Open
+[2025.12.03-16.12.59:293][628]LogActorFactory: Actor Factory spawned StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Rose_Red_Open.SM_Rose_Red_Open as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C1628583C06A802_1233857464
+[2025.12.03-16.12.59:868][683]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.03-16.13.01:703][855]LogStreaming: Display: FlushAsyncLoading(11096): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.13.01:704][855]LogStaticMesh: Display: Building static mesh SM_Dandelion_Small (Required Memory Estimate: 0.306489 MB)...
+[2025.12.03-16.13.01:706][855]LogStaticMesh: Adjacency [0.00s], tris: 188, UVs 1
+[2025.12.03-16.13.01:706][855]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.12.03-16.13.01:706][855]LogStaticMesh: Leaves [0.00s]
+[2025.12.03-16.13.01:708][855]LogStaticMesh: Reduce [0.00s]
+[2025.12.03-16.13.01:708][855]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2025.12.03-16.13.01:709][855]LogStaticMesh: Fallback [0.00s], num tris: 188
+[2025.12.03-16.13.01:709][855]LogStaticMesh: ConstrainClusters:
+[2025.12.03-16.13.01:709][855]LogStaticMesh:   Input: 3 Clusters, 314 Triangles and 300 Vertices
+[2025.12.03-16.13.01:709][855]LogStaticMesh:   Output without splits: 3 Clusters, 314 Triangles and 300 Vertices
+[2025.12.03-16.13.01:709][855]LogStaticMesh:   Output with splits: 3 Clusters, 314 Triangles and 300 Vertices
+[2025.12.03-16.13.01:709][855]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.03-16.13.01:709][855]LogStaticMesh: WritePages:
+[2025.12.03-16.13.01:709][855]LogStaticMesh:   Root: GPU size: 3864 bytes. 1 Pages. 3864.000 bytes per page (11.792% utilization).
+[2025.12.03-16.13.01:709][855]LogStaticMesh:   Streaming: 0 bytes.
+[2025.12.03-16.13.01:709][855]LogStaticMesh:   Page data disk size: 3444 bytes. Fixup data size: 40 bytes.
+[2025.12.03-16.13.01:709][855]LogStaticMesh:   Total GPU size: 3864 bytes, Total disk size: 3484 bytes.
+[2025.12.03-16.13.01:709][855]LogStaticMesh: Encode [0.00s]
+[2025.12.03-16.13.01:709][855]LogStaticMesh: NaniteBuild [0.00s]
+[2025.12.03-16.13.01:714][855]LogStaticMesh: Built static mesh [0.01s] /Game/DEMOFlowerpack/StaticMesh/SM_Dandelion_Small.SM_Dandelion_Small
+[2025.12.03-16.13.01:866][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Dandelion_Small.SM_Dandelion_Small
+[2025.12.03-16.13.01:866][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Dandelion_Small.SM_Dandelion_Small
+[2025.12.03-16.13.01:868][858]LogActorFactory: Actor Factory spawned StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Dandelion_Small.SM_Dandelion_Small as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_5
+[2025.12.03-16.13.02:275][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.03-16.13.02:276][894]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.12.03-16.13.02:285][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Dandelion_Small.SM_Dandelion_Small
+[2025.12.03-16.13.02:285][894]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Dandelion_Small.SM_Dandelion_Small
+[2025.12.03-16.13.02:289][894]LogActorFactory: Actor Factory spawned StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Dandelion_Small.SM_Dandelion_Small as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C1628583C06A802_1236854465
+[2025.12.03-16.13.04:527][123]Cmd: DELETE
+[2025.12.03-16.13.04:527][123]Cmd: ACTOR DELETE
+[2025.12.03-16.13.04:534][123]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.03-16.13.04:556][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.03-16.13.04:559][123]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.12.03-16.14.13:519][102]Cmd: TRANSACTION UNDO
+[2025.12.03-16.14.13:519][102]LogEditorTransaction: Undo Move Elements
+[2025.12.03-16.14.13:687][102]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.14.22:367][912]Cmd: TRANSACTION UNDO
+[2025.12.03-16.14.22:367][912]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.03-16.14.22:547][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.14.29:154][511]Cmd: TRANSACTION UNDO
+[2025.12.03-16.14.29:154][511]LogEditorTransaction: Undo Move Elements
+[2025.12.03-16.14.29:353][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.14.39:550][490]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.03-16.15.11:716][720]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.15.12:934][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.03-16.15.14:033][828]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-16.15.14:044][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.15.14:102][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/69/82RRK0UTE3F06CETHL5CEH
+[2025.12.03-16.15.14:102][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/82RRK0UTE3F06CETHL5CEH07A668AA4F57B21357E5818CA8F50CD0.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/69/82RRK0UTE3F06CETHL5CEH.uasset'
+[2025.12.03-16.15.14:110][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/J5/U7PRP4SCM77EZ6A3JF6HZA
+[2025.12.03-16.15.14:110][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/U7PRP4SCM77EZ6A3JF6HZA5A38D1394B21D5FBCD7768AA2EF03756.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/J5/U7PRP4SCM77EZ6A3JF6HZA.uasset'
+[2025.12.03-16.15.14:117][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/8P/ED4OF05N63KOCQA21G6IF7
+[2025.12.03-16.15.14:117][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/ED4OF05N63KOCQA21G6IF79745EB864A6D19D7132D10BAB774418D.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/8P/ED4OF05N63KOCQA21G6IF7.uasset'
+[2025.12.03-16.15.14:123][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/D/2F/7ZP8JB444AXG8RVEGUZ8VF
+[2025.12.03-16.15.14:123][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/7ZP8JB444AXG8RVEGUZ8VFEF06F7BB4B009EFD553AD8A9999165FE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/D/2F/7ZP8JB444AXG8RVEGUZ8VF.uasset'
+[2025.12.03-16.15.14:129][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/5L/RMGOFNN0GB46CAX1T0GRC6
+[2025.12.03-16.15.14:129][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/RMGOFNN0GB46CAX1T0GRC6EEEE0A7B4FDCC9E99AF2E1956CAE8354.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/5L/RMGOFNN0GB46CAX1T0GRC6.uasset'
+[2025.12.03-16.15.14:137][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/H0/6GPU23LFKP0F3XBAK1J5QS
+[2025.12.03-16.15.14:137][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/6GPU23LFKP0F3XBAK1J5QS84DDF4A2453B529BF0D3B5A503D24488.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/H0/6GPU23LFKP0F3XBAK1J5QS.uasset'
+[2025.12.03-16.15.14:143][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/NB/ASRTTMKEQ70008R033DGI9
+[2025.12.03-16.15.14:143][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/ASRTTMKEQ70008R033DGI977DD27A84827A666408408A4E8E07B8D.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/NB/ASRTTMKEQ70008R033DGI9.uasset'
+[2025.12.03-16.15.14:150][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/5X/4V7DSV7LJBDH35QBVITDJX
+[2025.12.03-16.15.14:150][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/4V7DSV7LJBDH35QBVITDJXE9F6FA234532024D7EBBB2A0F670E5C8.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/5X/4V7DSV7LJBDH35QBVITDJX.uasset'
+[2025.12.03-16.15.14:157][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/PG/ACWQF7PRVMVYPR1DFVQA7I
+[2025.12.03-16.15.14:157][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/ACWQF7PRVMVYPR1DFVQA7IB0F0F2404F31522480C6BAA941F049B1.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/PG/ACWQF7PRVMVYPR1DFVQA7I.uasset'
+[2025.12.03-16.15.14:163][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/9Y/1MAN1F0FSPGSA2ZN099FB6
+[2025.12.03-16.15.14:163][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/1MAN1F0FSPGSA2ZN099FB6125669814B94D5070379FEB3D6A15E05.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/9Y/1MAN1F0FSPGSA2ZN099FB6.uasset'
+[2025.12.03-16.15.14:170][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/RP/4DI36DDZHWUTSIR5KB8RC3
+[2025.12.03-16.15.14:170][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/4DI36DDZHWUTSIR5KB8RC38CB2D55F4B5E94AEC55E83BD83BECC4E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/RP/4DI36DDZHWUTSIR5KB8RC3.uasset'
+[2025.12.03-16.15.14:177][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/8J/IWLPE4197GZEMXYQHMZKPL
+[2025.12.03-16.15.14:177][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/IWLPE4197GZEMXYQHMZKPLC4E2658E4515C0878D90ED896BE567EE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/8J/IWLPE4197GZEMXYQHMZKPL.uasset'
+[2025.12.03-16.15.14:184][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/ZZ/P3B7I45173EF2YRE4ISQU8
+[2025.12.03-16.15.14:184][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/P3B7I45173EF2YRE4ISQU817E8504D4B2A29BFDD61E0A75BAA7A17.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/ZZ/P3B7I45173EF2YRE4ISQU8.uasset'
+[2025.12.03-16.15.14:190][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/B/8P/3VEJP9Z9XPNJGWLEAWVUA5
+[2025.12.03-16.15.14:190][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/3VEJP9Z9XPNJGWLEAWVUA5808E5DD94F7F8A5DE131B8A8C3F782FF.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/8P/3VEJP9Z9XPNJGWLEAWVUA5.uasset'
+[2025.12.03-16.15.14:197][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/QE/I11Z448CPUNFRC3C0RD7BL
+[2025.12.03-16.15.14:197][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/I11Z448CPUNFRC3C0RD7BL966021B7408E4A3688F86C9ED042FABE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/QE/I11Z448CPUNFRC3C0RD7BL.uasset'
+[2025.12.03-16.15.14:205][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/8/7T/ASQ4523UAMX8OH9J6ZHDK3
+[2025.12.03-16.15.14:205][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/ASQ4523UAMX8OH9J6ZHDK32F46967F453AD57B23F77A847C8A9037.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/8/7T/ASQ4523UAMX8OH9J6ZHDK3.uasset'
+[2025.12.03-16.15.14:211][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/1U/GH0HPJ7NU1G9PF8BB2OFXV
+[2025.12.03-16.15.14:211][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/GH0HPJ7NU1G9PF8BB2OFXV5A74CBB3438FA170AB1950924684E5EB.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/1U/GH0HPJ7NU1G9PF8BB2OFXV.uasset'
+[2025.12.03-16.15.14:218][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/MH/O67AK1V626ADMUSI5CZ14Q
+[2025.12.03-16.15.14:218][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/O67AK1V626ADMUSI5CZ14Q7AB558BD4FA06AB61B0FFFB2B205208F.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/MH/O67AK1V626ADMUSI5CZ14Q.uasset'
+[2025.12.03-16.15.14:224][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/4/AB/RXAE87ZIPAQ480KSCXZYAN
+[2025.12.03-16.15.14:224][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/RXAE87ZIPAQ480KSCXZYANFE98A3F8435304CC647BD09BDB7B8B8A.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/4/AB/RXAE87ZIPAQ480KSCXZYAN.uasset'
+[2025.12.03-16.15.14:231][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/31/1NXNCHGWKEODD0AZSI9UH3
+[2025.12.03-16.15.14:231][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/1NXNCHGWKEODD0AZSI9UH3AE73471940FD24C217178A9D517F4C8C.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/31/1NXNCHGWKEODD0AZSI9UH3.uasset'
+[2025.12.03-16.15.14:238][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/0/VA/N0E5HX1081OVFXU581RTJI
+[2025.12.03-16.15.14:238][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/N0E5HX1081OVFXU581RTJI5898A3244B74A92FDFFBB8851934E098.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/0/VA/N0E5HX1081OVFXU581RTJI.uasset'
+[2025.12.03-16.15.14:244][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/7/LA/7GC2O80SEFB9SRQ4N3HM2H
+[2025.12.03-16.15.14:244][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/7GC2O80SEFB9SRQ4N3HM2H6BE00EFC4AB455DFAC498A97D95CF5BE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/LA/7GC2O80SEFB9SRQ4N3HM2H.uasset'
+[2025.12.03-16.15.14:251][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/8V/DG0AG3VE8FZKVGKG4ACICB
+[2025.12.03-16.15.14:251][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/DG0AG3VE8FZKVGKG4ACICBB280AF2F4649C5C9AD1F42994C9DB1A3.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/8V/DG0AG3VE8FZKVGKG4ACICB.uasset'
+[2025.12.03-16.15.14:258][828]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/BG/PREJX0P3EGK3CSTDULKK06
+[2025.12.03-16.15.14:258][828]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/PREJX0P3EGK3CSTDULKK0651496F6842A2626E97F001BA648076DB.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/BG/PREJX0P3EGK3CSTDULKK06.uasset'
+[2025.12.03-16.15.14:266][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.756 ms (total: 6.37 sec)
+[2025.12.03-16.15.14:308][828]LogContentValidation: Display: Starting to validate 24 assets
+[2025.12.03-16.15.14:308][828]LogContentValidation: Enabled validators:
+[2025.12.03-16.15.14:308][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.15.14:308][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.15.14:308][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.15.14:308][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.15.14:308][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.15.14:308][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.15.14:308][828]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.03-16.15.14:508][828]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.15.16:603][ 41]Cmd: DELETE
+[2025.12.03-16.15.16:603][ 41]Cmd: ACTOR DELETE
+[2025.12.03-16.15.16:611][ 41]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.03-16.15.16:631][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.03-16.15.16:633][ 41]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.12.03-16.16.18:941][ 58]LogContentBrowser: Attempting asset rename: cat_cartoon_texture_0 -> Cat_Tex
+[2025.12.03-16.16.19:025][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.16.19:025][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001] ([1] browsable assets)...
+[2025.12.03-16.16.19:025][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001]
+[2025.12.03-16.16.19:034][ 58]LogSavePackage: Moving output files for package: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001
+[2025.12.03-16.16.19:034][ 58]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Cat_001EF8D3C7D4B1DEDF4BDFE30B1EE0ACBA9.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001.uasset'
+[2025.12.03-16.16.19:035][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Material_001] ([1] browsable assets)...
+[2025.12.03-16.16.19:035][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Material_001]
+[2025.12.03-16.16.19:042][ 58]LogSavePackage: Moving output files for package: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Material_001
+[2025.12.03-16.16.19:042][ 58]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Material_0011CAB0BA04570AE4B5F8B4E8D9CF710B2.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/Materials/Material_001.uasset'
+[2025.12.03-16.16.19:043][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cat_Cartoon/cat_cartoon/Textures/Cat_Tex] ([1] browsable assets)...
+[2025.12.03-16.16.19:043][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cat_Cartoon/cat_cartoon/Textures/Cat_Tex]
+[2025.12.03-16.16.19:128][ 58]LogSavePackage: Moving output files for package: /Game/Fab/Cat_Cartoon/cat_cartoon/Textures/Cat_Tex
+[2025.12.03-16.16.19:128][ 58]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Cat_Tex3BAB5E634B1AA731C0A2C29C8C003947.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/Textures/Cat_Tex.uasset'
+[2025.12.03-16.16.19:129][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.522 ms (total: 6.48 sec)
+[2025.12.03-16.16.19:163][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.03-16.16.19:192][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.03-16.16.19:215][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.12.03-16.16.19:260][ 58]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.03-16.16.19:260][ 58]LogContentValidation: Enabled validators:
+[2025.12.03-16.16.19:260][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.16.19:260][ 58]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.16.19:260][ 58]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.16.19:260][ 58]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.16.19:260][ 58]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.16.19:260][ 58]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.16.19:260][ 58]AssetCheck: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001 Validating asset
+[2025.12.03-16.16.19:260][ 58]AssetCheck: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Material_001 Validating asset
+[2025.12.03-16.16.19:260][ 58]AssetCheck: /Game/Fab/Cat_Cartoon/cat_cartoon/Textures/Cat_Tex Validating asset
+[2025.12.03-16.16.19:302][ 58]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.16.56:071][640]LogStreaming: Display: FlushAsyncLoading(11097): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.16.56:125][640]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter1
+[2025.12.03-16.16.56:128][640]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.12.03-16.16.56:192][640]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter1
+[2025.12.03-16.16.56:215][641]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter1).
+[2025.12.03-16.17.02:972][344]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter1 -> BP_Cat_MC
+[2025.12.03-16.17.03:015][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.03-16.17.03:045][344]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter1
+[2025.12.03-16.17.03:046][344]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.12.03-16.17.04:624][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Cat_MC.BP_Cat_MC
+[2025.12.03-16.17.04:625][461]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.12.03-16.18.01:443][ 51]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.12.03-16.18.26:450][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.03-16.18.37:250][827]LogPSOHitching: Encountered 1000 PSO creation hitches so far (454 graphics, 546 compute). 0 of them were precached.
+[2025.12.03-16.18.37:340][831]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.12.03-16.18.39:739][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5111.189941
+[2025.12.03-16.18.39:827][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-16.18.39:827][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5111.268066, Update Interval: 316.230957
+[2025.12.03-16.18.43:308][314]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Animations/SKM_CCat.SKM_CCat
+[2025.12.03-16.18.43:308][314]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.12.03-16.18.43:316][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.19.20:927][421]LogContentBrowser: Attempting asset rename: Material_001 -> M_Cat_Instance
+[2025.12.03-16.19.21:007][421]LogMaterial: Display: MaterialInterface Material_001 has a incorrectly name EditorOnlyData 'Material_001EditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'M_Cat_InstanceEditorOnlyData'.
+[2025.12.03-16.19.21:010][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.19.21:010][421]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Cat_Cartoon/cat_cartoon/SkeletalMeshes/cat_cartoon] ([1] browsable assets)...
+[2025.12.03-16.19.21:047][421]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Fab/Cat_Cartoon/cat_cartoon/SkeletalMeshes/cat_cartoon.cat_cartoon]
+[2025.12.03-16.19.21:047][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cat_Cartoon/cat_cartoon/SkeletalMeshes/cat_cartoon]
+[2025.12.03-16.19.21:062][421]LogSavePackage: Moving output files for package: /Game/Fab/Cat_Cartoon/cat_cartoon/SkeletalMeshes/cat_cartoon
+[2025.12.03-16.19.21:062][421]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/cat_cartoonF35A8CD84F3F78B7B5F93B95CCE50480.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/SkeletalMeshes/cat_cartoon.uasset'
+[2025.12.03-16.19.21:063][421]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance] ([1] browsable assets)...
+[2025.12.03-16.19.21:063][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance]
+[2025.12.03-16.19.21:071][421]LogSavePackage: Moving output files for package: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance
+[2025.12.03-16.19.21:071][421]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Cat_Instance10790DDE4AFF32E9C24750B8A8ACCCED.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance.uasset'
+[2025.12.03-16.19.21:072][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.029 ms (total: 6.54 sec)
+[2025.12.03-16.19.21:121][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.03-16.19.21:147][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.03-16.19.21:172][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.03-16.19.21:226][421]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.03-16.19.21:226][421]LogContentValidation: Enabled validators:
+[2025.12.03-16.19.21:226][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.19.21:226][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.19.21:226][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.19.21:226][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.19.21:226][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.19.21:226][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.19.21:226][421]AssetCheck: /Game/Fab/Cat_Cartoon/cat_cartoon/SkeletalMeshes/cat_cartoon Validating asset
+[2025.12.03-16.19.21:227][421]AssetCheck: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance Validating asset
+[2025.12.03-16.19.21:268][421]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.19.29:441][139]LogContentBrowser: Attempting asset rename: Cat_Tex -> M_Cat_Tex
+[2025.12.03-16.19.29:542][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.19.29:542][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001] ([1] browsable assets)...
+[2025.12.03-16.19.29:542][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001]
+[2025.12.03-16.19.29:551][139]LogSavePackage: Moving output files for package: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001
+[2025.12.03-16.19.29:551][139]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Cat_001ED2F53DD41291A9C90124ABB06CB2E31.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001.uasset'
+[2025.12.03-16.19.29:552][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance] ([1] browsable assets)...
+[2025.12.03-16.19.29:552][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance]
+[2025.12.03-16.19.29:558][139]LogSavePackage: Moving output files for package: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance
+[2025.12.03-16.19.29:558][139]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Cat_Instance44F55B634CCF3BEE16E58291628919F7.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance.uasset'
+[2025.12.03-16.19.29:558][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Cat_Cartoon/cat_cartoon/Textures/M_Cat_Tex] ([1] browsable assets)...
+[2025.12.03-16.19.29:558][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Cat_Cartoon/cat_cartoon/Textures/M_Cat_Tex]
+[2025.12.03-16.19.29:645][139]LogSavePackage: Moving output files for package: /Game/Fab/Cat_Cartoon/cat_cartoon/Textures/M_Cat_Tex
+[2025.12.03-16.19.29:645][139]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Cat_Tex00FEBDA54320AD4578088D8B753260DD.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/Textures/M_Cat_Tex.uasset'
+[2025.12.03-16.19.29:646][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.602 ms (total: 6.64 sec)
+[2025.12.03-16.19.29:679][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.03-16.19.29:703][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.12.03-16.19.29:726][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.03-16.19.29:773][139]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.03-16.19.29:773][139]LogContentValidation: Enabled validators:
+[2025.12.03-16.19.29:773][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.19.29:773][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.19.29:773][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.19.29:773][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.19.29:773][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.19.29:773][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.19.29:773][139]AssetCheck: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/Cat_001 Validating asset
+[2025.12.03-16.19.29:773][139]AssetCheck: /Game/Fab/Cat_Cartoon/cat_cartoon/Materials/M_Cat_Instance Validating asset
+[2025.12.03-16.19.29:773][139]AssetCheck: /Game/Fab/Cat_Cartoon/cat_cartoon/Textures/M_Cat_Tex Validating asset
+[2025.12.03-16.19.29:815][139]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.20.23:641][365]LogMaterial: Display: Material /Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial.M_BaseMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.03-16.20.26:500][578]LogMaterial: Display: Material /Game/Characters/House_Models/Blue_House_Mat.Blue_House_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.03-16.20.30:405][824]LogMaterial: Display: Material /Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas.M_DEMOFlowerpack_Atlas needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: ================================================
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Total job queries 807, among them cache hits 176 (21.81%), DDC hits 368 (45.60%), Duplicates 88 (10.90%)
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Tracking 543 distinct input hashes that result in 332 distinct outputs (61.14%)
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: RAM used: 4.14 MiB of 1.60 GiB budget. Usage: 0.25%
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Shaders Compiled: 97
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Jobs assigned 153, completed 97 (63.40%)
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Average time worker was idle: 552.60 s
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.82 s
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 3.65 s
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 4.34
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Shader code size: total 1.003 MiB, numShaders 106, average 9.691 KiB, min 2.777 KiB, max 29.414 KiB
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.79 s
+[2025.12.03-16.20.32:113][937]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Jobs were issued in 98 batches (only local compilation was used), average 1.56 jobs/batch
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Average processing rate: 4.67 jobs/sec
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Total thread time: 72.282 s
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Total thread preprocess time: 9.061 s
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Percentage time preprocessing: 12.54%
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Effective parallelization: 3.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.347666
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled    2 times, average 3.00 sec, max 3.58 sec, min 2.42 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 1.82 sec, max 2.06 sec, min 1.42 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.47 sec, max 1.69 sec, min 1.07 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.35 sec, max 1.60 sec, min 1.10 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.68% of total time (compiled    5 times, average 1.26 sec, max 1.42 sec, min 1.08 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 8.30% of total time (compiled    2 times, average 3.00 sec, max 3.58 sec, min 2.42 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 7.57% of total time (compiled    3 times, average 1.82 sec, max 2.06 sec, min 1.42 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.97% of total time (compiled   10 times, average 0.50 sec, max 0.60 sec, min 0.38 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display:                                                 FLumenCardCS - 6.08% of total time (compiled    3 times, average 1.47 sec, max 1.69 sec, min 1.07 sec)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: === Material stats ===
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Materials Translated:    206
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Material Translation Only: 0.09 s (51%)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: Material Cache Hits: 25 (12%)
+[2025.12.03-16.20.32:114][937]LogShaderCompilers: Display: ================================================
+[2025.12.03-16.20.33:048][982]LogStreaming: Display: FlushAsyncLoading(11098): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.20.33:061][982]LogMaterial: Display: Material /Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange.M_Orange needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.03-16.20.42:158][456]LogStreaming: Display: FlushAsyncLoading(11099): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.20.42:175][456]LogMaterial: Display: Material /Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.M_GradientGlow needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.03-16.20.45:709][657]LogStreaming: Display: FlushAsyncLoading(11100): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.20.57:407][814]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat.Mia_Tex_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.03-16.21.18:492][843]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.21.18:492][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.21.18:550][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.03-16.21.20:956][ 77]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.21.22:135][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.03-16.21.26:114][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.21.26:177][526]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/SKM_CCat] ([1] browsable assets)...
+[2025.12.03-16.21.26:187][526]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/SKM_CCat.SKM_CCat]
+[2025.12.03-16.21.26:187][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/SKM_CCat]
+[2025.12.03-16.21.26:187][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/SKM_CCat" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Animations/SKM_CCat.uasset" SILENT=true
+[2025.12.03-16.21.26:203][526]LogSavePackage: Moving output files for package: /Game/Animations/SKM_CCat
+[2025.12.03-16.21.26:203][526]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SKM_CCat7CD3C2F047D05565E03148BB5A2416CF.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Animations/SKM_CCat.uasset'
+[2025.12.03-16.21.26:211][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.295 ms (total: 6.74 sec)
+[2025.12.03-16.21.26:256][526]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.21.26:256][526]LogContentValidation: Enabled validators:
+[2025.12.03-16.21.26:256][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.21.26:256][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.21.26:256][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.21.26:256][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.21.26:256][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.21.26:256][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.21.26:256][526]AssetCheck: /Game/Animations/SKM_CCat Validating asset
+[2025.12.03-16.21.26:276][526]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.21.33:729][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.21.33:776][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/SKM_CCat] ([1] browsable assets)...
+[2025.12.03-16.21.33:784][223]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Animations/SKM_CCat.SKM_CCat]
+[2025.12.03-16.21.33:784][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/SKM_CCat]
+[2025.12.03-16.21.33:784][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/SKM_CCat" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Animations/SKM_CCat.uasset" SILENT=true
+[2025.12.03-16.21.33:798][223]LogSavePackage: Moving output files for package: /Game/Animations/SKM_CCat
+[2025.12.03-16.21.33:798][223]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SKM_CCat24411EF24871F02851F915AD3362C6C1.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Animations/SKM_CCat.uasset'
+[2025.12.03-16.21.33:804][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.786 ms (total: 6.81 sec)
+[2025.12.03-16.21.33:857][223]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.21.33:857][223]LogContentValidation: Enabled validators:
+[2025.12.03-16.21.33:857][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.21.33:857][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.21.33:857][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.21.33:857][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.21.33:857][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.21.33:857][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.21.33:857][223]AssetCheck: /Game/Animations/SKM_CCat Validating asset
+[2025.12.03-16.21.35:582][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.21.35:645][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Cat_Character] ([2] browsable assets)...
+[2025.12.03-16.21.35:693][385]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Cat_Character.BP_Cat_Character]
+[2025.12.03-16.21.35:693][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Cat_Character]
+[2025.12.03-16.21.35:714][385]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Cat_Character
+[2025.12.03-16.21.35:714][385]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/BP_Cat_CharacterFE4D2FA44ED42F6596E11E9FE3579EAE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/ThirdPerson/Blueprints/BP_Cat_Character.uasset'
+[2025.12.03-16.21.35:725][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.314 ms (total: 6.96 sec)
+[2025.12.03-16.21.35:756][385]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.21.35:756][385]LogContentValidation: Enabled validators:
+[2025.12.03-16.21.35:756][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.21.35:756][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.21.35:756][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.21.35:756][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.21.35:756][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.21.35:756][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.21.35:756][385]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Cat_Character Validating asset
+[2025.12.03-16.21.35:779][385]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.21.37:873][595]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-16.21.37:879][595]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-16.21.37:879][595]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-16.21.37:890][595]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 11.285 ms (total: 101.715 ms)
+[2025.12.03-16.21.37:891][595]LogPlayLevel: [PlayLevel] Compiling BP_Cat_MC before play...
+[2025.12.03-16.21.37:966][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.03-16.21.37:972][595]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2025.12.03-16.21.38:000][595]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2025.12.03-16.21.38:002][595]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.12.03-16.21.38:041][596]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.21.38:171][596]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-16.21.38:199][596]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 28.776 ms (total: 525.903 ms)
+[2025.12.03-16.21.38:199][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158468s)
+[2025.12.03-16.21.38:199][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.158516s)
+[2025.12.03-16.21.38:224][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.03-16.21.38:227][596]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-16.21.38:230][596]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-16.21.38:230][596]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-16.21.38:230][596]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-16.21.38:230][596]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-16.21.38:259][596]LogWorldPartition: Display: WorldPartition initialize took 30.222 ms (total: 2.35 sec)
+[2025.12.03-16.21.38:260][596]LogPlayLevel: PIE: World Init took: (0.032730s)
+[2025.12.03-16.21.38:260][596]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.12.03-16.21.38:260][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-16.21.38:260][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-16.21.38:260][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-16.21.38:261][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-16.21.38:261][596]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-16.21.38:261][596]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-16.21.38:261][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-16.21.38:261][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-16.21.38:261][596]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-16.21.38:261][596]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-16.21.38:261][596]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-16.21.38:263][596]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-16.21.38:275][596]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2025.12.03-16.21.38:275][596]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-16.21.38:275][596]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-16.21.38:275][596]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-16.21.38:275][596]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.12.03-16.21.38:275][596]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.12.03-16.21.38:277][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.12.03-16.21.38:278][596]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.12.03-16.21.38:278][596]LogInit: FAudioDevice initialized with ID 12.
+[2025.12.03-16.21.38:278][596]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_LevelOne'.
+[2025.12.03-16.21.38:278][596]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.03-16.21.38:281][596]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.03-16.21.38:350][596]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-11.21.38
+[2025.12.03-16.21.38:351][596]LogWorld: Bringing up level for play took: 0.069587
+[2025.12.03-16.21.38:356][596]PIE: Server logged in
+[2025.12.03-16.21.38:358][596]PIE: Play in editor total start time 0.478 seconds.
+[2025.12.03-16.21.38:449][597]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.21.38:500][597]LogPSOHitching: Encountered 1050 PSO creation hitches so far (469 graphics, 581 compute). 0 of them were precached.
+[2025.12.03-16.21.41:260][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.21.41:260][887]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.21.41:262][887]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.21.41:286][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.21.41:286][887]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-16.21.41:288][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-16.21.41:293][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.21.41:327][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-16.21.41:327][887]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.03-16.21.41:327][887]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.12.03-16.21.41:330][887]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.12.03-16.21.41:334][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.21.41:353][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.12.03-16.21.41:434][888]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.12.03-16.22.05:571][233]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2025.12.03-16.22.05:571][233]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2025.12.03-16.22.06:738][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.03-16.22.07:858][312]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.03-16.22.08:401][312]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.03-16.22.08:402][312]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.22.08:402][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.22.08:497][312]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.22.08:497][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.22.08:505][312]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.22.08:505][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.22.08:530][312]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.22.08:530][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.22.08:549][312]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_Cat_MC.BP_Cat_MC
+	Asset Type: Blueprint
+[2025.12.03-16.22.08:844][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.03-16.22.08:918][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.03-16.22.08:943][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.12.03-16.22.08:966][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.03-16.22.08:998][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.03-16.22.34:444][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.03-16.22.34:456][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/0P/QMV2RQK9O186ZLU60SZ682_Auto4
+[2025.12.03-16.22.34:456][981]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/QMV2RQK9O186ZLU60SZ682_Auto49CCA546F4F9AF130DEC09A894376C497.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/A/0P/QMV2RQK9O186ZLU60SZ682_Auto4.uasset'
+[2025.12.03-16.22.34:456][981]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.031
+[2025.12.03-16.22.34:456][981]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2025.12.03-16.22.34:456][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat] ([1] browsable assets)...
+[2025.12.03-16.22.34:494][981]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat.Mia_Tex_Mat]
+[2025.12.03-16.22.34:494][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat]
+[2025.12.03-16.22.34:503][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat_Auto4
+[2025.12.03-16.22.34:503][981]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Mia_Tex_Mat_Auto4A0A81724490E1E6075B34D9DD487316D.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat_Auto4.uasset'
+[2025.12.03-16.22.34:503][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/House_Models/Blue_House_Mat] ([1] browsable assets)...
+[2025.12.03-16.22.34:510][981]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/House_Models/Blue_House_Mat.Blue_House_Mat]
+[2025.12.03-16.22.34:510][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Blue_House_Mat]
+[2025.12.03-16.22.34:518][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/House_Models/Blue_House_Mat_Auto4
+[2025.12.03-16.22.34:518][981]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Blue_House_Mat_Auto4C83CE3604117AC4DD02EA192B4EBF4E7.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Characters/House_Models/Blue_House_Mat_Auto4.uasset'
+[2025.12.03-16.22.34:519][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial] ([1] browsable assets)...
+[2025.12.03-16.22.34:525][981]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial.M_BaseMaterial]
+[2025.12.03-16.22.34:525][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial]
+[2025.12.03-16.22.34:534][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial_Auto4
+[2025.12.03-16.22.34:534][981]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_BaseMaterial_Auto4854E851A419A6398F87F57B04AC5B831.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial_Auto4.uasset'
+[2025.12.03-16.22.34:534][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas] ([1] browsable assets)...
+[2025.12.03-16.22.34:567][981]OBJ SavePackage:     Rendered thumbnail for [Material /Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas.M_DEMOFlowerpack_Atlas]
+[2025.12.03-16.22.34:567][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas]
+[2025.12.03-16.22.34:575][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas_Auto4
+[2025.12.03-16.22.34:575][981]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_DEMOFlowerpack_Atlas_Auto4054329CA48859D44F8A01DABF26703DF.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas_Auto4.uasset'
+[2025.12.03-16.22.34:577][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow] ([1] browsable assets)...
+[2025.12.03-16.22.34:624][981]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.M_GradientGlow]
+[2025.12.03-16.22.34:625][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow]
+[2025.12.03-16.22.34:635][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow_Auto4
+[2025.12.03-16.22.34:635][981]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_GradientGlow_Auto4447C3B1547FB1F0FD5F9E1866844E78F.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow_Auto4.uasset'
+[2025.12.03-16.22.34:636][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange] ([1] browsable assets)...
+[2025.12.03-16.22.34:642][981]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange.M_Orange]
+[2025.12.03-16.22.34:642][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange]
+[2025.12.03-16.22.34:651][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange_Auto4
+[2025.12.03-16.22.34:651][981]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Orange_Auto46F329A144ADE09D3B8D28C9D74DED7F7.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange_Auto4.uasset'
+[2025.12.03-16.22.34:651][981]LogFileHelpers: Auto-saving content packages took 0.195
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: ================================================
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Total job queries 912, among them cache hits 224 (24.56%), DDC hits 381 (41.78%), Duplicates 100 (10.96%)
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Tracking 588 distinct input hashes that result in 403 distinct outputs (68.54%)
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: RAM used: 4.78 MiB of 1.60 GiB budget. Usage: 0.29%
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Shaders Compiled: 207
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Jobs assigned 207, completed 207 (100%)
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Average time worker was idle: 389.03 s
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Time job spent in pending queue: average 1.05 s, longest 9.89 s
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Job execution time: average 4.24 s, max 17.76 s
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Job life time (pending + execution): average 5.29 s, max 17.91
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Shader code size: total 2.205 MiB, numShaders 218, average 10.359 KiB, min 2.777 KiB, max 32.625 KiB
+[2025.12.03-16.23.32:119][526]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.15 s
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Jobs were issued in 135 batches (only local compilation was used), average 1.53 jobs/batch
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Average processing rate: 5.43 jobs/sec
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Total thread time: 228.36 s
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Total thread preprocess time: 11.897 s
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Percentage time preprocessing: 5.21%
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Effective parallelization: 5.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.598615
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled   20 times, average 3.57 sec, max 4.76 sec, min 2.42 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.28 sec, max 2.51 sec, min 2.05 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 1.97 sec, max 2.42 sec, min 1.42 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 1.95 sec, max 2.63 sec, min 1.62 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 1.75 sec, max 2.64 sec, min 1.10 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 31.24% of total time (compiled   20 times, average 3.57 sec, max 4.76 sec, min 2.42 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                                               FHWRasterizePS - 16.57% of total time (compiled   30 times, average 1.26 sec, max 1.35 sec, min 0.87 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.08% of total time (compiled   11 times, average 1.47 sec, max 2.02 sec, min 1.08 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 3.82% of total time (compiled    5 times, average 1.75 sec, max 2.64 sec, min 1.10 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.80% of total time (compiled   15 times, average 0.58 sec, max 0.86 sec, min 0.38 sec)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: === Material stats ===
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Materials Translated:    212
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Material Translation Only: 0.09 s (51%)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: Material Cache Hits: 25 (12%)
+[2025.12.03-16.23.32:120][526]LogShaderCompilers: Display: ================================================
+[2025.12.03-16.23.38:171][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.12.03-16.23.39:177][210]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-16.23.39:184][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.23.39:258][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.03-16.23.39:279][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.03-16.23.39:302][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.03-16.23.39:304][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/House_Models/Blue_House_Mat] ([1] browsable assets)...
+[2025.12.03-16.23.39:304][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/House_Models/Blue_House_Mat]
+[2025.12.03-16.23.39:315][210]LogSavePackage: Moving output files for package: /Game/Characters/House_Models/Blue_House_Mat
+[2025.12.03-16.23.39:315][210]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Blue_House_Mat166527B44263EDAF8A95F5B9880C33CA.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/House_Models/Blue_House_Mat.uasset'
+[2025.12.03-16.23.39:316][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial] ([1] browsable assets)...
+[2025.12.03-16.23.39:316][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial]
+[2025.12.03-16.23.39:322][210]LogSavePackage: Moving output files for package: /Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial
+[2025.12.03-16.23.39:322][210]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_BaseMaterial52B575DB4565B48E3315E3AFE62937E0.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial.uasset'
+[2025.12.03-16.23.39:323][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas] ([1] browsable assets)...
+[2025.12.03-16.23.39:323][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas]
+[2025.12.03-16.23.39:330][210]LogSavePackage: Moving output files for package: /Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas
+[2025.12.03-16.23.39:330][210]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_DEMOFlowerpack_AtlasE6A0704B4A290B3BE3196DADCFC37533.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas.uasset'
+[2025.12.03-16.23.39:330][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow] ([1] browsable assets)...
+[2025.12.03-16.23.39:330][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow]
+[2025.12.03-16.23.39:337][210]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow
+[2025.12.03-16.23.39:338][210]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_GradientGlow9F9F18DB4C5EE496A55D0B9664B4C284.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow.uasset'
+[2025.12.03-16.23.39:339][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange] ([1] browsable assets)...
+[2025.12.03-16.23.39:339][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange]
+[2025.12.03-16.23.39:345][210]LogSavePackage: Moving output files for package: /Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange
+[2025.12.03-16.23.39:345][210]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/M_Orange2B1E3C964BB2E8785B38779880FC9CDE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange.uasset'
+[2025.12.03-16.23.39:345][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat] ([1] browsable assets)...
+[2025.12.03-16.23.39:345][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat]
+[2025.12.03-16.23.39:351][210]LogSavePackage: Moving output files for package: /Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat
+[2025.12.03-16.23.39:351][210]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Mia_Tex_Mat5BA3B59A496CBFA1E789A78EC949DA6E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/OurCharacterModels/Mia/Mia_Tex_Mat.uasset'
+[2025.12.03-16.23.39:358][210]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/A/0P/QMV2RQK9O186ZLU60SZ682
+[2025.12.03-16.23.39:358][210]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/QMV2RQK9O186ZLU60SZ682875FFBC44F840A06862F699B3893A1A5.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/0P/QMV2RQK9O186ZLU60SZ682.uasset'
+[2025.12.03-16.23.39:365][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.021 ms (total: 7.14 sec)
+[2025.12.03-16.23.39:422][210]LogContentValidation: Display: Starting to validate 7 assets
+[2025.12.03-16.23.39:422][210]LogContentValidation: Enabled validators:
+[2025.12.03-16.23.39:422][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.23.39:422][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.23.39:422][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.23.39:422][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.23.39:422][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.23.39:422][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.23.39:423][210]AssetCheck: /Game/Characters/House_Models/Blue_House_Mat Validating asset
+[2025.12.03-16.23.39:423][210]AssetCheck: /Game/VRS_LowPolyNatureEssentials/Materials/M_BaseMaterial Validating asset
+[2025.12.03-16.23.39:423][210]AssetCheck: /Game/DEMOFlowerpack/Material/M_DEMOFlowerpack_Atlas Validating asset
+[2025.12.03-16.23.39:423][210]AssetCheck: /Game/LevelPrototyping/Interactable/JumpPad/Assets/Materials/M_GradientGlow Validating asset
+[2025.12.03-16.23.39:423][210]AssetCheck: /Game/Plugins/EMUQuests/Content/CharacterStuff/Materials/M_Orange Validating asset
+[2025.12.03-16.23.39:423][210]AssetCheck: /Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat Validating asset
+[2025.12.03-16.23.39:423][210]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.03-16.23.39:450][210]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
