@@ -2555,3 +2555,21 @@ FPackageName: Skipped package /Game/Levels/_GENERATED/rgowell/Cylinder_EC744C0C 
 [2025.12.03-21.36.00:861][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
 [2025.12.03-21.36.00:867][979]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
 [2025.12.03-21.36.01:206][979]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.03-21.39.04:971][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.03-21.39.06:226][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.03-21.39.08:200][353]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-21.39.08:209][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-21.39.08:252][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/GameModes/GM_StartMenuLevel] ([2] browsable assets)...
+[2025.12.03-21.39.08:252][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/GameModes/GM_StartMenuLevel]
+[2025.12.03-21.39.08:265][353]LogSavePackage: Moving output files for package: /Game/Levels/GameModes/GM_StartMenuLevel
+[2025.12.03-21.39.08:265][353]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/GM_StartMenuLevelC3B4A6CD409D20CF9620D093B2778A72.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Levels/GameModes/GM_StartMenuLevel.uasset'
+[2025.12.03-21.39.08:272][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.728 ms (total: 443.479 ms)
+[2025.12.03-21.39.08:316][353]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-21.39.08:316][353]LogContentValidation: Enabled validators:
+[2025.12.03-21.39.08:316][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-21.39.08:316][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-21.39.08:316][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-21.39.08:316][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-21.39.08:316][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-21.39.08:316][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-21.39.08:316][353]AssetCheck: /Game/Levels/GameModes/GM_StartMenuLevel Validating asset
