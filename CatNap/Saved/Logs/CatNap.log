@@ -2122,3 +2122,637 @@ Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' 
 [2025.12.03-19.51.27:183][733]AssetCheck: /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel Validating asset
 [2025.12.03-19.51.27:183][733]AssetCheck: /Game/Fab/Classic_dice/dicemodel/Materials/eyes Validating asset
 [2025.12.03-19.51.27:207][733]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-19.53.10:613][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1716.598511
+[2025.12.03-19.53.10:682][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-19.53.10:682][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1716.654053, Update Interval: 307.324432
+[2025.12.03-19.53.28:757][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.dicemodel
+[2025.12.03-19.53.28:758][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.dicemodel
+[2025.12.03-19.53.28:760][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.dicemodel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_0
+[2025.12.03-19.53.29:439][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.03-19.53.29:441][510]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.12.03-19.53.29:449][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.dicemodel
+[2025.12.03-19.53.29:449][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.dicemodel
+[2025.12.03-19.53.29:454][510]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.dicemodel as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_00BE43BBC79112A802_1579117071
+[2025.12.03-19.58.33:404][707]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 159707
+[2025.12.03-19.58.33:404][707]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.12.03-19.58.33:408][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.58.42:199][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.03-19.58.42:213][724]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/E0/DGTV6DK51VFP2N93ISPAVZ_Auto2
+[2025.12.03-19.58.42:213][724]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/DGTV6DK51VFP2N93ISPAVZ_Auto23F88B66A4F55CBD769136C80110FC7DC.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/E0/DGTV6DK51VFP2N93ISPAVZ_Auto2.uasset'
+[2025.12.03-19.58.42:213][724]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.038
+[2025.12.03-19.58.42:213][724]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.12.03-19.58.42:214][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/QuestSystem/Blueprints/DT_Quest] ([1] browsable assets)...
+[2025.12.03-19.58.42:214][724]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/DT_Quest]
+[2025.12.03-19.58.42:220][724]LogSavePackage: Moving output files for package: /Temp/Autosaves/QuestSystem/Blueprints/DT_Quest_Auto2
+[2025.12.03-19.58.42:220][724]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/DT_Quest_Auto2DD4B724F4C8687D4AC844281F45AF459.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Autosaves/QuestSystem/Blueprints/DT_Quest_Auto2.uasset'
+[2025.12.03-19.58.42:221][724]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.12.03-19.59.00:300][859]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2066.266846
+[2025.12.03-19.59.00:366][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-19.59.00:366][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2066.325684, Update Interval: 334.657440
+[2025.12.03-20.03.49:074][757]LogStreaming: Display: FlushAsyncLoading(6339): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-20.03.49:109][757]LogSkeletalMesh: Building Skeletal Mesh SKM_NPC...
+[2025.12.03-20.03.49:109][757]LogTexture: Display: Building textures: /QuestSystem/UI/UIDesign/Buttons/T_GreenButtonClicked.T_GreenButtonClicked (BGRA8, 94x94 x1x1x1) (Required Memory Estimate: 1.303352 MB), EncodeSpeed: Fast
+[2025.12.03-20.03.49:109][757]LogTexture: Display: Building textures: /QuestSystem/UI/UIDesign/Buttons/T_RedButton.T_RedButton (BGRA8, 94x94 x1x1x1) (Required Memory Estimate: 1.303352 MB), EncodeSpeed: Fast
+[2025.12.03-20.03.49:109][757]LogTexture: Display: Building textures: /QuestSystem/UI/UIDesign/Buttons/T_GreenButtonHover.T_GreenButtonHover (BGRA8, 94x94 x1x1x1) (Required Memory Estimate: 1.303352 MB), EncodeSpeed: Fast
+[2025.12.03-20.03.49:109][757]LogTexture: Display: Building textures: /QuestSystem/UI/UIDesign/Buttons/T_RedButtonHover.T_RedButtonHover (BGRA8, 94x94 x1x1x1) (Required Memory Estimate: 1.303352 MB), EncodeSpeed: Fast
+[2025.12.03-20.03.49:109][757]LogTexture: Display: Building textures: /QuestSystem/UI/UIDesign/Buttons/t_GreenButton.t_GreenButton (BGRA8, 94x94 x1x1x1) (Required Memory Estimate: 1.303352 MB), EncodeSpeed: Fast
+[2025.12.03-20.03.49:109][757]LogTexture: Display: Building textures: /QuestSystem/UI/UIDesign/Buttons/T_RedButtonClicked.T_RedButtonClicked (BGRA8, 94x94 x1x1x1) (Required Memory Estimate: 1.303352 MB), EncodeSpeed: Fast
+[2025.12.03-20.03.49:111][757]LogTexture: Display: Building textures: /QuestSystem/UI/UIDesign/T_EMUQuestBorder.T_EMUQuestBorder (BGRA8, 984x623 x1x1x1) (Required Memory Estimate: 22.046783 MB), EncodeSpeed: Fast
+[2025.12.03-20.03.49:148][757]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver_C
+[2025.12.03-20.03.49:148][757]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver_C
+[2025.12.03-20.03.49:166][757]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_NPC) ...
+[2025.12.03-20.03.49:204][757]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /QuestSystem/CharacterStuff/SKM_NPC.SKM_NPC
+[2025.12.03-20.03.49:211][757]LogActorFactory: Actor Factory spawned Blueprint /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver as actor: BP_QuestGiver_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_QuestGiver_C_0
+[2025.12.03-20.03.49:213][757]LogActorFactory: Actor Factory spawned Blueprint /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver as actor: BP_QuestGiver_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_QuestGiver_C_0
+[2025.12.03-20.03.49:218][757]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.03-20.03.49:218][757]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.12.03-20.03.49:284][757]LoadErrors: Warning: While trying to load package /QuestSystem/CharacterStuff/SKM_NPC, a dependent package /Game/dRealWarriorPack/Materials/M_Warrior_Chainmail was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/dRealWarriorPack/Materials/M_Warrior_Chainmail has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/dRealWarriorPack/Materials/M_Warrior_Chainmail'. Perhaps it has been deleted or was not synced?
+
+[2025.12.03-20.03.49:284][758]LoadErrors: Warning: While trying to load package /QuestSystem/CharacterStuff/SKM_NPC, a dependent package /Game/dRealWarriorPack/Meshes/PA_Warrior was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/dRealWarriorPack/Meshes/PA_Warrior has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/dRealWarriorPack/Meshes/PA_Warrior'. Perhaps it has been deleted or was not synced?
+
+[2025.12.03-20.03.50:006][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.03-20.03.50:029][800]LogEditorActor: Deleted 0 Actors (0.053 secs)
+[2025.12.03-20.03.50:039][800]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver_C
+[2025.12.03-20.03.50:039][800]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver_C
+[2025.12.03-20.03.50:049][800]LogActorFactory: Actor Factory spawned Blueprint /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver as actor: BP_QuestGiver_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_QuestGiver_C_UAID_00BE43BBC79113A802_1125964248
+[2025.12.03-20.03.50:052][800]LogActorFactory: Actor Factory spawned Blueprint /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver as actor: BP_QuestGiver_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_QuestGiver_C_UAID_00BE43BBC79113A802_1125964248
+[2025.12.03-20.03.52:093][966]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.03-20.04.08:010][467]Cmd: DELETE
+[2025.12.03-20.04.08:010][467]Cmd: ACTOR DELETE
+[2025.12.03-20.04.08:021][467]LogEditorActor: Deleted Actor: BP_QuestGiver_C
+[2025.12.03-20.04.08:044][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.03-20.04.08:046][467]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.12.03-20.04.52:167][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.03-20.04.53:307][796]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-20.04.53:316][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.04.53:378][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/YE/USQLD1CCSJYX4TME0V6P4P
+[2025.12.03-20.04.53:378][796]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/USQLD1CCSJYX4TME0V6P4PDB45D8FF49D508364A7752BFA73C1ECE.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/YE/USQLD1CCSJYX4TME0V6P4P.uasset'
+[2025.12.03-20.04.53:378][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/QuestSystem/Blueprints/DT_Quest] ([1] browsable assets)...
+[2025.12.03-20.04.53:380][796]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/DT_Quest]
+[2025.12.03-20.04.53:386][796]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/DT_Quest
+[2025.12.03-20.04.53:386][796]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/DT_Quest5F29409247E02C1D1D0F4496EA33D3C6.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/DT_Quest.uasset'
+[2025.12.03-20.04.53:392][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/E0/DGTV6DK51VFP2N93ISPAVZ
+[2025.12.03-20.04.53:392][796]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/DGTV6DK51VFP2N93ISPAVZ63D1E67A421BBD80DD0D4BA6F24EB9F2.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/E0/DGTV6DK51VFP2N93ISPAVZ.uasset'
+[2025.12.03-20.04.53:402][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.867 ms (total: 1.12 sec)
+[2025.12.03-20.04.53:464][796]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.03-20.04.53:464][796]LogContentValidation: Enabled validators:
+[2025.12.03-20.04.53:464][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.04.53:464][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.04.53:464][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.04.53:464][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.04.53:464][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.04.53:464][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.04.53:464][796]AssetCheck: /QuestSystem/Blueprints/DT_Quest Validating asset
+[2025.12.03-20.04.53:464][796]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.03-20.04.53:517][796]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-20.05.16:324][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2442.268555
+[2025.12.03-20.05.17:324][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-20.05.17:324][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2442.935303, Update Interval: 333.932312
+[2025.12.03-20.05.30:467][874]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver
+[2025.12.03-20.05.30:467][874]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.12.03-20.05.30:999][877]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.12.03-20.05.40:827][869]LogStreaming: Display: FlushAsyncLoading(6340): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-20.05.40:833][869]LogSkeletalMesh: Building Skeletal Mesh Rachel_T-Pose...
+[2025.12.03-20.05.40:853][869]LogSkeletalMesh: Display: /Game/Animations/Rachel/Rachel_T-Pose.Rachel_T-Pose ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.12.03-20.05.40:905][869]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Animations/Rachel/Rachel_T-Pose.Rachel_T-Pose
+[2025.12.03-20.05.41:088][874]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.12.03-20.05.46:668][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.05.46:720][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_QuestGiver] ([2] browsable assets)...
+[2025.12.03-20.05.46:777][476]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver]
+[2025.12.03-20.05.46:777][476]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_QuestGiver]
+[2025.12.03-20.05.46:792][476]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_QuestGiver
+[2025.12.03-20.05.46:792][476]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_QuestGiver4BD7C8FA44E7CA8509B8F186EDA9C470.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_QuestGiver.uasset'
+[2025.12.03-20.05.46:799][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.937 ms (total: 1.25 sec)
+[2025.12.03-20.05.46:850][476]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.05.46:850][476]LogContentValidation: Enabled validators:
+[2025.12.03-20.05.46:850][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.05.46:850][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.05.46:850][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.05.46:850][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.05.46:850][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.05.46:850][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.05.46:850][476]AssetCheck: /QuestSystem/Blueprints/BP_QuestGiver Validating asset
+[2025.12.03-20.05.46:872][476]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-20.05.54:558][188]Cmd: TRANSACTION UNDO
+[2025.12.03-20.05.54:558][188]LogEditorTransaction: Undo Scale Elements
+[2025.12.03-20.05.54:702][188]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-20.05.57:968][440]Cmd: TRANSACTION UNDO
+[2025.12.03-20.05.57:968][440]LogEditorTransaction: Undo Scale Elements
+[2025.12.03-20.05.58:121][440]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-20.06.21:199][630]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.M_Rachel_Body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.03-20.06.29:686][179]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.Rachel_Body_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.03-20.06.32:856][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.03-20.06.33:425][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.06.33:471][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_QuestGiver] ([2] browsable assets)...
+[2025.12.03-20.06.33:481][395]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_QuestGiver.BP_QuestGiver]
+[2025.12.03-20.06.33:481][395]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_QuestGiver]
+[2025.12.03-20.06.33:494][395]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_QuestGiver
+[2025.12.03-20.06.33:494][395]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_QuestGiverD5C47F60485B51D541832893D67DF1B6.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_QuestGiver.uasset'
+[2025.12.03-20.06.33:500][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.136 ms (total: 1.33 sec)
+[2025.12.03-20.06.33:554][395]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.06.33:554][395]LogContentValidation: Enabled validators:
+[2025.12.03-20.06.33:554][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.06.33:554][395]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.06.33:554][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.06.33:554][395]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.06.33:554][395]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.06.33:554][395]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.06.33:554][395]AssetCheck: /QuestSystem/Blueprints/BP_QuestGiver Validating asset
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: ================================================
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Total job queries 685, among them cache hits 153 (22.34%), DDC hits 396 (57.81%), Duplicates 82 (11.97%)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Tracking 450 distinct input hashes that result in 322 distinct outputs (71.56%)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: RAM used: 4.05 MiB of 1.60 GiB budget. Usage: 0.25%
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Shaders Compiled: 54
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Jobs assigned 54, completed 54 (100%)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Average time worker was idle: 652.80 s
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 1.79 s
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.87
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Shader code size: total 615.613 KiB, numShaders 58, average 10.613 KiB, min 2.891 KiB, max 24.105 KiB
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.55 s
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Jobs were issued in 54 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Average processing rate: 5.12 jobs/sec
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Total thread time: 36.744 s
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Total thread preprocess time: 8.386 s
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Percentage time preprocessing: 22.82%
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Effective parallelization: 3.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.290290
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.37 sec, max 1.43 sec, min 1.30 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.89 sec, max 0.95 sec, min 0.80 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 0.88 sec, max 1.13 sec, min 0.65 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.32% of total time (compiled    8 times, average 0.75 sec, max 1.14 sec, min 0.55 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.69% of total time (compiled    8 times, average 0.67 sec, max 1.35 sec, min 0.34 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.66% of total time (compiled    4 times, average 0.89 sec, max 0.95 sec, min 0.80 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.61% of total time (compiled    4 times, average 0.88 sec, max 1.13 sec, min 0.65 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.96% of total time (compiled    5 times, average 0.58 sec, max 0.91 sec, min 0.30 sec)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: === Material stats ===
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Materials Translated:    204
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Material Translation Only: 0.06 s (36%)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: Material Cache Hits: 58 (28%)
+[2025.12.03-20.06.37:393][575]LogShaderCompilers: Display: ================================================
+[2025.12.03-20.07.15:555][ 51]LogContentBrowser: Deferred new asset file creation: BP_QuestGiver1
+[2025.12.03-20.07.15:563][ 51]LogContentBrowser: Creating deferred item: BP_QuestGiver1
+[2025.12.03-20.07.15:587][ 52]LogContentBrowser: Renaming the item being created (Deferred Item: BP_QuestGiver1).
+[2025.12.03-20.07.34:861][924]LogContentBrowser: Attempting asset rename: BP_QuestGiver1 -> BP_SaraQuestGier
+[2025.12.03-20.07.34:893][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.03-20.07.34:908][924]LogContentBrowser: End creating deferred item BP_QuestGiver1
+[2025.12.03-20.07.34:909][924]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.12.03-20.07.44:092][741]LogContentBrowser: Attempting asset rename: BP_QuestGiver -> BP_RaelQuestGiver
+[2025.12.03-20.07.44:205][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.07.44:205][741]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_RaelQuestGiver] ([2] browsable assets)...
+[2025.12.03-20.07.44:206][741]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.12.03-20.07.44:250][741]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /QuestSystem/Blueprints/BP_RaelQuestGiver.BP_RaelQuestGiver_C]
+[2025.12.03-20.07.44:250][741]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_RaelQuestGiver]
+[2025.12.03-20.07.44:261][741]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_RaelQuestGiver
+[2025.12.03-20.07.44:261][741]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_RaelQuestGiver960A03B14AF4EFA39E8C6D8D7A1FED33.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_RaelQuestGiver.uasset'
+[2025.12.03-20.07.44:267][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/QuestSystem/Blueprints/BP_QuestGiver] ([5] browsable assets)...
+[2025.12.03-20.07.44:267][741]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_QuestGiver]
+[2025.12.03-20.07.44:273][741]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_QuestGiver
+[2025.12.03-20.07.44:273][741]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_QuestGiverF67321954B5EF15E4F66A39DBB8739FF.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_QuestGiver.uasset'
+[2025.12.03-20.07.44:276][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.848 ms (total: 1.40 sec)
+[2025.12.03-20.07.44:340][741]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.03-20.07.44:340][741]LogContentValidation: Enabled validators:
+[2025.12.03-20.07.44:340][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.07.44:340][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.07.44:340][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.07.44:340][741]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.07.44:340][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.07.44:340][741]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.07.44:340][741]AssetCheck: /QuestSystem/Blueprints/BP_RaelQuestGiver Validating asset
+[2025.12.03-20.07.44:340][741]AssetCheck: /QuestSystem/Blueprints/BP_QuestGiver Validating asset
+[2025.12.03-20.07.44:340][741]AssetCheck: /QuestSystem/Blueprints/BP_QuestGiver Validating asset
+[2025.12.03-20.07.44:340][741]AssetCheck: /QuestSystem/Blueprints/BP_QuestGiver Validating asset
+[2025.12.03-20.07.44:384][741]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-20.07.44:385][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.12.03-20.07.47:991][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /QuestSystem/Blueprints/BP_SaraQuestGier.BP_SaraQuestGier
+[2025.12.03-20.07.47:991][ 39]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.12.03-20.07.50:101][207]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-20.07.50:101][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.07.50:164][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.03-20.08.10:929][447]LogStreaming: Display: FlushAsyncLoading(6341): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-20.08.10:934][447]LogSkeletalMesh: Building Skeletal Mesh Mia_T-Pose...
+[2025.12.03-20.08.10:963][447]LogSkeletalMesh: Display: /Game/Animations/Mia/Mia_T-Pose.Mia_T-Pose ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2025.12.03-20.08.11:014][447]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Mia_T-Pose) ...
+[2025.12.03-20.08.11:016][447]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Animations/Mia/Mia_T-Pose.Mia_T-Pose
+[2025.12.03-20.08.11:096][448]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.12.03-20.08.33:859][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.03-20.08.34:397][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.08.34:429][862]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/QuestSystem/Blueprints/BP_SaraQuestGier] ([2] browsable assets)...
+[2025.12.03-20.08.34:483][862]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_SaraQuestGier.BP_SaraQuestGier]
+[2025.12.03-20.08.34:483][862]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.12.03-20.08.34:499][862]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /QuestSystem/Blueprints/BP_SaraQuestGier.BP_SaraQuestGier_C]
+[2025.12.03-20.08.34:499][862]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_SaraQuestGier]
+[2025.12.03-20.08.34:513][862]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_SaraQuestGier
+[2025.12.03-20.08.34:513][862]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_SaraQuestGier9999D2F4489359BBDF6F83B9F373C47C.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_SaraQuestGier.uasset'
+[2025.12.03-20.08.34:521][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.003 ms (total: 1.53 sec)
+[2025.12.03-20.08.34:560][862]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.08.34:560][862]LogContentValidation: Enabled validators:
+[2025.12.03-20.08.34:560][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.08.34:560][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.08.34:560][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.08.34:560][862]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.08.34:560][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.08.34:560][862]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.08.34:560][862]AssetCheck: /QuestSystem/Blueprints/BP_SaraQuestGier Validating asset
+[2025.12.03-20.08.34:583][862]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-20.08.44:874][776]LogContentBrowser: Attempting asset rename: BP_SaraQuestGier -> BP_MiaQuestGier
+[2025.12.03-20.08.44:964][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.08.44:964][776]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_MiaQuestGier] ([2] browsable assets)...
+[2025.12.03-20.08.44:964][776]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.12.03-20.08.45:013][776]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /QuestSystem/Blueprints/BP_MiaQuestGier.BP_MiaQuestGier_C]
+[2025.12.03-20.08.45:013][776]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_MiaQuestGier]
+[2025.12.03-20.08.45:025][776]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_MiaQuestGier
+[2025.12.03-20.08.45:025][776]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_MiaQuestGier83CC31DE4D478C5C45CC36B0BC4727A9.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_MiaQuestGier.uasset'
+[2025.12.03-20.08.45:029][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.755 ms (total: 1.59 sec)
+[2025.12.03-20.08.45:065][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.03-20.08.45:087][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.03-20.08.45:106][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.03-20.08.45:146][776]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-20.08.45:146][776]LogContentValidation: Enabled validators:
+[2025.12.03-20.08.45:146][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.08.45:146][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.08.45:146][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.08.45:146][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.08.45:146][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.08.45:146][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.08.45:146][776]AssetCheck: /QuestSystem/Blueprints/BP_MiaQuestGier Validating asset
+[2025.12.03-20.08.45:152][776]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.12.03-20.08.45:197][776]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-20.09.14:673][367]LogStreaming: Display: FlushAsyncLoading(6342): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-20.09.14:690][367]LogStaticMesh: Display: Building static mesh SM_UnrealTextbook (Required Memory Estimate: 5.739985 MB)...
+[2025.12.03-20.09.14:697][367]LogTexture: Display: Building textures: /QuestSystem/Collectibles/BookStuff/T_BookCoverEmissive.T_BookCoverEmissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2025.12.03-20.09.14:699][367]LogTexture: Display: Building textures: /QuestSystem/Collectibles/BookStuff/T_BookRoughness.T_BookRoughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2025.12.03-20.09.14:708][367]LogTexture: Display: Building textures: /QuestSystem/Collectibles/BookStuff/T_BookCoverBase.T_BookCoverBase (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2025.12.03-20.09.14:713][367]LogTexture: Display: Building textures: /QuestSystem/Collectibles/BookStuff/T_BookPagesBase.T_BookPagesBase (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 306.083323 MB), EncodeSpeed: Fast
+[2025.12.03-20.09.14:715][367]LogTexture: Display: Building textures: /QuestSystem/Collectibles/BookStuff/T_BookPagesEmissive.T_BookPagesEmissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2025.12.03-20.09.14:715][367]LogTexture: Display: Building textures: /QuestSystem/Collectibles/BookStuff/T_BookNormal.T_BookNormal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Fast
+[2025.12.03-20.09.14:728][367]LogStaticMesh: Built static mesh [0.04s] /QuestSystem/Collectibles/BookStuff/SM_UnrealTextbook.SM_UnrealTextbook
+[2025.12.03-20.09.14:768][367]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /QuestSystem/Blueprints/BP_Collectable.BP_Collectable_C
+[2025.12.03-20.09.14:768][367]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /QuestSystem/Blueprints/BP_Collectable.BP_Collectable_C
+[2025.12.03-20.09.14:771][367]LogActorFactory: Actor Factory spawned Blueprint /QuestSystem/Blueprints/BP_Collectable.BP_Collectable as actor: BP_Collectable_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_Collectable_C_0
+[2025.12.03-20.09.14:773][367]LogActorFactory: Actor Factory spawned Blueprint /QuestSystem/Blueprints/BP_Collectable.BP_Collectable as actor: BP_Collectable_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_Collectable_C_0
+[2025.12.03-20.09.14:780][367]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.12.03-20.09.16:117][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.12.03-20.09.16:122][424]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2025.12.03-20.09.16:133][424]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /QuestSystem/Blueprints/BP_Collectable.BP_Collectable_C
+[2025.12.03-20.09.16:133][424]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /QuestSystem/Blueprints/BP_Collectable.BP_Collectable_C
+[2025.12.03-20.09.16:142][424]LogActorFactory: Actor Factory spawned Blueprint /QuestSystem/Blueprints/BP_Collectable.BP_Collectable as actor: BP_Collectable_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_Collectable_C_UAID_00BE43BBC79113A802_1452058250
+[2025.12.03-20.09.16:145][424]LogActorFactory: Actor Factory spawned Blueprint /QuestSystem/Blueprints/BP_Collectable.BP_Collectable as actor: BP_Collectable_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_Collectable_C_UAID_00BE43BBC79113A802_1452058250
+[2025.12.03-20.09.17:111][468]LogPSOHitching: Encountered 500 PSO creation hitches so far (208 graphics, 292 compute). 0 of them were precached.
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: ================================================
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Total job queries 736, among them cache hits 178 (24.18%), DDC hits 401 (54.48%), Duplicates 82 (11.14%)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Tracking 476 distinct input hashes that result in 338 distinct outputs (71.01%)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: RAM used: 4.21 MiB of 1.60 GiB budget. Usage: 0.26%
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Shaders Compiled: 75
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Jobs assigned 75, completed 75 (100%)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Average time worker was idle: 466.65 s
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.82 s
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Job execution time: average 0.85 s, max 1.79 s
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 1.87
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Shader code size: total 855.531 KiB, numShaders 81, average 10.562 KiB, min 2.891 KiB, max 30.48 KiB
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.41 s
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Jobs were issued in 75 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Average processing rate: 6.04 jobs/sec
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Total thread time: 48.532 s
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Total thread preprocess time: 8.965 s
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Percentage time preprocessing: 18.47%
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Effective parallelization: 3.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.325786
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 1.37 sec, max 1.43 sec, min 1.30 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.89 sec, max 0.95 sec, min 0.80 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.27% of total time (compiled   10 times, average 0.69 sec, max 1.35 sec, min 0.34 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.17% of total time (compiled    9 times, average 0.76 sec, max 1.14 sec, min 0.55 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.83% of total time (compiled    7 times, average 0.54 sec, max 0.91 sec, min 0.30 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.31% of total time (compiled    4 times, average 0.89 sec, max 0.95 sec, min 0.80 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.28% of total time (compiled    4 times, average 0.88 sec, max 1.13 sec, min 0.65 sec)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: === Material stats ===
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Materials Translated:    207
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Material Translation Only: 0.06 s (36%)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: Material Cache Hits: 58 (28%)
+[2025.12.03-20.09.37:395][205]LogShaderCompilers: Display: ================================================
+[2025.12.03-20.10.32:842][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.03-20.10.32:859][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/2/YE/USQLD1CCSJYX4TME0V6P4P_Auto3
+[2025.12.03-20.10.32:859][752]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/USQLD1CCSJYX4TME0V6P4P_Auto3B553AC78499A0226D10637A62083E982.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/2/YE/USQLD1CCSJYX4TME0V6P4P_Auto3.uasset'
+[2025.12.03-20.10.32:866][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/6/TO/KJIAWNY7B9ND0A42ZWGBJI_Auto3
+[2025.12.03-20.10.32:866][752]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/KJIAWNY7B9ND0A42ZWGBJI_Auto3057F9CC64EF261748856F199A57A4886.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/6/TO/KJIAWNY7B9ND0A42ZWGBJI_Auto3.uasset'
+[2025.12.03-20.10.32:867][752]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.046
+[2025.12.03-20.10.32:867][752]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2025.12.03-20.10.32:867][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat] ([1] browsable assets)...
+[2025.12.03-20.10.32:917][752]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.Rachel_Body_Mat]
+[2025.12.03-20.10.32:917][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat]
+[2025.12.03-20.10.32:925][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat_Auto3
+[2025.12.03-20.10.32:925][752]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Rachel_Body_Mat_Auto3725F0E5B47C3D956A39BF0BEAECBE937.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat_Auto3.uasset'
+[2025.12.03-20.10.32:926][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1] ([1] browsable assets)...
+[2025.12.03-20.10.32:935][752]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.M_Rachel_Body1]
+[2025.12.03-20.10.32:935][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1]
+[2025.12.03-20.10.32:943][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1_Auto3
+[2025.12.03-20.10.32:943][752]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/M_Rachel_Body1_Auto37C86BC514B6F6875454B0D8986EF6C6D.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Autosaves/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1_Auto3.uasset'
+[2025.12.03-20.10.32:943][752]LogFileHelpers: Auto-saving content packages took 0.077
+[2025.12.03-20.11.27:812][226]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2813.747803
+[2025.12.03-20.11.27:886][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-20.11.27:886][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2813.814453, Update Interval: 329.933167
+[2025.12.03-20.12.27:871][701]LogContentBrowser: Deferred new asset file creation: BP_Collectable1
+[2025.12.03-20.12.27:880][701]LogContentBrowser: Creating deferred item: BP_Collectable1
+[2025.12.03-20.12.27:895][702]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Collectable1).
+[2025.12.03-20.12.42:274][990]LogContentBrowser: Attempting asset rename: BP_Collectable1 -> BP_DiceCollectaable
+[2025.12.03-20.12.42:307][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.03-20.12.42:318][990]LogContentBrowser: End creating deferred item BP_Collectable1
+[2025.12.03-20.12.42:319][990]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.12.03-20.12.42:523][994]LogStreaming: Display: FlushAsyncLoading(6343): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-20.12.42:527][994]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /QuestSystem/Blueprints/BP_Destination.BP_Destination
+[2025.12.03-20.12.42:527][994]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.12.03-20.12.55:243][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /QuestSystem/Blueprints/BP_DiceCollectaable.BP_DiceCollectaable
+[2025.12.03-20.12.55:243][112]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.12.03-20.12.57:409][308]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-20.12.57:409][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.12.57:481][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.03-20.13.18:540][719]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.03-20.13.18:540][719]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-20.13.18:540][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.13.18:595][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.03-20.13.20:881][932]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-20.13.20:881][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.13.20:912][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.03-20.15.30:968][386]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-20.15.30:974][386]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-20.15.30:974][386]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-20.15.30:986][386]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 12.817 ms (total: 88.302 ms)
+[2025.12.03-20.15.30:986][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-20.15.31:014][386]LogPlayLevel: Display: Creating online subsystem for client :Context_52
+[2025.12.03-20.15.31:016][386]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.12.03-20.15.31:054][387]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-20.15.31:181][387]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-20.15.31:209][387]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 27.493 ms (total: 218.515 ms)
+[2025.12.03-20.15.31:209][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154844s)
+[2025.12.03-20.15.31:209][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.154892s)
+[2025.12.03-20.15.31:239][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.03-20.15.31:246][387]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-20.15.31:248][387]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-20.15.31:248][387]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-20.15.31:248][387]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-20.15.31:248][387]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-20.15.31:277][387]LogWorldPartition: Display: WorldPartition initialize took 28.817 ms (total: 1.37 sec)
+[2025.12.03-20.15.31:277][387]LogPlayLevel: PIE: World Init took: (0.031195s)
+[2025.12.03-20.15.31:278][387]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.03-20.15.31:278][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-20.15.31:278][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-20.15.31:278][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-20.15.31:278][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-20.15.31:278][387]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-20.15.31:278][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-20.15.31:278][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-20.15.31:278][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-20.15.31:278][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-20.15.31:278][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-20.15.31:278][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-20.15.31:280][387]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-20.15.31:291][387]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-20.15.31:292][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-20.15.31:292][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-20.15.31:292][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-20.15.31:292][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.03-20.15.31:292][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.03-20.15.31:293][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.03-20.15.31:293][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.03-20.15.31:293][387]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.03-20.15.31:294][387]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_LevelOne'.
+[2025.12.03-20.15.31:294][387]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.03-20.15.31:298][387]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-20.15.31:368][387]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-15.15.31
+[2025.12.03-20.15.31:372][387]LogWorld: Bringing up level for play took: 0.073550
+[2025.12.03-20.15.31:380][387]PIE: Server logged in
+[2025.12.03-20.15.31:381][387]PIE: Play in editor total start time 0.408 seconds.
+[2025.12.03-20.15.31:475][388]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-20.15.31:657][390]LogPSOHitching: Encountered 550 PSO creation hitches so far (225 graphics, 325 compute). 0 of them were precached.
+[2025.12.03-20.15.43:414][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-20.15.43:414][511]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-20.15.43:416][511]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-20.15.43:439][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.15.43:439][511]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-20.15.43:442][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-20.15.43:448][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.15.43:473][511]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-20.15.43:473][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.03-20.15.43:473][511]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.12.03-20.15.43:475][511]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.12.03-20.15.43:479][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-20.15.43:500][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.12.03-20.15.43:598][512]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.12.03-20.15.44:803][599]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-20.15.44:808][599]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-20.15.44:808][599]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-20.15.44:822][599]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 13.688 ms (total: 101.990 ms)
+[2025.12.03-20.15.44:822][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-20.15.44:822][599]LogPlayLevel: Display: Creating online subsystem for client :Context_53
+[2025.12.03-20.15.44:824][599]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.12.03-20.15.44:858][600]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-20.15.44:981][600]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-20.15.45:007][600]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 27.051 ms (total: 245.567 ms)
+[2025.12.03-20.15.45:007][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149119s)
+[2025.12.03-20.15.45:007][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.149153s)
+[2025.12.03-20.15.45:027][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.03-20.15.45:030][600]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-20.15.45:032][600]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-20.15.45:032][600]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-20.15.45:033][600]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-20.15.45:033][600]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-20.15.45:061][600]LogWorldPartition: Display: WorldPartition initialize took 28.749 ms (total: 1.40 sec)
+[2025.12.03-20.15.45:061][600]LogPlayLevel: PIE: World Init took: (0.031044s)
+[2025.12.03-20.15.45:061][600]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.12.03-20.15.45:061][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-20.15.45:061][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-20.15.45:061][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-20.15.45:061][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-20.15.45:061][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-20.15.45:061][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-20.15.45:061][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-20.15.45:061][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-20.15.45:061][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-20.15.45:061][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-20.15.45:061][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-20.15.45:064][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-20.15.45:073][600]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-20.15.45:073][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-20.15.45:073][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-20.15.45:073][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-20.15.45:073][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.12.03-20.15.45:073][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.12.03-20.15.45:075][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.12.03-20.15.45:075][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.12.03-20.15.45:075][600]LogInit: FAudioDevice initialized with ID 10.
+[2025.12.03-20.15.45:075][600]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_LevelOne'.
+[2025.12.03-20.15.45:075][600]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.03-20.15.45:079][600]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-20.15.45:149][600]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-15.15.45
+[2025.12.03-20.15.45:150][600]LogWorld: Bringing up level for play took: 0.071019
+[2025.12.03-20.15.45:154][600]PIE: Server logged in
+[2025.12.03-20.15.45:156][600]PIE: Play in editor total start time 0.348 seconds.
+[2025.12.03-20.15.45:247][601]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-20.16.10:954][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-20.16.10:954][ 55]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-20.16.10:956][ 55]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-20.16.10:979][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.16.10:979][ 55]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-20.16.10:981][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-20.16.10:989][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.16.11:012][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-20.16.11:016][ 55]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.03-20.16.11:016][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.12.03-20.16.11:018][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.12.03-20.16.11:040][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.12.03-20.16.11:140][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.12.03-20.16.12:947][202]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-20.16.12:953][202]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-20.16.12:953][202]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-20.16.12:967][202]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 14.158 ms (total: 116.148 ms)
+[2025.12.03-20.16.12:967][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-20.16.12:967][202]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2025.12.03-20.16.12:969][202]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.12.03-20.16.13:003][203]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-20.16.13:124][203]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-20.16.13:151][203]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 26.651 ms (total: 272.219 ms)
+[2025.12.03-20.16.13:151][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148476s)
+[2025.12.03-20.16.13:151][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.148516s)
+[2025.12.03-20.16.13:170][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.03-20.16.13:174][203]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-20.16.13:176][203]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-20.16.13:176][203]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-20.16.13:176][203]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-20.16.13:176][203]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-20.16.13:204][203]LogWorldPartition: Display: WorldPartition initialize took 28.540 ms (total: 1.43 sec)
+[2025.12.03-20.16.13:205][203]LogPlayLevel: PIE: World Init took: (0.030657s)
+[2025.12.03-20.16.13:205][203]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.12.03-20.16.13:205][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-20.16.13:205][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-20.16.13:205][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-20.16.13:205][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-20.16.13:205][203]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-20.16.13:205][203]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-20.16.13:205][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-20.16.13:205][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-20.16.13:205][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-20.16.13:205][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-20.16.13:205][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-20.16.13:207][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-20.16.13:216][203]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-20.16.13:216][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-20.16.13:216][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-20.16.13:216][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-20.16.13:217][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.12.03-20.16.13:217][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.12.03-20.16.13:218][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.12.03-20.16.13:218][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.12.03-20.16.13:218][203]LogInit: FAudioDevice initialized with ID 11.
+[2025.12.03-20.16.13:218][203]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_LevelOne'.
+[2025.12.03-20.16.13:219][203]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.03-20.16.13:222][203]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-20.16.13:289][203]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-15.16.13
+[2025.12.03-20.16.13:291][203]LogWorld: Bringing up level for play took: 0.068578
+[2025.12.03-20.16.13:296][203]PIE: Server logged in
+[2025.12.03-20.16.13:298][203]PIE: Play in editor total start time 0.345 seconds.
+[2025.12.03-20.16.13:386][204]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-20.16.50:465][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-20.16.50:465][703]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-20.16.50:466][703]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-20.16.50:490][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.16.50:490][703]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-20.16.50:492][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-20.16.50:499][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.16.50:521][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-20.16.50:526][703]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.03-20.16.50:526][703]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.12.03-20.16.50:528][703]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.12.03-20.16.50:550][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.12.03-20.16.50:650][704]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.12.03-20.16.52:207][823]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-20.16.52:212][823]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-20.16.52:212][823]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-20.16.52:224][823]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 12.528 ms (total: 128.677 ms)
+[2025.12.03-20.16.52:225][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-20.16.52:274][823]LogPlayLevel: Display: Creating online subsystem for client :Context_55
+[2025.12.03-20.16.52:276][823]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.12.03-20.16.52:309][824]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-20.16.52:431][824]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-20.16.52:459][824]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 27.445 ms (total: 299.665 ms)
+[2025.12.03-20.16.52:459][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149940s)
+[2025.12.03-20.16.52:459][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.149978s)
+[2025.12.03-20.16.52:478][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.03-20.16.52:480][824]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-20.16.52:482][824]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-20.16.52:482][824]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-20.16.52:482][824]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-20.16.52:482][824]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-20.16.52:510][824]LogWorldPartition: Display: WorldPartition initialize took 28.361 ms (total: 1.46 sec)
+[2025.12.03-20.16.52:510][824]LogPlayLevel: PIE: World Init took: (0.030432s)
+[2025.12.03-20.16.52:511][824]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.12.03-20.16.52:511][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-20.16.52:511][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-20.16.52:511][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-20.16.52:511][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-20.16.52:511][824]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-20.16.52:511][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-20.16.52:511][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-20.16.52:511][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-20.16.52:511][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-20.16.52:511][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-20.16.52:511][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-20.16.52:514][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-20.16.52:521][824]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-20.16.52:523][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-20.16.52:523][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-20.16.52:523][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-20.16.52:523][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.12.03-20.16.52:523][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.12.03-20.16.52:525][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.12.03-20.16.52:525][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.12.03-20.16.52:525][824]LogInit: FAudioDevice initialized with ID 12.
+[2025.12.03-20.16.52:525][824]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_LevelOne'.
+[2025.12.03-20.16.52:525][824]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.03-20.16.52:529][824]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-20.16.52:597][824]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-15.16.52
+[2025.12.03-20.16.52:598][824]LogWorld: Bringing up level for play took: 0.069357
+[2025.12.03-20.16.52:603][824]PIE: Server logged in
+[2025.12.03-20.16.52:604][824]PIE: Play in editor total start time 0.393 seconds.
+[2025.12.03-20.16.52:695][825]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-20.16.58:714][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-20.16.58:714][393]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-20.16.58:715][393]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-20.16.58:738][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.16.58:739][393]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-20.16.58:741][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-20.16.58:747][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-20.16.58:771][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-20.16.58:776][393]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.03-20.16.58:776][393]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.12.03-20.16.58:778][393]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.12.03-20.16.58:799][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.12.03-20.16.58:901][394]LogPlayLevel: Display: Destroying online subsystem :Context_55
