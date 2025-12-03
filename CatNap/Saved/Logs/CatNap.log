@@ -2756,3 +2756,42 @@ FPackageName: Skipped package /Game/dRealWarriorPack/Meshes/PA_Warrior has a val
 [2025.12.03-20.16.58:778][393]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
 [2025.12.03-20.16.58:799][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
 [2025.12.03-20.16.58:901][394]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.12.03-20.17.55:859][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3201.795654
+[2025.12.03-20.17.56:858][ 66]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-20.17.56:858][ 66]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3202.461670, Update Interval: 328.319946
+[2025.12.03-20.18.01:537][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.03-20.18.02:898][302]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-20.18.02:926][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-20.18.02:990][302]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/6/TO/KJIAWNY7B9ND0A42ZWGBJI
+[2025.12.03-20.18.02:990][302]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/KJIAWNY7B9ND0A42ZWGBJI63E74B264C27C3141BCA1BA54CE6D9AA.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/TO/KJIAWNY7B9ND0A42ZWGBJI.uasset'
+[2025.12.03-20.18.02:991][302]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/QuestSystem/Blueprints/BP_DiceCollectaable] ([2] browsable assets)...
+[2025.12.03-20.18.03:136][302]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_DiceCollectaable.BP_DiceCollectaable]
+[2025.12.03-20.18.03:137][302]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.12.03-20.18.03:239][302]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /QuestSystem/Blueprints/BP_DiceCollectaable.BP_DiceCollectaable_C]
+[2025.12.03-20.18.03:239][302]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_DiceCollectaable]
+[2025.12.03-20.18.03:251][302]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_DiceCollectaable
+[2025.12.03-20.18.03:251][302]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_DiceCollectaable54EA0B024F8FD3C4ED5AF1BCE976C39C.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_DiceCollectaable.uasset'
+[2025.12.03-20.18.03:260][302]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/2/YE/USQLD1CCSJYX4TME0V6P4P
+[2025.12.03-20.18.03:260][302]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/USQLD1CCSJYX4TME0V6P4P0F17C81B4E665C98DA0195849E25F2B0.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/YE/USQLD1CCSJYX4TME0V6P4P.uasset'
+[2025.12.03-20.18.03:261][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1] ([1] browsable assets)...
+[2025.12.03-20.18.03:261][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1]
+[2025.12.03-20.18.03:267][302]LogSavePackage: Moving output files for package: /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1
+[2025.12.03-20.18.03:267][302]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/M_Rachel_Body15FA5F8E2448A803EBE4C408866270954.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Characters/OurCharacterModels/Rachel/M_Rachel_Body1.uasset'
+[2025.12.03-20.18.03:268][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat] ([1] browsable assets)...
+[2025.12.03-20.18.03:268][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat]
+[2025.12.03-20.18.03:274][302]LogSavePackage: Moving output files for package: /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat
+[2025.12.03-20.18.03:274][302]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Rachel_Body_Mat9D71C3074DB3441DEC8B60A92F040328.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat.uasset'
+[2025.12.03-20.18.03:282][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 355.904 ms (total: 1.95 sec)
+[2025.12.03-20.18.03:328][302]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.03-20.18.03:329][302]LogContentValidation: Enabled validators:
+[2025.12.03-20.18.03:329][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-20.18.03:329][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-20.18.03:329][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-20.18.03:329][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-20.18.03:329][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-20.18.03:329][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-20.18.03:329][302]AssetCheck: /QuestSystem/Blueprints/BP_DiceCollectaable Validating asset
+[2025.12.03-20.18.03:329][302]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.03-20.18.03:329][302]AssetCheck: /Game/Characters/OurCharacterModels/Rachel/M_Rachel_Body1 Validating asset
+[2025.12.03-20.18.03:329][302]AssetCheck: /Game/Characters/OurCharacterModels/Rachel/Rachel_Body_Mat Validating asset
+[2025.12.03-20.18.03:385][302]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
