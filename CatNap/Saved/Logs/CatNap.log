@@ -6127,3 +6127,946 @@ FPackageName: Unable to identify a valid mount point associated with skipped pac
 [2025.12.03-16.23.39:423][210]AssetCheck: /Game/Characters/OurCharacterModels/Mia/Mia_Tex_Mat Validating asset
 [2025.12.03-16.23.39:423][210]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.12.03-16.23.39:450][210]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.24.09:474][390]LogPSOHitching: Encountered 1100 PSO creation hitches so far (495 graphics, 605 compute). 0 of them were precached.
+[2025.12.03-16.24.20:790][368]LogContentBrowser: Deferred new asset file creation: SM_Hyacinth_PastellBlue_Big1
+[2025.12.03-16.24.20:797][368]LogContentBrowser: Creating deferred item: SM_Hyacinth_PastellBlue_Big1
+[2025.12.03-16.24.20:810][369]LogContentBrowser: Renaming the item being created (Deferred Item: SM_Hyacinth_PastellBlue_Big1).
+[2025.12.03-16.24.22:116][488]LogContentBrowser: Attempting asset rename: SM_Hyacinth_PastellBlue_Big1 -> SM_Hyacinth_PastellBlue_Big1
+[2025.12.03-16.24.22:122][488]LogContentBrowser: End creating deferred item SM_Hyacinth_PastellBlue_Big1
+[2025.12.03-16.24.22:824][525]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/DEMOFlowerpack/StaticMesh/SM_Hyacinth_PastellBlue_Big1.SM_Hyacinth_PastellBlue_Big1
+[2025.12.03-16.24.22:836][525]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.12.03-16.24.32:254][466]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.24.32:254][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.24.32:302][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.03-16.24.36:618][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.03-16.24.37:860][795]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.03-16.24.37:890][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.03-16.24.37:914][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.03-16.24.37:938][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.03-16.24.43:659][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5475.136719
+[2025.12.03-16.24.43:751][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-16.24.43:751][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5475.218262, Update Interval: 315.657837
+[2025.12.03-16.26.27:691][ 30]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Anims/Unarmed/ABP_Cat.ABP_Cat
+[2025.12.03-16.26.27:691][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.12.03-16.26.27:698][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.12.03-16.26.27:719][ 30]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.26.27:981][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.12.03-16.27.49:021][667]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.27.49:026][667]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.27.49:026][667]LogPSOHitching: Encountered 1150 PSO creation hitches so far (523 graphics, 627 compute). 0 of them were precached.
+[2025.12.03-16.27.49:026][667]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.27.49:120][667]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.27.49:124][667]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.27.49:261][667]LogPSOHitching: Encountered 1200 PSO creation hitches so far (529 graphics, 671 compute). 0 of them were precached.
+[2025.12.03-16.27.49:470][667]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.27.49:504][667]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.27.49:570][667]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.27.49:605][667]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.27.49:630][668]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.27.49:655][668]LogPSOHitching: Encountered 1250 PSO creation hitches so far (540 graphics, 710 compute). 0 of them were precached.
+[2025.12.03-16.27.49:677][668]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.29.49:629][749]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.29.49:728][750]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.29.49:735][750]LogPSOHitching: Encountered 1300 PSO creation hitches so far (562 graphics, 738 compute). 0 of them were precached.
+[2025.12.03-16.29.50:548][822]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-16.29.50:558][822]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-16.29.50:558][822]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-16.29.50:570][822]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 12.941 ms (total: 114.656 ms)
+[2025.12.03-16.29.50:571][822]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-16.29.50:571][822]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2025.12.03-16.29.50:573][822]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.12.03-16.29.50:614][823]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.29.50:752][823]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-16.29.50:780][823]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 28.093 ms (total: 553.997 ms)
+[2025.12.03-16.29.50:780][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166189s)
+[2025.12.03-16.29.50:780][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.166249s)
+[2025.12.03-16.29.50:838][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.12.03-16.29.50:844][823]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-16.29.50:845][823]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-16.29.50:846][823]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-16.29.50:846][823]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-16.29.50:846][823]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-16.29.50:876][823]LogWorldPartition: Display: WorldPartition initialize took 29.764 ms (total: 2.38 sec)
+[2025.12.03-16.29.50:876][823]LogPlayLevel: PIE: World Init took: (0.032029s)
+[2025.12.03-16.29.50:876][823]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.12.03-16.29.50:876][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-16.29.50:876][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-16.29.50:876][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-16.29.50:876][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-16.29.50:876][823]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-16.29.50:876][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-16.29.50:876][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-16.29.50:876][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-16.29.50:876][823]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-16.29.50:876][823]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-16.29.50:876][823]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-16.29.50:878][823]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-16.29.50:889][823]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2025.12.03-16.29.50:889][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-16.29.50:889][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-16.29.50:889][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-16.29.50:890][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.12.03-16.29.50:890][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.12.03-16.29.50:892][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.12.03-16.29.50:892][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.12.03-16.29.50:892][823]LogInit: FAudioDevice initialized with ID 13.
+[2025.12.03-16.29.50:892][823]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_LevelOne'.
+[2025.12.03-16.29.50:892][823]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.03-16.29.50:896][823]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.03-16.29.50:965][823]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-11.29.50
+[2025.12.03-16.29.50:966][823]LogWorld: Bringing up level for play took: 0.069641
+[2025.12.03-16.29.50:971][823]PIE: Server logged in
+[2025.12.03-16.29.50:973][823]PIE: Play in editor total start time 0.416 seconds.
+[2025.12.03-16.29.51:048][824]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066699 > MaxSimulationTimeStep (0.050) for 'BP_Cat_Character_C_0', movement 'Walking'
+[2025.12.03-16.29.51:066][824]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.29.52:788][993]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.12.03-16.29.52:788][993]LogScript: Warning: Script Msg called by: BP_Cat_Character_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_Cat_Character_C_0
+[2025.12.03-16.29.52:788][993]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.03-16.29.52:788][993]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.03-16.29.52:788][993]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.03-16.30.01:747][  0]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/StartMenuLevel"
+[2025.12.03-16.30.01:747][  0]LogNet: Browse: /Game/Levels/StartMenuLevel
+[2025.12.03-16.30.01:747][  0]LogLoad: LoadMap: /Game/Levels/StartMenuLevel
+[2025.12.03-16.30.01:747][  0]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.30.01:749][  0]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.30.01:772][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.30.01:772][  0]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-16.30.01:844][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-16.30.01:865][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.12.03-16.30.01:869][  0]LogStreaming: Display: FlushAsyncLoading(11101): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.30.01:871][  0]LogAudio: Display: Audio Device (ID: 13) registered with world 'StartMenuLevel'.
+[2025.12.03-16.30.01:871][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.03-16.30.01:873][  0]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2025.12.03-16.30.01:873][  0]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.12.03-16.30.01:873][  0]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.12.03-11.30.01
+[2025.12.03-16.30.01:874][  0]LogWorld: Bringing up level for play took: 0.000459
+[2025.12.03-16.30.01:874][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.03-16.30.01:875][  0]LogLoad: Took 0.128142 seconds to LoadMap(/Game/Levels/StartMenuLevel)
+[2025.12.03-16.30.01:875][  0]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/StartMenuLevel
+[2025.12.03-16.30.01:879][  0]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.30.02:923][123]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/L_LevelOne"
+[2025.12.03-16.30.02:923][123]LogNet: Browse: /Game/Levels/L_LevelOne
+[2025.12.03-16.30.02:923][123]LogLoad: LoadMap: /Game/Levels/L_LevelOne
+[2025.12.03-16.30.02:923][123]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.03-16.30.02:924][123]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.30.02:924][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.30.02:966][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-16.30.02:969][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.03-16.30.02:971][123]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.30.03:097][123]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-16.30.03:125][123]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 28.656 ms (total: 582.653 ms)
+[2025.12.03-16.30.03:125][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153969s)
+[2025.12.03-16.30.03:125][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.154017s)
+[2025.12.03-16.30.03:125][123]LogAudio: Display: Audio Device (ID: 13) registered with world 'L_LevelOne'.
+[2025.12.03-16.30.03:125][123]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-16.30.03:128][123]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-16.30.03:128][123]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-16.30.03:128][123]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-16.30.03:128][123]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-16.30.03:157][123]LogWorldPartition: Display: WorldPartition initialize took 28.791 ms (total: 2.41 sec)
+[2025.12.03-16.30.03:157][123]LogPlayLevel: PIE: World Init took: (0.030814s)
+[2025.12.03-16.30.03:157][123]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.03-16.30.03:227][123]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-11.30.03
+[2025.12.03-16.30.03:228][123]LogWorld: Bringing up level for play took: 0.070354
+[2025.12.03-16.30.03:231][123]LogLoad: Took 0.308002 seconds to LoadMap(/Game/Levels/UEDPIE_0_L_LevelOne)
+[2025.12.03-16.30.03:231][123]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.30.03:282][123]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.30.05:654][384]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_1' was already added to the screen.
+[2025.12.03-16.30.05:654][384]LogScript: Warning: Script Msg called by: BP_Cat_Character_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_Cat_Character_C_0
+[2025.12.03-16.30.06:671][499]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.03-16.30.06:671][499]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.12.03-16.30.08:807][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.30.08:808][725]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.30.08:809][725]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.30.08:833][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.30.08:834][725]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-16.30.08:835][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-16.30.08:841][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.30.08:866][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.30.08:868][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.12.03-16.30.08:868][725]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.12.03-16.30.08:871][725]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.12.03-16.30.08:895][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.12.03-16.30.08:978][726]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.12.03-16.30.53:264][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5844.881348
+[2025.12.03-16.30.53:354][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-16.30.53:354][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5844.957520, Update Interval: 329.484558
+[2025.12.03-16.31.11:902][399]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_PauseMenu.WB_PauseMenu
+[2025.12.03-16.31.11:902][399]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.12.03-16.31.11:909][399]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (W_QuestLog) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (W_QuestLog) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (W_QuestLog) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (W_QuestLog) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (BPC_Quest) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (BPC_Quest) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (W_QuestLog) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (BPC_Quest) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (BPC_Quest) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (W_QuestLog) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.32.16:660][800]LogBlueprint: Warning: FMemberReference::ResolveMember (W_QuestLog) bSelfContext == true, but no scope supplied!
+[2025.12.03-16.33.36:703][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.03-16.34.03:980][244]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.34.03:980][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.34.03:985][244]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.34.03:985][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.34.04:023][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.12.03-16.34.04:148][246]LogPSOHitching: Encountered 1350 PSO creation hitches so far (587 graphics, 763 compute). 0 of them were precached.
+[2025.12.03-16.34.06:569][452]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_PauseMenu.WB_PauseMenu
+[2025.12.03-16.34.06:569][452]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.12.03-16.34.06:574][452]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.12.03-16.34.26:052][641]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\GitHub\FelineFour\CatNap\Content\WB_PauseMenu.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Clicked (ExitButton)  and was replaced as a Custom Event!
+[2025.12.03-16.34.45:066][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.03-16.34.57:490][943]LogContentBrowser: Deferred new asset file creation: WBP_StartMenu1
+[2025.12.03-16.34.57:497][943]LogContentBrowser: Creating deferred item: WBP_StartMenu1
+[2025.12.03-16.34.57:523][944]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_StartMenu1).
+[2025.12.03-16.34.59:525][148]LogContentBrowser: Attempting asset rename: WBP_StartMenu1 -> WBP_StartMenu1
+[2025.12.03-16.34.59:553][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.03-16.34.59:566][148]LogContentBrowser: End creating deferred item WBP_StartMenu1
+[2025.12.03-16.35.00:543][228]Cmd: TRANSACTION UNDO
+[2025.12.03-16.35.00:543][228]LogEditorTransaction: Undo Move Node
+[2025.12.03-16.35.00:878][228]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.35.00:879][228]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.35.15:461][640]LogContentBrowser: Attempting asset rename: WBP_StartMenu1 -> WBP_Controls
+[2025.12.03-16.35.15:554][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.35.15:554][640]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_Controls] ([2] browsable assets)...
+[2025.12.03-16.35.15:557][640]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_Controls.WBP_Controls]
+[2025.12.03-16.35.15:557][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_Controls]
+[2025.12.03-16.35.15:557][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_Controls" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_Controls.uasset" SILENT=true
+[2025.12.03-16.35.15:571][640]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_Controls
+[2025.12.03-16.35.15:571][640]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WBP_ControlsFE82A66746730850FFD98489E9CD9B53.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_Controls.uasset'
+[2025.12.03-16.35.15:576][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.304 ms (total: 7.16 sec)
+[2025.12.03-16.35.15:602][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.03-16.35.15:622][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.03-16.35.15:643][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.03-16.35.15:702][640]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.35.15:702][640]LogContentValidation: Enabled validators:
+[2025.12.03-16.35.15:702][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.35.15:702][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.35.15:702][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.35.15:702][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.35.15:702][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.35.15:702][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.35.15:702][640]AssetCheck: /Game/Blueprints/WBP/WBP_Controls Validating asset
+[2025.12.03-16.35.15:779][640]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.35.17:286][740]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP/WBP_Controls.WBP_Controls
+[2025.12.03-16.35.17:286][740]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.12.03-16.35.17:293][740]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.12.03-16.35.29:355][189]LogSlate: Window 'Delete widgets' being destroyed
+[2025.12.03-16.35.32:063][489]LogEditorTransaction: Undo Remove Widget
+[2025.12.03-16.35.32:293][489]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.35.32:293][489]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.36.07:490][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.03-16.36.07:493][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.040
+[2025.12.03-16.36.07:493][571]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_PauseMenu] ([2] browsable assets)...
+[2025.12.03-16.36.07:503][571]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_PauseMenu.WB_PauseMenu]
+[2025.12.03-16.36.07:503][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_PauseMenu]
+[2025.12.03-16.36.07:503][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_PauseMenu" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/WB_PauseMenu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.12.03-16.36.07:516][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_PauseMenu_Auto5
+[2025.12.03-16.36.07:516][571]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WB_PauseMenu_Auto595072209426D6168DF93279469F68005.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/WB_PauseMenu_Auto5.uasset'
+[2025.12.03-16.36.07:517][571]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_Controls] ([2] browsable assets)...
+[2025.12.03-16.36.07:519][571]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_Controls.WBP_Controls]
+[2025.12.03-16.36.07:519][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_Controls]
+[2025.12.03-16.36.07:529][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WBP/WBP_Controls_Auto5
+[2025.12.03-16.36.07:529][571]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WBP_Controls_Auto581D062AB47D4BDD9F9A8EF97BE1CD314.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/Blueprints/WBP/WBP_Controls_Auto5.uasset'
+[2025.12.03-16.36.07:529][571]LogFileHelpers: Auto-saving content packages took 0.036
+[2025.12.03-16.36.44:031][904]LogEditorTransaction: Undo Edit Right
+[2025.12.03-16.36.44:294][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.36.44:295][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.36.44:411][905]LogEditorTransaction: Undo Resize Widget
+[2025.12.03-16.36.44:666][905]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.36.44:666][905]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.37.10:156][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6221.656738
+[2025.12.03-16.37.10:248][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-16.37.10:248][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6221.740234, Update Interval: 316.100952
+[2025.12.03-16.39.07:350][895]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-16.39.07:356][895]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-16.39.07:356][895]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-16.39.07:368][895]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 11.553 ms (total: 126.210 ms)
+[2025.12.03-16.39.07:376][895]LogPlayLevel: Warning: Cancelling Open Transaction 'Edit Color and Opacity' to start PIE session.
+[2025.12.03-16.39.07:378][895]LogPlayLevel: [PlayLevel] Compiling WB_PauseMenu before play...
+[2025.12.03-16.39.07:422][895]LogPlayLevel: [PlayLevel] Compiling WBP_Controls before play...
+[2025.12.03-16.39.07:423][895]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\GitHub\FelineFour\CatNap\Content\Blueprints\WBP\WBP_Controls.uasset: [Compiler] On Clicked (StartGame)  does not have a valid matching component!
+[2025.12.03-16.39.07:460][895]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.39.07:544][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.03-16.39.07:546][895]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (2 blueprints)
+[2025.12.03-16.39.07:546][895]LogPlayLevel: Display: Creating online subsystem for client :Context_51
+[2025.12.03-16.39.07:548][895]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.12.03-16.39.07:664][896]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.39.07:790][896]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-16.39.07:818][896]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 28.009 ms (total: 610.663 ms)
+[2025.12.03-16.39.07:818][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154604s)
+[2025.12.03-16.39.07:818][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.154663s)
+[2025.12.03-16.39.07:839][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.03-16.39.07:843][896]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-16.39.07:844][896]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-16.39.07:844][896]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-16.39.07:844][896]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-16.39.07:845][896]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-16.39.07:875][896]LogWorldPartition: Display: WorldPartition initialize took 29.779 ms (total: 2.43 sec)
+[2025.12.03-16.39.07:875][896]LogPlayLevel: PIE: World Init took: (0.032247s)
+[2025.12.03-16.39.07:876][896]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.12.03-16.39.07:876][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-16.39.07:876][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-16.39.07:876][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-16.39.07:876][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-16.39.07:876][896]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-16.39.07:876][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-16.39.07:876][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-16.39.07:876][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-16.39.07:876][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-16.39.07:876][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-16.39.07:876][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-16.39.07:878][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-16.39.07:889][896]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2025.12.03-16.39.07:890][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-16.39.07:890][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-16.39.07:890][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-16.39.07:890][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.12.03-16.39.07:890][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.12.03-16.39.07:892][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.12.03-16.39.07:892][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.12.03-16.39.07:892][896]LogInit: FAudioDevice initialized with ID 14.
+[2025.12.03-16.39.07:892][896]LogAudio: Display: Audio Device (ID: 14) registered with world 'L_LevelOne'.
+[2025.12.03-16.39.07:892][896]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.03-16.39.07:896][896]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.03-16.39.07:968][896]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-11.39.07
+[2025.12.03-16.39.07:970][896]LogWorld: Bringing up level for play took: 0.072897
+[2025.12.03-16.39.07:974][896]PIE: Server logged in
+[2025.12.03-16.39.07:978][896]PIE: Play in editor total start time 0.621 seconds.
+[2025.12.03-16.39.08:091][896]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.39.10:165][ 74]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.12.03-16.39.10:165][ 74]LogScript: Warning: Script Msg called by: BP_Cat_Character_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_Cat_Character_C_0
+[2025.12.03-16.39.10:165][ 74]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.03-16.39.10:165][ 74]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.03-16.39.10:165][ 74]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.03-16.39.15:375][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.39.15:375][609]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.39.15:376][609]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.39.15:400][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.39.15:400][609]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-16.39.15:401][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-16.39.15:408][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.39.15:434][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.39.15:436][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.03-16.39.15:436][609]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.12.03-16.39.15:438][609]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.12.03-16.39.15:461][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.12.03-16.39.15:536][610]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.12.03-16.39.15:662][612]LogPSOHitching: Encountered 1400 PSO creation hitches so far (609 graphics, 791 compute). 0 of them were precached.
+[2025.12.03-16.39.20:281][127]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.39.20:282][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.39.20:287][127]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.39.20:287][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.39.20:326][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.03-16.39.24:368][426]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu
+[2025.12.03-16.39.24:368][426]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.12.03-16.39.24:373][426]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.12.03-16.39.27:346][724]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.39.27:346][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.39.27:351][724]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.39.27:351][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.39.27:400][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.03-16.39.30:450][999]LogStreaming: Display: FlushAsyncLoading(11102): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.39.30:461][999]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP/WBP_Dialouge.WBP_Dialouge
+[2025.12.03-16.39.30:461][999]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.12.03-16.39.30:468][999]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.12.03-16.39.52:792][411]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.39.52:792][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.39.52:797][411]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.39.52:797][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.39.52:855][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.03-16.40.32:333][ 39]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_PauseMenu.WB_PauseMenu
+[2025.12.03-16.40.32:335][ 39]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.12.03-16.40.32:341][ 39]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.12.03-16.40.57:997][539]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.41.09:475][828]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.41.17:534][757]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.41.23:334][436]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.41.56:527][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.03-16.41.56:998][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.41.57:038][102]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_PauseMenu] ([2] browsable assets)...
+[2025.12.03-16.41.57:047][102]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_PauseMenu.WB_PauseMenu]
+[2025.12.03-16.41.57:047][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_PauseMenu]
+[2025.12.03-16.41.57:047][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_PauseMenu" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_PauseMenu.uasset" SILENT=true
+[2025.12.03-16.41.57:061][102]LogSavePackage: Moving output files for package: /Game/WB_PauseMenu
+[2025.12.03-16.41.57:061][102]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WB_PauseMenu45B52D554B571F56312FF69E281360B6.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_PauseMenu.uasset'
+[2025.12.03-16.41.57:067][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.854 ms (total: 7.23 sec)
+[2025.12.03-16.41.57:117][102]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.41.57:117][102]LogContentValidation: Enabled validators:
+[2025.12.03-16.41.57:117][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.41.57:117][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.41.57:117][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.41.57:117][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.41.57:117][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.41.57:117][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.41.57:118][102]AssetCheck: /Game/WB_PauseMenu Validating asset
+[2025.12.03-16.41.57:139][102]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.41.59:407][355]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\GitHub\FelineFour\CatNap\Content\Blueprints\WBP\WBP_Controls.uasset: [Compiler] On Clicked (StartGame)  does not have a valid matching component!
+[2025.12.03-16.41.59:429][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.03-16.41.59:976][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.42.00:035][393]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_Controls] ([2] browsable assets)...
+[2025.12.03-16.42.00:037][393]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_Controls.WBP_Controls]
+[2025.12.03-16.42.00:037][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_Controls]
+[2025.12.03-16.42.00:037][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_Controls" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_Controls.uasset" SILENT=true
+[2025.12.03-16.42.00:048][393]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_Controls
+[2025.12.03-16.42.00:048][393]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WBP_Controls071297B643057ADC34F70CAF899A8677.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_Controls.uasset'
+[2025.12.03-16.42.00:054][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.767 ms (total: 7.31 sec)
+[2025.12.03-16.42.00:083][393]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.42.00:083][393]LogContentValidation: Enabled validators:
+[2025.12.03-16.42.00:083][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.42.00:083][393]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.42.00:083][393]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.42.00:083][393]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.42.00:083][393]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.42.00:083][393]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.42.00:084][393]AssetCheck: /Game/Blueprints/WBP/WBP_Controls Validating asset
+[2025.12.03-16.42.01:805][557]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-16.42.01:810][557]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-16.42.01:810][557]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-16.42.01:822][557]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 11.863 ms (total: 138.074 ms)
+[2025.12.03-16.42.01:822][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-16.42.01:844][557]LogPlayLevel: Display: Creating online subsystem for client :Context_58
+[2025.12.03-16.42.01:846][557]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.12.03-16.42.01:882][558]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.42.02:014][558]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-16.42.02:043][558]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 28.518 ms (total: 639.182 ms)
+[2025.12.03-16.42.02:043][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160806s)
+[2025.12.03-16.42.02:043][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.160856s)
+[2025.12.03-16.42.02:062][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.03-16.42.02:067][558]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-16.42.02:069][558]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-16.42.02:069][558]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-16.42.02:069][558]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-16.42.02:069][558]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-16.42.02:099][558]LogWorldPartition: Display: WorldPartition initialize took 30.491 ms (total: 2.47 sec)
+[2025.12.03-16.42.02:099][558]LogPlayLevel: PIE: World Init took: (0.032694s)
+[2025.12.03-16.42.02:100][558]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.12.03-16.42.02:100][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-16.42.02:100][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-16.42.02:100][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-16.42.02:100][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-16.42.02:100][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-16.42.02:100][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-16.42.02:100][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-16.42.02:100][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-16.42.02:100][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-16.42.02:100][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-16.42.02:100][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-16.42.02:102][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-16.42.02:112][558]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2025.12.03-16.42.02:112][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-16.42.02:112][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-16.42.02:112][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-16.42.02:112][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.12.03-16.42.02:112][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.12.03-16.42.02:115][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.12.03-16.42.02:115][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.12.03-16.42.02:115][558]LogInit: FAudioDevice initialized with ID 15.
+[2025.12.03-16.42.02:115][558]LogAudio: Display: Audio Device (ID: 15) registered with world 'L_LevelOne'.
+[2025.12.03-16.42.02:115][558]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.12.03-16.42.02:119][558]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.03-16.42.02:187][558]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-11.42.02
+[2025.12.03-16.42.02:189][558]LogWorld: Bringing up level for play took: 0.069888
+[2025.12.03-16.42.02:194][558]PIE: Server logged in
+[2025.12.03-16.42.02:196][558]PIE: Play in editor total start time 0.386 seconds.
+[2025.12.03-16.42.02:275][559]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.070147 > MaxSimulationTimeStep (0.050) for 'BP_Cat_Character_C_0', movement 'Walking'
+[2025.12.03-16.42.02:287][559]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.42.02:399][560]LogPSOHitching: Encountered 1450 PSO creation hitches so far (640 graphics, 810 compute). 0 of them were precached.
+[2025.12.03-16.42.03:801][710]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.12.03-16.42.03:801][710]LogScript: Warning: Script Msg called by: BP_Cat_Character_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_Cat_Character_C_0
+[2025.12.03-16.42.03:801][710]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.03-16.42.03:801][710]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.03-16.42.03:801][710]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.03-16.42.04:714][810]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.03-16.42.04:715][810]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.12.03-16.42.05:988][950]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_1' was already added to the screen.
+[2025.12.03-16.42.05:988][950]LogScript: Warning: Script Msg called by: BP_Cat_Character_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_Cat_Character_C_0
+[2025.12.03-16.42.05:988][950]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.03-16.42.05:988][950]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.03-16.42.06:916][ 56]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Blueprints/WBP/WBP_Controls"
+[2025.12.03-16.42.06:916][ 56]LogNet: Browse: /Game/Blueprints/WBP/WBP_Controls
+[2025.12.03-16.42.06:916][ 56]LogLoad: LoadMap: /Game/Blueprints/WBP/WBP_Controls
+[2025.12.03-16.42.06:916][ 56]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.42.06:918][ 56]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.42.06:943][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.42.06:943][ 56]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-16.42.07:013][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-16.42.07:032][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.12.03-16.42.07:037][ 56]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/StartMenuLevel?Name=Player"
+[2025.12.03-16.42.07:037][ 56]LogNet: Browse: /Game/Levels/StartMenuLevel?Name=Player
+[2025.12.03-16.42.07:037][ 56]LogLoad: LoadMap: /Game/Levels/StartMenuLevel?Name=Player
+[2025.12.03-16.42.07:056][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.03-16.42.07:059][ 56]LogStreaming: Display: FlushAsyncLoading(11103): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.42.07:060][ 56]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartMenuLevel'.
+[2025.12.03-16.42.07:060][ 56]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.03-16.42.07:062][ 56]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2025.12.03-16.42.07:062][ 56]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.12.03-16.42.07:062][ 56]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.12.03-11.42.07
+[2025.12.03-16.42.07:062][ 56]LogWorld: Bringing up level for play took: 0.000485
+[2025.12.03-16.42.07:063][ 56]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.03-16.42.07:064][ 56]LogLoad: Took 0.027058 seconds to LoadMap(/Game/Levels/StartMenuLevel)
+[2025.12.03-16.42.07:064][ 56]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/StartMenuLevel
+[2025.12.03-16.42.07:064][ 56]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Failed to load package '/Game/Blueprints/WBP/WBP_Controls'"
+[2025.12.03-16.42.07:064][ 56]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Failed to load package '/Game/Blueprints/WBP/WBP_Controls'
+[2025.12.03-16.42.07:064][ 56]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Failed to load package '/Game/Blueprints/WBP/WBP_Controls''
+[2025.12.03-16.42.07:070][ 56]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.42.07:075][ 57]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/StartMenuLevel?closed"
+[2025.12.03-16.42.07:075][ 57]LogNet: Browse: /Game/Levels/StartMenuLevel?closed
+[2025.12.03-16.42.07:076][ 57]LogNet: Connection failed; returning to Entry
+[2025.12.03-16.42.07:076][ 57]LogLoad: LoadMap: /Game/Levels/StartMenuLevel?closed
+[2025.12.03-16.42.07:076][ 57]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.03-16.42.07:077][ 57]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.42.07:077][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.42.07:131][ 57]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-16.42.07:134][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.03-16.42.07:136][ 57]LogStreaming: Display: FlushAsyncLoading(11104): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.42.07:137][ 57]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartMenuLevel'.
+[2025.12.03-16.42.07:137][ 57]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.03-16.42.07:139][ 57]LogPlayLevel: PIE: World Init took: (0.001351s)
+[2025.12.03-16.42.07:139][ 57]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.12.03-16.42.07:139][ 57]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.12.03-11.42.07
+[2025.12.03-16.42.07:139][ 57]LogWorld: Bringing up level for play took: 0.000453
+[2025.12.03-16.42.07:139][ 57]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.03-16.42.07:141][ 57]LogLoad: Took 0.064930 seconds to LoadMap(/Game/Levels/StartMenuLevel)
+[2025.12.03-16.42.07:141][ 57]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/StartMenuLevel
+[2025.12.03-16.42.07:159][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.03-16.42.07:179][ 58]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.42.13:554][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.42.13:554][801]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.03-16.42.13:554][801]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.42.13:554][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.42.13:556][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-16.42.13:560][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.42.13:579][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.42.13:579][801]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.12.03-16.42.13:579][801]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.12.03-16.42.13:581][801]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.12.03-16.42.13:588][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.03-16.42.13:643][802]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.12.03-16.42.14:250][867]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\GitHub\FelineFour\CatNap\Content\Blueprints\WBP\WBP_Controls.uasset: [Compiler] On Clicked (StartGame)  does not have a valid matching component!
+[2025.12.03-16.42.14:276][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.03-16.42.15:015][935]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\GitHub\FelineFour\CatNap\Content\Blueprints\WBP\WBP_Controls.uasset: [Compiler] On Clicked (StartGame)  does not have a valid matching component!
+[2025.12.03-16.42.15:038][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.03-16.42.15:697][993]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\GitHub\FelineFour\CatNap\Content\Blueprints\WBP\WBP_Controls.uasset: [Compiler] On Clicked (StartGame)  does not have a valid matching component!
+[2025.12.03-16.42.15:721][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.03-16.42.15:998][  5]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\GitHub\FelineFour\CatNap\Content\Blueprints\WBP\WBP_Controls.uasset: [Compiler] On Clicked (StartGame)  does not have a valid matching component!
+[2025.12.03-16.42.16:020][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.03-16.42.24:918][ 28]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.12.03-16.42.25:204][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.42.25:205][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.42.29:773][530]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.42.29:773][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.42.29:779][530]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.42.29:779][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.42.29:816][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.03-16.42.36:242][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.03-16.42.37:387][989]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.03-16.42.37:561][989]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/WBP/WBP_Controls.WBP_Controls
+	Asset Type: WidgetBlueprint
+[2025.12.03-16.42.38:070][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.03-16.42.38:095][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.03-16.42.38:118][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.03-16.43.00:237][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6571.606445
+[2025.12.03-16.43.00:320][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-16.43.00:321][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6571.679688, Update Interval: 306.588348
+[2025.12.03-16.43.26:154][229]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.12.03-16.43.26:162][229]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.12.03-16.43.26:167][229]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.12.03-16.43.26:180][230]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.12.03-16.43.34:450][ 96]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Controls
+[2025.12.03-16.43.34:456][ 96]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.12.03-16.43.35:836][203]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_Controls.WB_Controls
+[2025.12.03-16.43.35:836][203]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.12.03-16.43.35:841][203]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2025.12.03-16.44.11:615][294]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.44.45:456][209]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.12.03-16.44.45:741][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.44.45:743][209]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.44.48:918][545]LogEditorTransaction: Undo Move Anchor
+[2025.12.03-16.44.49:190][545]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.44.49:190][545]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.44.49:824][607]LogEditorTransaction: Undo Move Anchor
+[2025.12.03-16.44.50:095][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.44.50:096][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.45.25:998][719]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.45.32:396][439]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.45.37:939][ 79]LogEditorTransaction: Undo Resize Widget
+[2025.12.03-16.45.38:223][ 79]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.45.38:223][ 79]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.45.39:022][146]LogEditorTransaction: Undo Edit Color and Opacity
+[2025.12.03-16.45.39:296][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.45.39:297][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.45.53:374][776]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.46.11:617][800]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu
+[2025.12.03-16.46.11:618][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.12.03-16.46.11:625][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.12.03-16.46.21:498][818]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.21:504][818]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.21:580][819]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.21:649][820]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.21:778][822]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:248][862]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:253][862]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:323][863]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:328][863]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:332][863]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:342][863]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:410][864]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:418][864]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:481][865]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.31:486][865]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:086][915]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:091][915]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:098][915]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:163][916]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:168][916]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:173][916]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:249][917]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:252][917]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:259][917]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:322][918]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:333][918]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:411][920]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.46.32:475][921]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.03-16.47.17:361][994]LogEditorTransaction: Undo Move Anchor
+[2025.12.03-16.47.17:622][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.47.17:623][994]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.47.20:982][342]LogEditorTransaction: Undo Move Anchor
+[2025.12.03-16.47.21:241][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.47.21:241][342]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.47.35:123][922]LogEditorTransaction: Undo Resize Widget
+[2025.12.03-16.47.35:400][922]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.47.35:401][922]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.47.56:666][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.03-16.47.57:640][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.47.57:705][412]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_Controls] ([2] browsable assets)...
+[2025.12.03-16.47.57:709][412]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_Controls.WB_Controls]
+[2025.12.03-16.47.57:709][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Controls]
+[2025.12.03-16.47.57:709][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Controls" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_Controls.uasset" SILENT=true
+[2025.12.03-16.47.57:722][412]LogSavePackage: Moving output files for package: /Game/WB_Controls
+[2025.12.03-16.47.57:722][412]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WB_Controls839D78DC4B00543CE55608A660EA25C2.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_Controls.uasset'
+[2025.12.03-16.47.57:732][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.889 ms (total: 7.40 sec)
+[2025.12.03-16.47.57:766][412]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.47.57:766][412]LogContentValidation: Enabled validators:
+[2025.12.03-16.47.57:766][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.47.57:766][412]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.47.57:766][412]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.47.57:766][412]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.47.57:766][412]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.47.57:766][412]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.47.57:767][412]AssetCheck: /Game/WB_Controls Validating asset
+[2025.12.03-16.47.57:789][412]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-16.48.33:761][478]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.48.36:743][807]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.48.41:356][329]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.48.41:633][352]LogEditorTransaction: Undo Edit Color and Opacity
+[2025.12.03-16.48.41:910][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.48.41:910][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.48.42:114][353]LogEditorTransaction: Undo Edit Color and Opacity
+[2025.12.03-16.48.42:388][353]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.48.42:388][353]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.48.48:104][943]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.48.49:505][ 97]LogEditorTransaction: Undo Edit Color and Opacity
+[2025.12.03-16.48.49:780][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.48.49:780][ 97]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.48.56:216][792]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.48.57:510][907]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.12.03-16.48.57:785][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.48.57:785][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-16.49.05:860][600]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.49.06:848][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6938.041992
+[2025.12.03-16.49.06:929][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-16.49.06:929][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6938.113770, Update Interval: 352.558350
+[2025.12.03-16.50.20:879][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.12.03-16.50.21:506][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.50.21:567][110]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_Controls] ([2] browsable assets)...
+[2025.12.03-16.50.21:569][110]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_Controls.WB_Controls]
+[2025.12.03-16.50.21:569][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Controls]
+[2025.12.03-16.50.21:569][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Controls" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_Controls.uasset" SILENT=true
+[2025.12.03-16.50.21:583][110]LogSavePackage: Moving output files for package: /Game/WB_Controls
+[2025.12.03-16.50.21:583][110]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WB_Controls8DA6598447922F3A64FE2198ED91D0AD.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_Controls.uasset'
+[2025.12.03-16.50.21:590][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.590 ms (total: 7.48 sec)
+[2025.12.03-16.50.21:649][110]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.50.21:649][110]LogContentValidation: Enabled validators:
+[2025.12.03-16.50.21:649][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.50.21:649][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.50.21:649][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.50.21:649][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.50.21:649][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.50.21:649][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.50.21:650][110]AssetCheck: /Game/WB_Controls Validating asset
+[2025.12.03-16.50.24:423][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.03-16.50.25:383][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.50.25:433][508]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_PauseMenu] ([2] browsable assets)...
+[2025.12.03-16.50.25:453][508]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_PauseMenu.WB_PauseMenu]
+[2025.12.03-16.50.25:453][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_PauseMenu]
+[2025.12.03-16.50.25:453][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_PauseMenu" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_PauseMenu.uasset" SILENT=true
+[2025.12.03-16.50.25:467][508]LogSavePackage: Moving output files for package: /Game/WB_PauseMenu
+[2025.12.03-16.50.25:467][508]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WB_PauseMenu7647497841D14AE6296B35BCD4397262.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_PauseMenu.uasset'
+[2025.12.03-16.50.25:475][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.801 ms (total: 7.57 sec)
+[2025.12.03-16.50.25:531][508]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.50.25:531][508]LogContentValidation: Enabled validators:
+[2025.12.03-16.50.25:531][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.50.25:531][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.50.25:531][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.50.25:531][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.50.25:531][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.50.25:531][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.50.25:532][508]AssetCheck: /Game/WB_PauseMenu Validating asset
+[2025.12.03-16.50.28:469][787]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-16.50.28:475][787]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-16.50.28:475][787]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-16.50.28:486][787]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 11.222 ms (total: 149.297 ms)
+[2025.12.03-16.50.28:487][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-16.50.28:532][787]LogPlayLevel: Display: Creating online subsystem for client :Context_63
+[2025.12.03-16.50.28:542][787]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.12.03-16.50.28:572][788]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.50.28:702][788]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-16.50.28:731][788]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 28.097 ms (total: 667.279 ms)
+[2025.12.03-16.50.28:731][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158397s)
+[2025.12.03-16.50.28:731][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.158447s)
+[2025.12.03-16.50.28:750][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.03-16.50.28:756][788]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-16.50.28:758][788]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-16.50.28:758][788]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-16.50.28:758][788]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-16.50.28:758][788]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-16.50.28:787][788]LogWorldPartition: Display: WorldPartition initialize took 29.624 ms (total: 2.50 sec)
+[2025.12.03-16.50.28:787][788]LogPlayLevel: PIE: World Init took: (0.031905s)
+[2025.12.03-16.50.28:788][788]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.12.03-16.50.28:788][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-16.50.28:788][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-16.50.28:788][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-16.50.28:788][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-16.50.28:788][788]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-16.50.28:788][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-16.50.28:788][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-16.50.28:788][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-16.50.28:788][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-16.50.28:788][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-16.50.28:788][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-16.50.28:790][788]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-16.50.28:802][788]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2025.12.03-16.50.28:802][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-16.50.28:802][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-16.50.28:802][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-16.50.28:802][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.12.03-16.50.28:802][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.12.03-16.50.28:804][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.12.03-16.50.28:804][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.12.03-16.50.28:804][788]LogInit: FAudioDevice initialized with ID 16.
+[2025.12.03-16.50.28:804][788]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_LevelOne'.
+[2025.12.03-16.50.28:804][788]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.12.03-16.50.28:808][788]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.03-16.50.28:880][788]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-11.50.28
+[2025.12.03-16.50.28:881][788]LogWorld: Bringing up level for play took: 0.072020
+[2025.12.03-16.50.28:886][788]PIE: Server logged in
+[2025.12.03-16.50.28:889][788]PIE: Play in editor total start time 0.413 seconds.
+[2025.12.03-16.50.28:981][789]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.50.31:252][  1]LogScript: Warning: Script Msg: The widget 'WB_PauseMenu_C_0' was already added to the screen.
+[2025.12.03-16.50.31:252][  1]LogScript: Warning: Script Msg called by: BP_Cat_Character_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_Cat_Character_C_0
+[2025.12.03-16.50.31:252][  1]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.03-16.50.31:252][  1]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.03-16.50.31:252][  1]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.03-16.50.32:337][ 76]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/WB_Controls"
+[2025.12.03-16.50.32:337][ 76]LogNet: Browse: /Game/WB_Controls
+[2025.12.03-16.50.32:337][ 76]LogLoad: LoadMap: /Game/WB_Controls
+[2025.12.03-16.50.32:337][ 76]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.50.32:339][ 76]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.50.32:363][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.50.32:363][ 76]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-16.50.32:394][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-16.50.32:414][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.03-16.50.32:418][ 76]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/StartMenuLevel?Name=Player"
+[2025.12.03-16.50.32:418][ 76]LogNet: Browse: /Game/Levels/StartMenuLevel?Name=Player
+[2025.12.03-16.50.32:418][ 76]LogLoad: LoadMap: /Game/Levels/StartMenuLevel?Name=Player
+[2025.12.03-16.50.32:440][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.03-16.50.32:444][ 76]LogStreaming: Display: FlushAsyncLoading(11105): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.50.32:445][ 76]LogAudio: Display: Audio Device (ID: 16) registered with world 'StartMenuLevel'.
+[2025.12.03-16.50.32:445][ 76]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.03-16.50.32:446][ 76]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2025.12.03-16.50.32:446][ 76]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.12.03-16.50.32:447][ 76]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.12.03-11.50.32
+[2025.12.03-16.50.32:447][ 76]LogWorld: Bringing up level for play took: 0.000565
+[2025.12.03-16.50.32:447][ 76]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.03-16.50.32:448][ 76]LogLoad: Took 0.030555 seconds to LoadMap(/Game/Levels/StartMenuLevel)
+[2025.12.03-16.50.32:448][ 76]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/StartMenuLevel
+[2025.12.03-16.50.32:448][ 76]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Failed to load package '/Game/WB_Controls'"
+[2025.12.03-16.50.32:448][ 76]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Failed to load package '/Game/WB_Controls'
+[2025.12.03-16.50.32:448][ 76]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Failed to load package '/Game/WB_Controls''
+[2025.12.03-16.50.32:454][ 76]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.50.32:459][ 77]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/StartMenuLevel?closed"
+[2025.12.03-16.50.32:459][ 77]LogNet: Browse: /Game/Levels/StartMenuLevel?closed
+[2025.12.03-16.50.32:460][ 77]LogNet: Connection failed; returning to Entry
+[2025.12.03-16.50.32:460][ 77]LogLoad: LoadMap: /Game/Levels/StartMenuLevel?closed
+[2025.12.03-16.50.32:460][ 77]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.03-16.50.32:461][ 77]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.50.32:461][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.50.32:485][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-16.50.32:487][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.03-16.50.32:488][ 77]LogPSOHitching: Encountered 1500 PSO creation hitches so far (658 graphics, 842 compute). 0 of them were precached.
+[2025.12.03-16.50.32:493][ 77]LogStreaming: Display: FlushAsyncLoading(11106): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-16.50.32:494][ 77]LogAudio: Display: Audio Device (ID: 16) registered with world 'StartMenuLevel'.
+[2025.12.03-16.50.32:494][ 77]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.03-16.50.32:496][ 77]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2025.12.03-16.50.32:496][ 77]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.12.03-16.50.32:496][ 77]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.12.03-11.50.32
+[2025.12.03-16.50.32:496][ 77]LogWorld: Bringing up level for play took: 0.000490
+[2025.12.03-16.50.32:497][ 77]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.12.03-16.50.32:498][ 77]LogLoad: Took 0.037441 seconds to LoadMap(/Game/Levels/StartMenuLevel)
+[2025.12.03-16.50.32:498][ 77]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/StartMenuLevel
+[2025.12.03-16.50.32:520][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.03-16.50.32:541][ 78]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.50.37:041][599]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/L_LevelOne"
+[2025.12.03-16.50.37:042][599]LogNet: Browse: /Game/Levels/L_LevelOne
+[2025.12.03-16.50.37:042][599]LogLoad: LoadMap: /Game/Levels/L_LevelOne
+[2025.12.03-16.50.37:042][599]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.03-16.50.37:042][599]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.50.37:042][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.50.37:104][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-16.50.37:106][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.03-16.50.37:108][599]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.50.37:231][599]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-16.50.37:260][599]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 28.411 ms (total: 695.691 ms)
+[2025.12.03-16.50.37:260][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151237s)
+[2025.12.03-16.50.37:260][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.151283s)
+[2025.12.03-16.50.37:260][599]LogAudio: Display: Audio Device (ID: 16) registered with world 'L_LevelOne'.
+[2025.12.03-16.50.37:260][599]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-16.50.37:262][599]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-16.50.37:262][599]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-16.50.37:262][599]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-16.50.37:262][599]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-16.50.37:290][599]LogWorldPartition: Display: WorldPartition initialize took 28.494 ms (total: 2.52 sec)
+[2025.12.03-16.50.37:290][599]LogPlayLevel: PIE: World Init took: (0.030588s)
+[2025.12.03-16.50.37:290][599]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.12.03-16.50.37:358][599]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-11.50.37
+[2025.12.03-16.50.37:359][599]LogWorld: Bringing up level for play took: 0.068327
+[2025.12.03-16.50.37:362][599]LogLoad: Took 0.320791 seconds to LoadMap(/Game/Levels/UEDPIE_0_L_LevelOne)
+[2025.12.03-16.50.37:362][599]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.50.37:414][599]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-16.50.38:873][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.50.38:873][744]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-16.50.38:874][744]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.50.38:898][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.50.38:898][744]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-16.50.38:900][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-16.50.38:905][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.50.38:933][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-16.50.38:933][744]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.12.03-16.50.38:933][744]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.12.03-16.50.38:935][744]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.12.03-16.50.38:957][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.12.03-16.50.39:033][745]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.12.03-16.51.52:236][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.03-16.51.53:089][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.51.53:149][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.12.03-16.51.53:151][298]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.12.03-16.51.53:151][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.12.03-16.51.53:152][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.12.03-16.51.53:165][298]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.12.03-16.51.53:165][298]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenu7A9151AC43AF34F27B6909AB77C70A40.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.12.03-16.51.53:172][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.526 ms (total: 7.66 sec)
+[2025.12.03-16.51.53:233][298]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-16.51.53:233][298]LogContentValidation: Enabled validators:
+[2025.12.03-16.51.53:233][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.51.53:233][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.51.53:233][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.51.53:233][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.51.53:233][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.51.53:233][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.51.53:233][298]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.12.03-16.53.06:157][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.03-16.53.06:164][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.031
+[2025.12.03-16.53.06:164][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WB_PauseMenu] ([2] browsable assets)...
+[2025.12.03-16.53.06:164][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_PauseMenu]
+[2025.12.03-16.53.06:164][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_PauseMenu" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/WB_PauseMenu_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.12.03-16.53.06:178][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_PauseMenu_Auto6
+[2025.12.03-16.53.06:178][850]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WB_PauseMenu_Auto6C978D9FB48D2E9B6077311B05311A79E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/Autosaves/Game/WB_PauseMenu_Auto6.uasset'
+[2025.12.03-16.53.06:178][850]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.12.03-16.55.07:797][839]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.55.07:797][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.55.07:803][839]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-16.55.07:803][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-16.55.07:849][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.03-16.55.08:683][903]LogPSOHitching: Encountered 1550 PSO creation hitches so far (689 graphics, 861 compute). 0 of them were precached.
+[2025.12.03-16.55.08:743][903]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.55.08:743][903]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.55.08:744][903]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.55.08:843][903]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.55.08:843][903]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.55.08:904][903]LogPSOHitching: Encountered 1600 PSO creation hitches so far (698 graphics, 902 compute). 0 of them were precached.
+[2025.12.03-16.55.09:189][903]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.55.09:201][903]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.55.09:273][903]LogPSOHitching: Encountered 1650 PSO creation hitches so far (711 graphics, 939 compute). 0 of them were precached.
+[2025.12.03-16.55.09:289][903]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.55.09:301][903]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.03-16.55.09:372][904]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.55.09:378][904]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.55.11:316][ 20]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.03-16.55.16:531][476]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_PauseMenu.WB_PauseMenu
+[2025.12.03-16.55.16:532][476]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_72
+[2025.12.03-16.55.16:538][476]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_73
+[2025.12.03-16.55.25:465][416]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.03-16.55.25:538][424]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.55.36:416][654]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.55.41:168][177]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.55.41:277][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7332.366211
+[2025.12.03-16.55.41:344][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-16.55.41:344][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7332.424805, Update Interval: 335.986816
+[2025.12.03-16.55.44:548][554]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.55.51:315][311]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.03-16.57.02:346][497]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::OpenLevel' [Element not found.]
+[2025.12.03-16.57.21:335][697]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 90b...80a
+[2025.12.03-16.57.21:335][697]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.12.03-16.57.21:427][708]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 90b...80a Access[Expires: 2025.12.03-18.57.21 Remaining: 7200.55] Refresh[Expires: 2026-06-01T14:59:01.180Z Remaining: 15544900.18] State: Valid
+[2025.12.03-16.57.30:143][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.03-16.57.31:151][744]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-16.57.31:161][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-16.57.31:214][744]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.12.03-16.57.31:216][744]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.12.03-16.57.31:216][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.12.03-16.57.31:216][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.12.03-16.57.31:230][744]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.12.03-16.57.31:230][744]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WBP_StartMenuA44321E04106EB41467925AE4565D1BE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.12.03-16.57.31:231][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WB_PauseMenu] ([2] browsable assets)...
+[2025.12.03-16.57.31:231][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_PauseMenu]
+[2025.12.03-16.57.31:231][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_PauseMenu" FILE="../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_PauseMenu.uasset" SILENT=true
+[2025.12.03-16.57.31:241][744]LogSavePackage: Moving output files for package: /Game/WB_PauseMenu
+[2025.12.03-16.57.31:242][744]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/WB_PauseMenuEC0CC6B940A4A13EB6C67A8119ED87A0.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/WB_PauseMenu.uasset'
+[2025.12.03-16.57.31:248][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.263 ms (total: 7.75 sec)
+[2025.12.03-16.57.31:280][744]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.03-16.57.31:280][744]LogContentValidation: Enabled validators:
+[2025.12.03-16.57.31:280][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-16.57.31:280][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-16.57.31:280][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-16.57.31:280][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-16.57.31:280][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-16.57.31:280][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-16.57.31:281][744]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.12.03-16.57.31:281][744]AssetCheck: /Game/WB_PauseMenu Validating asset
+[2025.12.03-16.57.31:892][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.03-16.57.41:434][752]LogPSOHitching: Encountered 1700 PSO creation hitches so far (731 graphics, 969 compute). 0 of them were precached.
