@@ -1301,3 +1301,824 @@ FPackageName: Skipped package /Game/Plugins/EMUQuests/Content/CharacterStuff/Mat
 [2025.12.03-19.29.57:512][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 323.491913
 [2025.12.03-19.29.58:511][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.03-19.29.58:511][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 324.158722, Update Interval: 322.447571
+[2025.12.03-19.31.30:756][642]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.03-19.33.17:014][985]LogStreaming: Display: FlushAsyncLoading(3410): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.33.17:171][987]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.12.03-19.33.17:316][988]LogPSOHitching: Encountered 300 PSO creation hitches so far (96 graphics, 204 compute). 0 of them were precached.
+[2025.12.03-19.33.17:424][990]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.12.03-19.33.17:472][991]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.12.03-19.33.17:641][993]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.12.03-19.33.17:751][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.12.03-19.33.17:799][998]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.12.03-19.33.17:862][  1]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.12.03-19.33.20:831][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Cat_Character.BP_Cat_Character
+[2025.12.03-19.33.20:832][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.12.03-19.33.34:926][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.03-19.33.34:967][507]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_LevelOne.L_LevelOne
+[2025.12.03-19.33.34:968][507]Cmd: MAP LOAD FILE="../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Levels/L_LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.03-19.33.35:012][507]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-19.33.35:013][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.33.35:013][507]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2025.12.03-19.33.35:043][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-19.33.35:083][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.03-19.33.35:088][507]LogStreaming: Display: FlushAsyncLoading(3412): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.33.35:096][507]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_LevelOne'.
+[2025.12.03-19.33.35:096][507]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-19.33.35:097][507]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.12.03-19.33.35:097][507]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-19.33.35:097][507]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/L_LevelOne.L_LevelOne, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-19.33.35:413][507]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave catmeow...
+[2025.12.03-19.33.35:417][507]LogAudioDerivedData: Display: catmeow compressed to 8.89% (from 108KB to 9KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.12.03-19.33.35:418][507]LogAudio: Display: Chunk stats for (SoundWave /Game/catmeow.catmeow: Duration=0.63 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=9821 bytes, ChunkN=0)
+[2025.12.03-19.33.35:725][507]LogWorldPartition: Display: WorldPartition initialize took 628.126 ms (total: 1.14 sec)
+[2025.12.03-19.33.35:846][507]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.03-19.33.35:890][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.03-19.33.35:894][507]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.03-19.33.35:900][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.06ms to complete.
+[2025.12.03-19.33.36:047][508]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-19.34.04:751][526]LogStreaming: Display: FlushAsyncLoading(6288): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.34.12:284][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-19.34.12:373][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.03-19.34.12:384][266]LogSavePackage: Moving output files for package: /Game/Levels/L_LevelOne
+[2025.12.03-19.34.12:384][266]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/L_LevelOne8CB71C784D5D68C63F8E84B74F5D599F.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Levels/L_LevelOne.umap'
+[2025.12.03-19.34.12:391][266]LogFileHelpers: Saving map 'L_LevelOne' took 0.050
+[2025.12.03-19.34.12:398][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.802 ms
+[2025.12.03-19.34.12:452][266]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-19.34.12:452][266]LogContentValidation: Enabled validators:
+[2025.12.03-19.34.12:452][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-19.34.12:452][266]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-19.34.12:452][266]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-19.34.12:452][266]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-19.34.12:452][266]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-19.34.12:452][266]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-19.34.12:453][266]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.03-19.34.12:478][266]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-19.34.26:854][730]LogEditorTransaction: Undo Move Nodes
+[2025.12.03-19.34.27:403][739]LogEditorTransaction: Undo Paste clipboard contents
+[2025.12.03-19.34.44:116][691]LogEditorTransaction: Undo Paste clipboard contents
+[2025.12.03-19.34.50:244][340]LogEditorTransaction: Undo Paste clipboard contents
+[2025.12.03-19.35.23:259][734]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 649.240479
+[2025.12.03-19.35.23:323][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-19.35.23:325][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 649.297913, Update Interval: 326.639008
+[2025.12.03-19.35.32:769][632]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.12.03-19.35.32:804][633]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.12.03-19.35.32:851][634]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.12.03-19.35.39:428][140]LogStreaming: Display: FlushAsyncLoading(6289): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.35.39:434][140]LogSkeletalMesh: Building Skeletal Mesh SKM_Horse_001...
+[2025.12.03-19.35.39:442][140]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Animals_Free/Animals/Meshes/SKM_Horse_001.SKM_Horse_001
+[2025.12.03-19.35.39:489][141]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.12.03-19.35.41:247][278]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.35.41:247][278]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.35.41:248][278]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PausemenuOpened?
+[2025.12.03-19.35.41:248][278]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PausemenuOpened?
+[2025.12.03-19.35.41:248][278]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.35.41:248][278]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PauseMenuWiget
+[2025.12.03-19.35.41:248][278]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PausemenuOpened?
+[2025.12.03-19.35.41:249][278]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.35.41:249][278]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.35.41:249][278]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.35.41:249][278]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.35.41:249][278]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.35.41:249][278]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.35.41:249][278]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.35.41:329][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.03-19.35.41:705][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-19.35.41:744][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_EMUQuestCharacter] ([2] browsable assets)...
+[2025.12.03-19.35.41:793][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter]
+[2025.12.03-19.35.41:793][290]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_EMUQuestCharacter]
+[2025.12.03-19.35.41:811][290]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_EMUQuestCharacter
+[2025.12.03-19.35.41:811][290]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_EMUQuestCharacter42E591E84D94A095F89E7EBEDACF9752.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_EMUQuestCharacter.uasset'
+[2025.12.03-19.35.41:819][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.021 ms (total: 226.824 ms)
+[2025.12.03-19.35.41:873][290]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-19.35.41:873][290]LogContentValidation: Enabled validators:
+[2025.12.03-19.35.41:873][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-19.35.41:873][290]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-19.35.41:873][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-19.35.41:873][290]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-19.35.41:873][290]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-19.35.41:873][290]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-19.35.41:873][290]AssetCheck: /QuestSystem/Blueprints/BP_EMUQuestCharacter Validating asset
+[2025.12.03-19.35.41:899][290]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.03-19.35.45:938][640]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-19.35.45:943][640]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-19.35.45:943][640]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-19.35.45:954][640]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 10.176 ms
+[2025.12.03-19.35.45:954][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-19.35.45:954][640]BlueprintLog: Warning: Blueprint failed to compile:  BP_EMUQuestCharacter
+[2025.12.03-19.35.47:486][640]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.12.03-19.35.47:494][640]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2025.12.03-19.35.47:496][640]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.12.03-19.35.47:525][641]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.35.47:651][641]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-19.35.47:678][641]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 27.457 ms
+[2025.12.03-19.35.47:679][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153555s)
+[2025.12.03-19.35.47:679][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.153604s)
+[2025.12.03-19.35.47:697][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.03-19.35.47:703][641]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-19.35.47:705][641]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-19.35.47:705][641]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-19.35.47:705][641]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-19.35.47:705][641]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-19.35.47:734][641]LogWorldPartition: Display: WorldPartition initialize took 29.118 ms (total: 1.17 sec)
+[2025.12.03-19.35.47:734][641]LogPlayLevel: PIE: World Init took: (0.031409s)
+[2025.12.03-19.35.47:735][641]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.12.03-19.35.47:735][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-19.35.47:735][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-19.35.47:735][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-19.35.47:735][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-19.35.47:735][641]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-19.35.47:735][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-19.35.47:735][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-19.35.47:735][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-19.35.47:735][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-19.35.47:735][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-19.35.47:735][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-19.35.47:737][641]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-19.35.47:748][641]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-19.35.47:748][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-19.35.47:748][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-19.35.47:748][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-19.35.47:749][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.12.03-19.35.47:749][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.12.03-19.35.47:750][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.12.03-19.35.47:750][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.12.03-19.35.47:750][641]LogInit: FAudioDevice initialized with ID 2.
+[2025.12.03-19.35.47:750][641]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_LevelOne'.
+[2025.12.03-19.35.47:751][641]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.03-19.35.47:754][641]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-19.35.47:824][641]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-14.35.47
+[2025.12.03-19.35.47:825][641]LogWorld: Bringing up level for play took: 0.069639
+[2025.12.03-19.35.47:829][641]PIE: Server logged in
+[2025.12.03-19.35.47:831][641]PIE: Play in editor total start time 1.889 seconds.
+[2025.12.03-19.35.47:845][641]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098359 > MaxSimulationTimeStep (0.050) for 'BP_EMUQuestCharacter_C_0', movement 'Walking'
+[2025.12.03-19.35.47:936][642]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-19.35.48:056][642]LogPSOHitching: Encountered 350 PSO creation hitches so far (126 graphics, 224 compute). 0 of them were precached.
+[2025.12.03-19.35.57:844][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.35.57:844][596]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.35.57:845][596]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-19.35.57:867][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.35.57:867][596]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-19.35.57:869][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-19.35.57:875][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.35.57:901][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-19.35.57:901][596]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.03-19.35.57:903][596]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.12.03-19.35.57:904][596]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.12.03-19.35.57:908][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.35.57:926][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.12.03-19.35.57:977][597]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.12.03-19.36.07:958][166]LogStreaming: Display: FlushAsyncLoading(6290): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.36.07:962][166]LogSkeletalMesh: Building Skeletal Mesh SKM_Pinguin_001...
+[2025.12.03-19.36.07:966][166]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Animals_Free/Animals/Meshes/SKM_Pinguin_001.SKM_Pinguin_001
+[2025.12.03-19.36.08:000][167]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.12.03-19.36.09:329][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-19.36.09:379][268]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_EMUQuestCharacter] ([2] browsable assets)...
+[2025.12.03-19.36.09:444][268]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter]
+[2025.12.03-19.36.09:444][268]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_EMUQuestCharacter]
+[2025.12.03-19.36.09:463][268]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_EMUQuestCharacter
+[2025.12.03-19.36.09:463][268]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_EMUQuestCharacter73C2554044CCBF9714E0FE8ED3A3062B.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_EMUQuestCharacter.uasset'
+[2025.12.03-19.36.09:470][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.783 ms (total: 367.608 ms)
+[2025.12.03-19.36.09:528][268]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-19.36.09:528][268]LogContentValidation: Enabled validators:
+[2025.12.03-19.36.09:528][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-19.36.09:528][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-19.36.09:528][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-19.36.09:528][268]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-19.36.09:528][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-19.36.09:528][268]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-19.36.09:528][268]AssetCheck: /QuestSystem/Blueprints/BP_EMUQuestCharacter Validating asset
+[2025.12.03-19.36.11:729][455]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-19.36.11:734][455]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-19.36.11:734][455]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-19.36.11:744][455]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 10.414 ms (total: 20.590 ms)
+[2025.12.03-19.36.11:745][455]LogPlayLevel: [PlayLevel] Compiling BP_EMUQuestCharacter before play...
+[2025.12.03-19.36.11:749][455]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.36.11:749][455]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.36.11:749][455]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PausemenuOpened?
+[2025.12.03-19.36.11:749][455]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PausemenuOpened?
+[2025.12.03-19.36.11:749][455]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.36.11:749][455]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PauseMenuWiget
+[2025.12.03-19.36.11:749][455]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PausemenuOpened?
+[2025.12.03-19.36.11:750][455]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.11:750][455]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.11:750][455]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.11:750][455]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.11:750][455]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.11:750][455]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.11:750][455]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.11:837][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.03-19.36.11:841][455]LogPlayLevel: PlayLevel: Blueprint regeneration took 97 ms (1 blueprints)
+[2025.12.03-19.36.11:841][455]BlueprintLog: Warning: Blueprint failed to compile:  BP_EMUQuestCharacter
+[2025.12.03-19.36.12:971][455]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.12.03-19.36.13:023][455]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2025.12.03-19.36.13:034][455]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.12.03-19.36.13:056][456]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.36.13:181][456]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-19.36.13:207][456]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 26.654 ms (total: 54.111 ms)
+[2025.12.03-19.36.13:207][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151675s)
+[2025.12.03-19.36.13:207][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.151714s)
+[2025.12.03-19.36.13:226][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.03-19.36.13:229][456]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-19.36.13:231][456]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-19.36.13:231][456]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-19.36.13:231][456]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-19.36.13:231][456]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-19.36.13:260][456]LogWorldPartition: Display: WorldPartition initialize took 28.874 ms (total: 1.20 sec)
+[2025.12.03-19.36.13:260][456]LogPlayLevel: PIE: World Init took: (0.030968s)
+[2025.12.03-19.36.13:261][456]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.12.03-19.36.13:261][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-19.36.13:261][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-19.36.13:261][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-19.36.13:261][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-19.36.13:261][456]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-19.36.13:261][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-19.36.13:261][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-19.36.13:261][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-19.36.13:261][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-19.36.13:261][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-19.36.13:261][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-19.36.13:263][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-19.36.13:271][456]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-19.36.13:271][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-19.36.13:271][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-19.36.13:271][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-19.36.13:271][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.03-19.36.13:271][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.03-19.36.13:274][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.03-19.36.13:274][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.12.03-19.36.13:274][456]LogInit: FAudioDevice initialized with ID 3.
+[2025.12.03-19.36.13:274][456]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_LevelOne'.
+[2025.12.03-19.36.13:274][456]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.03-19.36.13:277][456]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-19.36.13:344][456]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-14.36.13
+[2025.12.03-19.36.13:345][456]LogWorld: Bringing up level for play took: 0.067260
+[2025.12.03-19.36.13:349][456]PIE: Server logged in
+[2025.12.03-19.36.13:351][456]PIE: Play in editor total start time 1.617 seconds.
+[2025.12.03-19.36.13:392][456]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098359 > MaxSimulationTimeStep (0.050) for 'BP_EMUQuestCharacter_C_0', movement 'Walking'
+[2025.12.03-19.36.13:469][457]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-19.36.31:552][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.36.31:552][176]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.36.31:552][176]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-19.36.31:562][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.36.31:562][176]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-19.36.31:565][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-19.36.31:571][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.36.31:599][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-19.36.31:599][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.03-19.36.31:599][176]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.12.03-19.36.31:600][176]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.12.03-19.36.31:604][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.36.31:622][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.12.03-19.36.31:702][177]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.12.03-19.36.49:880][452]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.36.49:880][452]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.36.49:880][452]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PausemenuOpened?
+[2025.12.03-19.36.49:880][452]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PausemenuOpened?
+[2025.12.03-19.36.49:880][452]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PauseMenuWiget
+[2025.12.03-19.36.49:880][452]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PauseMenuWiget" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Set PauseMenuWiget
+[2025.12.03-19.36.49:880][452]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] Could not find a variable named "PausemenuOpened?" in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'.
+Make sure '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C' has been compiled for  Get PausemenuOpened?
+[2025.12.03-19.36.49:881][452]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.49:881][452]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.49:881][452]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.49:881][452]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.49:881][452]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pausemenu Opened?  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.49:881][452]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.49:881][452]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Unreal Projects\FelineFour\CatNap\Plugins\EMUQuests\EMUQuests\Content\Blueprints\BP_EMUQuestCharacter.uasset: [Compiler] The property associated with  Pause Menu Wiget  could not be found in '/QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter_C'
+[2025.12.03-19.36.49:961][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.03-19.36.50:553][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-19.36.50:615][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_EMUQuestCharacter] ([2] browsable assets)...
+[2025.12.03-19.36.50:675][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter]
+[2025.12.03-19.36.50:675][483]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_EMUQuestCharacter]
+[2025.12.03-19.36.50:694][483]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_EMUQuestCharacter
+[2025.12.03-19.36.50:694][483]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_EMUQuestCharacterD41655AA4CA645AC40FD9AB0720C6F63.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_EMUQuestCharacter.uasset'
+[2025.12.03-19.36.50:699][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.503 ms (total: 514.111 ms)
+[2025.12.03-19.36.50:728][483]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-19.36.50:728][483]LogContentValidation: Enabled validators:
+[2025.12.03-19.36.50:728][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-19.36.50:728][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-19.36.50:728][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-19.36.50:728][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-19.36.50:728][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-19.36.50:728][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-19.36.50:728][483]AssetCheck: /QuestSystem/Blueprints/BP_EMUQuestCharacter Validating asset
+[2025.12.03-19.37.02:183][540]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-19.37.02:188][540]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-19.37.02:188][540]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-19.37.02:198][540]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 10.313 ms (total: 30.904 ms)
+[2025.12.03-19.37.02:198][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-19.37.02:198][540]BlueprintLog: Warning: Blueprint failed to compile:  BP_EMUQuestCharacter
+[2025.12.03-19.37.03:174][540]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.12.03-19.37.03:204][540]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2025.12.03-19.37.03:206][540]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2025.12.03-19.37.03:234][541]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.37.03:356][541]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-19.37.03:383][541]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 26.714 ms (total: 80.825 ms)
+[2025.12.03-19.37.03:383][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149622s)
+[2025.12.03-19.37.03:383][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.149656s)
+[2025.12.03-19.37.03:401][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.03-19.37.03:408][541]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-19.37.03:410][541]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-19.37.03:410][541]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-19.37.03:410][541]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-19.37.03:410][541]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-19.37.03:438][541]LogWorldPartition: Display: WorldPartition initialize took 27.912 ms (total: 1.23 sec)
+[2025.12.03-19.37.03:438][541]LogPlayLevel: PIE: World Init took: (0.029857s)
+[2025.12.03-19.37.03:439][541]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.03-19.37.03:439][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-19.37.03:439][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-19.37.03:439][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-19.37.03:439][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-19.37.03:439][541]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-19.37.03:439][541]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-19.37.03:439][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-19.37.03:439][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-19.37.03:439][541]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-19.37.03:439][541]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-19.37.03:439][541]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-19.37.03:441][541]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-19.37.03:450][541]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-19.37.03:450][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-19.37.03:450][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-19.37.03:450][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-19.37.03:451][541]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.03-19.37.03:451][541]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.03-19.37.03:452][541]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.03-19.37.03:452][541]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.03-19.37.03:453][541]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.03-19.37.03:453][541]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_LevelOne'.
+[2025.12.03-19.37.03:453][541]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.03-19.37.03:457][541]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-19.37.03:523][541]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-14.37.03
+[2025.12.03-19.37.03:524][541]LogWorld: Bringing up level for play took: 0.067345
+[2025.12.03-19.37.03:528][541]PIE: Server logged in
+[2025.12.03-19.37.03:529][541]PIE: Play in editor total start time 1.342 seconds.
+[2025.12.03-19.37.03:542][541]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098359 > MaxSimulationTimeStep (0.050) for 'BP_EMUQuestCharacter_C_0', movement 'Walking'
+[2025.12.03-19.37.03:622][542]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-19.37.11:424][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.37.11:424][331]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.37.11:425][331]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-19.37.11:449][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.37.11:449][331]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-19.37.11:451][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-19.37.11:457][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.37.11:480][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.37.11:485][331]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.03-19.37.11:485][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.12.03-19.37.11:487][331]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.12.03-19.37.11:507][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.12.03-19.37.11:587][332]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2025.12.03-19.40.57:894][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 983.876831
+[2025.12.03-19.40.57:978][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-19.40.57:978][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 983.951965, Update Interval: 339.605103
+[2025.12.03-19.44.23:253][603]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-19.44.23:258][603]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-19.44.23:258][603]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-19.44.23:270][603]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 11.470 ms (total: 42.375 ms)
+[2025.12.03-19.44.23:271][603]LogPlayLevel: [PlayLevel] Compiling BP_EMUQuestCharacter before play...
+[2025.12.03-19.44.23:344][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.12.03-19.44.23:352][603]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2025.12.03-19.44.23:376][603]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2025.12.03-19.44.23:377][603]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.12.03-19.44.23:409][604]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.44.23:537][604]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-19.44.23:564][604]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 27.475 ms (total: 108.300 ms)
+[2025.12.03-19.44.23:564][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154639s)
+[2025.12.03-19.44.23:564][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.154683s)
+[2025.12.03-19.44.23:582][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.03-19.44.23:584][604]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-19.44.23:586][604]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-19.44.23:586][604]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-19.44.23:586][604]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-19.44.23:586][604]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-19.44.23:615][604]LogWorldPartition: Display: WorldPartition initialize took 28.498 ms (total: 1.26 sec)
+[2025.12.03-19.44.23:615][604]LogPlayLevel: PIE: World Init took: (0.030765s)
+[2025.12.03-19.44.23:615][604]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.12.03-19.44.23:615][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-19.44.23:615][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-19.44.23:615][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-19.44.23:615][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-19.44.23:615][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-19.44.23:615][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-19.44.23:615][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-19.44.23:615][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-19.44.23:615][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-19.44.23:615][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-19.44.23:615][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-19.44.23:617][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-19.44.23:627][604]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-19.44.23:627][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-19.44.23:627][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-19.44.23:627][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-19.44.23:628][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.12.03-19.44.23:628][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.12.03-19.44.23:629][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.12.03-19.44.23:629][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.12.03-19.44.23:629][604]LogInit: FAudioDevice initialized with ID 5.
+[2025.12.03-19.44.23:629][604]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_LevelOne'.
+[2025.12.03-19.44.23:630][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.03-19.44.23:634][604]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-19.44.23:703][604]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-14.44.23
+[2025.12.03-19.44.23:704][604]LogWorld: Bringing up level for play took: 0.069942
+[2025.12.03-19.44.23:708][604]PIE: Server logged in
+[2025.12.03-19.44.23:709][604]PIE: Play in editor total start time 0.452 seconds.
+[2025.12.03-19.44.23:835][605]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-19.44.47:417][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.44.47:417][432]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.44.47:419][432]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-19.44.47:441][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.44.47:442][432]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-19.44.47:443][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-19.44.47:448][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.44.47:471][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.44.47:476][432]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.03-19.44.47:476][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.12.03-19.44.47:478][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.12.03-19.44.47:498][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.12.03-19.44.47:558][433]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.12.03-19.44.48:586][527]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-19.44.48:591][527]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-19.44.48:591][527]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-19.44.48:604][527]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 12.402 ms (total: 54.777 ms)
+[2025.12.03-19.44.48:604][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-19.44.48:604][527]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2025.12.03-19.44.48:606][527]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.12.03-19.44.48:638][528]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.44.48:761][528]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-19.44.48:790][528]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 27.996 ms (total: 136.297 ms)
+[2025.12.03-19.44.48:790][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152071s)
+[2025.12.03-19.44.48:790][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.152108s)
+[2025.12.03-19.44.48:808][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.03-19.44.48:813][528]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-19.44.48:814][528]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-19.44.48:814][528]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-19.44.48:814][528]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-19.44.48:814][528]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-19.44.48:843][528]LogWorldPartition: Display: WorldPartition initialize took 29.016 ms (total: 1.29 sec)
+[2025.12.03-19.44.48:844][528]LogPlayLevel: PIE: World Init took: (0.031081s)
+[2025.12.03-19.44.48:844][528]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.03-19.44.48:844][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-19.44.48:844][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-19.44.48:844][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-19.44.48:844][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-19.44.48:844][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-19.44.48:844][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-19.44.48:844][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-19.44.48:844][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-19.44.48:844][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-19.44.48:844][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-19.44.48:844][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-19.44.48:846][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-19.44.48:856][528]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-19.44.48:856][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-19.44.48:856][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-19.44.48:856][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-19.44.48:856][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.03-19.44.48:856][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.03-19.44.48:858][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.03-19.44.48:858][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.03-19.44.48:858][528]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.03-19.44.48:858][528]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_LevelOne'.
+[2025.12.03-19.44.48:858][528]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.03-19.44.48:861][528]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-19.44.48:930][528]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-14.44.48
+[2025.12.03-19.44.48:931][528]LogWorld: Bringing up level for play took: 0.069562
+[2025.12.03-19.44.48:936][528]PIE: Server logged in
+[2025.12.03-19.44.48:938][528]PIE: Play in editor total start time 0.346 seconds.
+[2025.12.03-19.44.49:024][529]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-19.45.07:206][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.45.07:206][220]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.45.07:207][220]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-19.45.07:230][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.45.07:231][220]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-19.45.07:232][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-19.45.07:239][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.45.07:262][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.45.07:268][220]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.03-19.45.07:268][220]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.12.03-19.45.07:270][220]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.12.03-19.45.07:290][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.03-19.45.07:343][221]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.12.03-19.45.23:027][252]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Animations/SKM_CCat.SKM_CCat
+[2025.12.03-19.45.23:043][252]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.12.03-19.45.23:048][252]LogStreaming: Display: FlushAsyncLoading(6291): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.45.23:071][252]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-19.45.23:793][252]LogPSOHitching: Encountered 400 PSO creation hitches so far (142 graphics, 258 compute). 0 of them were precached.
+[2025.12.03-19.45.40:749][933]LogConsoleManager: Warning: Console variable 'r.MorphTarget.MaxBlendWeight' used in the render thread. Rendering artifacts could happen. Use ECVF_RenderThreadSafe or don't use in render thread.
+[2025.12.03-19.46.04:610][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.03-19.46.05:072][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-19.46.05:130][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_EMUQuestCharacter] ([2] browsable assets)...
+[2025.12.03-19.46.05:136][231]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter]
+[2025.12.03-19.46.05:136][231]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_EMUQuestCharacter]
+[2025.12.03-19.46.05:154][231]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_EMUQuestCharacter
+[2025.12.03-19.46.05:154][231]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_EMUQuestCharacterD4F1C09247F79DB331716B9198B2C244.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_EMUQuestCharacter.uasset'
+[2025.12.03-19.46.05:160][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.951 ms (total: 603.063 ms)
+[2025.12.03-19.46.05:213][231]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-19.46.05:213][231]LogContentValidation: Enabled validators:
+[2025.12.03-19.46.05:213][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-19.46.05:213][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-19.46.05:213][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-19.46.05:213][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-19.46.05:213][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-19.46.05:213][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-19.46.05:213][231]AssetCheck: /QuestSystem/Blueprints/BP_EMUQuestCharacter Validating asset
+[2025.12.03-19.46.07:804][467]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-19.46.07:809][467]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-19.46.07:809][467]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-19.46.07:820][467]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 10.628 ms (total: 65.406 ms)
+[2025.12.03-19.46.07:820][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-19.46.07:846][467]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2025.12.03-19.46.07:848][467]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.12.03-19.46.07:880][468]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.46.08:006][468]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-19.46.08:032][468]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 27.358 ms (total: 163.655 ms)
+[2025.12.03-19.46.08:033][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153617s)
+[2025.12.03-19.46.08:033][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.153652s)
+[2025.12.03-19.46.08:054][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.03-19.46.08:059][468]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-19.46.08:062][468]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-19.46.08:062][468]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-19.46.08:062][468]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-19.46.08:062][468]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-19.46.08:090][468]LogWorldPartition: Display: WorldPartition initialize took 29.095 ms (total: 1.32 sec)
+[2025.12.03-19.46.08:090][468]LogPlayLevel: PIE: World Init took: (0.031303s)
+[2025.12.03-19.46.08:091][468]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.03-19.46.08:091][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-19.46.08:091][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-19.46.08:091][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-19.46.08:091][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-19.46.08:091][468]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-19.46.08:091][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-19.46.08:091][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-19.46.08:091][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-19.46.08:091][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-19.46.08:091][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-19.46.08:091][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-19.46.08:093][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-19.46.08:104][468]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-19.46.08:104][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-19.46.08:104][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-19.46.08:104][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-19.46.08:104][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.03-19.46.08:104][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.03-19.46.08:106][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.03-19.46.08:106][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.03-19.46.08:106][468]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.03-19.46.08:106][468]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_LevelOne'.
+[2025.12.03-19.46.08:106][468]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.03-19.46.08:109][468]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-19.46.08:177][468]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-14.46.08
+[2025.12.03-19.46.08:178][468]LogWorld: Bringing up level for play took: 0.068525
+[2025.12.03-19.46.08:183][468]PIE: Server logged in
+[2025.12.03-19.46.08:184][468]PIE: Play in editor total start time 0.375 seconds.
+[2025.12.03-19.46.08:274][469]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-19.46.20:607][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.46.20:607][671]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.46.20:608][671]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-19.46.20:629][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.46.20:629][671]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-19.46.20:631][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-19.46.20:637][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.46.20:664][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.03-19.46.20:664][671]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.03-19.46.20:664][671]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.12.03-19.46.20:667][671]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.12.03-19.46.20:671][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.46.20:688][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.12.03-19.46.20:761][672]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.12.03-19.46.24:790][ 62]LogEditorTransaction: Undo Modify Component(s)
+[2025.12.03-19.46.24:906][ 62]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.03-19.46.28:303][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.03-19.46.29:217][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-19.46.29:250][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_EMUQuestCharacter] ([2] browsable assets)...
+[2025.12.03-19.46.29:257][420]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter]
+[2025.12.03-19.46.29:257][420]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_EMUQuestCharacter]
+[2025.12.03-19.46.29:275][420]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_EMUQuestCharacter
+[2025.12.03-19.46.29:275][420]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_EMUQuestCharacterADB84E4D449A7173642465BA1C615B0C.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_EMUQuestCharacter.uasset'
+[2025.12.03-19.46.29:281][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.163 ms (total: 667.227 ms)
+[2025.12.03-19.46.29:331][420]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.03-19.46.29:331][420]LogContentValidation: Enabled validators:
+[2025.12.03-19.46.29:331][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-19.46.29:331][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-19.46.29:331][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-19.46.29:331][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-19.46.29:331][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-19.46.29:331][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-19.46.29:331][420]AssetCheck: /QuestSystem/Blueprints/BP_EMUQuestCharacter Validating asset
+[2025.12.03-19.46.31:424][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.03-19.46.31:429][611]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.03-19.46.31:429][611]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.03-19.46.31:439][611]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 10.078 ms (total: 75.484 ms)
+[2025.12.03-19.46.31:439][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.03-19.46.31:467][611]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2025.12.03-19.46.31:469][611]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.12.03-19.46.31:499][612]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.46.31:621][612]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.03-19.46.31:650][612]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 27.367 ms (total: 191.022 ms)
+[2025.12.03-19.46.31:650][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150607s)
+[2025.12.03-19.46.31:650][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.150646s)
+[2025.12.03-19.46.31:669][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.03-19.46.31:673][612]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.03-19.46.31:676][612]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.03-19.46.31:676][612]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.03-19.46.31:676][612]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.03-19.46.31:676][612]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.03-19.46.31:704][612]LogWorldPartition: Display: WorldPartition initialize took 29.133 ms (total: 1.34 sec)
+[2025.12.03-19.46.31:704][612]LogPlayLevel: PIE: World Init took: (0.031294s)
+[2025.12.03-19.46.31:706][612]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.03-19.46.31:706][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.03-19.46.31:706][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.03-19.46.31:706][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.03-19.46.31:706][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.03-19.46.31:706][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.03-19.46.31:706][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.03-19.46.31:706][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.03-19.46.31:706][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.03-19.46.31:706][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.03-19.46.31:706][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.03-19.46.31:706][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.03-19.46.31:708][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.03-19.46.31:716][612]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.03-19.46.31:716][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.03-19.46.31:716][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.03-19.46.31:717][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.03-19.46.31:717][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.03-19.46.31:717][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.03-19.46.31:719][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.03-19.46.31:719][612]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.03-19.46.31:719][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.03-19.46.31:719][612]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_LevelOne'.
+[2025.12.03-19.46.31:719][612]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.03-19.46.31:722][612]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.03-19.46.31:790][612]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.03-14.46.31
+[2025.12.03-19.46.31:791][612]LogWorld: Bringing up level for play took: 0.067854
+[2025.12.03-19.46.31:796][612]PIE: Server logged in
+[2025.12.03-19.46.31:798][612]PIE: Play in editor total start time 0.368 seconds.
+[2025.12.03-19.46.31:888][613]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.03-19.46.46:608][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1332.594360
+[2025.12.03-19.46.46:699][967]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.03-19.46.46:699][967]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1332.674561, Update Interval: 353.913391
+[2025.12.03-19.46.50:217][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.46.50:217][290]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.03-19.46.50:218][290]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.03-19.46.50:241][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.46.50:241][290]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.03-19.46.50:243][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.03-19.46.50:249][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.03-19.46.50:272][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.03-19.46.50:277][290]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.03-19.46.50:277][290]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.12.03-19.46.50:279][290]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.12.03-19.46.50:300][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.12.03-19.46.50:382][291]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.12.03-19.47.38:117][772]LogAssetEditorSubsystem: Opening Asset editor for DataTable /QuestSystem/Blueprints/DT_Quest.DT_Quest
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: ================================================
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Total job queries 540, among them cache hits 68 (12.59%), DDC hits 375 (69.44%), Duplicates 73 (13.52%)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Tracking 399 distinct input hashes that result in 286 distinct outputs (71.68%)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: RAM used: 3.69 MiB of 1.60 GiB budget. Usage: 0.22%
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Shaders Compiled: 24
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Average time worker was idle: 103.78 s
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 1.79 s
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Job life time (pending + execution): average 0.95 s, max 1.87
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Shader code size: total 215.508 KiB, numShaders 26, average 8.288 KiB, min 4.844 KiB, max 12.16 KiB
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.98 s
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Average processing rate: 4.82 jobs/sec
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Total thread time: 15.173 s
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Total thread preprocess time: 6.652 s
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Percentage time preprocessing: 43.84%
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Effective parallelization: 3.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.253828
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.84 sec, max 1.35 sec, min 0.39 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.62 sec, max 0.68 sec, min 0.55 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    5 times, average 0.58 sec, max 0.91 sec, min 0.30 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.55 sec, max 0.96 sec, min 0.27 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.50 sec, max 0.51 sec, min 0.49 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.56% of total time (compiled    5 times, average 0.84 sec, max 1.35 sec, min 0.39 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                                 FLumenCardPS - 19.27% of total time (compiled    5 times, average 0.58 sec, max 0.91 sec, min 0.30 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.22% of total time (compiled    4 times, average 0.62 sec, max 0.68 sec, min 0.55 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.42% of total time (compiled    4 times, average 0.55 sec, max 0.96 sec, min 0.27 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.17% of total time (compiled    4 times, average 0.50 sec, max 0.75 sec, min 0.25 sec)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: === Material stats ===
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Materials Translated:    170
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Material Translation Only: 0.04 s (30%)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: Material Cache Hits: 32 (19%)
+[2025.12.03-19.48.36:884][689]LogShaderCompilers: Display: ================================================
+[2025.12.03-19.48.40:510][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.03-19.48.40:514][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.037
+[2025.12.03-19.48.40:514][115]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Cat_Character] ([2] browsable assets)...
+[2025.12.03-19.48.40:514][115]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.12.03-19.48.40:585][115]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Cat_Character.BP_Cat_Character_C]
+[2025.12.03-19.48.40:600][115]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Cat_Character.BP_Cat_Character]
+[2025.12.03-19.48.40:600][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Cat_Character]
+[2025.12.03-19.48.40:621][115]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Cat_Character_Auto1
+[2025.12.03-19.48.40:621][115]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_Cat_Character_Auto1058901EA4464E5616AE602B3C727CF96.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Cat_Character_Auto1.uasset'
+[2025.12.03-19.48.40:622][115]LogFileHelpers: Auto-saving content packages took 0.109
+[2025.12.03-19.49.17:209][281]LogFab: Display: Logging in using persist
+[2025.12.03-19.49.17:579][281]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2025.12.03-19.49.17:583][281]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.12.03-19.49.17:765][287]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 90b...80a Access[Expires: 2025.12.03-21.49.17 Remaining: 7200.74] Refresh[Expires: 2026-06-01T19:49:17.744Z Remaining: 15552000.74] State: Valid
+[2025.12.03-19.49.17:776][288]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.12.03-19.49.17:896][298]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.12.03-19.49.17:896][298]LogFab: Display: User logged in
+[2025.12.03-19.49.17:896][298]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.12.03-19.49.18:035][309]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-AMK5VUnk906Ajh7MXpUzxA-Jbf9CrwLI0GPyjnXFTTaJQ]
+[2025.12.03-19.51.13:132][764]LogFab: Display: Asset Type = glb
+[2025.12.03-19.51.13:132][764]LogFab: Display: Is Quixel = 0
+[2025.12.03-19.51.13:249][766]LogStreaming: Display: FlushAsyncLoading(6296): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.51.13:866][766]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.12.03-19.51.13:867][766]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/AppData/Local/Temp/FabLibrary/50140d98-051a-4003-a044-80cfa526715e/dicemodel.glb]
+[2025.12.03-19.51.13:958][768]LogStreaming: Display: FlushAsyncLoading(6336): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.51.13:982][770]LogStreaming: Display: FlushAsyncLoading(6338): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.03-19.51.14:101][771]LogStaticMesh: Display: Building static mesh dicemodel (Required Memory Estimate: 8.412255 MB)...
+[2025.12.03-19.51.14:141][773]LogStaticMesh: Built static mesh [0.04s] /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.dicemodel
+[2025.12.03-19.51.14:178][774]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/App...03-a044-80cfa526715e/dicemodel.glb]
+[2025.12.03-19.51.23:914][576]LogSlate: Window 'Fab' being destroyed
+[2025.12.03-19.51.25:422][704]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.12.03-19.51.25:422][704]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/search?is_free=1&q=stylized+dice.
+[2025.12.03-19.51.25:759][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.03-19.51.26:749][733]LogSlate: Window 'Save Content' being destroyed
+[2025.12.03-19.51.26:757][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.03-19.51.26:816][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Cat_Character] ([2] browsable assets)...
+[2025.12.03-19.51.26:816][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Cat_Character]
+[2025.12.03-19.51.26:838][733]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Cat_Character
+[2025.12.03-19.51.26:838][733]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_Cat_Character38E9D8AF40C37CB48A96A193AF6DFA93.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/ThirdPerson/Blueprints/BP_Cat_Character.uasset'
+[2025.12.03-19.51.26:839][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/QuestSystem/Blueprints/DT_Quest] ([1] browsable assets)...
+[2025.12.03-19.51.26:839][733]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/DT_Quest]
+[2025.12.03-19.51.26:845][733]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/DT_Quest
+[2025.12.03-19.51.26:845][733]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/DT_QuestF81971084604811ECD8165B8CAF890A1.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/DT_Quest.uasset'
+[2025.12.03-19.51.26:845][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Classic_dice/dicemodel/Materials/Material] ([1] browsable assets)...
+[2025.12.03-19.51.27:006][733]LogPSOHitching: Encountered 450 PSO creation hitches so far (163 graphics, 287 compute). 0 of them were precached.
+[2025.12.03-19.51.27:072][733]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Classic_dice/dicemodel/Materials/Material.Material]
+[2025.12.03-19.51.27:072][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Classic_dice/dicemodel/Materials/Material]
+[2025.12.03-19.51.27:081][733]LogSavePackage: Moving output files for package: /Game/Fab/Classic_dice/dicemodel/Materials/Material
+[2025.12.03-19.51.27:081][733]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Material73CCBB9D440D0577D3E8FCBB6CFA59B2.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Fab/Classic_dice/dicemodel/Materials/Material.uasset'
+[2025.12.03-19.51.27:083][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel] ([1] browsable assets)...
+[2025.12.03-19.51.27:108][733]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.dicemodel]
+[2025.12.03-19.51.27:108][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel]
+[2025.12.03-19.51.27:119][733]LogSavePackage: Moving output files for package: /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel
+[2025.12.03-19.51.27:119][733]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/dicemodel5CBD93BE45EA0C28E97A96B0172CC6A2.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel.uasset'
+[2025.12.03-19.51.27:120][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Classic_dice/dicemodel/Materials/eyes] ([1] browsable assets)...
+[2025.12.03-19.51.27:120][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Classic_dice/dicemodel/Materials/eyes]
+[2025.12.03-19.51.27:127][733]LogSavePackage: Moving output files for package: /Game/Fab/Classic_dice/dicemodel/Materials/eyes
+[2025.12.03-19.51.27:127][733]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/eyes7C8B172D489ECBA8E884338FBD025848.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Fab/Classic_dice/dicemodel/Materials/eyes.uasset'
+[2025.12.03-19.51.27:133][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 375.100 ms (total: 1.04 sec)
+[2025.12.03-19.51.27:182][733]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.03-19.51.27:183][733]LogContentValidation: Enabled validators:
+[2025.12.03-19.51.27:183][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.03-19.51.27:183][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.03-19.51.27:183][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.03-19.51.27:183][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.03-19.51.27:183][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.03-19.51.27:183][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.03-19.51.27:183][733]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Cat_Character Validating asset
+[2025.12.03-19.51.27:183][733]AssetCheck: /QuestSystem/Blueprints/DT_Quest Validating asset
+[2025.12.03-19.51.27:183][733]AssetCheck: /Game/Fab/Classic_dice/dicemodel/Materials/Material Validating asset
+[2025.12.03-19.51.27:183][733]AssetCheck: /Game/Fab/Classic_dice/dicemodel/StaticMeshes/dicemodel Validating asset
+[2025.12.03-19.51.27:183][733]AssetCheck: /Game/Fab/Classic_dice/dicemodel/Materials/eyes Validating asset
+[2025.12.03-19.51.27:207][733]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
