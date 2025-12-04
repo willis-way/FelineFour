@@ -14,6 +14,11 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "QuestSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/10c77a25-8ecc-4775-bf7f-1d7403f47861"
 		}
 	]
 }
