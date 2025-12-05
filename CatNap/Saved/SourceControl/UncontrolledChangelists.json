@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/EMUQuests/EMUQuests/Content/UI/Widgets/W_QuestTaken.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/EMUQuests/EMUQuests/Content/UI/Widgets/WB_ObjectiveUpdated.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/EMUQuests/EMUQuests/Content/Blueprints/DT_Quest.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/5/E0/DGTV6DK51VFP2N93ISPAVZ.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/50/31QANZT9S5ANFMMNUJ8IBS.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/D9/L792UVQON3JL2INITBC99I.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/LI/AP36IUT33MZVJBGPLNEJ7T.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/M0/GZIAM6D2XP9KVROJAIUNMT.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/NO/P883QIJP8UZS0BDGK86R50.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/4D/Z2FVVX98FXGTH92UFBHHVD.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/0Y/R4C5205QYO3TEJ8QRA4SWM.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/EMUQuests/EMUQuests/Content/UI/Widgets/WB_QuestCompleted.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/EMUQuests/EMUQuests/Content/UI/Widgets/WB_QuestDialog.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/MF/L4LG6ZUTGFRREWJSUOW3YA.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/3/JA/JDCIK73MK9U3TXARWW1ZZQ.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/EMUQuests/EMUQuests/Content/Blueprints/Sarah_QuestGiver.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/EMUQuests/EMUQuests/Content/Blueprints/Mia_QuestGiver.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/2/6J/8SR47FAPGNJNT59N0FWQW7.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/6/H3/UY9FRDWP0DJ7NRXBJLU5CI.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/7/IA/FOTOE3QH4MBN5OI58O1F16.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Levels/_GENERATED/rgowell/Boolean_5B51F665.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Levels/_GENERATED/rgowell/Box_530D4C2E.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/PZ/NES1E0613DO5XP2DRH8YDF.uasset"
+			]
+		}
+	]
+}
