@@ -4394,3 +4394,126 @@ Script Stack (1 frames) :
 [2025.12.06-20.45.52:822][366]AssetCheck: /QuestSystem/Blueprints/Rachel_QuestGiver Validating asset
 [2025.12.06-20.45.52:822][366]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2025.12.06-20.45.52:840][366]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.06-20.46.34:712][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2352.482422
+[2025.12.06-20.46.35:712][639]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.06-20.46.35:712][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2353.149658, Update Interval: 352.067627
+[2025.12.06-20.53.26:440][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2764.203369
+[2025.12.06-20.53.27:441][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.06-20.53.27:441][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2764.870117, Update Interval: 312.019409
+[2025.12.06-20.58.25:207][427]LogAssetEditorSubsystem: Opening Asset editor for DataTable /QuestSystem/Blueprints/DT_Quest.DT_Quest
+[2025.12.06-20.59.05:491][ 83]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.06-20.59.05:496][ 83]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.06-20.59.05:496][ 83]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.06-20.59.05:510][ 83]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 14.953 ms (total: 968.648 ms)
+[2025.12.06-20.59.05:511][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.06-20.59.05:560][ 83]LogPlayLevel: Display: Creating online subsystem for client :Context_82
+[2025.12.06-20.59.05:561][ 83]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2025.12.06-20.59.05:599][ 84]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.06-20.59.05:754][ 84]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.06-20.59.05:787][ 84]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 32.953 ms (total: 1.13 sec)
+[2025.12.06-20.59.05:787][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.187793s)
+[2025.12.06-20.59.05:787][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.187848s)
+[2025.12.06-20.59.05:830][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.06-20.59.05:836][ 84]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.06-20.59.05:838][ 84]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.06-20.59.05:838][ 84]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.06-20.59.05:838][ 84]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.06-20.59.05:838][ 84]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.06-20.59.05:873][ 84]LogWorldPartition: Display: WorldPartition initialize took 34.267 ms (total: 4.05 sec)
+[2025.12.06-20.59.05:873][ 84]LogPlayLevel: PIE: World Init took: (0.036670s)
+[2025.12.06-20.59.05:874][ 84]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.12.06-20.59.05:874][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.06-20.59.05:874][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.06-20.59.05:874][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.06-20.59.05:874][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.06-20.59.05:874][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.06-20.59.05:874][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.06-20.59.05:874][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.06-20.59.05:874][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.06-20.59.05:874][ 84]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.06-20.59.05:874][ 84]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.06-20.59.05:874][ 84]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.06-20.59.05:876][ 84]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.06-20.59.05:886][ 84]LogAudioMixer: Display: Using Audio Hardware Device Kamvas Pro 24 (NVIDIA High Definition Audio)
+[2025.12.06-20.59.05:886][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.06-20.59.05:886][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.06-20.59.05:886][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.06-20.59.05:887][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.12.06-20.59.05:887][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.12.06-20.59.05:889][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.12.06-20.59.05:889][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.12.06-20.59.05:889][ 84]LogInit: FAudioDevice initialized with ID 35.
+[2025.12.06-20.59.05:889][ 84]LogAudio: Display: Audio Device (ID: 35) registered with world 'L_LevelOne'.
+[2025.12.06-20.59.05:889][ 84]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.12.06-20.59.05:894][ 84]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.06-20.59.05:980][ 84]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.06-15.59.05
+[2025.12.06-20.59.05:983][ 84]LogWorld: Bringing up level for play took: 0.088327
+[2025.12.06-20.59.05:989][ 84]PIE: Server logged in
+[2025.12.06-20.59.05:991][ 84]PIE: Play in editor total start time 0.497 seconds.
+[2025.12.06-20.59.06:093][ 85]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.06-20.59.19:445][406]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.06-20.59.19:445][406]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.12.06-20.59.21:345][602]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.06-20.59.21:346][602]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.06-20.59.26:882][155]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.06-20.59.26:882][155]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.06-20.59.27:665][236]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.06-20.59.27:665][236]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.06-20.59.28:578][330]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.06-20.59.28:578][330]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.12.06-20.59.28:578][330]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.06-20.59.31:164][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3128.920410
+[2025.12.06-20.59.31:261][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.06-20.59.31:261][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3129.008301, Update Interval: 351.042206
+[2025.12.06-20.59.34:651][966]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.06-20.59.34:651][966]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.12.06-20.59.40:275][537]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.06-20.59.40:275][537]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.06-20.59.44:672][993]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.06-20.59.44:672][993]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.06-20.59.49:667][477]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.06-20.59.49:667][477]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.06-20.59.50:323][541]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.06-20.59.50:323][541]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.12.06-20.59.51:718][666]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.06-20.59.51:718][666]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.12.06-20.59.52:826][775]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.06-20.59.52:826][775]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.06-20.59.53:316][822]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.06-20.59.53:317][822]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.12.06-21.00.02:555][729]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.06-21.00.02:555][729]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.12.06-21.00.56:782][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.06-21.00.56:782][826]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.06-21.00.56:784][826]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.06-21.00.56:813][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.06-21.00.56:813][826]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.06-21.00.56:818][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.06-21.00.56:825][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.06-21.00.56:858][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.06-21.00.56:858][826]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.12.06-21.00.56:858][826]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2025.12.06-21.00.56:860][826]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2025.12.06-21.00.56:864][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.06-21.00.56:890][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2025.12.06-21.00.56:960][827]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2025.12.06-21.00.58:041][892]LogPSOHitching: Encountered 800 PSO creation hitches so far (409 graphics, 391 compute). 0 of them were precached.
+[2025.12.06-21.01.10:455][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-21.01.10:495][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/QuestSystem/Blueprints/DT_Quest] ([1] browsable assets)...
+[2025.12.06-21.01.10:495][333]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/DT_Quest]
+[2025.12.06-21.01.10:495][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/QuestSystem/Blueprints/DT_Quest" FILE="../../Plugins/EMUQuests/EMUQuests/Content/Blueprints/DT_Quest.uasset" SILENT=true
+[2025.12.06-21.01.10:504][333]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/DT_Quest
+[2025.12.06-21.01.10:505][333]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/DT_Quest03FB8254469C89B6D3D6259972782526.tmp' to '../../Plugins/EMUQuests/EMUQuests/Content/Blueprints/DT_Quest.uasset'
+[2025.12.06-21.01.10:513][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.267 ms (total: 1.94 sec)
+[2025.12.06-21.01.10:565][333]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-21.01.10:565][333]LogContentValidation: Enabled validators:
+[2025.12.06-21.01.10:565][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-21.01.10:565][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-21.01.10:565][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-21.01.10:565][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-21.01.10:565][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-21.01.10:565][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-21.01.10:565][333]AssetCheck: /QuestSystem/Blueprints/DT_Quest Validating asset
+[2025.12.06-21.01.10:581][333]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
