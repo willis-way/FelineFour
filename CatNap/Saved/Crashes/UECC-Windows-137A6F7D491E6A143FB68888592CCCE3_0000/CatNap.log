@@ -1789,20 +1789,3 @@ Script Stack (1 frames) :
 [2025.12.06-19.16.37:956][872]LogOutputDevice: Error: [Callstack] 0x00007ffe475fe8d7 KERNEL32.DLL!UnknownFunction []
 [2025.12.06-19.16.37:956][872]LogOutputDevice: Error: [Callstack] 0x00007ffe4925c34c ntdll.dll!UnknownFunction []
 [2025.12.06-19.16.37:956][872]LogOutputDevice: Error: 
-[2025.12.06-19.16.37:963][872]LogStats:                SubmitErrorReport -  0.000 s
-[2025.12.06-19.16.38:606][872]LogStats:                    SendNewReport -  0.644 s
-[2025.12.06-19.16.38:606][872]LogStats:             FDebug::EnsureFailed -  0.715 s
-[2025.12.06-19.16.42:498][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2025.12.06-19.16.42:498][280]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
-[2025.12.06-19.16.42:500][280]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
-[2025.12.06-19.16.42:526][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2025.12.06-19.16.42:527][280]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
-[2025.12.06-19.16.42:529][280]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2025.12.06-19.16.42:535][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2025.12.06-19.16.42:563][280]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2025.12.06-19.16.42:566][280]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
-[2025.12.06-19.16.42:566][280]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
-[2025.12.06-19.16.42:568][280]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
-[2025.12.06-19.16.42:572][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2025.12.06-19.16.42:595][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
-[2025.12.06-19.16.42:649][281]LogPlayLevel: Display: Destroying online subsystem :Context_29
