@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/OurCharacterModels/Sarah/sarah_2.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/OurCharacterModels/Sarah/sarah_R.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/6Q/KJQ159TLDBJX17KUQ30HAL.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/VK/D69DBKLO0XXAM7NBZZ7XYN.uasset",
+				"C:/Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/OurCharacterModels/Sarah/sarah_2_Mat.uasset"
+			]
+		}
+	]
+}

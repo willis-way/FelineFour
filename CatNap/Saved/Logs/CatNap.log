@@ -1157,3 +1157,157 @@ FPackageName: Skipped package /Game/Levels/_GENERATED/rgowell/Cylinder_EC744C0C 
 [2025.12.06-18.55.09:475][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 4.961205
 [2025.12.06-18.55.09:476][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1164040915
 [2025.12.06-18.55.09:476][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.961205, Update Interval: 331.637939
+[2025.12.06-18.57.01:133][345]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.06-18.57.08:962][697]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.12.06-18.57.09:051][698]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.12.06-18.57.09:818][778]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.06-18.57.25:121][159]LogStreaming: Display: FlushAsyncLoading(3537): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.06-18.57.25:169][159]LogInterchangeEngine: [Pending] Importing
+[2025.12.06-18.57.25:169][159]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/sarah 2.png]
+[2025.12.06-18.57.25:306][161]LogStreaming: Display: FlushAsyncLoading(3570): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.06-18.57.25:393][163]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/sarah 2.png]
+[2025.12.06-18.57.25:399][163]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.06-18.57.25:399][163]LogInterchangeEngine: [Success] Import Done
+[2025.12.06-18.57.28:702][438]LogStreaming: Display: FlushAsyncLoading(3571): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.06-18.57.28:761][438]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/sarah_R.fbx]
+[2025.12.06-18.57.31:878][438]LogSlate: Window 'Import Content' being destroyed
+[2025.12.06-18.57.31:904][438]LogInterchangeEngine: [Pending] Importing
+[2025.12.06-18.57.35:304][439]LogSlate: Window 'Message' being destroyed
+[2025.12.06-18.57.35:341][439]Message dialog closed, result: No, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Characters/OurCharacterModels/Sarah/Sarah_Tex.Sarah_Tex'?
+[2025.12.06-18.57.38:157][440]LogSlate: Window 'Message' being destroyed
+[2025.12.06-18.57.38:166][440]Message dialog closed, result: No, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/Characters/OurCharacterModels/Sarah/sarah_2.sarah_2'?
+[2025.12.06-18.57.38:188][441]LogStreaming: Display: FlushAsyncLoading(3572): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.06-18.57.38:209][443]LogStaticMesh: Display: Building static mesh sarah_R (Required Memory Estimate: 10.458337 MB)...
+[2025.12.06-18.57.38:229][443]LogStaticMesh: Adjacency [0.00s], tris: 6803, UVs 1
+[2025.12.06-18.57.38:234][443]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.12.06-18.57.38:235][443]LogStaticMesh: Leaves [0.00s]
+[2025.12.06-18.57.38:404][446]LogStaticMesh: Reduce [0.17s]
+[2025.12.06-18.57.38:458][446]LogStaticMesh: Fallback [0.05s], num tris: 1745
+[2025.12.06-18.57.38:545][449]LogStaticMesh: Fallback [0.09s], num tris: 1156
+[2025.12.06-18.57.38:548][449]LogStaticMesh: ConstrainClusters:
+[2025.12.06-18.57.38:548][449]LogStaticMesh:   Input: 110 Clusters, 13857 Triangles and 12539 Vertices
+[2025.12.06-18.57.38:548][449]LogStaticMesh:   Output without splits: 110 Clusters, 13857 Triangles and 12572 Vertices
+[2025.12.06-18.57.38:548][449]LogStaticMesh:   Output with splits: 110 Clusters, 13857 Triangles and 12572 Vertices
+[2025.12.06-18.57.38:548][449]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 110, Slow Path Clusters: 0, 1 Material: 110, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.12.06-18.57.38:552][449]LogStaticMesh: WritePages:
+[2025.12.06-18.57.38:552][449]LogStaticMesh:   Root: GPU size: 31420 bytes. 1 Pages. 31420.000 bytes per page (95.886% utilization).
+[2025.12.06-18.57.38:552][449]LogStaticMesh:   Streaming: GPU size: 118900 bytes. 1 Pages (1 with relative encoding). 118900.000 bytes per page (90.714% utilization).
+[2025.12.06-18.57.38:552][449]LogStaticMesh:   Page data disk size: 124284 bytes. Fixup data size: 352 bytes.
+[2025.12.06-18.57.38:552][449]LogStaticMesh:   Total GPU size: 150320 bytes, Total disk size: 124636 bytes.
+[2025.12.06-18.57.38:552][449]LogStaticMesh: Encode [0.01s]
+[2025.12.06-18.57.38:552][449]LogStaticMesh: NaniteBuild [0.32s]
+[2025.12.06-18.57.38:626][457]LogStaticMesh: Built static mesh [0.42s] /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R
+[2025.12.06-18.57.38:655][461]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.179 Y=-0.372 Z=20.508, BoxExtent=(X=14.779 Y=9.896 Z=22.276), SphereRadius=(25.969540)) and MeshDescription Bounds (Origin=X=0.573 Y=-0.282 Z=21.740, BoxExtent=(X=13.602 Y=9.805 Z=20.482), SphereRadius=(21.100380)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R
+[2025.12.06-18.57.38:674][461]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/sarah_R.fbx]
+[2025.12.06-18.57.38:674][461]Interchange: Warning: [C:/Users/rgowell/Desktop/sarah_R.fbx : '', Material] The option bReplaceExisting is false, we are not overriding the asset named 'Texture2D /Game/Characters/OurCharacterModels/Sarah/Sarah_Tex.Sarah_Tex'.
+[2025.12.06-18.57.38:674][461]Interchange: Error: [C:/Users/rgowell/Desktop/sarah_R.fbx : '', Material] You cannot create an asset of class 'Material' named 'Sarah_tex' in '/Game/Characters/OurCharacterModels/Sarah' because there is already an asset of class 'Texture2D' with the same name in that folder.
+[2025.12.06-18.57.38:674][461]Interchange: Warning: [C:/Users/rgowell/Desktop/sarah_R.fbx : '', Texture2D] The option bReplaceExisting is false, we are not overriding the asset named 'Texture2D /Game/Characters/OurCharacterModels/Sarah/sarah_2.sarah_2'.
+[2025.12.06-18.57.38:674][461]Interchange: Warning: [C:/Users/rgowell/Desktop/sarah_R.fbx : 'sarah_R', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.12.06-18.57.38:692][461]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.06-18.57.38:692][461]LogInterchangeEngine: [Success] Import Done
+[2025.12.06-18.57.38:695][462]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.179 Y=-0.372 Z=20.508, BoxExtent=(X=14.779 Y=9.896 Z=22.276), SphereRadius=(25.969540)) and MeshDescription Bounds (Origin=X=0.573 Y=-0.282 Z=21.740, BoxExtent=(X=13.602 Y=9.805 Z=20.482), SphereRadius=(21.100380)) is significative for StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R
+[2025.12.06-18.57.38:873][465]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.12.06-18.57.41:048][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.06-18.57.42:241][666]LogSlate: Window 'Save Content' being destroyed
+[2025.12.06-18.57.42:250][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-18.57.42:299][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Sarah/sarah_2] ([1] browsable assets)...
+[2025.12.06-18.57.42:301][666]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/OurCharacterModels/Sarah/sarah_2.sarah_2]
+[2025.12.06-18.57.42:301][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Sarah/sarah_2]
+[2025.12.06-18.57.42:329][666]LogSavePackage: Moving output files for package: /Game/Characters/OurCharacterModels/Sarah/sarah_2
+[2025.12.06-18.57.42:329][666]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/sarah_2111CB6AA4A72AD1D64051F8DCA4F6D5E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/OurCharacterModels/Sarah/sarah_2.uasset'
+[2025.12.06-18.57.42:330][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Sarah/sarah_R] ([1] browsable assets)...
+[2025.12.06-18.57.42:379][666]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R]
+[2025.12.06-18.57.42:379][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Sarah/sarah_R]
+[2025.12.06-18.57.42:391][666]LogSavePackage: Moving output files for package: /Game/Characters/OurCharacterModels/Sarah/sarah_R
+[2025.12.06-18.57.42:391][666]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/sarah_R96C5D55546381C0A07474F83D233075E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/OurCharacterModels/Sarah/sarah_R.uasset'
+[2025.12.06-18.57.42:402][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.162 ms
+[2025.12.06-18.57.42:445][666]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.06-18.57.42:445][666]LogContentValidation: Enabled validators:
+[2025.12.06-18.57.42:445][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-18.57.42:445][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-18.57.42:445][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-18.57.42:445][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-18.57.42:445][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-18.57.42:445][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-18.57.42:445][666]AssetCheck: /Game/Characters/OurCharacterModels/Sarah/sarah_2 Validating asset
+[2025.12.06-18.57.42:445][666]AssetCheck: /Game/Characters/OurCharacterModels/Sarah/sarah_R Validating asset
+[2025.12.06-18.57.42:464][666]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.06-18.57.44:097][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R
+[2025.12.06-18.57.44:097][804]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R
+[2025.12.06-18.57.44:099][804]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_0
+[2025.12.06-18.57.44:708][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.06-18.57.44:709][865]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.12.06-18.57.44:716][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R
+[2025.12.06-18.57.44:716][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R
+[2025.12.06-18.57.44:720][865]LogActorFactory: Actor Factory spawned StaticMesh /Game/Characters/OurCharacterModels/Sarah/sarah_R.sarah_R as actor: StaticMeshActor /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D400A902_1883828959
+[2025.12.06-18.57.46:732][ 69]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D400A902_1883828959.StaticMeshComponent0.
+[2025.12.06-18.57.47:039][100]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.StaticMeshActor_UAID_047C162859D400A902_1883828959.StaticMeshComponent0.
+[2025.12.06-18.58.12:880][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.12.06-18.58.13:829][972]LogSlate: Window 'Save Content' being destroyed
+[2025.12.06-18.58.13:838][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-18.58.13:904][972]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/9/6Q/KJQ159TLDBJX17KUQ30HAL
+[2025.12.06-18.58.13:904][972]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/KJQ159TLDBJX17KUQ30HAL23BE9DFF44BB2DD803D56593705F2F72.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/9/6Q/KJQ159TLDBJX17KUQ30HAL.uasset'
+[2025.12.06-18.58.13:914][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.021 ms (total: 228.183 ms)
+[2025.12.06-18.58.13:959][972]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.06-18.58.13:959][972]LogContentValidation: Enabled validators:
+[2025.12.06-18.58.13:959][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-18.58.13:959][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-18.58.13:959][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-18.58.13:959][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-18.58.13:959][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-18.58.13:959][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-18.58.13:959][972]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.06-18.58.14:001][973]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.06-18.58.17:621][293]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.06-18.58.18:245][358]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Sarah/sarah_2_Mat.sarah_2_Mat needed to have new flag set bUsedWithNanite !
+[2025.12.06-18.58.18:245][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBF55A00 with pending SubmitJob call.
+[2025.12.06-18.58.18:245][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBF53C00 with pending SubmitJob call.
+[2025.12.06-18.58.18:246][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBF5D200 with pending SubmitJob call.
+[2025.12.06-18.58.18:248][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBF5BE00 with pending SubmitJob call.
+[2025.12.06-18.58.18:249][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBF5DC00 with pending SubmitJob call.
+[2025.12.06-18.58.18:252][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBF57800 with pending SubmitJob call.
+[2025.12.06-18.58.18:253][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBC98200 with pending SubmitJob call.
+[2025.12.06-18.58.18:253][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBF51E00 with pending SubmitJob call.
+[2025.12.06-18.58.18:255][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBF59600 with pending SubmitJob call.
+[2025.12.06-18.58.18:256][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBC9D200 with pending SubmitJob call.
+[2025.12.06-18.58.18:256][358]LogShaderCompilers: Display: Cancelled job 0x000002AFDBC9C800 with pending SubmitJob call.
+[2025.12.06-18.58.28:449][327]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.06-18.58.28:556][334]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.06-18.58.28:615][337]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.06-18.58.28:859][353]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.06-18.58.28:900][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.06-18.58.29:026][362]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.06-18.58.46:425][812]LogMaterial: Display: Material /Game/Characters/OurCharacterModels/Sarah/sarah_2_Mat.sarah_2_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2025.12.06-18.58.50:780][206]Cmd: DELETE
+[2025.12.06-18.58.50:780][206]Cmd: ACTOR DELETE
+[2025.12.06-18.58.50:790][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.06-18.58.50:807][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.12.06-18.58.50:811][206]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.12.06-19.00.41:416][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 337.234344
+[2025.12.06-19.00.42:417][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.06-19.00.42:417][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.900879, Update Interval: 357.784363
+[2025.12.06-19.01.28:624][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.12.06-19.01.29:629][935]LogSlate: Window 'Save Content' being destroyed
+[2025.12.06-19.01.29:638][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.06-19.01.29:692][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.12.06-19.01.29:708][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.12.06-19.01.29:722][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.12.06-19.01.29:733][935]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/VK/D69DBKLO0XXAM7NBZZ7XYN
+[2025.12.06-19.01.29:734][935]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/D69DBKLO0XXAM7NBZZ7XYN9E88C85840CF50DB8B21FC84D9963E56.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/VK/D69DBKLO0XXAM7NBZZ7XYN.uasset'
+[2025.12.06-19.01.29:734][935]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/OurCharacterModels/Sarah/sarah_2_Mat] ([1] browsable assets)...
+[2025.12.06-19.01.29:784][935]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/OurCharacterModels/Sarah/sarah_2_Mat.sarah_2_Mat]
+[2025.12.06-19.01.29:784][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/OurCharacterModels/Sarah/sarah_2_Mat]
+[2025.12.06-19.01.29:792][935]LogSavePackage: Moving output files for package: /Game/Characters/OurCharacterModels/Sarah/sarah_2_Mat
+[2025.12.06-19.01.29:792][935]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/sarah_2_MatE08D54BC498A88C657FF82A76FF82596.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Content/Characters/OurCharacterModels/Sarah/sarah_2_Mat.uasset'
+[2025.12.06-19.01.29:800][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 161.948 ms (total: 390.131 ms)
+[2025.12.06-19.01.29:861][935]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.06-19.01.29:861][935]LogContentValidation: Enabled validators:
+[2025.12.06-19.01.29:861][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.06-19.01.29:861][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.06-19.01.29:861][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.06-19.01.29:861][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.06-19.01.29:861][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.06-19.01.29:861][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.06-19.01.29:861][935]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.06-19.01.29:861][935]AssetCheck: /Game/Characters/OurCharacterModels/Sarah/sarah_2_Mat Validating asset
+[2025.12.06-19.01.29:878][935]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
