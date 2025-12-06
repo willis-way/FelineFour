@@ -1262,3 +1262,6 @@ FPackageName: Skipped package /Game/Levels/_GENERATED/rgowell/Cylinder_EC744C0C 
 [2025.12.06-19.26.26:716][445]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 327.647552
 [2025.12.06-19.26.27:716][447]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.06-19.26.27:716][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 328.314117, Update Interval: 305.121613
+[2025.12.06-19.29.42:485][ 33]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 30033
+[2025.12.06-19.29.42:485][ 33]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.12.06-19.29.42:491][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
