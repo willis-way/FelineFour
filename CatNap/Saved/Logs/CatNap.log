@@ -2909,3 +2909,730 @@ FPackageName: Skipped package /Game/Levels/_GENERATED/rgowell/Cylinder_EC744C0C 
 [2025.12.08-17.56.14:341][895]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
 	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_305
 	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-17.56.46:223][526]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_306
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-17.56.46:223][526]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_306
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-17.56.46:243][527]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_307
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-17.56.46:243][527]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_307
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-17.57.24:521][933]LogPathView: [ContentBrowserTab3][PathView] HandleSettingChanged None
+[2025.12.08-17.57.24:522][933]LogPathView: [ContentBrowserTab3][PathView] HandleSettingChanged None
+[2025.12.08-17.57.24:522][933]LogPathView: [ContentBrowserTab2][PathView] HandleSettingChanged None
+[2025.12.08-17.57.24:523][933]LogPathView: [ContentBrowserTab2][PathView] HandleSettingChanged None
+[2025.12.08-17.57.24:523][933]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.12.08-17.57.24:524][933]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.12.08-17.57.24:524][933]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.12.08-17.57.24:539][933]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.12.08-17.59.52:614][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2112.335449
+[2025.12.08-17.59.52:686][799]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-17.59.52:686][799]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2112.391602, Update Interval: 307.254852
+[2025.12.08-18.01.05:018][506]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_308
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.01.05:018][506]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_308
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.01.05:272][513]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_309
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.01.05:272][513]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_309
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.01.42:611][773]LogStreaming: Display: FlushAsyncLoading(10720): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.01.43:784][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.01.43:784][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Sarajh/SarahWaveAnim] ([1] browsable assets)...
+[2025.12.08-18.01.43:784][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Sarajh/SarahWaveAnim]
+[2025.12.08-18.01.43:794][834]LogSavePackage: Moving output files for package: /Game/Animations/Sarajh/SarahWaveAnim
+[2025.12.08-18.01.43:794][834]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SarahWaveAnim6323490342CACA7BAC2534897B399297.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Sarajh/SarahWaveAnim.uasset'
+[2025.12.08-18.01.43:796][834]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Sarajh/SarahTpose] ([1] browsable assets)...
+[2025.12.08-18.01.43:796][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Sarajh/SarahTpose]
+[2025.12.08-18.01.43:796][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Sarajh/SarahTpose" FILE="../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Sarajh/SarahTpose.uasset" SILENT=true
+[2025.12.08-18.01.43:811][834]LogSavePackage: Moving output files for package: /Game/Animations/Sarajh/SarahTpose
+[2025.12.08-18.01.43:811][834]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SarahTpose727FC95F4DA2E2E5A03385B6A5AA6CB7.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Sarajh/SarahTpose.uasset'
+[2025.12.08-18.01.43:812][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 27.976 ms (total: 817.834 ms)
+[2025.12.08-18.01.43:871][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.08-18.01.43:899][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.08-18.01.43:923][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.08-18.01.43:941][834]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.08-18.01.43:941][834]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.08-18.01.43:941][834]LogContentValidation: Enabled validators:
+[2025.12.08-18.01.43:941][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.01.43:941][834]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.01.43:941][834]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.01.43:941][834]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.01.43:941][834]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.01.43:941][834]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.01.43:941][834]AssetCheck: /Game/Animations/Sarajh/SarahWaveAnim Validating asset
+[2025.12.08-18.01.43:941][834]AssetCheck: /Game/Animations/Sarajh/SarahTpose Validating asset
+[2025.12.08-18.01.43:957][834]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.08-18.01.45:282][915]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_79
+[2025.12.08-18.01.56:877][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /QuestSystem/Blueprints/Sarah_QuestGiver.Sarah_QuestGiver
+[2025.12.08-18.01.56:878][631]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_80
+[2025.12.08-18.01.57:377][631]LogStreaming: Display: FlushAsyncLoading(10722): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.02.46:698][675]LogPSOHitching: Encountered 1100 PSO creation hitches so far (399 graphics, 701 compute). 0 of them were precached.
+[2025.12.08-18.03.05:227][840]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_310
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.03.05:227][840]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_310
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.03.05:282][841]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_311
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.03.05:282][841]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_311
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.03.16:576][573]LogEditorTransaction: Undo Modify Component(s)
+[2025.12.08-18.03.17:382][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.03.17:387][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.03.17:389][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.03.17:392][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.03.17:392][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.03.17:393][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.03.17:394][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.03.30:894][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.08-18.03.35:141][796]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-18.03.35:147][796]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.08-18.03.35:147][796]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.08-18.03.35:163][796]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 16.800 ms (total: 705.748 ms)
+[2025.12.08-18.03.35:165][796]LogPlayLevel: [PlayLevel] Compiling BP_EMUQuestCharacter before play...
+[2025.12.08-18.03.35:244][796]LogPlayLevel: [PlayLevel] Compiling ABP_CatTest before play...
+[2025.12.08-18.03.35:299][796]LogPlayLevel: [PlayLevel] Compiling ABP_Cat before play...
+[2025.12.08-18.03.35:380][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.08-18.03.35:387][796]LogPlayLevel: PlayLevel: Blueprint regeneration took 223 ms (3 blueprints)
+[2025.12.08-18.03.35:387][796]LogPlayLevel: Display: Creating online subsystem for client :Context_89
+[2025.12.08-18.03.35:389][796]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2025.12.08-18.03.35:428][797]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.08-18.03.35:568][797]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.08-18.03.35:600][797]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 31.621 ms (total: 220.991 ms)
+[2025.12.08-18.03.35:600][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172076s)
+[2025.12.08-18.03.35:600][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.172118s)
+[2025.12.08-18.03.35:620][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.08-18.03.35:624][797]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.08-18.03.35:627][797]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-18.03.35:627][797]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-18.03.35:627][797]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.08-18.03.35:627][797]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-18.03.35:660][797]LogWorldPartition: Display: WorldPartition initialize took 33.074 ms (total: 1.79 sec)
+[2025.12.08-18.03.35:660][797]LogPlayLevel: PIE: World Init took: (0.035407s)
+[2025.12.08-18.03.35:661][797]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.08-18.03.35:661][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-18.03.35:661][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-18.03.35:661][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-18.03.35:661][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-18.03.35:661][797]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-18.03.35:661][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-18.03.35:661][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-18.03.35:661][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-18.03.35:661][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-18.03.35:661][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-18.03.35:661][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-18.03.35:662][797]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-18.03.35:675][797]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.08-18.03.35:676][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-18.03.35:676][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-18.03.35:676][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-18.03.35:676][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.08-18.03.35:676][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.08-18.03.35:677][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.08-18.03.35:677][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.08-18.03.35:677][797]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.08-18.03.35:677][797]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_LevelOne'.
+[2025.12.08-18.03.35:677][797]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.08-18.03.35:682][797]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.08-18.03.35:765][797]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.08-13.03.35
+[2025.12.08-18.03.35:768][797]LogWorld: Bringing up level for play took: 0.086428
+[2025.12.08-18.03.35:775][797]PIE: Server logged in
+[2025.12.08-18.03.35:777][797]PIE: Play in editor total start time 0.631 seconds.
+[2025.12.08-18.03.35:778][797]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_312
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.03.35:783][797]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_313
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.03.35:860][797]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: ================================================
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Total job queries 827, among them cache hits 247 (29.87%), DDC hits 509 (61.55%), Duplicates 70 (8.46%)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Tracking 510 distinct input hashes that result in 372 distinct outputs (72.94%)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: RAM used: 4.47 MiB of 1.60 GiB budget. Usage: 0.27%
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Job execution time: average 1.12 s, max 1.12 s
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Job life time (pending + execution): average 1.22 s, max 1.22
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Shader code size: total 12.664 KiB, numShaders 1, average 12.664 KiB, min 12.664 KiB, max 12.664 KiB
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.22 s
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Average processing rate: 0.82 jobs/sec
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Total thread time: 0.893 s
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Total thread preprocess time: 10.944 s
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Percentage time preprocessing: 1225.38%
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Effective parallelization: 0.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.060930
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 100.00% of total time (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.08-18.03.42:897][282]LogShaderCompilers: Display: === Material stats ===
+[2025.12.08-18.03.42:898][282]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.08-18.03.42:898][282]LogShaderCompilers: Display: Materials Translated:    186
+[2025.12.08-18.03.42:898][282]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.12.08-18.03.42:898][282]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2025.12.08-18.03.42:898][282]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.08-18.03.42:898][282]LogShaderCompilers: Display: Material Cache Hits: 39 (21%)
+[2025.12.08-18.03.42:898][282]LogShaderCompilers: Display: ================================================
+[2025.12.08-18.04.02:392][855]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.12.08-18.04.02:392][855]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.12.08-18.04.03:936][982]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.12.08-18.04.03:936][982]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.12.08-18.04.20:672][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.04.20:672][  7]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.08-18.04.20:674][  7]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.04.20:701][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.04.20:701][  7]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.08-18.04.20:705][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-18.04.20:711][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.04.20:742][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-18.04.20:742][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.08-18.04.20:743][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.12.08-18.04.20:744][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.12.08-18.04.20:749][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.04.20:770][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.12.08-18.04.20:903][  8]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2025.12.08-18.04.20:908][  8]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_314
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.04.26:522][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.08-18.04.28:380][332]LogSlate: Window 'Save Content' being destroyed
+[2025.12.08-18.04.28:389][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.04.28:433][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/Sarah_QuestGiver] ([2] browsable assets)...
+[2025.12.08-18.04.28:461][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/Sarah_QuestGiver.Sarah_QuestGiver]
+[2025.12.08-18.04.28:461][332]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/Sarah_QuestGiver]
+[2025.12.08-18.04.28:473][332]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/Sarah_QuestGiver
+[2025.12.08-18.04.28:473][332]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Sarah_QuestGiverC5983DB54EFACD07BB10B38E708F999B.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/Sarah_QuestGiver.uasset'
+[2025.12.08-18.04.28:480][332]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/E/VK/D69DBKLO0XXAM7NBZZ7XYN
+[2025.12.08-18.04.28:481][332]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/D69DBKLO0XXAM7NBZZ7XYN7E03251E4D2931FC425C76B514BE6440.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/VK/D69DBKLO0XXAM7NBZZ7XYN.uasset'
+[2025.12.08-18.04.28:489][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.136 ms (total: 917.970 ms)
+[2025.12.08-18.04.28:548][332]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.08-18.04.28:548][332]LogContentValidation: Enabled validators:
+[2025.12.08-18.04.28:548][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.04.28:548][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.04.28:548][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.04.28:548][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.04.28:548][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.04.28:548][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.04.28:548][332]AssetCheck: /QuestSystem/Blueprints/Sarah_QuestGiver Validating asset
+[2025.12.08-18.04.28:548][332]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2025.12.08-18.04.28:569][332]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.08-18.04.47:947][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.08-18.04.48:941][648]LogSlate: Window 'Save Content' being destroyed
+[2025.12.08-18.04.48:950][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.04.49:000][648]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/QuestSystem/Blueprints/BP_EMUQuestCharacter] ([2] browsable assets)...
+[2025.12.08-18.04.49:016][648]OBJ SavePackage:     Rendered thumbnail for [Blueprint /QuestSystem/Blueprints/BP_EMUQuestCharacter.BP_EMUQuestCharacter]
+[2025.12.08-18.04.49:016][648]OBJ SavePackage: Finished generating thumbnails for package [/QuestSystem/Blueprints/BP_EMUQuestCharacter]
+[2025.12.08-18.04.49:038][648]LogSavePackage: Moving output files for package: /QuestSystem/Blueprints/BP_EMUQuestCharacter
+[2025.12.08-18.04.49:038][648]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/BP_EMUQuestCharacter34945F014D6CDA62871D98BAF68CA892.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_EMUQuestCharacter.uasset'
+[2025.12.08-18.04.49:046][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.566 ms (total: 1.01 sec)
+[2025.12.08-18.04.49:099][648]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.08-18.04.49:099][648]LogContentValidation: Enabled validators:
+[2025.12.08-18.04.49:099][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.04.49:099][648]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.04.49:099][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.04.49:099][648]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.04.49:099][648]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.04.49:099][648]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.04.49:099][648]AssetCheck: /QuestSystem/Blueprints/BP_EMUQuestCharacter Validating asset
+[2025.12.08-18.05.59:276][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2479.005859
+[2025.12.08-18.05.59:344][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-18.05.59:344][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2479.064209, Update Interval: 356.566681
+[2025.12.08-18.08.27:642][ 50]LogPSOHitching: Encountered 1150 PSO creation hitches so far (431 graphics, 719 compute). 0 of them were precached.
+[2025.12.08-18.08.27:707][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.08-18.08.27:707][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.08-18.08.27:711][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.08-18.08.27:713][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.08-18.08.27:810][ 50]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.08-18.08.27:817][ 50]LogPSOHitching: Encountered 1200 PSO creation hitches so far (439 graphics, 761 compute). 0 of them were precached.
+[2025.12.08-18.08.27:993][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.08-18.08.28:081][ 50]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.08-18.08.28:086][ 50]LogPSOHitching: Encountered 1250 PSO creation hitches so far (453 graphics, 797 compute). 0 of them were precached.
+[2025.12.08-18.08.28:181][ 50]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.08-18.08.28:264][ 51]LogPSOHitching: Encountered 1300 PSO creation hitches so far (488 graphics, 812 compute). 0 of them were precached.
+[2025.12.08-18.08.28:279][ 51]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.08-18.08.29:576][ 94]LogPSOHitching: Encountered 1350 PSO creation hitches so far (507 graphics, 843 compute). 0 of them were precached.
+[2025.12.08-18.08.34:822][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.08-18.08.34:829][402]LogStreaming: Display: FlushAsyncLoading(10724): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.08.34:831][402]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.08-18.08.34:834][402]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/StartMenuLevel.StartMenuLevel
+[2025.12.08-18.08.34:834][402]Cmd: MAP LOAD FILE="../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Levels/StartMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.12.08-18.08.34:912][402]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.08.34:913][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.08.34:913][402]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/L_LevelOne.L_LevelOne
+[2025.12.08-18.08.34:963][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-18.08.35:039][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.12.08-18.08.35:047][402]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.08.35:047][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.08.35:067][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.08-18.08.35:156][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.08-18.08.35:160][402]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenuLevel'.
+[2025.12.08-18.08.35:160][402]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.08-18.08.35:182][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.12.08-18.08.35:204][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.08-18.08.35:212][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.12.08-18.08.35:212][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.048ms to complete.
+[2025.12.08-18.08.35:305][404]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-18.08.35:809][407]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.08-18.08.36:113][407]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_81
+[2025.12.08-18.08.36:182][407]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_82
+[2025.12.08-18.08.36:349][407]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_83
+[2025.12.08-18.08.36:521][408]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.08.36:521][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.08.36:547][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.08-18.08.36:769][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-18.08.36:775][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-18.08.36:802][419]LogPlayLevel: Display: Creating online subsystem for client :Context_93
+[2025.12.08-18.08.36:804][419]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2025.12.08-18.08.36:814][420]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.08-18.08.36:816][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000952s)
+[2025.12.08-18.08.36:816][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.001002s)
+[2025.12.08-18.08.36:844][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.08-18.08.36:846][420]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.08-18.08.36:848][420]LogPlayLevel: PIE: World Init took: (0.001707s)
+[2025.12.08-18.08.36:849][420]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.12.08-18.08.36:849][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-18.08.36:849][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-18.08.36:849][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-18.08.36:849][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-18.08.36:849][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-18.08.36:849][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-18.08.36:849][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-18.08.36:849][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-18.08.36:849][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-18.08.36:849][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-18.08.36:849][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-18.08.36:851][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-18.08.36:863][420]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.08-18.08.36:863][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-18.08.36:863][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-18.08.36:863][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-18.08.36:863][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.12.08-18.08.36:863][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.12.08-18.08.36:866][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.12.08-18.08.36:866][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.12.08-18.08.36:866][420]LogInit: FAudioDevice initialized with ID 10.
+[2025.12.08-18.08.36:866][420]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartMenuLevel'.
+[2025.12.08-18.08.36:866][420]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.08-18.08.36:872][420]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.12.08-18.08.36:872][420]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.12.08-13.08.36
+[2025.12.08-18.08.36:872][420]LogWorld: Bringing up level for play took: 0.000363
+[2025.12.08-18.08.36:875][420]PIE: Server logged in
+[2025.12.08-18.08.36:877][420]PIE: Play in editor total start time 0.102 seconds.
+[2025.12.08-18.08.36:886][420]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-18.08.41:881][958]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/L_LevelOne"
+[2025.12.08-18.08.41:881][958]LogNet: Browse: /Game/Levels/L_LevelOne
+[2025.12.08-18.08.41:881][958]LogLoad: LoadMap: /Game/Levels/L_LevelOne
+[2025.12.08-18.08.41:881][958]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.08-18.08.41:881][958]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.08.41:882][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.08.41:920][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-18.08.41:921][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.08-18.08.41:924][958]LogStreaming: Display: FlushAsyncLoading(10726): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.08.41:928][958]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_LevelOne'.
+[2025.12.08-18.08.41:928][958]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2025.12.08-18.08.41:929][958]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.08-18.08.41:929][958]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.08-18.08.41:929][958]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2025.12.08-18.08.41:929][958]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.08-18.08.41:941][958]LogWorldPartition: Can't find class descriptor '/QuestSystem/Blueprints/BP_RaelQuestGiver.BP_RaelQuestGiver_C' for loading '/Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_QuestGiver_C_UAID_00BE43BBC79113A802_1125964248', using '/Script/Engine.Actor'
+[2025.12.08-18.08.41:941][958]LogWorldPartition: Warning: Unknown actor base class `/QuestSystem/Blueprints/BP_RaelQuestGiver.BP_RaelQuestGiver_C`: Actor: 'BP_QuestGiver_C_UAID_00BE43BBC79113A802_1125964248' (guid '5EF1FB4E43B39D6C350E668FF19D27A7') from package '/Game/__ExternalActors__/Levels/L_LevelOne/2/YE/USQLD1CCSJYX4TME0V6P4P'
+[2025.12.08-18.08.41:984][958]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2025.12.08-18.08.42:336][958]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 352.086 ms (total: 1.05 sec)
+[2025.12.08-18.08.42:367][958]LogWorldPartition: Display: WorldPartition initialize took 437.651 ms (total: 2.23 sec)
+[2025.12.08-18.08.42:367][958]LogPlayLevel: PIE: World Init took: (0.439113s)
+[2025.12.08-18.08.42:367][958]LogLoad: Game class is 'GM_EMUQuest_C'
+[2025.12.08-18.08.42:460][958]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2025.12.08-13.08.42
+[2025.12.08-18.08.42:463][958]LogWorld: Bringing up level for play took: 0.095510
+[2025.12.08-18.08.42:468][958]LogLoad: Took 0.587806 seconds to LoadMap(/Game/Levels/L_LevelOne)
+[2025.12.08-18.08.42:469][958]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/L_LevelOne
+[2025.12.08-18.08.42:556][958]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-18.08.42:567][959]LoadErrors: Warning: While trying to load package /Game/__ExternalActors__/Levels/L_LevelOne/7/P2/O88VHEB7HUZ685C6DF7SBO, a dependent package /Game/Levels/_GENERATED/rgowell/Cylinder_EC744C0C was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Levels/_GENERATED/rgowell/Cylinder_EC744C0C has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Levels/_GENERATED/rgowell/Cylinder_EC744C0C'. Perhaps it has been deleted or was not synced?
+
+[2025.12.08-18.08.44:332][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.08.44:332][ 83]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2025.12.08-18.08.44:334][ 83]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.08.44:360][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.08.44:360][ 83]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2025.12.08-18.08.44:363][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-18.08.44:370][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.08.44:401][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.08.44:401][ 83]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.12.08-18.08.44:401][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.12.08-18.08.44:403][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.12.08-18.08.44:461][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.12.08-18.08.44:487][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2025.12.08-18.08.57:631][ 86]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu
+[2025.12.08-18.08.57:631][ 86]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_84
+[2025.12.08-18.08.57:637][ 86]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_85
+[2025.12.08-18.08.57:642][ 86]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.12.08-18.08.58:191][ 86]LogStreaming: Display: FlushAsyncLoading(13915): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.09.04:123][686]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_315
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.09.04:136][687]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_316
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.09.05:000][767]LogStatusBar: Looking status bar with open content browser drawer...
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: BlueprintEditorApp_0 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: AnimationBlueprintEditorApp_8 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: AnimationBlueprintEditorApp_2 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: AnimationBlueprintEditorApp_7 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: AnimationEditorApp_6 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: AnimationEditorApp_9 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: SkeletalMeshEditorApp_10 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: AnimationEditorApp_11 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: StatusBar: BlueprintEditorApp_12 was content browser was not opened
+[2025.12.08-18.09.05:000][767]LogStatusBar: Using status bar: BlueprintEditorApp_13 to dock content browser
+[2025.12.08-18.09.05:419][767]LogStreaming: Display: FlushAsyncLoading(13917): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.09.08:406][998]LogSlate: Window 'Content Browser 4' being destroyed
+[2025.12.08-18.09.14:075][479]LogSlate: Window 'Content Browser 4' being destroyed
+[2025.12.08-18.09.14:083][479]LogSlate: Window 'Content Browser 4' being destroyed
+[2025.12.08-18.09.54:014][619]LogStreaming: Display: FlushAsyncLoading(13918): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.09.54:224][619]LogInterchangeEngine: [Pending] Importing
+[2025.12.08-18.09.54:226][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/Cat Poster Cover.png]
+[2025.12.08-18.09.54:363][621]LogStreaming: Display: FlushAsyncLoading(13950): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.09.54:421][623]LogTexture: Display: Building textures: /Game/2dArtTextures/Cat_Poster_Cover.Cat_Poster_Cover (TFO_AutoDXT, 2304x1728 x1x1x1) (Required Memory Estimate: 322.28125 MB), EncodeSpeed: Fast
+[2025.12.08-18.09.54:532][624]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/Cat Poster Cover.png]
+[2025.12.08-18.09.54:544][624]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.08-18.09.54:544][624]LogInterchangeEngine: [Success] Import Done
+[2025.12.08-18.10.10:154][888]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_317
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.10.10:229][889]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_318
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.10.11:126][929]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_319
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.10.11:183][930]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_320
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.10.15:915][335]LogEditorTransaction: Undo Edit Image
+[2025.12.08-18.10.16:846][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.16:850][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.16:852][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.16:854][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.16:855][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.16:857][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.16:857][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.25:156][139]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_321
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.10.25:226][140]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_CatTest_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_CatTest_C_322
+	Function /Game/ABP_CatTest.ABP_CatTest_C:ExecuteUbergraph_ABP_CatTest:0040
+[2025.12.08-18.10.48:480][ 64]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.12.08-18.10.49:299][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.49:303][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.49:305][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.49:307][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.49:307][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.49:309][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.49:310][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.49:329][ 64]LogEditorTransaction: Undo Resize Widget
+[2025.12.08-18.10.50:180][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.50:185][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.50:186][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.50:188][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.50:188][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.50:190][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.50:190][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.50:194][ 64]LogEditorTransaction: Undo Edit Image
+[2025.12.08-18.10.51:096][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.51:102][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.51:103][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.51:105][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.51:106][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.51:107][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.51:108][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.51:110][ 64]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.12.08-18.10.52:100][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.52:104][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.52:106][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.52:108][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.52:108][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.52:111][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.10.52:111][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.12.38:515][881]LogPSOHitching: Encountered 1400 PSO creation hitches so far (535 graphics, 865 compute). 0 of them were precached.
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: ================================================
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Total job queries 862, among them cache hits 257 (29.81%), DDC hits 518 (60.09%), Duplicates 70 (8.12%)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Tracking 535 distinct input hashes that result in 391 distinct outputs (73.08%)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: RAM used: 4.66 MiB of 1.60 GiB budget. Usage: 0.28%
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Shaders Compiled: 17
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Average time worker was idle: 47.78 s
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.11 s
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 1.15 s
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 1.23
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Shader code size: total 147.648 KiB, numShaders 20, average 7.382 KiB, min 3.266 KiB, max 12.664 KiB
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.48 s
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Total thread time: 7.321 s
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Total thread preprocess time: 11.391 s
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Percentage time preprocessing: 155.58%
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Effective parallelization: 2.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.175143
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.53 sec, max 0.57 sec, min 0.50 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.41 sec, max 0.44 sec, min 0.37 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.33 sec, max 0.39 sec, min 0.28 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                                                  FVelocityPS - 14.60% of total time (compiled    2 times, average 0.53 sec, max 0.57 sec, min 0.50 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.20% of total time (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.14% of total time (compiled    2 times, average 0.41 sec, max 0.44 sec, min 0.37 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:                                                  FVelocityVS - 9.09% of total time (compiled    2 times, average 0.33 sec, max 0.39 sec, min 0.28 sec)
+[2025.12.08-18.12.43:134][225]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.46% of total time (compiled    2 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.12.08-18.12.43:135][225]LogShaderCompilers: Display: === Material stats ===
+[2025.12.08-18.12.43:135][225]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.08-18.12.43:135][225]LogShaderCompilers: Display: Materials Translated:    186
+[2025.12.08-18.12.43:135][225]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.12.08-18.12.43:135][225]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2025.12.08-18.12.43:135][225]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.12.08-18.12.43:135][225]LogShaderCompilers: Display: Material Cache Hits: 39 (21%)
+[2025.12.08-18.12.43:135][225]LogShaderCompilers: Display: ================================================
+[2025.12.08-18.12.45:262][419]LogEditorTransaction: Undo Edit Image
+[2025.12.08-18.12.46:098][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.12.46:102][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.12.46:104][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.12.46:106][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.12.46:106][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.12.46:108][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.12.46:108][419]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_68:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.12.08-18.12.49:879][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2889.608154
+[2025.12.08-18.12.50:879][594]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-18.12.50:879][594]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2890.274902, Update Interval: 308.842438
+[2025.12.08-18.15.44:816][342]LogPSOHitching: Encountered 1450 PSO creation hitches so far (555 graphics, 895 compute). 0 of them were precached.
+[2025.12.08-18.15.45:057][343]LogPSOHitching: Encountered 1500 PSO creation hitches so far (563 graphics, 937 compute). 0 of them were precached.
+[2025.12.08-18.16.17:922][195]LogStreaming: Display: FlushAsyncLoading(13951): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.16.17:931][195]LogInterchangeEngine: [Pending] Importing
+[2025.12.08-18.16.17:931][195]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rgowell/Desktop/cover 2.png]
+[2025.12.08-18.16.18:639][197]LogStreaming: Display: FlushAsyncLoading(13952): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.16.18:937][199]LogTexture: Display: Building textures: /Game/2dArtTextures/cover_2.cover_2 (TFO_AutoDXT, 2304x1728 x1x1x1) (Required Memory Estimate: 322.28125 MB), EncodeSpeed: Fast
+[2025.12.08-18.16.19:279][199]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rgowell/Desktop/cover 2.png]
+[2025.12.08-18.16.19:294][199]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.08-18.16.19:294][199]LogInterchangeEngine: [Success] Import Done
+[2025.12.08-18.16.43:370][109]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.08-18.16.50:665][672]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.50:665][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.50:768][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.08-18.16.50:783][672]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.50:783][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.50:980][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.08-18.16.53:498][852]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.53:498][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.53:549][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.08-18.16.54:035][878]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.54:035][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.54:043][878]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.54:043][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.54:078][878]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.54:078][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.54:110][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.08-18.16.56:013][ 30]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.56:013][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.56:020][ 30]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.56:020][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.56:056][ 30]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.56:056][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.56:084][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.08-18.16.57:419][128]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.16.57:419][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.16.57:524][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.08-18.17.02:249][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.08-18.17.09:215][ 25]LogSlate: Window 'BP_EMUQuestCharacter' being destroyed
+[2025.12.08-18.17.18:393][790]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /QuestSystem/UI/Widgets/W_QuestTaken.W_QuestTaken
+[2025.12.08-18.17.18:393][790]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_87
+[2025.12.08-18.17.18:400][790]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_88
+[2025.12.08-18.17.18:838][790]LogStreaming: Display: FlushAsyncLoading(13953): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.08-18.17.27:560][574]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.08-18.17.32:829][ 73]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.08-18.17.49:848][620]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.08-18.18.03:834][880]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.08-18.18.17:686][144]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.08-18.18.24:703][784]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.08-18.18.29:205][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.08-18.18.31:368][391]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-18.18.31:375][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-18.18.31:402][391]LogPlayLevel: Display: Creating online subsystem for client :Context_98
+[2025.12.08-18.18.31:405][391]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2025.12.08-18.18.31:416][392]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.08-18.18.31:416][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000900s)
+[2025.12.08-18.18.31:416][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.000946s)
+[2025.12.08-18.18.31:436][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.08-18.18.31:441][392]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.08-18.18.31:443][392]LogPlayLevel: PIE: World Init took: (0.002065s)
+[2025.12.08-18.18.31:444][392]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.12.08-18.18.31:444][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-18.18.31:444][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-18.18.31:444][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-18.18.31:444][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-18.18.31:444][392]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-18.18.31:444][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-18.18.31:444][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-18.18.31:444][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-18.18.31:444][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-18.18.31:444][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-18.18.31:444][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-18.18.31:446][392]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-18.18.31:460][392]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.08-18.18.31:460][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-18.18.31:460][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-18.18.31:460][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-18.18.31:460][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.12.08-18.18.31:460][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.12.08-18.18.31:462][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.12.08-18.18.31:462][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.12.08-18.18.31:462][392]LogInit: FAudioDevice initialized with ID 11.
+[2025.12.08-18.18.31:462][392]LogAudio: Display: Audio Device (ID: 11) registered with world 'StartMenuLevel'.
+[2025.12.08-18.18.31:462][392]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.08-18.18.31:467][392]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.12.08-18.18.31:467][392]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.12.08-13.18.31
+[2025.12.08-18.18.31:467][392]LogWorld: Bringing up level for play took: 0.000342
+[2025.12.08-18.18.31:469][392]PIE: Server logged in
+[2025.12.08-18.18.31:472][392]PIE: Play in editor total start time 0.097 seconds.
+[2025.12.08-18.18.31:483][392]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-18.18.36:613][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.18.36:613][903]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.08-18.18.36:614][903]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.18.36:614][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.18.36:615][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-18.18.36:620][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.18.36:637][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.18.36:637][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.12.08-18.18.36:637][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.12.08-18.18.36:639][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.12.08-18.18.36:645][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.08-18.18.36:667][904]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2025.12.08-18.18.42:429][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.08-18.18.44:485][549]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.08-18.18.44:492][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.08-18.18.44:522][549]LogPlayLevel: Display: Creating online subsystem for client :Context_99
+[2025.12.08-18.18.44:524][549]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2025.12.08-18.18.44:535][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.08-18.18.44:536][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000793s)
+[2025.12.08-18.18.44:536][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMenuLevel.StartMenuLevel to /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel (0.000838s)
+[2025.12.08-18.18.44:559][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.08-18.18.44:564][550]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenuLevel
+[2025.12.08-18.18.44:566][550]LogPlayLevel: PIE: World Init took: (0.001751s)
+[2025.12.08-18.18.44:567][550]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.12.08-18.18.44:567][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.08-18.18.44:567][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.08-18.18.44:567][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.08-18.18.44:567][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.08-18.18.44:567][550]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.08-18.18.44:567][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.08-18.18.44:567][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.08-18.18.44:567][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.08-18.18.44:567][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.08-18.18.44:567][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.08-18.18.44:567][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.08-18.18.44:569][550]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.08-18.18.44:578][550]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2025.12.08-18.18.44:579][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.08-18.18.44:579][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.08-18.18.44:579][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.08-18.18.44:579][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.12.08-18.18.44:579][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.12.08-18.18.44:582][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.12.08-18.18.44:582][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.12.08-18.18.44:582][550]LogInit: FAudioDevice initialized with ID 12.
+[2025.12.08-18.18.44:582][550]LogAudio: Display: Audio Device (ID: 12) registered with world 'StartMenuLevel'.
+[2025.12.08-18.18.44:582][550]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.08-18.18.44:586][550]LogLoad: Game class is 'GM_StartMenuLevel_C'
+[2025.12.08-18.18.44:587][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMenuLevel.StartMenuLevel up for play (max tick rate 0) at 2025.12.08-13.18.44
+[2025.12.08-18.18.44:587][550]LogWorld: Bringing up level for play took: 0.000367
+[2025.12.08-18.18.44:589][550]PIE: Server logged in
+[2025.12.08-18.18.44:592][550]PIE: Play in editor total start time 0.1 seconds.
+[2025.12.08-18.18.44:604][550]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.08-18.18.49:203][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.18.49:203][945]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMenuLevel
+[2025.12.08-18.18.49:203][945]LogWorld: UWorld::CleanupWorld for StartMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-18.18.49:203][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.18.49:204][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.08-18.18.49:208][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-18.18.49:228][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.08-18.18.49:228][945]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.12.08-18.18.49:228][945]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.12.08-18.18.49:230][945]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.12.08-18.18.49:234][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.08-18.18.49:236][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.08-18.18.49:346][948]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2025.12.08-18.18.54:178][394]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3253.883057
+[2025.12.08-18.18.54:262][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.08-18.18.54:262][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3253.956787, Update Interval: 348.702057
+[2025.12.08-18.18.58:152][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.08-18.18.59:183][775]LogSlate: Window 'Save Content' being destroyed
+[2025.12.08-18.18.59:190][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-18.18.59:250][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/Cat_Poster_Cover] ([1] browsable assets)...
+[2025.12.08-18.18.59:251][775]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/Cat_Poster_Cover.Cat_Poster_Cover]
+[2025.12.08-18.18.59:251][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/Cat_Poster_Cover]
+[2025.12.08-18.18.59:286][775]LogSavePackage: Moving output files for package: /Game/2dArtTextures/Cat_Poster_Cover
+[2025.12.08-18.18.59:286][775]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/Cat_Poster_Cover5CAA5B1A42704450F5540293C9EB0260.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/2dArtTextures/Cat_Poster_Cover.uasset'
+[2025.12.08-18.18.59:290][775]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WBP/WBP_StartMenu] ([2] browsable assets)...
+[2025.12.08-18.18.59:294][775]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WBP/WBP_StartMenu.WBP_StartMenu]
+[2025.12.08-18.18.59:294][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WBP/WBP_StartMenu]
+[2025.12.08-18.18.59:294][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP/WBP_StartMenu" FILE="../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset" SILENT=true
+[2025.12.08-18.18.59:303][775]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP/WBP_StartMenu
+[2025.12.08-18.18.59:303][775]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/WBP_StartMenu0604D4F745CD2EA69E978A829559D5AA.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Blueprints/WBP/WBP_StartMenu.uasset'
+[2025.12.08-18.18.59:304][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2dArtTextures/cover_2] ([1] browsable assets)...
+[2025.12.08-18.18.59:305][775]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2dArtTextures/cover_2.cover_2]
+[2025.12.08-18.18.59:305][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/2dArtTextures/cover_2]
+[2025.12.08-18.18.59:305][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2dArtTextures/cover_2" FILE="../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/2dArtTextures/cover_2.uasset" SILENT=true
+[2025.12.08-18.18.59:333][775]LogSavePackage: Moving output files for package: /Game/2dArtTextures/cover_2
+[2025.12.08-18.18.59:333][775]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/cover_24701F9734C405A046FF554BBC77B7427.tmp' to '../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/2dArtTextures/cover_2.uasset'
+[2025.12.08-18.18.59:341][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.032 ms (total: 1.16 sec)
+[2025.12.08-18.18.59:398][775]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.08-18.18.59:398][775]LogContentValidation: Enabled validators:
+[2025.12.08-18.18.59:398][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-18.18.59:398][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-18.18.59:398][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-18.18.59:398][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-18.18.59:398][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-18.18.59:398][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-18.18.59:398][775]AssetCheck: /Game/2dArtTextures/Cat_Poster_Cover Validating asset
+[2025.12.08-18.18.59:398][775]AssetCheck: /Game/Blueprints/WBP/WBP_StartMenu Validating asset
+[2025.12.08-18.18.59:399][775]AssetCheck: /Game/2dArtTextures/cover_2 Validating asset
+[2025.12.08-18.18.59:412][775]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Saved/SourceControl/UncontrolledChangelists.json
