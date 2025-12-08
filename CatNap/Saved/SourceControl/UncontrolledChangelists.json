@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/ABP_Cat.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Cat_clean_Animation_Anim.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Fab/Cat_Cartoon/cat_cartoon/SkeletalMeshes/Walk.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/A/84/XBXQCFQJ68SOKY5T0Z3TK1.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/C/PZ/NES1E0613DO5XP2DRH8YDF.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Rachel/SarahTpose.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/ABP_CatTest.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Plugins/EMUQuests/EMUQuests/Content/Blueprints/BP_EMUQuestCharacter.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Mia/Mia_Waving_Anim.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/B/0Y/R4C5205QYO3TEJ8QRA4SWM.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Rachel/Rachel_Wave_Anim.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Rachel/SarahWaveAnim.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/__ExternalActors__/Levels/L_LevelOne/E/VK/D69DBKLO0XXAM7NBZZ7XYN.uasset",
+				"C:/Users/rgowell/Documents/Unreal Projects/FelineFour/CatNap/Content/Animations/Trinity/Trinity_Waving_Anim.uasset"
+			]
+		}
+	]
+}
