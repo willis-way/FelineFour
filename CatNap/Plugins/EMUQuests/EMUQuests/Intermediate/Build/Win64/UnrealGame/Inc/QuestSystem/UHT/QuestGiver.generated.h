@@ -22,15 +22,15 @@ class UPrimitiveComponent;
 struct FHitResult;
 
 // ********** Begin Class AQuestGiver **************************************************************
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnOverlapEnd); \
 	DECLARE_FUNCTION(execOnOverlapBegin);
 
 
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_CALLBACK_WRAPPERS
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_CALLBACK_WRAPPERS
 QUESTSYSTEM_API UClass* Z_Construct_UClass_AQuestGiver_NoRegister();
 
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAQuestGiver(); \
 	friend struct Z_Construct_UClass_AQuestGiver_Statics; \
@@ -42,7 +42,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AQuestGiver*>(this); }
 
 
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AQuestGiver(AQuestGiver&&) = delete; \
 	AQuestGiver(const AQuestGiver&) = delete; \
@@ -52,14 +52,14 @@ public: \
 	NO_API virtual ~AQuestGiver();
 
 
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_13_PROLOG
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_GENERATED_BODY \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_13_PROLOG
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_CALLBACK_WRAPPERS \
-	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_INCLASS_NO_PURE_DECLS \
-	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h_16_ENHANCED_CONSTRUCTORS \
+	FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_CALLBACK_WRAPPERS \
+	FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_INCLASS_NO_PURE_DECLS \
+	FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -69,6 +69,6 @@ class AQuestGiver;
 // ********** End Class AQuestGiver ****************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestGiver_h
+#define CURRENT_FILE_ID FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestGiver_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

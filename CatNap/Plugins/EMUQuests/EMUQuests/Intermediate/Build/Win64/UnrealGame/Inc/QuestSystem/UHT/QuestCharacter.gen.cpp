@@ -67,53 +67,81 @@ struct Z_Construct_UClass_AQuestCharacter_Statics
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_CameraBoom_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Camera boom positioning the camera behind the character */" },
+#endif
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Public/QuestCharacter.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Camera boom positioning the camera behind the character" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_FollowCamera_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Camera" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Follow camera */" },
+#endif
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Public/QuestCharacter.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Follow camera" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_DefaultMappingContext_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** MappingContext */" },
+#endif
 		{ "ModuleRelativePath", "Public/QuestCharacter.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "MappingContext" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_JumpAction_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Jump Input Action */" },
+#endif
 		{ "ModuleRelativePath", "Public/QuestCharacter.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Jump Input Action" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MoveAction_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Move Input Action */" },
+#endif
 		{ "ModuleRelativePath", "Public/QuestCharacter.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Move Input Action" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_LookAction_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** Look Input Action */" },
+#endif
 		{ "ModuleRelativePath", "Public/QuestCharacter.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Look Input Action" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_QuestMappingContext_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "Input" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "/** MappingContext */" },
+#endif
 		{ "ModuleRelativePath", "Public/QuestCharacter.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "MappingContext" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_InteractAction_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
@@ -203,14 +231,14 @@ AQuestCharacter::~AQuestCharacter() {}
 // ********** End Class AQuestCharacter ************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestCharacter_h__Script_QuestSystem_Statics
+struct Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestCharacter_h__Script_QuestSystem_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AQuestCharacter, AQuestCharacter::StaticClass, TEXT("AQuestCharacter"), &Z_Registration_Info_UClass_AQuestCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AQuestCharacter), 861844641U) },
+		{ Z_Construct_UClass_AQuestCharacter, AQuestCharacter::StaticClass, TEXT("AQuestCharacter"), &Z_Registration_Info_UClass_AQuestCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AQuestCharacter), 2703258415U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestCharacter_h__Script_QuestSystem_2624204051(TEXT("/Script/QuestSystem"),
-	Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestCharacter_h__Script_QuestSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestCharacter_h__Script_QuestSystem_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestCharacter_h__Script_QuestSystem_2501568810(TEXT("/Script/QuestSystem"),
+	Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestCharacter_h__Script_QuestSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestCharacter_h__Script_QuestSystem_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

@@ -521,7 +521,7 @@ UScriptStruct* Z_Construct_UScriptStruct_FQuestData()
 // ********** End ScriptStruct FQuestData **********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h__Script_QuestSystem_Statics
+struct Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h__Script_QuestSystem_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ EQuestStatus_StaticEnum, TEXT("EQuestStatus"), &Z_Registration_Info_UEnum_EQuestStatus, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 4081245521U) },
@@ -534,10 +534,10 @@ struct Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProje
 		{ FQuestData::StaticStruct, Z_Construct_UScriptStruct_FQuestData_Statics::NewStructOps, TEXT("QuestData"), &Z_Registration_Info_UScriptStruct_FQuestData, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FQuestData), 2465569357U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h__Script_QuestSystem_55981508(TEXT("/Script/QuestSystem"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h__Script_QuestSystem_55981508(TEXT("/Script/QuestSystem"),
 	nullptr, 0,
-	Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h__Script_QuestSystem_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h__Script_QuestSystem_Statics::ScriptStructInfo),
-	Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h__Script_QuestSystem_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h__Script_QuestSystem_Statics::EnumInfo));
+	Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h__Script_QuestSystem_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h__Script_QuestSystem_Statics::ScriptStructInfo),
+	Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h__Script_QuestSystem_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h__Script_QuestSystem_Statics::EnumInfo));
 // ********** End Registration *********************************************************************
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -593,7 +593,9 @@ struct Z_Construct_UFunction_UQuestManager_StartQuest_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "Quest Manager" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "///////////////////////////////////////////////////////\n" },
+#endif
 		{ "ModuleRelativePath", "Public/QuestManager.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_QuestID_MetaData[] = {
@@ -813,9 +815,13 @@ struct Z_Construct_UClass_UQuestManager_Statics
 		{ "ModuleRelativePath", "Public/QuestManager.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnQuestAdded_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "// Delegates\n" },
+#endif
 		{ "ModuleRelativePath", "Public/QuestManager.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Delegates" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnQuestRemoved_MetaData[] = {
 		{ "ModuleRelativePath", "Public/QuestManager.h" },
@@ -869,7 +875,7 @@ struct Z_Construct_UClass_UQuestManager_Statics
 		{ &Z_Construct_UFunction_UQuestManager_GetQuest, "GetQuest" }, // 1453113972
 		{ &Z_Construct_UFunction_UQuestManager_OnObjectiveUpdated, "OnObjectiveUpdated" }, // 210468690
 		{ &Z_Construct_UFunction_UQuestManager_OnQuestStatusChanged, "OnQuestStatusChanged" }, // 952897682
-		{ &Z_Construct_UFunction_UQuestManager_StartQuest, "StartQuest" }, // 1200269988
+		{ &Z_Construct_UFunction_UQuestManager_StartQuest, "StartQuest" }, // 134229598
 		{ &Z_Construct_UFunction_UQuestManager_TurnInQuest, "TurnInQuest" }, // 2810016125
 		{ &Z_Construct_UFunction_UQuestManager_UpdateQuestObjective, "UpdateQuestObjective" }, // 1085713773
 	};
@@ -945,14 +951,14 @@ UQuestManager::~UQuestManager() {}
 // ********** End Class UQuestManager **************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h__Script_QuestSystem_Statics
+struct Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h__Script_QuestSystem_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UQuestManager, UQuestManager::StaticClass, TEXT("UQuestManager"), &Z_Registration_Info_UClass_UQuestManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UQuestManager), 2564575854U) },
+		{ Z_Construct_UClass_UQuestManager, UQuestManager::StaticClass, TEXT("UQuestManager"), &Z_Registration_Info_UClass_UQuestManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UQuestManager), 1579905726U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h__Script_QuestSystem_11077162(TEXT("/Script/QuestSystem"),
-	Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h__Script_QuestSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h__Script_QuestSystem_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h__Script_QuestSystem_1341594928(TEXT("/Script/QuestSystem"),
+	Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h__Script_QuestSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h__Script_QuestSystem_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

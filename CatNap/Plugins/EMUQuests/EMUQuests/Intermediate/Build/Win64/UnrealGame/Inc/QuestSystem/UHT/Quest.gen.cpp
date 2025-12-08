@@ -341,9 +341,13 @@ struct Z_Construct_UFunction_UQuest_GetQuestData_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
 		{ "Category", "Quest" },
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "// Getters\n" },
+#endif
 		{ "ModuleRelativePath", "Public/Quest.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Getters" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_ReturnValue_MetaData[] = {
 		{ "NativeConst", "" },
@@ -750,9 +754,13 @@ struct Z_Construct_UClass_UQuest_Statics
 		{ "ModuleRelativePath", "Public/Quest.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnQuestStatusChanged_MetaData[] = {
+#if !UE_BUILD_SHIPPING
 		{ "Comment", "// Delegates\n" },
+#endif
 		{ "ModuleRelativePath", "Public/Quest.h" },
+#if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Delegates" },
+#endif
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_OnObjectiveUpdated_MetaData[] = {
 		{ "ModuleRelativePath", "Public/Quest.h" },
@@ -777,7 +785,7 @@ struct Z_Construct_UClass_UQuest_Statics
 		{ &Z_Construct_UFunction_UQuest_FailQuest, "FailQuest" }, // 3788857581
 		{ &Z_Construct_UFunction_UQuest_GetCompletionPercentage, "GetCompletionPercentage" }, // 330538397
 		{ &Z_Construct_UFunction_UQuest_GetObjectives, "GetObjectives" }, // 1708038219
-		{ &Z_Construct_UFunction_UQuest_GetQuestData, "GetQuestData" }, // 776594740
+		{ &Z_Construct_UFunction_UQuest_GetQuestData, "GetQuestData" }, // 4042562865
 		{ &Z_Construct_UFunction_UQuest_GetQuestStatus, "GetQuestStatus" }, // 417504607
 		{ &Z_Construct_UFunction_UQuest_InitializeQuest, "InitializeQuest" }, // 3972482384
 		{ &Z_Construct_UFunction_UQuest_IsObjectiveCompleted, "IsObjectiveCompleted" }, // 1816702562
@@ -838,14 +846,14 @@ UQuest::~UQuest() {}
 // ********** End Class UQuest *********************************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_Quest_h__Script_QuestSystem_Statics
+struct Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_Quest_h__Script_QuestSystem_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UQuest, UQuest::StaticClass, TEXT("UQuest"), &Z_Registration_Info_UClass_UQuest, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UQuest), 1048603812U) },
+		{ Z_Construct_UClass_UQuest, UQuest::StaticClass, TEXT("UQuest"), &Z_Registration_Info_UClass_UQuest, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UQuest), 3450584515U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_Quest_h__Script_QuestSystem_3488487460(TEXT("/Script/QuestSystem"),
-	Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_Quest_h__Script_QuestSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_Quest_h__Script_QuestSystem_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_Quest_h__Script_QuestSystem_558850588(TEXT("/Script/QuestSystem"),
+	Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_Quest_h__Script_QuestSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_Quest_h__Script_QuestSystem_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

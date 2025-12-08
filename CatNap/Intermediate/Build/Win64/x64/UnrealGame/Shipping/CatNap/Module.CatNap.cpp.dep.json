@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rgowell\\documents\\unreal projects\\felinefour\\catnap\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\catnap\\module.catnap.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rgowell\\documents\\unreal projects\\felinefour\\catnap\\intermediate\\build\\win64\\x64\\catnap\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rgowell\\documents\\unreal projects\\felinefour\\catnap\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\catnap\\definitions.catnap.h",
+            "c:\\users\\rgowell\\documents\\unreal projects\\felinefour\\catnap\\intermediate\\source\\catnap.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

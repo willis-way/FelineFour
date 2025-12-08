@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin ScriptStruct FQuestObjective ***************************************************
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h_41_GENERATED_BODY \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h_41_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FQuestObjective_Statics; \
 	QUESTSYSTEM_API static class UScriptStruct* StaticStruct();
 
@@ -26,7 +26,7 @@ struct FQuestObjective;
 // ********** End ScriptStruct FQuestObjective *****************************************************
 
 // ********** Begin ScriptStruct FQuestReward ******************************************************
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h_73_GENERATED_BODY \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h_73_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FQuestReward_Statics; \
 	QUESTSYSTEM_API static class UScriptStruct* StaticStruct();
 
@@ -35,7 +35,7 @@ struct FQuestReward;
 // ********** End ScriptStruct FQuestReward ********************************************************
 
 // ********** Begin ScriptStruct FQuestData ********************************************************
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h_94_GENERATED_BODY \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h_94_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FQuestData_Statics; \
 	QUESTSYSTEM_API static class UScriptStruct* StaticStruct(); \
 	typedef FTableRowBase Super;
@@ -45,7 +45,7 @@ struct FQuestData;
 // ********** End ScriptStruct FQuestData **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestTypes_h
+#define CURRENT_FILE_ID FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestTypes_h
 
 // ********** Begin Enum EQuestStatus **************************************************************
 #define FOREACH_ENUM_EQUESTSTATUS(op) \

@@ -23,28 +23,28 @@ struct FQuestObjective;
 struct FQuestReward;
 
 // ********** Begin Delegate FOnQuestAdded *********************************************************
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_11_DELEGATE \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_11_DELEGATE \
 QUESTSYSTEM_API void FOnQuestAdded_DelegateWrapper(const FMulticastScriptDelegate& OnQuestAdded, UQuest* Quest);
 
 
 // ********** End Delegate FOnQuestAdded ***********************************************************
 
 // ********** Begin Delegate FOnQuestRemoved *******************************************************
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_12_DELEGATE \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_12_DELEGATE \
 QUESTSYSTEM_API void FOnQuestRemoved_DelegateWrapper(const FMulticastScriptDelegate& OnQuestRemoved, UQuest* Quest);
 
 
 // ********** End Delegate FOnQuestRemoved *********************************************************
 
 // ********** Begin Delegate FOnQuestCompleted *****************************************************
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_13_DELEGATE \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_13_DELEGATE \
 QUESTSYSTEM_API void FOnQuestCompleted_DelegateWrapper(const FMulticastScriptDelegate& OnQuestCompleted, UQuest* Quest, FQuestReward const& Reward);
 
 
 // ********** End Delegate FOnQuestCompleted *******************************************************
 
 // ********** Begin Class UQuestManager ************************************************************
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnObjectiveUpdated); \
 	DECLARE_FUNCTION(execOnQuestStatusChanged); \
 	DECLARE_FUNCTION(execCanStartQuest); \
@@ -60,7 +60,7 @@ QUESTSYSTEM_API void FOnQuestCompleted_DelegateWrapper(const FMulticastScriptDel
 
 QUESTSYSTEM_API UClass* Z_Construct_UClass_UQuestManager_NoRegister();
 
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUQuestManager(); \
 	friend struct Z_Construct_UClass_UQuestManager_Statics; \
@@ -71,7 +71,7 @@ public: \
 	DECLARE_SERIALIZER(UQuestManager)
 
 
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_18_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UQuestManager(UQuestManager&&) = delete; \
 	UQuestManager(const UQuestManager&) = delete; \
@@ -81,13 +81,13 @@ public: \
 	NO_API virtual ~UQuestManager();
 
 
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_15_PROLOG
-#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_18_GENERATED_BODY \
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_15_PROLOG
+#define FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_18_INCLASS_NO_PURE_DECLS \
-	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h_18_ENHANCED_CONSTRUCTORS \
+	FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_18_INCLASS_NO_PURE_DECLS \
+	FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -97,6 +97,6 @@ class UQuestManager;
 // ********** End Class UQuestManager **************************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_QuestSystem_Source_QuestSystem_Public_QuestManager_h
+#define CURRENT_FILE_ID FID_Users_rgowell_Documents_Unreal_Projects_FelineFour_CatNap_Plugins_EMUQuests_EMUQuests_Source_EMUQuests_Public_QuestManager_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
